@@ -9869,3 +9869,558 @@ LogInit: Object subsystem initialized
 [2018.05.04-20.24.16:673][848]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/NewMap_BuiltData8BA61B4B4D9249DE930AC6B7A50B4E02.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap_BuiltData.uasset'
 [2018.05.04-20.24.16:674][848]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap_BuiltData.uasset
 [2018.05.04-20.24.17:985][  4]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.04-20.24.51:193][459]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.04-20.25.07:010][314]LogSavePackage: Save=48.27ms
+[2018.05.04-20.25.07:010][314]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/FirstPersonCharacter3A2A4FA3456E3949A3C4C789B931A29B.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2018.05.04-20.25.07:012][314]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset
+[2018.05.04-20.25.27:275][743]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.04-20.25.32:369][342]LogSavePackage: Save=42.40ms
+[2018.05.04-20.25.32:369][342]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/FirstPersonCharacter7B7479AF46AFB2149F6543A651BB1618.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2018.05.04-20.25.32:370][342]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset
+[2018.05.04-20.25.34:581][605]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.04-20.25.39:742][209]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.04-20.25.45:819][917]LogSavePackage: Save=41.97ms
+[2018.05.04-20.25.45:819][917]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/FirstPersonCharacter00FE077C491A7861651EA7A88F03B0FF.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2018.05.04-20.25.45:819][917]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset
+[2018.05.04-20.25.46:602][ 10]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.04-20.25.56:760][109]LogSavePackage: Save=47.87ms
+[2018.05.04-20.25.56:760][109]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/FirstPersonCharacterC9AC59794AC31DBCC565B09E1CF86F91.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2018.05.04-20.25.56:762][109]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset
+[2018.05.04-20.25.59:585][446]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.04-20.26.01:179][635]BlueprintLog: New page: Compile FirstPersonCharacter
+[2018.05.04-20.26.41:629][422]LogSavePackage: Save=47.93ms
+[2018.05.04-20.26.41:629][422]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/FirstPersonCharacter0DE9D8A149AB7EE3423D8C88405FEB93.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2018.05.04-20.26.41:631][422]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset
+[2018.05.04-20.26.48:497][245]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.04-20.26.48:597][257]LogSlate: Window 'FirstPersonCharacter' being destroyed
+[2018.05.04-20.26.48:601][257]LogSlate: Window 'FirstPersonCharacter' being destroyed
+[2018.05.04-20.26.49:498][357]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.04-20.26.52:273][687]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap" FILE="../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.05.04-20.26.52:384][687]LogSavePackage: Save=90.60ms
+[2018.05.04-20.26.52:384][687]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/NewMap27B4FE4347D476BB5D64DA9AD9C55EB3.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap.umap'
+[2018.05.04-20.26.52:385][687]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap.umap
+[2018.05.04-20.26.52:407][687]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap_BuiltData" FILE="../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap_BuiltData.uasset" SILENT=true
+[2018.05.04-20.26.52:483][687]LogSavePackage: Save=69.74ms
+[2018.05.04-20.26.52:483][687]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/NewMap_BuiltData5136BF7D488C44126142E9819FA11DDC.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap_BuiltData.uasset'
+[2018.05.04-20.26.52:484][687]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap_BuiltData.uasset
+[2018.05.04-20.28.57:849][595]Cmd: SELECT NONE
+[2018.05.04-20.28.58:423][663]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.05.04-20.28.58:650][684]Cmd: SELECT NONE
+[2018.05.04-20.28.59:305][761]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.04-20.28.59:309][761]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap" FILE="../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.05.04-20.28.59:429][761]LogSavePackage: Save=91.03ms
+[2018.05.04-20.28.59:429][761]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/NewMapF44197DB41A712ECE851C5A4920CBA0E.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap.umap'
+[2018.05.04-20.28.59:430][761]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap.umap
+[2018.05.04-20.28.59:459][761]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap_BuiltData" FILE="../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap_BuiltData.uasset" SILENT=true
+[2018.05.04-20.28.59:539][761]LogSavePackage: Save=68.97ms
+[2018.05.04-20.28.59:539][761]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/NewMap_BuiltData887B94964AB47644FF89AEB5FD9B27C1.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap_BuiltData.uasset'
+[2018.05.04-20.28.59:546][761]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap_BuiltData.uasset
+[2018.05.04-20.28.59:973][811]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.04-20.29.00:048][820]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.04-20.29.00:060][820]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.04-20.29.00:060][820]PIE: New page: PIE session: NewMap (4 May 2018 22:29:00)
+[2018.05.04-20.29.00:060][820]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2018.05.04-20.29.00:068][820]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007641s)
+[2018.05.04-20.29.00:068][820]LogAIModule: Creating AISystem for world NewMap
+[2018.05.04-20.29.00:068][820]LogPlayLevel: PIE: World Init took: (0.000448s)
+[2018.05.04-20.29.00:068][820]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.008189s)
+[2018.05.04-20.29.00:085][820]LogInit: XAudio2 using 'Realtek Digital Output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.05.04-20.29.00:105][820]LogInit: FAudioDevice initialized.
+[2018.05.04-20.29.00:132][820]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.04-20.29.00:135][820]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2018.05.04-21.29.00
+[2018.05.04-20.29.00:136][820]LogWorld: Bringing up level for play took: 0.004102
+[2018.05.04-20.29.00:138][820]PIE: Play in editor start time for /Game/UEDPIE_0_NewMap 0.454
+[2018.05.04-20.29.00:165][821]LogBlueprintUserMessages: [BTTask_ScanTheArea_C_3] Aborted
+[2018.05.04-20.29.00:165][821]LogBlueprintUserMessages: [BTTask_ScanTheArea_C_3] Aborted
+[2018.05.04-20.29.00:165][821]LogBlueprintUserMessages: [BTTask_ScanTheArea_C_3] Aborted
+[2018.05.04-20.29.00:165][821]LogBlueprintUserMessages: [BTTask_ScanTheArea_C_3] Aborted
+[2018.05.04-20.29.03:197][185]LogBlueprintUserMessages: [BTTask_ScanTheArea_C_3] Aborted
+[2018.05.04-20.29.03:580][231]LogBlueprintUserMessages: [BTTask_ScanTheArea_C_3] Aborted
+[2018.05.04-20.29.03:972][278]LogBlueprintUserMessages: [BTTask_ScanTheArea_C_3] Aborted
+[2018.05.04-20.29.04:797][377]LogBlueprintUserMessages: [BTTask_ScanTheArea_C_3] Aborted
+[2018.05.04-20.29.06:431][573]LogBlueprintUserMessages: [BTTask_ScanTheArea_C_3] Aborted
+[2018.05.04-20.29.06:739][610]LogBlueprintUserMessages: [BTTask_ScanTheArea_C_3] Aborted
+[2018.05.04-20.29.07:464][697]LogBlueprintUserMessages: [BTTask_ScanTheArea_C_3] Aborted
+[2018.05.04-20.29.08:514][823]LogBlueprintUserMessages: [BTTask_ScanTheArea_C_3] Aborted
+[2018.05.04-20.29.09:381][927]LogBlueprintUserMessages: [BTTask_ScanTheArea_C_3] Aborted
+[2018.05.04-20.29.11:281][155]LogBlueprintUserMessages: [BTTask_ScanTheArea_C_3] Aborted
+[2018.05.04-20.29.11:506][182]LogBlueprintUserMessages: [BTTask_ScanTheArea_C_3] Aborted
+[2018.05.04-20.29.16:681][803]LogBlueprintUserMessages: [BTTask_ScanTheArea_C_3] Aborted
+[2018.05.04-20.29.17:656][920]LogBlueprintUserMessages: [BTTask_ScanTheArea_C_3] Aborted
+[2018.05.04-20.29.19:181][103]LogBlueprintUserMessages: [BTTask_ScanTheArea_C_3] Aborted
+[2018.05.04-20.29.21:206][346]LogBlueprintUserMessages: [BTTask_ScanTheArea_C_3] Aborted
+[2018.05.04-20.29.24:064][689]LogBlueprintUserMessages: [BTTask_ScanTheArea_C_3] Aborted
+[2018.05.04-20.29.27:114][ 55]LogBlueprintUserMessages: [BTTask_ScanTheArea_C_3] Aborted
+[2018.05.04-20.29.28:240][190]LogBlueprintUserMessages: [BTTask_ScanTheArea_C_3] Aborted
+[2018.05.04-20.29.31:215][547]LogBlueprintUserMessages: [BTTask_ScanTheArea_C_3] Aborted
+[2018.05.04-20.29.35:065][  9]LogBlueprintUserMessages: [BTTask_ScanTheArea_C_3] Aborted
+[2018.05.04-20.29.38:418][410]LogBlueprintUserMessages: [BTTask_ScanTheArea_C_3] Aborted
+[2018.05.04-20.29.39:785][574]LogBlueprintUserMessages: [BTTask_ScanTheArea_C_3] Aborted
+[2018.05.04-20.29.40:543][665]LogBlueprintUserMessages: [BTTask_ScanTheArea_C_3] Aborted
+[2018.05.04-20.29.41:402][768]LogBlueprintUserMessages: [BTTask_ScanTheArea_C_3] Aborted
+[2018.05.04-20.29.43:068][968]LogBlueprintUserMessages: [BTTask_ScanTheArea_C_3] Aborted
+[2018.05.04-20.29.43:259][991]LogBlueprintUserMessages: [BTTask_ScanTheArea_C_3] Aborted
+[2018.05.04-20.29.45:351][242]LogBlueprintUserMessages: [BTTask_ScanTheArea_C_3] Aborted
+[2018.05.04-20.29.48:710][645]LogBlueprintUserMessages: [BTTask_ScanTheArea_C_3] Aborted
+[2018.05.04-20.29.50:660][879]LogBlueprintUserMessages: [BTTask_ScanTheArea_C_3] Aborted
+[2018.05.04-20.29.57:369][684]LogBlueprintUserMessages: [BTTask_ScanTheArea_C_3] Aborted
+[2018.05.04-20.29.59:210][905]LogBlueprintUserMessages: [BTTask_ScanTheArea_C_3] Aborted
+[2018.05.04-20.30.00:893][107]LogBlueprintUserMessages: [BTTask_ScanTheArea_C_3] Aborted
+[2018.05.04-20.30.01:493][179]LogBlueprintUserMessages: [BTTask_ScanTheArea_C_3] Aborted
+[2018.05.04-20.30.05:361][643]LogBlueprintUserMessages: [BTTask_ScanTheArea_C_3] Aborted
+[2018.05.04-20.30.07:994][959]LogBlueprintUserMessages: [BTTask_ScanTheArea_C_3] Aborted
+[2018.05.04-20.30.11:252][350]LogBlueprintUserMessages: [BTTask_ScanTheArea_C_3] Aborted
+[2018.05.04-20.30.14:319][695]Cmd: SELECT NONE
+[2018.05.04-20.30.14:932][750]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.04-20.30.14:935][750]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap" FILE="../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.05.04-20.30.15:047][750]LogSavePackage: Save=91.36ms
+[2018.05.04-20.30.15:047][750]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/NewMapE28D1DBD42012887FE3CD89F6E0D7805.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap.umap'
+[2018.05.04-20.30.15:048][750]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap.umap
+[2018.05.04-20.30.15:070][750]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap_BuiltData" FILE="../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap_BuiltData.uasset" SILENT=true
+[2018.05.04-20.30.15:146][750]LogSavePackage: Save=69.22ms
+[2018.05.04-20.30.15:146][750]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/NewMap_BuiltData98B0C6E944E2C6FB61A887AF2A4D8119.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap_BuiltData.uasset'
+[2018.05.04-20.30.15:148][750]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap_BuiltData.uasset
+[2018.05.04-20.33.16:486][633]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.04-20.33.21:983][202]LogSavePackage: Save=23.23ms
+[2018.05.04-20.33.21:983][202]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/ThirdPersonEnemyA9FE74AA4472F4AA180850811C457050.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/ThirdPersonBP/Blueprints/ThirdPersonEnemy.uasset'
+[2018.05.04-20.33.21:984][202]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/ThirdPersonBP/Blueprints/ThirdPersonEnemy.uasset
+[2018.05.04-20.33.22:463][251]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.04-20.33.26:272][650]LogSlate: Window 'ThirdPersonEnemy' being destroyed
+[2018.05.04-20.33.26:275][650]LogSlate: Window 'ThirdPersonEnemy' being destroyed
+[2018.05.04-20.33.27:768][821]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.04-20.33.40:103][218]LogSavePackage: Save=17.50ms
+[2018.05.04-20.33.40:103][218]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/EnemyAIControllerD4AFC6F64195729B59EDD9A2C7410E8D.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/ThirdPersonBP/Blueprints/EnemyAIController.uasset'
+[2018.05.04-20.33.40:105][218]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/ThirdPersonBP/Blueprints/EnemyAIController.uasset
+[2018.05.04-20.33.41:157][343]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.04-20.33.41:231][352]BlueprintLog: New page: Compile EnemyAIController
+[2018.05.04-20.33.42:395][467]LogSavePackage: Save=17.14ms
+[2018.05.04-20.33.42:395][467]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/EnemyAIController95DFD548474FBEDA7DB5A9BB892D77F9.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/ThirdPersonBP/Blueprints/EnemyAIController.uasset'
+[2018.05.04-20.33.42:396][467]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/ThirdPersonBP/Blueprints/EnemyAIController.uasset
+[2018.05.04-20.33.43:618][613]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.04-20.33.43:692][622]LogSlate: Window 'EnemyAIController' being destroyed
+[2018.05.04-20.33.43:695][622]LogSlate: Window 'EnemyAIController' being destroyed
+[2018.05.04-20.33.44:405][700]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.04-20.34.24:099][451]Cmd: SELECT NONE
+[2018.05.04-20.34.24:524][502]Cmd: SELECT NONE
+[2018.05.04-20.34.29:453][ 87]Cmd: SELECT NONE
+[2018.05.04-20.39.31:713][131]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.04-20.39.44:214][271]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.04-20.40.00:341][835]LogSlate: Window 'Pick Parent Class' being destroyed
+[2018.05.04-20.40.09:928][974]LogPackageName: SearchForPackageOnDisk took   0.000s, but failed to resolve /Game/CanShoot.
+[2018.05.04-20.40.34:614][854]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CanShoot" FILE="../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/CanShoot.uasset" SILENT=true
+[2018.05.04-20.40.34:620][854]LogSavePackage: Save=4.89ms
+[2018.05.04-20.40.34:620][854]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/CanShoot8D647AA34A4D8258B00841A324D0821D.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/CanShoot.uasset'
+[2018.05.04-20.40.34:623][854]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/CanShoot.uasset
+[2018.05.04-20.40.34:660][858]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/CanShoot.
+[2018.05.04-20.40.40:200][522]LogSlate: Window 'CanShoot' being destroyed
+[2018.05.04-20.40.40:204][522]LogSlate: Window 'CanShoot' being destroyed
+[2018.05.04-20.40.45:511][ 69]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2018.05.04-20.40.45:598][ 70]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.MyProject2
+[2018.05.04-20.40.45:598][ 70]LogTemp: CWD: C:\Program Files\Epic Games\UE_4.19\Engine\Binaries\DotNET\IOS
+[2018.05.04-20.40.45:598][ 70]LogTemp: Initial Dir: C:\Program Files\Epic Games\UE_4.19
+[2018.05.04-20.40.45:598][ 70]LogTemp: Env CWD: C:\Program Files\Epic Games\UE_4.19\Engine\Binaries\DotNET\IOS
+[2018.05.04-20.40.45:645][ 71]LogTemp: BranchPath = DESKTOP-OUUPGS8/C/Program Files/Epic Games/UE_4.19/Engine/Binaries --- GameBranchPath = DESKTOP-OUUPGS8/C/Program Files/Epic Games/UE_4.19/Engine/Binaries
+[2018.05.04-20.40.45:645][ 71]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\benra\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2018.05.04-20.41.00:478][842]LogSlate: Window 'Project Settings' being destroyed
+[2018.05.04-20.41.00:481][842]LogSlate: Window 'Project Settings' being destroyed
+[2018.05.04-20.41.10:314][967]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CanShoot" FILE="../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/CanShoot.uasset" SILENT=true
+[2018.05.04-20.41.10:330][967]LogSavePackage: Save=4.58ms
+[2018.05.04-20.41.10:330][967]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/CanShoot8114CBE14A13B964A4E09F9486277BB6.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/CanShoot.uasset'
+[2018.05.04-20.41.10:331][967]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/CanShoot.uasset
+[2018.05.04-20.41.54:204][ 61]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2018.05.04-20.41.54:282][ 62]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.MyProject2
+[2018.05.04-20.41.54:282][ 62]LogTemp: CWD: C:\Program Files\Epic Games\UE_4.19\Engine\Binaries\DotNET\IOS
+[2018.05.04-20.41.54:282][ 62]LogTemp: Initial Dir: C:\Program Files\Epic Games\UE_4.19
+[2018.05.04-20.41.54:282][ 62]LogTemp: Env CWD: C:\Program Files\Epic Games\UE_4.19\Engine\Binaries\DotNET\IOS
+[2018.05.04-20.41.54:328][ 63]LogTemp: BranchPath = DESKTOP-OUUPGS8/C/Program Files/Epic Games/UE_4.19/Engine/Binaries --- GameBranchPath = DESKTOP-OUUPGS8/C/Program Files/Epic Games/UE_4.19/Engine/Binaries
+[2018.05.04-20.41.54:328][ 63]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\benra\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2018.05.04-20.42.04:867][307]LogSlate: Window 'Project Settings' being destroyed
+[2018.05.04-20.42.04:871][307]LogSlate: Window 'Project Settings' being destroyed
+[2018.05.04-20.42.07:629][635]LogSlate: Window 'CanShoot' being destroyed
+[2018.05.04-20.42.07:633][635]LogSlate: Window 'CanShoot' being destroyed
+[2018.05.04-20.42.08:501][735]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap" FILE="../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.05.04-20.42.08:624][735]LogSavePackage: Save=96.61ms
+[2018.05.04-20.42.08:624][735]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/NewMap97777C95494AAA915497929599FEE636.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap.umap'
+[2018.05.04-20.42.08:626][735]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap.umap
+[2018.05.04-20.42.08:648][735]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap_BuiltData" FILE="../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap_BuiltData.uasset" SILENT=true
+[2018.05.04-20.42.08:730][735]LogSavePackage: Save=69.58ms
+[2018.05.04-20.42.08:730][735]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/NewMap_BuiltDataBE6A190F44E0DA674486D5BE13903E3A.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap_BuiltData.uasset'
+[2018.05.04-20.42.08:731][735]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap_BuiltData.uasset
+[2018.05.04-20.42.29:886][141]LogSlate: Window 'FirstPersonCharacter' being destroyed
+[2018.05.04-20.42.29:890][141]LogSlate: Window 'FirstPersonCharacter' being destroyed
+[2018.05.04-20.42.42:311][560]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CanShoot" FILE="../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/CanShoot.uasset" SILENT=true
+[2018.05.04-20.42.42:322][560]LogSavePackage: Save=4.57ms
+[2018.05.04-20.42.42:322][560]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/CanShoot65C21CD6417896B793210AA9B9EC874B.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/CanShoot.uasset'
+[2018.05.04-20.42.42:323][560]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/CanShoot.uasset
+[2018.05.04-20.42.43:893][748]LogSlate: Window 'CanShoot' being destroyed
+[2018.05.04-20.42.43:896][748]LogSlate: Window 'CanShoot' being destroyed
+[2018.05.04-20.42.46:102][878]LogSlate: Window 'Delete Assets' being destroyed
+[2018.05.04-20.42.47:695][998]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap" FILE="../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.05.04-20.42.47:806][998]LogSavePackage: Save=90.69ms
+[2018.05.04-20.42.47:806][998]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/NewMap819D91994C7465B80A2DA8AAEB147286.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap.umap'
+[2018.05.04-20.42.47:807][998]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap.umap
+[2018.05.04-20.42.47:830][998]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap_BuiltData" FILE="../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap_BuiltData.uasset" SILENT=true
+[2018.05.04-20.42.47:906][998]LogSavePackage: Save=69.65ms
+[2018.05.04-20.42.47:906][998]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/NewMap_BuiltDataDB5490CD4097B953519DE4962DF9CFBF.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap_BuiltData.uasset'
+[2018.05.04-20.42.47:907][998]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap_BuiltData.uasset
+[2018.05.04-20.43.14:148][434]LogSlate: Window 'Pick Parent Class' being destroyed
+[2018.05.04-20.43.16:418][691]LogPackageName: SearchForPackageOnDisk took   0.000s, but failed to resolve /Game/CanShoot.
+[2018.05.04-20.43.22:665][416]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CanShoot" FILE="../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/CanShoot.uasset" SILENT=true
+[2018.05.04-20.43.22:671][416]LogSavePackage: Save=4.36ms
+[2018.05.04-20.43.22:671][416]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/CanShoot8079A72546351E8C01BC0A91254D3F68.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/CanShoot.uasset'
+[2018.05.04-20.43.22:673][416]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/CanShoot.uasset
+[2018.05.04-20.43.22:692][418]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/CanShoot.
+[2018.05.04-20.43.46:038][158]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CanShoot" FILE="../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/CanShoot.uasset" SILENT=true
+[2018.05.04-20.43.46:050][158]LogSavePackage: Save=4.78ms
+[2018.05.04-20.43.46:050][158]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/CanShoot98AEB1414EFE02563A82E5BD5A21231E.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/CanShoot.uasset'
+[2018.05.04-20.43.46:052][158]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/CanShoot.uasset
+[2018.05.04-20.43.47:188][294]BlueprintLog: New page: Compile CanShoot
+[2018.05.04-20.43.48:103][399]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CanShoot" FILE="../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/CanShoot.uasset" SILENT=true
+[2018.05.04-20.43.48:115][399]LogSavePackage: Save=4.60ms
+[2018.05.04-20.43.48:115][399]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/CanShoot8274C83946EFB4E33F255499193DCDD1.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/CanShoot.uasset'
+[2018.05.04-20.43.48:115][399]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/CanShoot.uasset
+[2018.05.04-20.43.50:194][648]LogSlate: Window 'CanShoot' being destroyed
+[2018.05.04-20.43.50:198][648]LogSlate: Window 'CanShoot' being destroyed
+[2018.05.04-20.45.45:596][692]LogSavePackage: Save=49.05ms
+[2018.05.04-20.45.45:596][692]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/FirstPersonCharacter098520B94B19FFB658656393FC68F31E.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2018.05.04-20.45.45:598][692]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset
+[2018.05.04-20.45.48:935][ 81]LogSavePackage: Save=43.02ms
+[2018.05.04-20.45.48:935][ 81]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/FirstPersonCharacter5679939F4ECEAE36519EDBA2A609F2F1.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2018.05.04-20.45.48:936][ 81]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset
+[2018.05.04-20.45.49:434][139]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.04-20.45.49:453][139]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.05.04-20.45.49:473][139]LogPlayLevel: [PlayLevel] Compiling FirstPersonCharacter before play...
+[2018.05.04-20.45.49:705][139]LogPlayLevel: PlayLevel: Blueprint regeneration took 251 ms (1 blueprints)
+[2018.05.04-20.45.49:705][139]PIE: New page: PIE session: NewMap (4 May 2018 22:45:49)
+[2018.05.04-20.45.49:705][139]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2018.05.04-20.45.49:713][139]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007565s)
+[2018.05.04-20.45.49:713][139]LogAIModule: Creating AISystem for world NewMap
+[2018.05.04-20.45.49:713][139]LogPlayLevel: PIE: World Init took: (0.000396s)
+[2018.05.04-20.45.49:713][139]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.008062s)
+[2018.05.04-20.45.49:731][139]LogInit: XAudio2 using 'Realtek Digital Output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.05.04-20.45.49:751][139]LogInit: FAudioDevice initialized.
+[2018.05.04-20.45.49:787][139]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.04-20.45.49:791][139]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2018.05.04-21.45.49
+[2018.05.04-20.45.49:792][139]LogWorld: Bringing up level for play took: 0.004395
+[2018.05.04-20.45.49:793][139]PIE: Play in editor start time for /Game/UEDPIE_0_NewMap 0.109
+[2018.05.04-20.45.49:875][140]LogBlueprintUserMessages: [BTTask_ScanTheArea_C_3] Aborted
+[2018.05.04-20.45.51:154][281]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.04-20.45.53:211][526]LogBlueprintUserMessages: [BTTask_ScanTheArea_C_3] Aborted
+[2018.05.04-20.45.56:734][935]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.04-20.45.58:132][ 96]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.04-20.45.58:132][ 96]PIE: New page: SIE session: NewMap (4 May 2018 22:45:58)
+[2018.05.04-20.45.58:132][ 96]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2018.05.04-20.45.58:139][ 96]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007322s)
+[2018.05.04-20.45.58:140][ 96]LogAIModule: Creating AISystem for world NewMap
+[2018.05.04-20.45.58:140][ 96]LogPlayLevel: PIE: World Init took: (0.000397s)
+[2018.05.04-20.45.58:140][ 96]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.007816s)
+[2018.05.04-20.45.58:160][ 96]LogInit: XAudio2 using 'Realtek Digital Output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.05.04-20.45.58:179][ 96]LogInit: FAudioDevice initialized.
+[2018.05.04-20.45.58:210][ 96]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.04-20.45.58:214][ 96]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2018.05.04-21.45.58
+[2018.05.04-20.45.58:215][ 96]LogWorld: Bringing up level for play took: 0.004246
+[2018.05.04-20.45.58:216][ 96]PIE: Play in editor start time for /Game/UEDPIE_0_NewMap 0.532
+[2018.05.04-20.45.58:246][ 97]LogBlueprintUserMessages: [BTTask_ScanTheArea_C_3] Aborted
+[2018.05.04-20.45.58:246][ 97]LogBlueprintUserMessages: [BTTask_ScanTheArea_C_3] Aborted
+[2018.05.04-20.45.58:246][ 97]LogBlueprintUserMessages: [BTTask_ScanTheArea_C_3] Aborted
+[2018.05.04-20.45.58:246][ 97]LogBlueprintUserMessages: [BTTask_ScanTheArea_C_3] Aborted
+[2018.05.04-20.45.58:246][ 97]LogBlueprintUserMessages: [BTTask_ScanTheArea_C_3] Aborted
+[2018.05.04-20.45.59:242][197]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube56)
+[2018.05.04-20.46.01:931][468]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.05.04-20.46.02:283][499]Cmd: SELECT NONE
+[2018.05.04-20.46.03:300][617]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.04-20.46.03:849][672]LogSavePackage: Save=48.96ms
+[2018.05.04-20.46.03:849][672]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/FirstPersonCharacter0848A9BB4C5B5E9EA34AC4BBE2B21519.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2018.05.04-20.46.03:850][672]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset
+[2018.05.04-20.46.05:391][855]LogSlate: Window 'FirstPersonCharacter' being destroyed
+[2018.05.04-20.46.05:395][855]LogSlate: Window 'FirstPersonCharacter' being destroyed
+[2018.05.04-20.46.15:190][982]LogSlate: Window 'CanShoot' being destroyed
+[2018.05.04-20.46.15:193][982]LogSlate: Window 'CanShoot' being destroyed
+[2018.05.04-20.46.24:494][ 31]LogSavePackage: Save=48.65ms
+[2018.05.04-20.46.24:495][ 31]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/FirstPersonCharacter168D1ACE433F4D487090CDBB58761C3B.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2018.05.04-20.46.24:497][ 31]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset
+[2018.05.04-20.46.26:874][292]LogSavePackage: Save=48.35ms
+[2018.05.04-20.46.26:874][292]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/FirstPersonCharacter2E9A3FF848452724D75EE292737D8BF0.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2018.05.04-20.46.26:876][292]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset
+[2018.05.04-20.47.06:688][818]LogSavePackage: Save=48.66ms
+[2018.05.04-20.47.06:688][818]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/FirstPersonCharacter6F84C91F488381898884F3B42BEE88C9.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2018.05.04-20.47.06:690][818]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset
+[2018.05.04-20.47.32:990][853]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CanShoot" FILE="../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/CanShoot.uasset" SILENT=true
+[2018.05.04-20.47.33:005][853]LogSavePackage: Save=4.99ms
+[2018.05.04-20.47.33:006][853]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/CanShoot4AB39D514AE8920EFC99E9826C080F66.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/CanShoot.uasset'
+[2018.05.04-20.47.33:007][853]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/CanShoot.uasset
+[2018.05.04-20.48.15:783][676]LogSavePackage: Save=48.78ms
+[2018.05.04-20.48.15:783][676]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/FirstPersonCharacterABC3E403430CE9AE3FB11C83640E1FC4.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2018.05.04-20.48.15:785][676]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset
+[2018.05.04-20.48.21:800][387]LogSavePackage: Save=42.62ms
+[2018.05.04-20.48.21:800][387]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/FirstPersonCharacter7162EC6A40BF3374B5A746A164CAEBBE.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2018.05.04-20.48.21:801][387]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset
+[2018.05.04-20.48.28:146][129]BlueprintLog: New page: Compile CanShoot
+[2018.05.04-20.48.28:946][210]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CanShoot" FILE="../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/CanShoot.uasset" SILENT=true
+[2018.05.04-20.48.28:957][210]LogSavePackage: Save=4.74ms
+[2018.05.04-20.48.28:957][210]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/CanShoot968AAB90408E6FDF563D108D6FABCA40.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/CanShoot.uasset'
+[2018.05.04-20.48.28:959][210]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/CanShoot.uasset
+[2018.05.04-20.48.29:853][317]BlueprintLog: New page: Compile CanShoot
+[2018.05.04-20.48.32:144][565]LogSavePackage: Save=42.58ms
+[2018.05.04-20.48.32:144][565]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/FirstPersonCharacterCF2A0B1B43169B4B2D9820B501389D5C.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2018.05.04-20.48.32:145][565]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset
+[2018.05.04-20.51.06:099][  9]LogSavePackage: Save=43.69ms
+[2018.05.04-20.51.06:099][  9]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/FirstPersonCharacter659995DB4584EBD6B526D0BCD808589E.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2018.05.04-20.51.06:100][  9]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset
+[2018.05.04-20.51.31:789][ 43]LogSavePackage: Save=48.97ms
+[2018.05.04-20.51.31:789][ 43]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/FirstPersonCharacter51CF1BEE4ABD7928B13DC6B5FF31910B.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2018.05.04-20.51.31:791][ 43]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset
+[2018.05.04-20.51.40:209][ 41]LogSavePackage: Save=43.05ms
+[2018.05.04-20.51.40:209][ 41]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/FirstPersonCharacterB66F693A40362C27D71EA1BDA06EEFA3.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2018.05.04-20.51.40:210][ 41]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset
+[2018.05.04-20.51.51:131][324]LogSavePackage: Save=48.48ms
+[2018.05.04-20.51.51:131][324]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/FirstPersonCharacter4F9A23C4471310D844BDFDAF8808469C.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2018.05.04-20.51.51:133][324]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset
+[2018.05.04-20.52.07:476][275]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CanShoot" FILE="../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/CanShoot.uasset" SILENT=true
+[2018.05.04-20.52.07:489][275]LogSavePackage: Save=5.43ms
+[2018.05.04-20.52.07:489][275]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/CanShootAE9B48174F0C3B140987FD814F540BB1.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/CanShoot.uasset'
+[2018.05.04-20.52.07:491][275]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/CanShoot.uasset
+[2018.05.04-20.52.09:386][502]BlueprintLog: New page: Compile CanShoot
+[2018.05.04-20.52.10:342][602]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CanShoot" FILE="../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/CanShoot.uasset" SILENT=true
+[2018.05.04-20.52.10:354][602]LogSavePackage: Save=5.10ms
+[2018.05.04-20.52.10:354][602]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/CanShoot1A0A38F54A26E39B14B92790FCA5EEA6.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/CanShoot.uasset'
+[2018.05.04-20.52.10:355][602]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/CanShoot.uasset
+[2018.05.04-20.52.34:392][364]LogSavePackage: Save=49.74ms
+[2018.05.04-20.52.34:392][364]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/FirstPersonCharacter8309ED2347B139F1B628CFA75BC45156.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2018.05.04-20.52.34:394][364]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset
+[2018.05.04-20.52.35:251][465]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap" FILE="../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.05.04-20.52.35:369][465]LogSavePackage: Save=91.59ms
+[2018.05.04-20.52.35:369][465]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/NewMapCECBF82848FBB7ACB317739FD7AE9FDF.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap.umap'
+[2018.05.04-20.52.35:370][465]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap.umap
+[2018.05.04-20.52.35:400][465]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap_BuiltData" FILE="../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap_BuiltData.uasset" SILENT=true
+[2018.05.04-20.52.35:482][465]LogSavePackage: Save=70.73ms
+[2018.05.04-20.52.35:482][465]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/NewMap_BuiltDataDD5AA2E8474FC57077C1E09FB4185762.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap_BuiltData.uasset'
+[2018.05.04-20.52.35:483][465]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap_BuiltData.uasset
+[2018.05.04-20.52.37:109][655]BlueprintLog: New page: Compile FirstPersonCharacter
+[2018.05.04-20.52.39:014][811]LogSavePackage: Save=49.30ms
+[2018.05.04-20.52.39:014][811]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/FirstPersonCharacterD769991848AF1EFEFCAAFAA01A61B39B.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2018.05.04-20.52.39:015][811]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset
+[2018.05.04-20.53.18:007][447]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CanShoot" FILE="../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/CanShoot.uasset" SILENT=true
+[2018.05.04-20.53.18:022][447]LogSavePackage: Save=5.04ms
+[2018.05.04-20.53.18:022][447]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/CanShootB66EBF4D4A37A0E22ACCECB825757444.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/CanShoot.uasset'
+[2018.05.04-20.53.18:024][447]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/CanShoot.uasset
+[2018.05.04-20.53.30:700][909]LogSavePackage: Save=49.61ms
+[2018.05.04-20.53.30:700][909]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/FirstPersonCharacter36CE2B4D45E18B96D971EE8DFA5F96A1.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2018.05.04-20.53.30:702][909]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset
+[2018.05.04-20.53.42:534][310]LogSavePackage: Save=43.57ms
+[2018.05.04-20.53.42:534][310]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/FirstPersonCharacter50D2794947BF5A9CC7570FBB200608A0.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2018.05.04-20.53.42:535][310]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset
+[2018.05.04-20.53.43:042][369]BlueprintLog: New page: Compile FirstPersonCharacter
+[2018.05.04-20.53.43:075][369]LogBlueprint: Error: [Compiler FirstPersonCharacter] Pin  Shoot Dir  named ShootDir doesn't match any parameters of function ShootBullet
+[2018.05.04-20.53.43:285][369]LogBlueprint: Warning: [Compiler FirstPersonCharacter] [5792.66] Compile of FirstPersonCharacter failed. 1 Fatal Issue(s) 0 Warning(s) [in 243 ms] (/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter)
+[2018.05.04-20.53.51:673][348]BlueprintLog: New page: Compile CanShoot
+[2018.05.04-20.53.53:196][487]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CanShoot" FILE="../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/CanShoot.uasset" SILENT=true
+[2018.05.04-20.53.53:209][487]LogSavePackage: Save=5.07ms
+[2018.05.04-20.53.53:209][487]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/CanShootF637F77247AB5B06CEDE28950D59E138.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/CanShoot.uasset'
+[2018.05.04-20.53.53:210][487]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/CanShoot.uasset
+[2018.05.04-20.53.55:909][800]BlueprintLog: New page: Compile FirstPersonCharacter
+[2018.05.04-20.53.57:106][878]LogSavePackage: Save=49.77ms
+[2018.05.04-20.53.57:106][878]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/FirstPersonCharacter3D43A43B4636C30105B3959CFFC923F2.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2018.05.04-20.53.57:107][878]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset
+[2018.05.04-20.53.58:634][ 57]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CanShoot" FILE="../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/CanShoot.uasset" SILENT=true
+[2018.05.04-20.53.58:646][ 57]LogSavePackage: Save=5.10ms
+[2018.05.04-20.53.58:646][ 57]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/CanShoot33585142409712FC2B81988DB41D25BC.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/CanShoot.uasset'
+[2018.05.04-20.53.58:648][ 57]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/CanShoot.uasset
+[2018.05.04-20.54.22:312][785]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CanShoot" FILE="../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/CanShoot.uasset" SILENT=true
+[2018.05.04-20.54.22:324][785]LogSavePackage: Save=5.14ms
+[2018.05.04-20.54.22:324][785]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/CanShoot657F6F7C4D0B18C20E6E24B7FA8B8D57.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/CanShoot.uasset'
+[2018.05.04-20.54.22:325][785]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/CanShoot.uasset
+[2018.05.04-20.54.42:417][209]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CanShoot" FILE="../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/CanShoot.uasset" SILENT=true
+[2018.05.04-20.54.42:429][209]LogSavePackage: Save=4.96ms
+[2018.05.04-20.54.42:429][209]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/CanShoot9246DEAD46854ABC6E21AD94447453C1.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/CanShoot.uasset'
+[2018.05.04-20.54.42:430][209]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/CanShoot.uasset
+[2018.05.04-20.54.59:756][ 54]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CanShoot" FILE="../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/CanShoot.uasset" SILENT=true
+[2018.05.04-20.54.59:768][ 54]LogSavePackage: Save=5.06ms
+[2018.05.04-20.54.59:768][ 54]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/CanShoot0A58BEDB466288251FEC9E9708883C9A.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/CanShoot.uasset'
+[2018.05.04-20.54.59:769][ 54]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/CanShoot.uasset
+[2018.05.04-20.55.19:141][840]LogSlate: Window 'Pick Parent Class' being destroyed
+[2018.05.04-20.55.22:468][ 98]LogPackageName: SearchForPackageOnDisk took   0.000s, but failed to resolve /Game/NewBlueprint.
+[2018.05.04-20.55.26:856][578]LogMetaData: Removing '/Game/Bullet.Bullet:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/NewBlueprint.PackageMetaData'
+[2018.05.04-20.55.26:856][578]LogMetaData: Removing '/Game/Bullet.SKEL_Bullet_C' ref from Metadata '/Game/NewBlueprint.PackageMetaData'
+[2018.05.04-20.55.26:856][578]LogMetaData: Removing '/Game/Bullet.Bullet_C' ref from Metadata '/Game/NewBlueprint.PackageMetaData'
+[2018.05.04-20.55.26:856][578]LogMetaData: Removing '/Game/Bullet.Bullet:EventGraph.K2Node_Event_0' ref from Metadata '/Game/NewBlueprint.PackageMetaData'
+[2018.05.04-20.55.26:856][578]LogMetaData: Removing '/Game/Bullet.Bullet:EventGraph.K2Node_Event_1' ref from Metadata '/Game/NewBlueprint.PackageMetaData'
+[2018.05.04-20.55.26:856][578]LogMetaData: Removing '/Game/Bullet.Bullet:EventGraph.K2Node_Event_2' ref from Metadata '/Game/NewBlueprint.PackageMetaData'
+[2018.05.04-20.55.26:869][578]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Bullet" FILE="../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/Bullet.uasset" SILENT=true
+[2018.05.04-20.55.26:877][578]LogSavePackage: Save=6.14ms
+[2018.05.04-20.55.26:877][578]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/BulletC74B0A554880E15A01C804BD1F12D7FD.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/Bullet.uasset'
+[2018.05.04-20.55.26:879][578]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/Bullet.uasset
+[2018.05.04-20.55.27:087][585]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/Bullet.
+[2018.05.04-20.55.43:769][573]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Bullet" FILE="../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/Bullet.uasset" SILENT=true
+[2018.05.04-20.55.43:785][573]LogSavePackage: Save=6.08ms
+[2018.05.04-20.55.43:785][573]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/BulletFFAA178246F8D56596A339AAAF99CA68.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/Bullet.uasset'
+[2018.05.04-20.55.43:787][573]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/Bullet.uasset
+[2018.05.04-20.55.45:556][784]BlueprintLog: New page: Compile Bullet
+[2018.05.04-20.55.57:549][193]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.04-20.56.08:191][450]LogEditorTransaction: Undo Make New Scene Root
+[2018.05.04-20.56.16:712][441]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.04-20.56.16:716][441]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Bullet" FILE="../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/Bullet.uasset" SILENT=true
+[2018.05.04-20.56.16:731][441]LogSavePackage: Save=7.10ms
+[2018.05.04-20.56.16:731][441]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/Bullet2FD3CDC54B0D17B15152328201EA6242.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/Bullet.uasset'
+[2018.05.04-20.56.16:733][441]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/Bullet.uasset
+[2018.05.04-20.56.17:695][555]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Bullet" FILE="../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/Bullet.uasset" SILENT=true
+[2018.05.04-20.56.17:709][555]LogSavePackage: Save=6.67ms
+[2018.05.04-20.56.17:709][555]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/Bullet5144A99F4A8E6F3B14B8C2A7B0719C14.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/Bullet.uasset'
+[2018.05.04-20.56.17:710][555]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/Bullet.uasset
+[2018.05.04-20.56.18:177][604]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Bullet" FILE="../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/Bullet.uasset" SILENT=true
+[2018.05.04-20.56.18:191][604]LogSavePackage: Save=6.70ms
+[2018.05.04-20.56.18:191][604]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/Bullet620F19D047A1ED989B2841AD0B9A6DE9.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/Bullet.uasset'
+[2018.05.04-20.56.18:192][604]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/Bullet.uasset
+[2018.05.04-20.56.19:386][746]LogSlate: Window 'Bullet' being destroyed
+[2018.05.04-20.56.19:389][746]LogSlate: Window 'Bullet' being destroyed
+[2018.05.04-20.56.19:499][746]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.05.04-20.56.20:592][867]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap" FILE="../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.05.04-20.56.20:706][867]LogSavePackage: Save=91.41ms
+[2018.05.04-20.56.20:706][867]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/NewMap9D25C2D34AFA78D6EDD34B82506D2537.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap.umap'
+[2018.05.04-20.56.20:707][867]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap.umap
+[2018.05.04-20.56.20:729][867]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap_BuiltData" FILE="../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap_BuiltData.uasset" SILENT=true
+[2018.05.04-20.56.20:806][867]LogSavePackage: Save=69.30ms
+[2018.05.04-20.56.20:806][867]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/NewMap_BuiltDataC5A8170C4E5BED48D8D38DAA047EAB33.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap_BuiltData.uasset'
+[2018.05.04-20.56.20:807][867]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap_BuiltData.uasset
+[2018.05.04-20.56.32:614][241]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.05.04-20.56.47:786][ 54]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CanShoot" FILE="../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/CanShoot.uasset" SILENT=true
+[2018.05.04-20.56.47:800][ 54]LogSavePackage: Save=5.97ms
+[2018.05.04-20.56.47:800][ 54]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/CanShootB7B770B7491236C01D514A982F19CE5C.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/CanShoot.uasset'
+[2018.05.04-20.56.47:802][ 54]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/CanShoot.uasset
+[2018.05.04-20.57.16:854][302]LogSlate: Window 'ThirdPersonEnemy' being destroyed
+[2018.05.04-20.57.16:858][302]LogSlate: Window 'ThirdPersonEnemy' being destroyed
+[2018.05.04-20.57.29:870][765]LogSavePackage: Save=44.09ms
+[2018.05.04-20.57.29:870][765]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/FirstPersonCharacterF7E0201343D2C2380DE44BBF6EC6F272.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2018.05.04-20.57.29:872][765]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset
+[2018.05.04-20.58.04:239][799]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CanShoot" FILE="../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/CanShoot.uasset" SILENT=true
+[2018.05.04-20.58.04:252][799]LogSavePackage: Save=6.29ms
+[2018.05.04-20.58.04:252][799]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/CanShoot40050D8A424DDBFB4E93B1A8FDD408DF.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/CanShoot.uasset'
+[2018.05.04-20.58.04:254][799]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/CanShoot.uasset
+[2018.05.04-20.58.06:570][ 74]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CanShoot" FILE="../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/CanShoot.uasset" SILENT=true
+[2018.05.04-20.58.06:583][ 74]LogSavePackage: Save=6.33ms
+[2018.05.04-20.58.06:583][ 74]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/CanShootCEE2F1DA45766CFFA92CAEAD32A15B97.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/CanShoot.uasset'
+[2018.05.04-20.58.06:584][ 74]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/CanShoot.uasset
+[2018.05.04-20.58.15:121][ 96]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CanShoot" FILE="../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/CanShoot.uasset" SILENT=true
+[2018.05.04-20.58.15:134][ 96]LogSavePackage: Save=6.19ms
+[2018.05.04-20.58.15:134][ 96]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/CanShootD12705094C6474680CE3BB96646FA1BD.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/CanShoot.uasset'
+[2018.05.04-20.58.15:135][ 96]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/CanShoot.uasset
+[2018.05.04-20.58.19:554][626]BlueprintLog: New page: Compile CanShoot
+[2018.05.04-20.58.19:593][626]LogActorComponent: RegisterComponentWithWorld: Owner belongs to a DEADCLASS
+[2018.05.04-20.58.19:593][626]LogActorComponent: RegisterComponentWithWorld: Owner belongs to a DEADCLASS
+[2018.05.04-20.58.23:339][ 18]LogSavePackage: Save=50.25ms
+[2018.05.04-20.58.23:339][ 18]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/FirstPersonCharacter93A15F094C63EB70ED5F469950214AC7.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2018.05.04-20.58.23:341][ 18]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset
+[2018.05.04-20.58.23:967][ 83]BlueprintLog: New page: Compile FirstPersonCharacter
+[2018.05.04-20.58.46:078][403]LogSavePackage: Save=50.12ms
+[2018.05.04-20.58.46:078][403]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/FirstPersonCharacterB08DF23A4CA28E02E4131BB91FDF89F1.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2018.05.04-20.58.46:080][403]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset
+[2018.05.04-20.58.46:687][474]BlueprintLog: New page: Compile FirstPersonCharacter
+[2018.05.04-20.58.48:954][664]LogTemp: Repeating last play command: Simulate
+[2018.05.04-20.58.48:974][664]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.05.04-20.58.48:978][664]LogPlayLevel: [PlayLevel] Compiling Bullet before play...
+[2018.05.04-20.58.49:114][664]LogPlayLevel: PlayLevel: Blueprint regeneration took 140 ms (1 blueprints)
+[2018.05.04-20.58.49:114][664]PIE: New page: SIE session: NewMap (4 May 2018 22:58:49)
+[2018.05.04-20.58.49:114][664]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2018.05.04-20.58.49:121][664]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007469s)
+[2018.05.04-20.58.49:122][664]LogAIModule: Creating AISystem for world NewMap
+[2018.05.04-20.58.49:122][664]LogPlayLevel: PIE: World Init took: (0.000407s)
+[2018.05.04-20.58.49:122][664]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.007974s)
+[2018.05.04-20.58.49:140][664]LogInit: XAudio2 using 'Realtek Digital Output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.05.04-20.58.49:160][664]LogInit: FAudioDevice initialized.
+[2018.05.04-20.58.49:187][664]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.04-20.58.49:191][664]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2018.05.04-21.58.49
+[2018.05.04-20.58.49:192][664]LogWorld: Bringing up level for play took: 0.004261
+[2018.05.04-20.58.49:193][664]PIE: Play in editor start time for /Game/UEDPIE_0_NewMap -0.491
+[2018.05.04-20.58.50:349][747]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube56)
+[2018.05.04-20.58.53:723][  7]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube12)
+[2018.05.04-20.58.54:062][ 37]Cmd: SELECT NONE
+[2018.05.04-20.58.55:768][239]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.04-20.58.57:712][467]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.04-20.58.57:712][467]PIE: New page: PIE session: NewMap (4 May 2018 22:58:57)
+[2018.05.04-20.58.57:712][467]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2018.05.04-20.58.57:719][467]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007485s)
+[2018.05.04-20.58.57:720][467]LogAIModule: Creating AISystem for world NewMap
+[2018.05.04-20.58.57:720][467]LogPlayLevel: PIE: World Init took: (0.000507s)
+[2018.05.04-20.58.57:720][467]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.008100s)
+[2018.05.04-20.58.57:738][467]LogInit: XAudio2 using 'Realtek Digital Output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.05.04-20.58.57:758][467]LogInit: FAudioDevice initialized.
+[2018.05.04-20.58.57:758][467]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.04-20.58.57:784][467]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.04-20.58.57:788][467]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2018.05.04-21.58.57
+[2018.05.04-20.58.57:789][467]LogWorld: Bringing up level for play took: 0.004031
+[2018.05.04-20.58.57:790][467]PIE: Play in editor start time for /Game/UEDPIE_0_NewMap 0.106
+[2018.05.04-20.58.57:820][468]LogBlueprintUserMessages: [BTTask_ScanTheArea_C_3] Aborted
+[2018.05.04-20.58.57:820][468]LogBlueprintUserMessages: [BTTask_ScanTheArea_C_3] Aborted
+[2018.05.04-20.58.57:820][468]LogBlueprintUserMessages: [BTTask_ScanTheArea_C_3] Aborted
+[2018.05.04-20.59.00:389][773]LogBlueprintUserMessages: [BTTask_ScanTheArea_C_3] Aborted
+[2018.05.04-20.59.01:130][861]LogBlueprintUserMessages: [BTTask_ScanTheArea_C_3] Aborted
+[2018.05.04-20.59.01:492][904]LogBlueprintUserMessages: [BTTask_ScanTheArea_C_3] Aborted
+[2018.05.04-20.59.04:475][257]LogBlueprintUserMessages: [BTTask_ScanTheArea_C_3] Aborted
+[2018.05.04-20.59.04:545][265]LogBlueprintUserMessages: [BTTask_ScanTheArea_C_3] Aborted
+[2018.05.04-20.59.06:914][451]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.04-20.59.07:875][554]LogSavePackage: Save=50.05ms
+[2018.05.04-20.59.07:875][554]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/FirstPersonCharacterC0ECC6054B5886EDFCACF385FB4D96AD.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2018.05.04-20.59.07:876][554]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset
+[2018.05.04-20.59.08:553][633]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.04-20.59.15:275][412]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Bullet" FILE="../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/Bullet.uasset" SILENT=true
+[2018.05.04-20.59.15:289][412]LogSavePackage: Save=6.41ms
+[2018.05.04-20.59.15:289][412]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/BulletC8F9A8174D98E82C32D1418BD96AC4C0.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/Bullet.uasset'
+[2018.05.04-20.59.15:290][412]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/Bullet.uasset
+[2018.05.04-20.59.15:982][494]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.04-20.59.22:804][296]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Bullet" FILE="../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/Bullet.uasset" SILENT=true
+[2018.05.04-20.59.22:825][296]LogSavePackage: Save=12.93ms
+[2018.05.04-20.59.22:825][296]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/Bullet9EA7427B42693AF041B15E9C400AF425.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/Bullet.uasset'
+[2018.05.04-20.59.22:826][296]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/Bullet.uasset
+[2018.05.04-20.59.24:109][449]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.04-20.59.24:200][460]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.04-20.59.24:217][460]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.05.04-20.59.24:220][460]LogPlayLevel: [PlayLevel] Compiling Bullet before play...
+[2018.05.04-20.59.24:414][460]LogPlayLevel: PlayLevel: Blueprint regeneration took 197 ms (1 blueprints)
+[2018.05.04-20.59.24:415][460]PIE: New page: PIE session: NewMap (4 May 2018 22:59:24)
+[2018.05.04-20.59.24:415][460]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2018.05.04-20.59.24:422][460]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007361s)
+[2018.05.04-20.59.24:422][460]LogAIModule: Creating AISystem for world NewMap
+[2018.05.04-20.59.24:422][460]LogPlayLevel: PIE: World Init took: (0.000438s)
+[2018.05.04-20.59.24:422][460]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.007895s)
+[2018.05.04-20.59.24:442][460]LogInit: XAudio2 using 'Realtek Digital Output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.05.04-20.59.24:461][460]LogInit: FAudioDevice initialized.
+[2018.05.04-20.59.24:491][460]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.04-20.59.24:494][460]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2018.05.04-21.59.24
+[2018.05.04-20.59.24:495][460]LogWorld: Bringing up level for play took: 0.004094
+[2018.05.04-20.59.24:497][460]PIE: Play in editor start time for /Game/UEDPIE_0_NewMap 0.813
+[2018.05.04-20.59.27:706][753]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.04-20.59.27:722][753]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.04-20.59.27:722][753]PIE: New page: PIE session: NewMap (4 May 2018 22:59:27)
+[2018.05.04-20.59.27:722][753]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2018.05.04-20.59.27:730][753]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007513s)
+[2018.05.04-20.59.27:730][753]LogAIModule: Creating AISystem for world NewMap
+[2018.05.04-20.59.27:730][753]LogPlayLevel: PIE: World Init took: (0.000406s)
+[2018.05.04-20.59.27:730][753]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.008015s)
+[2018.05.04-20.59.27:749][753]LogInit: XAudio2 using 'Realtek Digital Output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.05.04-20.59.27:768][753]LogInit: FAudioDevice initialized.
+[2018.05.04-20.59.27:800][753]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.04-20.59.27:804][753]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2018.05.04-21.59.27
+[2018.05.04-20.59.27:805][753]LogWorld: Bringing up level for play took: 0.004373
+[2018.05.04-20.59.27:806][753]PIE: Play in editor start time for /Game/UEDPIE_0_NewMap 0.122
+[2018.05.04-20.59.27:869][754]LogBlueprintUserMessages: [BTTask_ScanTheArea_C_3] Aborted
+[2018.05.04-20.59.27:869][754]LogBlueprintUserMessages: [BTTask_ScanTheArea_C_3] Aborted
+[2018.05.04-20.59.27:869][754]LogBlueprintUserMessages: [BTTask_ScanTheArea_C_3] Aborted
+[2018.05.04-20.59.28:995][889]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.04-20.59.31:453][109]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.04-20.59.31:470][109]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.04-20.59.31:470][109]PIE: New page: PIE session: NewMap (4 May 2018 22:59:31)
+[2018.05.04-20.59.31:470][109]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2018.05.04-20.59.31:477][109]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007393s)
+[2018.05.04-20.59.31:478][109]LogAIModule: Creating AISystem for world NewMap
+[2018.05.04-20.59.31:478][109]LogPlayLevel: PIE: World Init took: (0.000404s)
+[2018.05.04-20.59.31:478][109]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.007893s)
+[2018.05.04-20.59.31:497][109]LogInit: XAudio2 using 'Realtek Digital Output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.05.04-20.59.31:517][109]LogInit: FAudioDevice initialized.
+[2018.05.04-20.59.31:553][109]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.04-20.59.31:556][109]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2018.05.04-21.59.31
+[2018.05.04-20.59.31:557][109]LogWorld: Bringing up level for play took: 0.004155
+[2018.05.04-20.59.31:559][109]PIE: Play in editor start time for /Game/UEDPIE_0_NewMap -0.125
+[2018.05.04-20.59.31:587][110]LogBlueprintUserMessages: [BTTask_ScanTheArea_C_3] Aborted
+[2018.05.04-20.59.34:121][414]LogBlueprintUserMessages: [BTTask_ScanTheArea_C_3] Aborted
+[2018.05.04-20.59.35:638][596]LogBlueprintUserMessages: [BTTask_ScanTheArea_C_3] Aborted
+[2018.05.04-20.59.36:513][701]LogBlueprintUserMessages: [BTTask_ScanTheArea_C_3] Aborted
