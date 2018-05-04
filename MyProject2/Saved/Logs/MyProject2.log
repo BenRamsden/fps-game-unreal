@@ -12202,3 +12202,979 @@ LogInit: Object subsystem initialized
 [2018.05.04-23.01.13:727][ 10]LogSavePackage: Save=6.93ms
 [2018.05.04-23.01.13:727][ 10]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/Bullet69D343684AD2D97E699B56A9094DBE90.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/Bullet.uasset'
 [2018.05.04-23.01.13:729][ 10]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/Bullet.uasset
+[2018.05.04-23.01.20:035][751]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Bullet" FILE="../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/Bullet.uasset" SILENT=true
+[2018.05.04-23.01.20:049][751]LogSavePackage: Save=6.96ms
+[2018.05.04-23.01.20:049][751]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/Bullet37B1AD5F47ABAF04169A59BD1E6AA7C7.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/Bullet.uasset'
+[2018.05.04-23.01.20:050][751]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/Bullet.uasset
+[2018.05.04-23.01.24:986][330]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Bullet" FILE="../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/Bullet.uasset" SILENT=true
+[2018.05.04-23.01.25:006][330]LogSavePackage: Save=12.42ms
+[2018.05.04-23.01.25:006][330]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/BulletA7E41AFD4E1DB6DE1EE45A92342DF381.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/Bullet.uasset'
+[2018.05.04-23.01.25:008][330]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/Bullet.uasset
+[2018.05.04-23.01.26:243][477]LogSlate: Window 'Bullet' being destroyed
+[2018.05.04-23.01.26:247][477]LogSlate: Window 'Bullet' being destroyed
+[2018.05.04-23.01.26:983][556]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.04-23.01.26:996][556]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.05.04-23.01.26:998][556]LogPlayLevel: [PlayLevel] Compiling Bullet before play...
+[2018.05.04-23.01.27:178][556]LogPlayLevel: PlayLevel: Blueprint regeneration took 181 ms (1 blueprints)
+[2018.05.04-23.01.27:178][556]PIE: New page: PIE session: NewMap (5 May 2018 01:01:27)
+[2018.05.04-23.01.27:178][556]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2018.05.04-23.01.27:185][556]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007464s)
+[2018.05.04-23.01.27:186][556]LogAIModule: Creating AISystem for world NewMap
+[2018.05.04-23.01.27:186][556]LogPlayLevel: PIE: World Init took: (0.000409s)
+[2018.05.04-23.01.27:186][556]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.007973s)
+[2018.05.04-23.01.27:203][556]LogInit: XAudio2 using 'Realtek Digital Output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.05.04-23.01.27:222][556]LogInit: FAudioDevice initialized.
+[2018.05.04-23.01.27:248][556]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.04-23.01.27:252][556]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2018.05.05-00.01.27
+[2018.05.04-23.01.27:253][556]LogWorld: Bringing up level for play took: 0.004100
+[2018.05.04-23.01.27:255][556]PIE: Play in editor start time for /Game/UEDPIE_0_NewMap 0.892
+[2018.05.04-23.01.27:293][557]LogBlueprintUserMessages: [BTTask_ScanTheArea_C_3] Aborted
+[2018.05.04-23.01.27:293][557]LogBlueprintUserMessages: [BTTask_ScanTheArea_C_3] Aborted
+[2018.05.04-23.01.30:433][923]LogBlueprintUserMessages: [BTTask_ScanTheArea_C_3] Aborted
+[2018.05.04-23.01.31:824][ 90]LogBlueprintUserMessages: [BTTask_ScanTheArea_C_3] Aborted
+[2018.05.04-23.01.32:158][130]LogBlueprintUserMessages: [BTTask_ScanTheArea_C_3] Aborted
+[2018.05.04-23.01.35:616][545]LogBlueprintUserMessages: [BTTask_ScanTheArea_C_3] Aborted
+[2018.05.04-23.01.35:958][586]LogBlueprintUserMessages: [BTTask_ScanTheArea_C_3] Aborted
+[2018.05.04-23.01.36:583][661]LogBlueprintUserMessages: [BTTask_ScanTheArea_C_3] Aborted
+[2018.05.04-23.01.38:208][856]LogBlueprintUserMessages: [BTTask_ScanTheArea_C_3] Aborted
+[2018.05.04-23.01.39:725][ 38]LogBlueprintUserMessages: [BTTask_ScanTheArea_C_3] Aborted
+[2018.05.04-23.01.49:461][191]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.04-23.01.56:251][971]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Bullet" FILE="../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/Bullet.uasset" SILENT=true
+[2018.05.04-23.01.56:271][971]LogSavePackage: Save=12.72ms
+[2018.05.04-23.01.56:271][971]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/Bullet6517D3B942B1943C30AFDCAD3B83578A.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/Bullet.uasset'
+[2018.05.04-23.01.56:273][971]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/Bullet.uasset
+[2018.05.04-23.01.58:323][216]LogSlate: Window 'Bullet' being destroyed
+[2018.05.04-23.01.58:327][216]LogSlate: Window 'Bullet' being destroyed
+[2018.05.04-23.01.59:110][296]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.04-23.01.59:127][296]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.05.04-23.01.59:129][296]LogPlayLevel: [PlayLevel] Compiling Bullet before play...
+[2018.05.04-23.01.59:254][296]LogPlayLevel: PlayLevel: Blueprint regeneration took 127 ms (1 blueprints)
+[2018.05.04-23.01.59:254][296]PIE: New page: PIE session: NewMap (5 May 2018 01:01:59)
+[2018.05.04-23.01.59:254][296]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2018.05.04-23.01.59:262][296]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007650s)
+[2018.05.04-23.01.59:262][296]LogAIModule: Creating AISystem for world NewMap
+[2018.05.04-23.01.59:262][296]LogPlayLevel: PIE: World Init took: (0.000466s)
+[2018.05.04-23.01.59:262][296]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.008215s)
+[2018.05.04-23.01.59:279][296]LogInit: XAudio2 using 'Realtek Digital Output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.05.04-23.01.59:297][296]LogInit: FAudioDevice initialized.
+[2018.05.04-23.01.59:326][296]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.04-23.01.59:330][296]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2018.05.05-00.01.59
+[2018.05.04-23.01.59:331][296]LogWorld: Bringing up level for play took: 0.004227
+[2018.05.04-23.01.59:332][296]PIE: Play in editor start time for /Game/UEDPIE_0_NewMap 0.969
+[2018.05.04-23.01.59:364][297]LogBlueprintUserMessages: [BTTask_ScanTheArea_C_3] Aborted
+[2018.05.04-23.01.59:364][297]LogBlueprintUserMessages: [BTTask_ScanTheArea_C_3] Aborted
+[2018.05.04-23.01.59:364][297]LogBlueprintUserMessages: [BTTask_ScanTheArea_C_3] Aborted
+[2018.05.04-23.02.01:694][577]LogBlueprintUserMessages: [BTTask_ScanTheArea_C_3] Aborted
+[2018.05.04-23.02.02:202][638]LogBlueprintUserMessages: [BTTask_ScanTheArea_C_3] Aborted
+[2018.05.04-23.02.04:179][874]LogBlueprintUserMessages: [BTTask_ScanTheArea_C_3] Aborted
+[2018.05.04-23.02.06:012][ 94]LogBlueprintUserMessages: [BTTask_ScanTheArea_C_3] Aborted
+[2018.05.04-23.02.08:704][417]LogBlueprintUserMessages: [BTTask_ScanTheArea_C_3] Aborted
+[2018.05.04-23.02.09:254][483]LogBlueprintUserMessages: [BTTask_ScanTheArea_C_3] Aborted
+[2018.05.04-23.02.14:826][946]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.04-23.02.17:970][315]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap" FILE="../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.05.04-23.02.18:082][315]LogSavePackage: Save=90.54ms
+[2018.05.04-23.02.18:082][315]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/NewMap9B9D95AE437E4DFE979C97B991BC5110.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap.umap'
+[2018.05.04-23.02.18:083][315]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap.umap
+[2018.05.04-23.02.18:106][315]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap_BuiltData" FILE="../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap_BuiltData.uasset" SILENT=true
+[2018.05.04-23.02.18:186][315]LogSavePackage: Save=71.97ms
+[2018.05.04-23.02.18:186][315]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/NewMap_BuiltData3BBEE8CC4F35EC43E3998991E2317468.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap_BuiltData.uasset'
+[2018.05.04-23.02.18:187][315]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap_BuiltData.uasset
+[2018.05.04-23.02.35:686][375]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Bullet" FILE="../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/Bullet.uasset" SILENT=true
+[2018.05.04-23.02.35:701][375]LogSavePackage: Save=7.03ms
+[2018.05.04-23.02.35:701][375]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/Bullet0D8F445B4043476C278CCAABD3473903.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/Bullet.uasset'
+[2018.05.04-23.02.35:702][375]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/Bullet.uasset
+[2018.05.04-23.02.38:246][678]LogSlate: Window 'Bullet' being destroyed
+[2018.05.04-23.02.38:250][678]LogSlate: Window 'Bullet' being destroyed
+[2018.05.04-23.02.43:971][323]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CanShoot" FILE="../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/CanShoot.uasset" SILENT=true
+[2018.05.04-23.02.43:990][323]LogSavePackage: Save=7.84ms
+[2018.05.04-23.02.43:990][323]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/CanShoot96209D3640A0AE1E9262E2AB29AA06E4.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/CanShoot.uasset'
+[2018.05.04-23.02.43:992][323]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/CanShoot.uasset
+[2018.05.04-23.02.44:868][427]BlueprintLog: New page: Compile CanShoot
+[2018.05.04-23.02.46:487][572]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.04-23.02.46:501][572]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.04-23.02.46:501][572]PIE: New page: PIE session: NewMap (5 May 2018 01:02:46)
+[2018.05.04-23.02.46:501][572]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2018.05.04-23.02.46:509][572]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007758s)
+[2018.05.04-23.02.46:509][572]LogAIModule: Creating AISystem for world NewMap
+[2018.05.04-23.02.46:509][572]LogPlayLevel: PIE: World Init took: (0.000399s)
+[2018.05.04-23.02.46:510][572]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.008260s)
+[2018.05.04-23.02.46:527][572]LogInit: XAudio2 using 'Realtek Digital Output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.05.04-23.02.46:546][572]LogInit: FAudioDevice initialized.
+[2018.05.04-23.02.46:581][572]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.04-23.02.46:584][572]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2018.05.05-00.02.46
+[2018.05.04-23.02.46:585][572]LogWorld: Bringing up level for play took: 0.004108
+[2018.05.04-23.02.46:587][572]PIE: Play in editor start time for /Game/UEDPIE_0_NewMap 0.224
+[2018.05.04-23.02.46:618][573]LogBlueprintUserMessages: [BTTask_ScanTheArea_C_3] Aborted
+[2018.05.04-23.02.46:618][573]LogBlueprintUserMessages: [BTTask_ScanTheArea_C_3] Aborted
+[2018.05.04-23.02.46:618][573]LogBlueprintUserMessages: [BTTask_ScanTheArea_C_3] Aborted
+[2018.05.04-23.02.49:054][865]LogBlueprintUserMessages: [BTTask_ScanTheArea_C_3] Aborted
+[2018.05.04-23.02.49:070][867]LogBlueprintUserMessages: [BTTask_ScanTheArea_C_3] Aborted
+[2018.05.04-23.02.50:096][990]LogBlueprintUserMessages: [BTTask_ScanTheArea_C_3] Aborted
+[2018.05.04-23.02.50:997][ 98]LogBlueprintUserMessages: [BTTask_ScanTheArea_C_3] Aborted
+[2018.05.04-23.02.53:101][350]LogBlueprintUserMessages: [BTTask_ScanTheArea_C_3] Aborted
+[2018.05.04-23.02.53:968][454]LogBlueprintUserMessages: [BTTask_ScanTheArea_C_3] Aborted
+[2018.05.04-23.02.54:310][495]LogBlueprintUserMessages: [BTTask_ScanTheArea_C_3] Aborted
+[2018.05.04-23.02.58:008][833]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.04-23.02.58:509][891]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CanShoot" FILE="../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/CanShoot.uasset" SILENT=true
+[2018.05.04-23.02.58:524][891]LogSavePackage: Save=7.89ms
+[2018.05.04-23.02.58:524][891]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/CanShoot646F6CBD4557D3BEF0B687860E2D9F2F.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/CanShoot.uasset'
+[2018.05.04-23.02.58:525][891]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/CanShoot.uasset
+[2018.05.04-23.03.07:877][  9]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CanShoot" FILE="../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/CanShoot.uasset" SILENT=true
+[2018.05.04-23.03.07:892][  9]LogSavePackage: Save=7.84ms
+[2018.05.04-23.03.07:892][  9]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/CanShootE29F5B2F472BCFC8D33E20BF1F8248A9.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/CanShoot.uasset'
+[2018.05.04-23.03.07:894][  9]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/CanShoot.uasset
+[2018.05.04-23.03.08:534][ 85]BlueprintLog: New page: Compile CanShoot
+[2018.05.04-23.03.09:436][179]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CanShoot" FILE="../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/CanShoot.uasset" SILENT=true
+[2018.05.04-23.03.09:452][179]LogSavePackage: Save=7.86ms
+[2018.05.04-23.03.09:452][179]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/CanShoot4CBDC22E40E2B2024E53EE99A2AC7BF4.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/CanShoot.uasset'
+[2018.05.04-23.03.09:453][179]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/CanShoot.uasset
+[2018.05.04-23.03.10:544][309]LogSlate: Window 'CanShoot' being destroyed
+[2018.05.04-23.03.10:548][309]LogSlate: Window 'CanShoot' being destroyed
+[2018.05.04-23.03.20:724][495]LogSlate: Window 'Bullet' being destroyed
+[2018.05.04-23.03.20:728][495]LogSlate: Window 'Bullet' being destroyed
+[2018.05.04-23.03.28:939][422]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Bullet" FILE="../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/Bullet.uasset" SILENT=true
+[2018.05.04-23.03.28:953][422]LogSavePackage: Save=6.90ms
+[2018.05.04-23.03.28:953][422]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/Bullet7D65F07C4E01CCB6DF49A8BD9CDB8C01.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/Bullet.uasset'
+[2018.05.04-23.03.28:955][422]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/Bullet.uasset
+[2018.05.04-23.03.31:262][670]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.04-23.03.31:276][670]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.04-23.03.31:277][670]PIE: New page: PIE session: NewMap (5 May 2018 01:03:31)
+[2018.05.04-23.03.31:277][670]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2018.05.04-23.03.31:284][670]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007843s)
+[2018.05.04-23.03.31:285][670]LogAIModule: Creating AISystem for world NewMap
+[2018.05.04-23.03.31:285][670]LogPlayLevel: PIE: World Init took: (0.000423s)
+[2018.05.04-23.03.31:285][670]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.008368s)
+[2018.05.04-23.03.31:305][670]LogInit: XAudio2 using 'Realtek Digital Output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.05.04-23.03.31:321][670]LogInit: FAudioDevice initialized.
+[2018.05.04-23.03.31:359][670]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.04-23.03.31:362][670]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2018.05.05-00.03.31
+[2018.05.04-23.03.31:363][670]LogWorld: Bringing up level for play took: 0.004284
+[2018.05.04-23.03.31:365][670]PIE: Play in editor start time for /Game/UEDPIE_0_NewMap 1.002
+[2018.05.04-23.03.31:454][671]LogBlueprintUserMessages: [BTTask_ScanTheArea_C_3] Aborted
+[2018.05.04-23.03.31:454][671]LogBlueprintUserMessages: [BTTask_ScanTheArea_C_3] Aborted
+[2018.05.04-23.03.31:454][671]LogBlueprintUserMessages: [BTTask_ScanTheArea_C_3] Aborted
+[2018.05.04-23.03.31:454][671]LogBlueprintUserMessages: [BTTask_ScanTheArea_C_3] Aborted
+[2018.05.04-23.03.32:844][837]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.04-23.03.33:669][921]LogBlueprintUserMessages: [BTTask_ScanTheArea_C_3] Aborted
+[2018.05.04-23.03.34:220][987]LogBlueprintUserMessages: [BTTask_ScanTheArea_C_3] Aborted
+[2018.05.04-23.03.36:949][246]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.04-23.03.37:523][313]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Bullet" FILE="../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/Bullet.uasset" SILENT=true
+[2018.05.04-23.03.37:538][313]LogSavePackage: Save=7.05ms
+[2018.05.04-23.03.37:538][313]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/BulletB762C1FB434DECA1FDAC10B858C94D6A.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/Bullet.uasset'
+[2018.05.04-23.03.37:540][313]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/Bullet.uasset
+[2018.05.04-23.03.39:145][496]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Bullet" FILE="../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/Bullet.uasset" SILENT=true
+[2018.05.04-23.03.39:165][496]LogSavePackage: Save=12.36ms
+[2018.05.04-23.03.39:165][496]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/Bullet22C5291F47DF1991118A989447309815.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/Bullet.uasset'
+[2018.05.04-23.03.39:167][496]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/Bullet.uasset
+[2018.05.04-23.03.41:499][743]BlueprintLog: New page: Compile Bullet
+[2018.05.04-23.03.43:041][860]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.04-23.03.43:055][860]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.04-23.03.43:055][860]PIE: New page: PIE session: NewMap (5 May 2018 01:03:43)
+[2018.05.04-23.03.43:055][860]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2018.05.04-23.03.43:062][860]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007442s)
+[2018.05.04-23.03.43:063][860]LogAIModule: Creating AISystem for world NewMap
+[2018.05.04-23.03.43:063][860]LogPlayLevel: PIE: World Init took: (0.000392s)
+[2018.05.04-23.03.43:063][860]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.007933s)
+[2018.05.04-23.03.43:081][860]LogInit: XAudio2 using 'Realtek Digital Output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.05.04-23.03.43:099][860]LogInit: FAudioDevice initialized.
+[2018.05.04-23.03.43:131][860]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.04-23.03.43:135][860]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2018.05.05-00.03.43
+[2018.05.04-23.03.43:136][860]LogWorld: Bringing up level for play took: 0.004103
+[2018.05.04-23.03.43:137][860]PIE: Play in editor start time for /Game/UEDPIE_0_NewMap 0.774
+[2018.05.04-23.03.43:169][861]LogBlueprintUserMessages: [BTTask_ScanTheArea_C_3] Aborted
+[2018.05.04-23.03.43:169][861]LogBlueprintUserMessages: [BTTask_ScanTheArea_C_3] Aborted
+[2018.05.04-23.03.43:169][861]LogBlueprintUserMessages: [BTTask_ScanTheArea_C_3] Aborted
+[2018.05.04-23.03.43:169][861]LogBlueprintUserMessages: [BTTask_ScanTheArea_C_3] Aborted
+[2018.05.04-23.03.43:169][861]LogBlueprintUserMessages: [BTTask_ScanTheArea_C_3] Aborted
+[2018.05.04-23.03.45:398][128]LogBlueprintUserMessages: [BTTask_ScanTheArea_C_3] Aborted
+[2018.05.04-23.03.46:274][233]LogBlueprintUserMessages: [BTTask_ScanTheArea_C_3] Aborted
+[2018.05.04-23.03.49:735][648]LogBlueprintUserMessages: [BTTask_ScanTheArea_C_3] Aborted
+[2018.05.04-23.03.55:714][364]LogBlueprintUserMessages: [BTTask_ScanTheArea_C_3] Aborted
+[2018.05.04-23.03.58:065][645]LogBlueprintUserMessages: [BTTask_ScanTheArea_C_3] Aborted
+[2018.05.04-23.04.01:005][997]LogBlueprintUserMessages: [BTTask_ScanTheArea_C_3] Aborted
+[2018.05.04-23.04.01:823][ 95]LogBlueprintUserMessages: [BTTask_ScanTheArea_C_3] Aborted
+[2018.05.04-23.04.03:498][295]LogBlueprintUserMessages: [BTTask_ScanTheArea_C_3] Aborted
+[2018.05.04-23.04.05:102][487]LogBlueprintUserMessages: [BTTask_ScanTheArea_C_3] Aborted
+[2018.05.04-23.04.06:599][666]LogBlueprintUserMessages: [BTTask_ScanTheArea_C_3] Aborted
+[2018.05.04-23.04.06:734][682]LogBlueprintUserMessages: [BTTask_ScanTheArea_C_3] Aborted
+[2018.05.04-23.04.10:484][ 51]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.04-23.04.11:010][113]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.04-23.04.11:023][113]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Bullet" FILE="../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/Bullet.uasset" SILENT=true
+[2018.05.04-23.04.11:047][113]LogSavePackage: Save=12.58ms
+[2018.05.04-23.04.11:047][113]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/BulletC7B56EE54608448A00BB2398CF6E64C5.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/Bullet.uasset'
+[2018.05.04-23.04.11:048][113]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/Bullet.uasset
+[2018.05.04-23.04.18:201][959]LogSlate: Window 'Bullet' being destroyed
+[2018.05.04-23.04.18:204][959]LogSlate: Window 'Bullet' being destroyed
+[2018.05.04-23.04.19:584][115]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap" FILE="../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.05.04-23.04.19:701][115]LogSavePackage: Save=91.23ms
+[2018.05.04-23.04.19:701][115]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/NewMapEE780A774CE449CABF86ACA6B2AB1842.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap.umap'
+[2018.05.04-23.04.19:702][115]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap.umap
+[2018.05.04-23.04.19:725][115]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap_BuiltData" FILE="../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap_BuiltData.uasset" SILENT=true
+[2018.05.04-23.04.19:807][115]LogSavePackage: Save=69.36ms
+[2018.05.04-23.04.19:807][115]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/NewMap_BuiltData304DB49E49717BB02DEEF69B9ECE71EF.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap_BuiltData.uasset'
+[2018.05.04-23.04.19:808][115]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap_BuiltData.uasset
+[2018.05.04-23.04.47:300][312]LogSavePackage: Save=50.65ms
+[2018.05.04-23.04.47:300][312]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/FirstPersonCharacter0AC3E05744D8F6FAE73461AEBF6DDE39.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2018.05.04-23.04.47:302][312]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset
+[2018.05.04-23.04.49:017][483]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.04-23.04.49:037][483]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.05.04-23.04.49:055][483]LogPlayLevel: [PlayLevel] Compiling FirstPersonCharacter before play...
+[2018.05.04-23.04.49:300][483]LogPlayLevel: PlayLevel: Blueprint regeneration took 263 ms (1 blueprints)
+[2018.05.04-23.04.49:300][483]PIE: New page: PIE session: NewMap (5 May 2018 01:04:49)
+[2018.05.04-23.04.49:300][483]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2018.05.04-23.04.49:308][483]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007361s)
+[2018.05.04-23.04.49:308][483]LogAIModule: Creating AISystem for world NewMap
+[2018.05.04-23.04.49:308][483]LogPlayLevel: PIE: World Init took: (0.000422s)
+[2018.05.04-23.04.49:308][483]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.007884s)
+[2018.05.04-23.04.49:326][483]LogInit: XAudio2 using 'Realtek Digital Output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.05.04-23.04.49:344][483]LogInit: FAudioDevice initialized.
+[2018.05.04-23.04.49:377][483]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.04-23.04.49:381][483]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2018.05.05-00.04.49
+[2018.05.04-23.04.49:382][483]LogWorld: Bringing up level for play took: 0.004019
+[2018.05.04-23.04.49:383][483]PIE: Play in editor start time for /Game/UEDPIE_0_NewMap 1.02
+[2018.05.04-23.04.49:470][484]LogBlueprintUserMessages: [BTTask_ScanTheArea_C_3] Aborted
+[2018.05.04-23.04.49:470][484]LogBlueprintUserMessages: [BTTask_ScanTheArea_C_3] Aborted
+[2018.05.04-23.04.53:527][906]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.04-23.04.58:409][474]LogSavePackage: Save=50.82ms
+[2018.05.04-23.04.58:409][474]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/FirstPersonCharacter7441C00642F777D65092B1B45606DCDA.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2018.05.04-23.04.58:411][474]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset
+[2018.05.04-23.05.00:543][685]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.04-23.05.00:558][685]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.05.04-23.05.00:574][685]LogPlayLevel: [PlayLevel] Compiling FirstPersonCharacter before play...
+[2018.05.04-23.05.00:873][685]LogPlayLevel: PlayLevel: Blueprint regeneration took 315 ms (1 blueprints)
+[2018.05.04-23.05.00:873][685]PIE: New page: PIE session: NewMap (5 May 2018 01:05:00)
+[2018.05.04-23.05.00:873][685]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2018.05.04-23.05.00:881][685]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007568s)
+[2018.05.04-23.05.00:881][685]LogAIModule: Creating AISystem for world NewMap
+[2018.05.04-23.05.00:881][685]LogPlayLevel: PIE: World Init took: (0.000391s)
+[2018.05.04-23.05.00:881][685]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.008058s)
+[2018.05.04-23.05.00:898][685]LogInit: XAudio2 using 'Realtek Digital Output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.05.04-23.05.00:917][685]LogInit: FAudioDevice initialized.
+[2018.05.04-23.05.00:950][685]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.04-23.05.00:953][685]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2018.05.05-00.05.00
+[2018.05.04-23.05.00:954][685]LogWorld: Bringing up level for play took: 0.003992
+[2018.05.04-23.05.00:956][685]PIE: Play in editor start time for /Game/UEDPIE_0_NewMap 0.593
+[2018.05.04-23.05.01:041][686]LogBlueprintUserMessages: [BTTask_ScanTheArea_C_3] Aborted
+[2018.05.04-23.05.01:041][686]LogBlueprintUserMessages: [BTTask_ScanTheArea_C_3] Aborted
+[2018.05.04-23.05.01:041][686]LogBlueprintUserMessages: [BTTask_ScanTheArea_C_3] Aborted
+[2018.05.04-23.05.03:216][940]LogBlueprintUserMessages: [BTTask_ScanTheArea_C_3] Aborted
+[2018.05.04-23.05.03:366][958]LogBlueprintUserMessages: [BTTask_ScanTheArea_C_3] Aborted
+[2018.05.04-23.05.07:312][329]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.04-23.05.11:573][818]LogSavePackage: Save=50.82ms
+[2018.05.04-23.05.11:573][818]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/FirstPersonCharacter5BBB787C4B5A8E9F188E49950F56553F.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2018.05.04-23.05.11:575][818]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset
+[2018.05.04-23.05.13:600][  5]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.04-23.05.13:614][  5]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.05.04-23.05.13:630][  5]LogPlayLevel: [PlayLevel] Compiling FirstPersonCharacter before play...
+[2018.05.04-23.05.13:987][  5]LogPlayLevel: PlayLevel: Blueprint regeneration took 373 ms (1 blueprints)
+[2018.05.04-23.05.13:987][  5]PIE: New page: PIE session: NewMap (5 May 2018 01:05:13)
+[2018.05.04-23.05.13:987][  5]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2018.05.04-23.05.13:995][  5]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007298s)
+[2018.05.04-23.05.13:995][  5]LogAIModule: Creating AISystem for world NewMap
+[2018.05.04-23.05.13:995][  5]LogPlayLevel: PIE: World Init took: (0.000440s)
+[2018.05.04-23.05.13:995][  5]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.007841s)
+[2018.05.04-23.05.14:013][  5]LogInit: XAudio2 using 'Realtek Digital Output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.05.04-23.05.14:031][  5]LogInit: FAudioDevice initialized.
+[2018.05.04-23.05.14:062][  5]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.04-23.05.14:066][  5]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2018.05.05-00.05.14
+[2018.05.04-23.05.14:067][  5]LogWorld: Bringing up level for play took: 0.004328
+[2018.05.04-23.05.14:068][  5]PIE: Play in editor start time for /Game/UEDPIE_0_NewMap -0.295
+[2018.05.04-23.05.14:155][  6]LogBlueprintUserMessages: [BTTask_ScanTheArea_C_3] Aborted
+[2018.05.04-23.05.14:155][  6]LogBlueprintUserMessages: [BTTask_ScanTheArea_C_3] Aborted
+[2018.05.04-23.05.20:008][606]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.04-23.05.21:351][753]LogSavePackage: Save=50.69ms
+[2018.05.04-23.05.21:351][753]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/FirstPersonCharacter57CDE58D4420E6E13004D89D0E24332D.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2018.05.04-23.05.21:353][753]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset
+[2018.05.04-23.05.23:098][927]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.04-23.05.23:112][927]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.05.04-23.05.23:130][927]LogPlayLevel: [PlayLevel] Compiling FirstPersonCharacter before play...
+[2018.05.04-23.05.23:545][927]LogPlayLevel: PlayLevel: Blueprint regeneration took 433 ms (1 blueprints)
+[2018.05.04-23.05.23:546][927]PIE: New page: PIE session: NewMap (5 May 2018 01:05:23)
+[2018.05.04-23.05.23:546][927]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2018.05.04-23.05.23:553][927]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007391s)
+[2018.05.04-23.05.23:553][927]LogAIModule: Creating AISystem for world NewMap
+[2018.05.04-23.05.23:553][927]LogPlayLevel: PIE: World Init took: (0.000401s)
+[2018.05.04-23.05.23:553][927]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.007894s)
+[2018.05.04-23.05.23:571][927]LogInit: XAudio2 using 'Realtek Digital Output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.05.04-23.05.23:587][927]LogInit: FAudioDevice initialized.
+[2018.05.04-23.05.23:617][927]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.04-23.05.23:620][927]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2018.05.05-00.05.23
+[2018.05.04-23.05.23:621][927]LogWorld: Bringing up level for play took: 0.004008
+[2018.05.04-23.05.23:623][927]PIE: Play in editor start time for /Game/UEDPIE_0_NewMap 1.26
+[2018.05.04-23.05.23:709][928]LogBlueprintUserMessages: [BTTask_ScanTheArea_C_3] Aborted
+[2018.05.04-23.05.23:709][928]LogBlueprintUserMessages: [BTTask_ScanTheArea_C_3] Aborted
+[2018.05.04-23.05.23:709][928]LogBlueprintUserMessages: [BTTask_ScanTheArea_C_3] Aborted
+[2018.05.04-23.05.27:198][339]LogBlueprintUserMessages: [BTTask_ScanTheArea_C_3] Aborted
+[2018.05.04-23.05.27:782][409]LogBlueprintUserMessages: [BTTask_ScanTheArea_C_3] Aborted
+[2018.05.04-23.05.28:759][526]LogBlueprintUserMessages: [BTTask_ScanTheArea_C_3] Aborted
+[2018.05.04-23.05.31:954][830]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.04-23.05.34:005][ 62]LogSavePackage: Save=50.83ms
+[2018.05.04-23.05.34:005][ 62]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/FirstPersonCharacter0925D3BA42C64F65A427F9853F247D28.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2018.05.04-23.05.34:007][ 62]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset
+[2018.05.04-23.05.36:177][291]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.04-23.05.36:191][291]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.05.04-23.05.36:206][291]LogPlayLevel: [PlayLevel] Compiling FirstPersonCharacter before play...
+[2018.05.04-23.05.36:681][291]LogPlayLevel: PlayLevel: Blueprint regeneration took 490 ms (1 blueprints)
+[2018.05.04-23.05.36:681][291]PIE: New page: PIE session: NewMap (5 May 2018 01:05:36)
+[2018.05.04-23.05.36:681][291]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2018.05.04-23.05.36:689][291]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007446s)
+[2018.05.04-23.05.36:689][291]LogAIModule: Creating AISystem for world NewMap
+[2018.05.04-23.05.36:689][291]LogPlayLevel: PIE: World Init took: (0.000391s)
+[2018.05.04-23.05.36:689][291]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.007939s)
+[2018.05.04-23.05.36:707][291]LogInit: XAudio2 using 'Realtek Digital Output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.05.04-23.05.36:725][291]LogInit: FAudioDevice initialized.
+[2018.05.04-23.05.36:755][291]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.04-23.05.36:759][291]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2018.05.05-00.05.36
+[2018.05.04-23.05.36:760][291]LogWorld: Bringing up level for play took: 0.004477
+[2018.05.04-23.05.36:762][291]PIE: Play in editor start time for /Game/UEDPIE_0_NewMap 0.399
+[2018.05.04-23.05.36:862][292]LogBlueprintUserMessages: [BTTask_ScanTheArea_C_3] Aborted
+[2018.05.04-23.05.36:862][292]LogBlueprintUserMessages: [BTTask_ScanTheArea_C_3] Aborted
+[2018.05.04-23.05.40:410][710]LogBlueprintUserMessages: [BTTask_ScanTheArea_C_3] Aborted
+[2018.05.04-23.05.43:304][937]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.04-23.05.45:089][137]LogSavePackage: Save=50.85ms
+[2018.05.04-23.05.45:089][137]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/FirstPersonCharacter7D622B134EB3EA3A877ED3859B1E2A48.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2018.05.04-23.05.45:091][137]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset
+[2018.05.04-23.05.47:487][361]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.04-23.05.47:501][361]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.05.04-23.05.47:517][361]LogPlayLevel: [PlayLevel] Compiling FirstPersonCharacter before play...
+[2018.05.04-23.05.48:046][361]LogPlayLevel: PlayLevel: Blueprint regeneration took 544 ms (1 blueprints)
+[2018.05.04-23.05.48:046][361]PIE: New page: PIE session: NewMap (5 May 2018 01:05:48)
+[2018.05.04-23.05.48:046][361]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2018.05.04-23.05.48:054][361]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007376s)
+[2018.05.04-23.05.48:054][361]LogAIModule: Creating AISystem for world NewMap
+[2018.05.04-23.05.48:054][361]LogPlayLevel: PIE: World Init took: (0.000393s)
+[2018.05.04-23.05.48:054][361]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.007870s)
+[2018.05.04-23.05.48:072][361]LogInit: XAudio2 using 'Realtek Digital Output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.05.04-23.05.48:091][361]LogInit: FAudioDevice initialized.
+[2018.05.04-23.05.48:119][361]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.04-23.05.48:123][361]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2018.05.05-00.05.48
+[2018.05.04-23.05.48:124][361]LogWorld: Bringing up level for play took: 0.004046
+[2018.05.04-23.05.48:125][361]PIE: Play in editor start time for /Game/UEDPIE_0_NewMap -0.237
+[2018.05.04-23.05.48:213][362]LogBlueprintUserMessages: [BTTask_ScanTheArea_C_3] Aborted
+[2018.05.04-23.05.48:213][362]LogBlueprintUserMessages: [BTTask_ScanTheArea_C_3] Aborted
+[2018.05.04-23.05.48:213][362]LogBlueprintUserMessages: [BTTask_ScanTheArea_C_3] Aborted
+[2018.05.04-23.05.51:058][695]LogBlueprintUserMessages: [BTTask_ScanTheArea_C_3] Aborted
+[2018.05.04-23.05.53:176][902]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.04-23.05.57:149][354]LogSavePackage: Save=50.88ms
+[2018.05.04-23.05.57:149][354]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/FirstPersonCharacterFF3D19444D01B68A5D55DDBCC520A4D6.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2018.05.04-23.05.57:151][354]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset
+[2018.05.04-23.05.58:897][521]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.04-23.05.58:911][521]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.05.04-23.05.58:926][521]LogPlayLevel: [PlayLevel] Compiling FirstPersonCharacter before play...
+[2018.05.04-23.05.59:517][521]LogPlayLevel: PlayLevel: Blueprint regeneration took 605 ms (1 blueprints)
+[2018.05.04-23.05.59:517][521]PIE: New page: PIE session: NewMap (5 May 2018 01:05:59)
+[2018.05.04-23.05.59:517][521]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2018.05.04-23.05.59:524][521]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007332s)
+[2018.05.04-23.05.59:524][521]LogAIModule: Creating AISystem for world NewMap
+[2018.05.04-23.05.59:525][521]LogPlayLevel: PIE: World Init took: (0.000387s)
+[2018.05.04-23.05.59:525][521]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.007816s)
+[2018.05.04-23.05.59:542][521]LogInit: XAudio2 using 'Realtek Digital Output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.05.04-23.05.59:561][521]LogInit: FAudioDevice initialized.
+[2018.05.04-23.05.59:594][521]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.04-23.05.59:597][521]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2018.05.05-00.05.59
+[2018.05.04-23.05.59:598][521]LogWorld: Bringing up level for play took: 0.003960
+[2018.05.04-23.05.59:600][521]PIE: Play in editor start time for /Game/UEDPIE_0_NewMap 1.237
+[2018.05.04-23.06.03:404][951]LogBlueprintUserMessages: [BTTask_ScanTheArea_C_3] Aborted
+[2018.05.04-23.06.03:787][997]LogBlueprintUserMessages: [BTTask_ScanTheArea_C_3] Aborted
+[2018.05.04-23.06.04:113][ 36]LogBlueprintUserMessages: [BTTask_ScanTheArea_C_3] Aborted
+[2018.05.04-23.06.07:666][379]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.04-23.06.09:494][584]LogSavePackage: Save=51.29ms
+[2018.05.04-23.06.09:494][584]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/FirstPersonCharacter5F2A9B5C4FF2A899A09EF392A2B17AA4.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2018.05.04-23.06.09:496][584]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset
+[2018.05.04-23.06.10:361][686]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.04-23.06.10:375][686]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.05.04-23.06.10:390][686]LogPlayLevel: [PlayLevel] Compiling FirstPersonCharacter before play...
+[2018.05.04-23.06.11:039][686]LogPlayLevel: PlayLevel: Blueprint regeneration took 663 ms (1 blueprints)
+[2018.05.04-23.06.11:039][686]PIE: New page: PIE session: NewMap (5 May 2018 01:06:11)
+[2018.05.04-23.06.11:039][686]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2018.05.04-23.06.11:046][686]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007636s)
+[2018.05.04-23.06.11:047][686]LogAIModule: Creating AISystem for world NewMap
+[2018.05.04-23.06.11:047][686]LogPlayLevel: PIE: World Init took: (0.000392s)
+[2018.05.04-23.06.11:047][686]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.008127s)
+[2018.05.04-23.06.11:065][686]LogInit: XAudio2 using 'Realtek Digital Output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.05.04-23.06.11:084][686]LogInit: FAudioDevice initialized.
+[2018.05.04-23.06.11:120][686]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.04-23.06.11:123][686]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2018.05.05-00.06.11
+[2018.05.04-23.06.11:124][686]LogWorld: Bringing up level for play took: 0.004169
+[2018.05.04-23.06.11:126][686]PIE: Play in editor start time for /Game/UEDPIE_0_NewMap 0.763
+[2018.05.04-23.06.11:212][687]LogBlueprintUserMessages: [BTTask_ScanTheArea_C_3] Aborted
+[2018.05.04-23.06.11:212][687]LogBlueprintUserMessages: [BTTask_ScanTheArea_C_3] Aborted
+[2018.05.04-23.06.11:716][740]Cmd: SELECT NONE
+[2018.05.04-23.06.13:935][918]LogBlueprintUserMessages: [BTTask_ScanTheArea_C_3] Aborted
+[2018.05.04-23.06.15:890][152]LogBlueprintUserMessages: [BTTask_ScanTheArea_C_3] Aborted
+[2018.05.04-23.06.17:595][345]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.04-23.06.19:173][520]LogSavePackage: Save=51.18ms
+[2018.05.04-23.06.19:173][520]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/FirstPersonCharacter18CC189C4C01A69D2215B9913074419B.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2018.05.04-23.06.19:175][520]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset
+[2018.05.04-23.06.20:253][648]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.04-23.06.20:266][648]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.05.04-23.06.20:283][648]LogPlayLevel: [PlayLevel] Compiling FirstPersonCharacter before play...
+[2018.05.04-23.06.20:999][648]LogPlayLevel: PlayLevel: Blueprint regeneration took 732 ms (1 blueprints)
+[2018.05.04-23.06.20:999][648]PIE: New page: PIE session: NewMap (5 May 2018 01:06:20)
+[2018.05.04-23.06.20:999][648]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2018.05.04-23.06.21:007][648]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007435s)
+[2018.05.04-23.06.21:007][648]LogAIModule: Creating AISystem for world NewMap
+[2018.05.04-23.06.21:007][648]LogPlayLevel: PIE: World Init took: (0.000416s)
+[2018.05.04-23.06.21:007][648]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.007956s)
+[2018.05.04-23.06.21:025][648]LogInit: XAudio2 using 'Realtek Digital Output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.05.04-23.06.21:043][648]LogInit: FAudioDevice initialized.
+[2018.05.04-23.06.21:075][648]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.04-23.06.21:078][648]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2018.05.05-00.06.21
+[2018.05.04-23.06.21:079][648]LogWorld: Bringing up level for play took: 0.004086
+[2018.05.04-23.06.21:081][648]PIE: Play in editor start time for /Game/UEDPIE_0_NewMap 0.718
+[2018.05.04-23.06.21:167][649]LogBlueprintUserMessages: [BTTask_ScanTheArea_C_3] Aborted
+[2018.05.04-23.06.21:167][649]LogBlueprintUserMessages: [BTTask_ScanTheArea_C_3] Aborted
+[2018.05.04-23.06.21:167][649]LogBlueprintUserMessages: [BTTask_ScanTheArea_C_3] Aborted
+[2018.05.04-23.06.24:475][ 28]LogBlueprintUserMessages: [BTTask_ScanTheArea_C_3] Aborted
+[2018.05.04-23.06.24:886][ 77]LogBlueprintUserMessages: [BTTask_ScanTheArea_C_3] Aborted
+[2018.05.04-23.06.27:534][382]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.04-23.06.29:453][598]LogSavePackage: Save=50.64ms
+[2018.05.04-23.06.29:453][598]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/FirstPersonCharacter490A83E4421867BD57DBC8809F1EAE20.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2018.05.04-23.06.29:455][598]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset
+[2018.05.04-23.06.30:453][717]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.04-23.06.30:467][717]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.05.04-23.06.30:482][717]LogPlayLevel: [PlayLevel] Compiling FirstPersonCharacter before play...
+[2018.05.04-23.06.31:247][717]LogPlayLevel: PlayLevel: Blueprint regeneration took 780 ms (1 blueprints)
+[2018.05.04-23.06.31:247][717]PIE: New page: PIE session: NewMap (5 May 2018 01:06:31)
+[2018.05.04-23.06.31:247][717]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2018.05.04-23.06.31:255][717]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007347s)
+[2018.05.04-23.06.31:255][717]LogAIModule: Creating AISystem for world NewMap
+[2018.05.04-23.06.31:255][717]LogPlayLevel: PIE: World Init took: (0.000391s)
+[2018.05.04-23.06.31:255][717]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.007841s)
+[2018.05.04-23.06.31:273][717]LogInit: XAudio2 using 'Realtek Digital Output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.05.04-23.06.31:291][717]LogInit: FAudioDevice initialized.
+[2018.05.04-23.06.31:320][717]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.04-23.06.31:324][717]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2018.05.05-00.06.31
+[2018.05.04-23.06.31:325][717]LogWorld: Bringing up level for play took: 0.004016
+[2018.05.04-23.06.31:327][717]PIE: Play in editor start time for /Game/UEDPIE_0_NewMap 0.964
+[2018.05.04-23.06.31:412][718]LogBlueprintUserMessages: [BTTask_ScanTheArea_C_3] Aborted
+[2018.05.04-23.06.31:412][718]LogBlueprintUserMessages: [BTTask_ScanTheArea_C_3] Aborted
+[2018.05.04-23.06.31:412][718]LogBlueprintUserMessages: [BTTask_ScanTheArea_C_3] Aborted
+[2018.05.04-23.06.35:386][177]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.04-23.06.37:658][435]LogSavePackage: Save=51.15ms
+[2018.05.04-23.06.37:658][435]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/FirstPersonCharacterF975AEA148FAF4C192F34AAB5F93A919.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2018.05.04-23.06.37:660][435]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset
+[2018.05.04-23.06.38:578][544]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.04-23.06.38:592][544]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.05.04-23.06.38:607][544]LogPlayLevel: [PlayLevel] Compiling FirstPersonCharacter before play...
+[2018.05.04-23.06.39:429][544]LogPlayLevel: PlayLevel: Blueprint regeneration took 836 ms (1 blueprints)
+[2018.05.04-23.06.39:429][544]PIE: New page: PIE session: NewMap (5 May 2018 01:06:39)
+[2018.05.04-23.06.39:429][544]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2018.05.04-23.06.39:436][544]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007255s)
+[2018.05.04-23.06.39:436][544]LogAIModule: Creating AISystem for world NewMap
+[2018.05.04-23.06.39:436][544]LogPlayLevel: PIE: World Init took: (0.000389s)
+[2018.05.04-23.06.39:437][544]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.007741s)
+[2018.05.04-23.06.39:454][544]LogInit: XAudio2 using 'Realtek Digital Output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.05.04-23.06.39:472][544]LogInit: FAudioDevice initialized.
+[2018.05.04-23.06.39:499][544]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.04-23.06.39:503][544]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2018.05.05-00.06.39
+[2018.05.04-23.06.39:504][544]LogWorld: Bringing up level for play took: 0.003963
+[2018.05.04-23.06.39:505][544]PIE: Play in editor start time for /Game/UEDPIE_0_NewMap 1.142
+[2018.05.04-23.06.39:591][545]LogBlueprintUserMessages: [BTTask_ScanTheArea_C_3] Aborted
+[2018.05.04-23.06.39:591][545]LogBlueprintUserMessages: [BTTask_ScanTheArea_C_3] Aborted
+[2018.05.04-23.06.42:415][873]LogBlueprintUserMessages: [BTTask_ScanTheArea_C_3] Aborted
+[2018.05.04-23.06.44:136][ 79]LogBlueprintUserMessages: [BTTask_ScanTheArea_C_3] Aborted
+[2018.05.04-23.06.46:504][317]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.04-23.06.47:008][366]LogSavePackage: Save=51.06ms
+[2018.05.04-23.06.47:008][366]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/FirstPersonCharacterF5101AC94CA8C1DCE71969B5E7027661.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2018.05.04-23.06.47:010][366]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset
+[2018.05.04-23.06.47:930][469]LogSlate: Window 'FirstPersonCharacter' being destroyed
+[2018.05.04-23.06.47:933][469]LogSlate: Window 'FirstPersonCharacter' being destroyed
+[2018.05.04-23.06.57:089][521]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.04-23.06.57:101][521]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/bullet1" FILE="../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/bullet1.uasset" SILENT=true
+[2018.05.04-23.06.57:114][521]LogSavePackage: Save=11.00ms
+[2018.05.04-23.06.57:114][521]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/bullet1AB57E8D44B05383DF6C812B36BA70549.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/bullet1.uasset'
+[2018.05.04-23.06.57:116][521]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/bullet1.uasset
+[2018.05.04-23.06.57:443][553]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/bullet1" FILE="../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/bullet1.uasset" SILENT=true
+[2018.05.04-23.06.57:461][553]LogSavePackage: Save=6.57ms
+[2018.05.04-23.06.57:461][553]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/bullet1A04DF35B44C77CDD993F279B457F0C22.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/bullet1.uasset'
+[2018.05.04-23.06.57:462][553]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/bullet1.uasset
+[2018.05.04-23.06.59:516][799]Cmd: SELECT NONE
+[2018.05.04-23.07.08:706][889]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.04-23.07.09:247][953]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.04-23.07.09:624][997]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.04-23.07.10:575][110]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.04-23.07.11:023][162]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.04-23.07.11:057][165]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.04-23.07.18:650][ 64]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.04-23.07.18:733][ 74]LogSlate: Window 'bullet1' being destroyed
+[2018.05.04-23.07.18:737][ 74]LogSlate: Window 'bullet1' being destroyed
+[2018.05.04-23.07.19:905][189]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap" FILE="../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.05.04-23.07.20:018][189]LogSavePackage: Save=90.69ms
+[2018.05.04-23.07.20:018][189]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/NewMap6B08FD3F4EDE4F1E9F90D1AA997A0220.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap.umap'
+[2018.05.04-23.07.20:019][189]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap.umap
+[2018.05.04-23.07.20:043][189]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap_BuiltData" FILE="../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap_BuiltData.uasset" SILENT=true
+[2018.05.04-23.07.20:122][189]LogSavePackage: Save=70.94ms
+[2018.05.04-23.07.20:122][189]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/NewMap_BuiltData4FB84DB6474B0BEDD64376A48C411CD0.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap_BuiltData.uasset'
+[2018.05.04-23.07.20:123][189]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap_BuiltData.uasset
+[2018.05.04-23.07.38:178][296]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.04-23.07.38:190][296]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Bullet" FILE="../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/Bullet.uasset" SILENT=true
+[2018.05.04-23.07.38:210][296]LogSavePackage: Save=12.38ms
+[2018.05.04-23.07.38:210][296]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/Bullet320E9A1144C9D732F2883A819DF05B7C.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/Bullet.uasset'
+[2018.05.04-23.07.38:212][296]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/Bullet.uasset
+[2018.05.04-23.07.39:922][498]BlueprintLog: New page: Compile Bullet
+[2018.05.04-23.07.41:593][614]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.04-23.07.41:608][614]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.04-23.07.41:608][614]PIE: New page: PIE session: NewMap (5 May 2018 01:07:41)
+[2018.05.04-23.07.41:608][614]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2018.05.04-23.07.41:615][614]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007320s)
+[2018.05.04-23.07.41:615][614]LogAIModule: Creating AISystem for world NewMap
+[2018.05.04-23.07.41:616][614]LogPlayLevel: PIE: World Init took: (0.000420s)
+[2018.05.04-23.07.41:616][614]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.007840s)
+[2018.05.04-23.07.41:636][614]LogInit: XAudio2 using 'Realtek Digital Output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.05.04-23.07.41:655][614]LogInit: FAudioDevice initialized.
+[2018.05.04-23.07.41:682][614]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.04-23.07.41:685][614]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2018.05.05-00.07.41
+[2018.05.04-23.07.41:686][614]LogWorld: Bringing up level for play took: 0.004059
+[2018.05.04-23.07.41:688][614]PIE: Play in editor start time for /Game/UEDPIE_0_NewMap -0.675
+[2018.05.04-23.07.41:719][615]LogBlueprintUserMessages: [BTTask_ScanTheArea_C_3] Aborted
+[2018.05.04-23.07.41:719][615]LogBlueprintUserMessages: [BTTask_ScanTheArea_C_3] Aborted
+[2018.05.04-23.07.43:875][873]LogBlueprintUserMessages: [BTTask_ScanTheArea_C_3] Aborted
+[2018.05.04-23.07.44:125][903]LogBlueprintUserMessages: [BTTask_ScanTheArea_C_3] Aborted
+[2018.05.04-23.07.46:633][203]LogBlueprintUserMessages: [BTTask_ScanTheArea_C_3] Aborted
+[2018.05.04-23.07.47:327][286]LogBlueprintUserMessages: [BTTask_ScanTheArea_C_3] Aborted
+[2018.05.04-23.07.50:095][529]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.04-23.07.53:776][968]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.04-23.07.53:789][968]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Bullet" FILE="../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/Bullet.uasset" SILENT=true
+[2018.05.04-23.07.53:808][968]LogSavePackage: Save=12.40ms
+[2018.05.04-23.07.53:809][968]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/Bullet2FD6AFFC4D8646176E1A679F4B98AD39.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/Bullet.uasset'
+[2018.05.04-23.07.53:811][968]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/Bullet.uasset
+[2018.05.04-23.07.55:399][117]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.04-23.07.55:413][117]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.05.04-23.07.55:416][117]LogPlayLevel: [PlayLevel] Compiling Bullet before play...
+[2018.05.04-23.07.55:610][117]LogPlayLevel: PlayLevel: Blueprint regeneration took 196 ms (1 blueprints)
+[2018.05.04-23.07.55:610][117]PIE: New page: PIE session: NewMap (5 May 2018 01:07:55)
+[2018.05.04-23.07.55:610][117]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2018.05.04-23.07.55:618][117]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007259s)
+[2018.05.04-23.07.55:618][117]LogAIModule: Creating AISystem for world NewMap
+[2018.05.04-23.07.55:618][117]LogPlayLevel: PIE: World Init took: (0.000392s)
+[2018.05.04-23.07.55:618][117]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.007751s)
+[2018.05.04-23.07.55:636][117]LogInit: XAudio2 using 'Realtek Digital Output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.05.04-23.07.55:654][117]LogInit: FAudioDevice initialized.
+[2018.05.04-23.07.55:686][117]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.04-23.07.55:690][117]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2018.05.05-00.07.55
+[2018.05.04-23.07.55:691][117]LogWorld: Bringing up level for play took: 0.004042
+[2018.05.04-23.07.55:692][117]PIE: Play in editor start time for /Game/UEDPIE_0_NewMap -0.671
+[2018.05.04-23.07.55:749][118]LogBlueprintUserMessages: [BTTask_ScanTheArea_C_3] Aborted
+[2018.05.04-23.07.55:750][118]LogBlueprintUserMessages: [BTTask_ScanTheArea_C_3] Aborted
+[2018.05.04-23.07.55:750][118]LogBlueprintUserMessages: [BTTask_ScanTheArea_C_3] Aborted
+[2018.05.04-23.07.55:750][118]LogBlueprintUserMessages: [BTTask_ScanTheArea_C_3] Aborted
+[2018.05.04-23.07.58:050][383]LogBlueprintUserMessages: [BTTask_ScanTheArea_C_3] Aborted
+[2018.05.04-23.07.58:237][405]LogBlueprintUserMessages: [BTTask_ScanTheArea_C_3] Aborted
+[2018.05.04-23.08.00:750][706]LogBlueprintUserMessages: [BTTask_ScanTheArea_C_3] Aborted
+[2018.05.04-23.08.01:491][795]LogBlueprintUserMessages: [BTTask_ScanTheArea_C_3] Aborted
+[2018.05.04-23.08.02:922][956]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.04-23.08.02:997][965]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.04-23.08.03:011][965]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.04-23.08.03:011][965]PIE: New page: PIE session: NewMap (5 May 2018 01:08:03)
+[2018.05.04-23.08.03:011][965]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2018.05.04-23.08.03:019][965]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007522s)
+[2018.05.04-23.08.03:019][965]LogAIModule: Creating AISystem for world NewMap
+[2018.05.04-23.08.03:019][965]LogPlayLevel: PIE: World Init took: (0.000404s)
+[2018.05.04-23.08.03:019][965]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.008026s)
+[2018.05.04-23.08.03:037][965]LogInit: XAudio2 using 'Realtek Digital Output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.05.04-23.08.03:056][965]LogInit: FAudioDevice initialized.
+[2018.05.04-23.08.03:088][965]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.04-23.08.03:092][965]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2018.05.05-00.08.03
+[2018.05.04-23.08.03:093][965]LogWorld: Bringing up level for play took: 0.004129
+[2018.05.04-23.08.03:095][965]PIE: Play in editor start time for /Game/UEDPIE_0_NewMap 0.732
+[2018.05.04-23.08.03:126][966]LogBlueprintUserMessages: [BTTask_ScanTheArea_C_3] Aborted
+[2018.05.04-23.08.03:126][966]LogBlueprintUserMessages: [BTTask_ScanTheArea_C_3] Aborted
+[2018.05.04-23.08.03:126][966]LogBlueprintUserMessages: [BTTask_ScanTheArea_C_3] Aborted
+[2018.05.04-23.08.08:628][626]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.04-23.08.19:192][892]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.04-23.08.25:952][692]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.04-23.08.26:043][703]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.04-23.08.26:058][703]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.04-23.08.26:058][703]PIE: New page: PIE session: NewMap (5 May 2018 01:08:26)
+[2018.05.04-23.08.26:058][703]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2018.05.04-23.08.26:065][703]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007380s)
+[2018.05.04-23.08.26:066][703]LogAIModule: Creating AISystem for world NewMap
+[2018.05.04-23.08.26:066][703]LogPlayLevel: PIE: World Init took: (0.000397s)
+[2018.05.04-23.08.26:066][703]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.007877s)
+[2018.05.04-23.08.26:084][703]LogInit: XAudio2 using 'Realtek Digital Output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.05.04-23.08.26:104][703]LogInit: FAudioDevice initialized.
+[2018.05.04-23.08.26:132][703]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.04-23.08.26:136][703]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2018.05.05-00.08.26
+[2018.05.04-23.08.26:138][703]LogWorld: Bringing up level for play took: 0.005404
+[2018.05.04-23.08.26:139][703]PIE: Play in editor start time for /Game/UEDPIE_0_NewMap -0.224
+[2018.05.04-23.08.26:170][704]LogBlueprintUserMessages: [BTTask_ScanTheArea_C_3] Aborted
+[2018.05.04-23.08.26:170][704]LogBlueprintUserMessages: [BTTask_ScanTheArea_C_3] Aborted
+[2018.05.04-23.08.29:241][ 72]LogBlueprintUserMessages: [BTTask_ScanTheArea_C_3] Aborted
+[2018.05.04-23.08.32:839][497]LogBlueprintUserMessages: [BTTask_ScanTheArea_C_3] Aborted
+[2018.05.04-23.08.33:256][547]LogBlueprintUserMessages: [BTTask_ScanTheArea_C_3] Aborted
+[2018.05.04-23.08.34:190][659]LogBlueprintUserMessages: [BTTask_ScanTheArea_C_3] Aborted
+[2018.05.04-23.08.36:524][939]LogBlueprintUserMessages: [BTTask_ScanTheArea_C_3] Aborted
+[2018.05.04-23.08.36:833][976]LogBlueprintUserMessages: [BTTask_ScanTheArea_C_3] Aborted
+[2018.05.04-23.08.37:126][ 11]LogBlueprintUserMessages: [BTTask_ScanTheArea_C_3] Aborted
+[2018.05.04-23.08.39:159][254]LogBlueprintUserMessages: [BTTask_ScanTheArea_C_3] Aborted
+[2018.05.04-23.08.39:395][282]LogBlueprintUserMessages: [BTTask_ScanTheArea_C_3] Aborted
+[2018.05.04-23.08.42:301][629]LogBlueprintUserMessages: [BTTask_ScanTheArea_C_3] Aborted
+[2018.05.04-23.08.44:571][825]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.04-23.08.44:576][825]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap" FILE="../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.05.04-23.08.44:691][825]LogSavePackage: Save=91.41ms
+[2018.05.04-23.08.44:691][825]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/NewMapB79B16BD4857DC9A368137920725A2D2.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap.umap'
+[2018.05.04-23.08.44:692][825]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap.umap
+[2018.05.04-23.08.44:721][825]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap_BuiltData" FILE="../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap_BuiltData.uasset" SILENT=true
+[2018.05.04-23.08.44:799][825]LogSavePackage: Save=70.66ms
+[2018.05.04-23.08.44:799][825]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/NewMap_BuiltData248DA15B4F4CB3B3BCCB0A94D79E72E3.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap_BuiltData.uasset'
+[2018.05.04-23.08.44:800][825]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap_BuiltData.uasset
+[2018.05.04-23.08.47:736][ 98]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.04-23.08.47:749][ 98]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Bullet" FILE="../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/Bullet.uasset" SILENT=true
+[2018.05.04-23.08.47:769][ 98]LogSavePackage: Save=12.43ms
+[2018.05.04-23.08.47:769][ 98]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/Bullet01904186430D156F9DA844B63AE5E383.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/Bullet.uasset'
+[2018.05.04-23.08.47:770][ 98]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/Bullet.uasset
+[2018.05.04-23.08.49:062][251]LogSlate: Window 'Bullet' being destroyed
+[2018.05.04-23.08.49:064][251]LogSlate: Window 'Bullet' being destroyed
+[2018.05.04-23.08.57:729][247]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Bullet" FILE="../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/Bullet.uasset" SILENT=true
+[2018.05.04-23.08.57:743][247]LogSavePackage: Save=6.96ms
+[2018.05.04-23.08.57:743][247]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/Bullet1C50DDB047C5B336052AED8F454710BE.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/Bullet.uasset'
+[2018.05.04-23.08.57:744][247]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/Bullet.uasset
+[2018.05.04-23.09.19:151][795]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Bullet" FILE="../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/Bullet.uasset" SILENT=true
+[2018.05.04-23.09.19:169][795]LogSavePackage: Save=6.87ms
+[2018.05.04-23.09.19:169][795]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/BulletD756B8F1442D2DD1C26E988C9EB8F9A7.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/Bullet.uasset'
+[2018.05.04-23.09.19:170][795]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/Bullet.uasset
+[2018.05.04-23.09.20:887][997]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Bullet" FILE="../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/Bullet.uasset" SILENT=true
+[2018.05.04-23.09.20:908][997]LogSavePackage: Save=12.60ms
+[2018.05.04-23.09.20:908][997]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/BulletFB194C9A45393292B7EDE28DD9D430CF.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/Bullet.uasset'
+[2018.05.04-23.09.20:910][997]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/Bullet.uasset
+[2018.05.04-23.09.22:740][187]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.04-23.09.22:760][187]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.05.04-23.09.22:762][187]LogPlayLevel: [PlayLevel] Compiling Bullet before play...
+[2018.05.04-23.09.23:011][187]LogPlayLevel: PlayLevel: Blueprint regeneration took 251 ms (1 blueprints)
+[2018.05.04-23.09.23:012][187]PIE: New page: PIE session: NewMap (5 May 2018 01:09:23)
+[2018.05.04-23.09.23:012][187]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2018.05.04-23.09.23:019][187]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007757s)
+[2018.05.04-23.09.23:020][187]LogAIModule: Creating AISystem for world NewMap
+[2018.05.04-23.09.23:020][187]LogPlayLevel: PIE: World Init took: (0.000412s)
+[2018.05.04-23.09.23:020][187]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.008266s)
+[2018.05.04-23.09.23:038][187]LogInit: XAudio2 using 'Realtek Digital Output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.05.04-23.09.23:057][187]LogInit: FAudioDevice initialized.
+[2018.05.04-23.09.23:091][187]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.04-23.09.23:095][187]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2018.05.05-00.09.23
+[2018.05.04-23.09.23:096][187]LogWorld: Bringing up level for play took: 0.004319
+[2018.05.04-23.09.23:097][187]PIE: Play in editor start time for /Game/UEDPIE_0_NewMap 0.734
+[2018.05.04-23.09.23:158][188]LogBlueprintUserMessages: [BTTask_ScanTheArea_C_3] Aborted
+[2018.05.04-23.09.23:158][188]LogBlueprintUserMessages: [BTTask_ScanTheArea_C_3] Aborted
+[2018.05.04-23.09.23:158][188]LogBlueprintUserMessages: [BTTask_ScanTheArea_C_3] Aborted
+[2018.05.04-23.09.24:671][359]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.04-23.09.26:363][561]LogBlueprintUserMessages: [BTTask_ScanTheArea_C_3] Aborted
+[2018.05.04-23.09.29:846][854]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.04-23.09.38:021][826]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Bullet" FILE="../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/Bullet.uasset" SILENT=true
+[2018.05.04-23.09.38:041][826]LogSavePackage: Save=12.78ms
+[2018.05.04-23.09.38:041][826]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/Bullet51747B914A5155CF59BA609860815C79.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/Bullet.uasset'
+[2018.05.04-23.09.38:043][826]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/Bullet.uasset
+[2018.05.04-23.09.39:709][992]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.04-23.09.39:724][992]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.05.04-23.09.39:726][992]LogPlayLevel: [PlayLevel] Compiling Bullet before play...
+[2018.05.04-23.09.40:026][992]LogPlayLevel: PlayLevel: Blueprint regeneration took 302 ms (1 blueprints)
+[2018.05.04-23.09.40:026][992]PIE: New page: PIE session: NewMap (5 May 2018 01:09:40)
+[2018.05.04-23.09.40:026][992]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2018.05.04-23.09.40:033][992]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007375s)
+[2018.05.04-23.09.40:034][992]LogAIModule: Creating AISystem for world NewMap
+[2018.05.04-23.09.40:034][992]LogPlayLevel: PIE: World Init took: (0.000402s)
+[2018.05.04-23.09.40:034][992]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.007877s)
+[2018.05.04-23.09.40:052][992]LogInit: XAudio2 using 'Realtek Digital Output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.05.04-23.09.40:072][992]LogInit: FAudioDevice initialized.
+[2018.05.04-23.09.40:100][992]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.04-23.09.40:104][992]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2018.05.05-00.09.40
+[2018.05.04-23.09.40:105][992]LogWorld: Bringing up level for play took: 0.004283
+[2018.05.04-23.09.40:107][992]PIE: Play in editor start time for /Game/UEDPIE_0_NewMap -0.256
+[2018.05.04-23.09.40:199][993]LogBlueprintUserMessages: [BTTask_ScanTheArea_C_3] Aborted
+[2018.05.04-23.09.44:050][365]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.04-23.09.54:393][592]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Bullet" FILE="../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/Bullet.uasset" SILENT=true
+[2018.05.04-23.09.54:414][592]LogSavePackage: Save=12.48ms
+[2018.05.04-23.09.54:414][592]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/Bullet9B401FF24482BA8327D3C0BD6C35386B.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/Bullet.uasset'
+[2018.05.04-23.09.54:416][592]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/Bullet.uasset
+[2018.05.04-23.09.55:582][731]BlueprintLog: New page: Compile Bullet
+[2018.05.04-23.10.00:633][186]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Bullet" FILE="../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/Bullet.uasset" SILENT=true
+[2018.05.04-23.10.00:654][186]LogSavePackage: Save=12.45ms
+[2018.05.04-23.10.00:654][186]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/BulletF03B9D52492F917D67D6568FC9C96391.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/Bullet.uasset'
+[2018.05.04-23.10.00:656][186]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/Bullet.uasset
+[2018.05.04-23.10.02:340][346]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.04-23.10.02:355][346]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.05.04-23.10.02:357][346]LogPlayLevel: [PlayLevel] Compiling Bullet before play...
+[2018.05.04-23.10.02:545][346]LogPlayLevel: PlayLevel: Blueprint regeneration took 190 ms (1 blueprints)
+[2018.05.04-23.10.02:545][346]PIE: New page: PIE session: NewMap (5 May 2018 01:10:02)
+[2018.05.04-23.10.02:545][346]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2018.05.04-23.10.02:553][346]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007337s)
+[2018.05.04-23.10.02:553][346]LogAIModule: Creating AISystem for world NewMap
+[2018.05.04-23.10.02:553][346]LogPlayLevel: PIE: World Init took: (0.000424s)
+[2018.05.04-23.10.02:553][346]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.007858s)
+[2018.05.04-23.10.02:571][346]LogInit: XAudio2 using 'Realtek Digital Output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.05.04-23.10.02:589][346]LogInit: FAudioDevice initialized.
+[2018.05.04-23.10.02:617][346]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.04-23.10.02:621][346]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2018.05.05-00.10.02
+[2018.05.04-23.10.02:622][346]LogWorld: Bringing up level for play took: 0.004045
+[2018.05.04-23.10.02:623][346]PIE: Play in editor start time for /Game/UEDPIE_0_NewMap 0.261
+[2018.05.04-23.10.02:684][347]LogBlueprintUserMessages: [BTTask_ScanTheArea_C_3] Aborted
+[2018.05.04-23.10.02:684][347]LogBlueprintUserMessages: [BTTask_ScanTheArea_C_3] Aborted
+[2018.05.04-23.10.02:684][347]LogBlueprintUserMessages: [BTTask_ScanTheArea_C_3] Aborted
+[2018.05.04-23.10.02:684][347]LogBlueprintUserMessages: [BTTask_ScanTheArea_C_3] Aborted
+[2018.05.04-23.10.05:357][657]LogBlueprintUserMessages: [BTTask_ScanTheArea_C_3] Aborted
+[2018.05.04-23.10.06:329][773]LogBlueprintUserMessages: [BTTask_ScanTheArea_C_3] Aborted
+[2018.05.04-23.10.06:691][816]LogBlueprintUserMessages: [BTTask_ScanTheArea_C_3] Aborted
+[2018.05.04-23.10.08:071][981]LogBlueprintUserMessages: [BTTask_ScanTheArea_C_3] Aborted
+[2018.05.04-23.10.08:474][ 29]LogBlueprintUserMessages: [BTTask_ScanTheArea_C_3] Aborted
+[2018.05.04-23.10.12:425][502]LogBlueprintUserMessages: [BTTask_ScanTheArea_C_3] Aborted
+[2018.05.04-23.10.15:168][829]LogBlueprintUserMessages: [BTTask_ScanTheArea_C_3] Aborted
+[2018.05.04-23.10.18:973][282]LogBlueprintUserMessages: [BTTask_ScanTheArea_C_3] Aborted
+[2018.05.04-23.10.21:596][595]LogBlueprintUserMessages: [BTTask_ScanTheArea_C_3] Aborted
+[2018.05.04-23.10.23:857][864]LogBlueprintUserMessages: [BTTask_ScanTheArea_C_3] Aborted
+[2018.05.04-23.10.31:785][696]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.04-23.10.31:877][707]LogSlate: Window 'Bullet' being destroyed
+[2018.05.04-23.10.31:880][707]LogSlate: Window 'Bullet' being destroyed
+[2018.05.04-23.10.54:049][288]LogSavePackage: Save=50.84ms
+[2018.05.04-23.10.54:049][288]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/FirstPersonCharacter8AC251C64EE66844DD6AE28EB1AA2E8C.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2018.05.04-23.10.54:051][288]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset
+[2018.05.04-23.10.54:725][368]BlueprintLog: New page: Compile FirstPersonCharacter
+[2018.05.04-23.10.56:675][467]LogSavePackage: Save=50.72ms
+[2018.05.04-23.10.56:675][467]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/FirstPersonCharacter315E12B34C674838B8388182E24BC17A.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2018.05.04-23.10.56:676][467]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset
+[2018.05.04-23.10.57:610][578]LogSlate: Window 'FirstPersonCharacter' being destroyed
+[2018.05.04-23.10.57:614][578]LogSlate: Window 'FirstPersonCharacter' being destroyed
+[2018.05.04-23.10.58:307][649]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.04-23.10.58:324][649]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.04-23.10.58:324][649]PIE: New page: PIE session: NewMap (5 May 2018 01:10:58)
+[2018.05.04-23.10.58:324][649]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2018.05.04-23.10.58:332][649]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007415s)
+[2018.05.04-23.10.58:332][649]LogAIModule: Creating AISystem for world NewMap
+[2018.05.04-23.10.58:332][649]LogPlayLevel: PIE: World Init took: (0.000409s)
+[2018.05.04-23.10.58:332][649]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.007922s)
+[2018.05.04-23.10.58:351][649]LogInit: XAudio2 using 'Realtek Digital Output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.05.04-23.10.58:370][649]LogInit: FAudioDevice initialized.
+[2018.05.04-23.10.58:398][649]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.04-23.10.58:402][649]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2018.05.05-00.10.58
+[2018.05.04-23.10.58:403][649]LogWorld: Bringing up level for play took: 0.004284
+[2018.05.04-23.10.58:405][649]PIE: Play in editor start time for /Game/UEDPIE_0_NewMap 0.042
+[2018.05.04-23.10.58:431][650]LogBlueprintUserMessages: [BTTask_ScanTheArea_C_3] Aborted
+[2018.05.04-23.11.01:806][ 55]LogBlueprintUserMessages: [BTTask_ScanTheArea_C_3] Aborted
+[2018.05.04-23.11.03:956][313]LogBlueprintUserMessages: [BTTask_ScanTheArea_C_3] Aborted
+[2018.05.04-23.11.07:920][779]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.04-23.11.08:396][835]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap" FILE="../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.05.04-23.11.08:512][835]LogSavePackage: Save=90.78ms
+[2018.05.04-23.11.08:512][835]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/NewMapC8A4EDB146F8570B559133A3B9090000.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap.umap'
+[2018.05.04-23.11.08:513][835]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap.umap
+[2018.05.04-23.11.08:536][835]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap_BuiltData" FILE="../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap_BuiltData.uasset" SILENT=true
+[2018.05.04-23.11.08:618][835]LogSavePackage: Save=69.08ms
+[2018.05.04-23.11.08:618][835]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/NewMap_BuiltData1E199BD1467504660501E0B07DEC738A.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap_BuiltData.uasset'
+[2018.05.04-23.11.08:619][835]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap_BuiltData.uasset
+[2018.05.04-23.11.21:365][314]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Bullet" FILE="../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/Bullet.uasset" SILENT=true
+[2018.05.04-23.11.21:387][314]LogSavePackage: Save=14.40ms
+[2018.05.04-23.11.21:387][314]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/BulletFBA2AC664AB0193E427493B67978C7DA.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/Bullet.uasset'
+[2018.05.04-23.11.21:389][314]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/Bullet.uasset
+[2018.05.04-23.11.23:455][517]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.04-23.11.23:469][517]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.05.04-23.11.23:472][517]LogPlayLevel: [PlayLevel] Compiling Bullet before play...
+[2018.05.04-23.11.23:714][517]LogPlayLevel: PlayLevel: Blueprint regeneration took 244 ms (1 blueprints)
+[2018.05.04-23.11.23:714][517]PIE: New page: PIE session: NewMap (5 May 2018 01:11:23)
+[2018.05.04-23.11.23:714][517]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2018.05.04-23.11.23:721][517]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007335s)
+[2018.05.04-23.11.23:722][517]LogAIModule: Creating AISystem for world NewMap
+[2018.05.04-23.11.23:722][517]LogPlayLevel: PIE: World Init took: (0.000403s)
+[2018.05.04-23.11.23:722][517]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.007838s)
+[2018.05.04-23.11.23:739][517]LogInit: XAudio2 using 'Realtek Digital Output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.05.04-23.11.23:758][517]LogInit: FAudioDevice initialized.
+[2018.05.04-23.11.23:792][517]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.04-23.11.23:796][517]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2018.05.05-00.11.23
+[2018.05.04-23.11.23:797][517]LogWorld: Bringing up level for play took: 0.004207
+[2018.05.04-23.11.23:799][517]PIE: Play in editor start time for /Game/UEDPIE_0_NewMap -0.564
+[2018.05.04-23.11.23:858][518]LogBlueprintUserMessages: [BTTask_ScanTheArea_C_3] Aborted
+[2018.05.04-23.11.23:858][518]LogBlueprintUserMessages: [BTTask_ScanTheArea_C_3] Aborted
+[2018.05.04-23.11.26:716][856]LogBlueprintUserMessages: [BTTask_ScanTheArea_C_3] Aborted
+[2018.05.04-23.11.27:800][985]LogBlueprintUserMessages: [BTTask_ScanTheArea_C_3] Aborted
+[2018.05.04-23.11.31:600][440]LogBlueprintUserMessages: [BTTask_ScanTheArea_C_3] Aborted
+[2018.05.04-23.11.33:187][630]LogBlueprintUserMessages: [BTTask_ScanTheArea_C_3] Aborted
+[2018.05.04-23.11.36:781][ 60]LogBlueprintUserMessages: [BTTask_ScanTheArea_C_3] Aborted
+[2018.05.04-23.11.40:073][375]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.04-23.11.40:077][375]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap" FILE="../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.05.04-23.11.40:191][375]LogSavePackage: Save=91.43ms
+[2018.05.04-23.11.40:191][375]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/NewMap49D136DF4182E77EEE7DE8A1408BADCE.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap.umap'
+[2018.05.04-23.11.40:192][375]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap.umap
+[2018.05.04-23.11.40:215][375]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap_BuiltData" FILE="../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap_BuiltData.uasset" SILENT=true
+[2018.05.04-23.11.40:295][375]LogSavePackage: Save=72.12ms
+[2018.05.04-23.11.40:295][375]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/NewMap_BuiltDataAB26523642D455767E7E41B4F72F45DD.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap_BuiltData.uasset'
+[2018.05.04-23.11.40:296][375]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap_BuiltData.uasset
+[2018.05.04-23.11.54:553][ 68]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Bullet" FILE="../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/Bullet.uasset" SILENT=true
+[2018.05.04-23.11.54:573][ 68]LogSavePackage: Save=12.50ms
+[2018.05.04-23.11.54:573][ 68]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/Bullet78CBEB6E4C7FAFA4521EAFA9C7931E62.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/Bullet.uasset'
+[2018.05.04-23.11.54:575][ 68]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/Bullet.uasset
+[2018.05.04-23.11.55:954][229]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Bullet" FILE="../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/Bullet.uasset" SILENT=true
+[2018.05.04-23.11.55:974][229]LogSavePackage: Save=12.33ms
+[2018.05.04-23.11.55:974][229]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/Bullet318CDF1D4B1E5D1FC9D75B9B1D36329C.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/Bullet.uasset'
+[2018.05.04-23.11.55:976][229]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/Bullet.uasset
+[2018.05.04-23.11.57:709][429]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Bullet" FILE="../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/Bullet.uasset" SILENT=true
+[2018.05.04-23.11.57:724][429]LogSavePackage: Save=6.80ms
+[2018.05.04-23.11.57:724][429]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/BulletF1F465E64566F4269808B780444F0164.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/Bullet.uasset'
+[2018.05.04-23.11.57:725][429]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/Bullet.uasset
+[2018.05.04-23.11.59:976][691]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Bullet" FILE="../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/Bullet.uasset" SILENT=true
+[2018.05.04-23.11.59:990][691]LogSavePackage: Save=6.86ms
+[2018.05.04-23.11.59:990][691]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/Bullet26D9122C4E4F07F51FF9C0BFDE8F5113.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/Bullet.uasset'
+[2018.05.04-23.11.59:991][691]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/Bullet.uasset
+[2018.05.04-23.12.02:851][  0]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.04-23.12.02:865][  0]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.05.04-23.12.02:867][  0]LogPlayLevel: [PlayLevel] Compiling Bullet before play...
+[2018.05.04-23.12.03:171][  0]LogPlayLevel: PlayLevel: Blueprint regeneration took 306 ms (1 blueprints)
+[2018.05.04-23.12.03:171][  0]PIE: New page: PIE session: NewMap (5 May 2018 01:12:03)
+[2018.05.04-23.12.03:171][  0]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2018.05.04-23.12.03:179][  0]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007641s)
+[2018.05.04-23.12.03:179][  0]LogAIModule: Creating AISystem for world NewMap
+[2018.05.04-23.12.03:179][  0]LogPlayLevel: PIE: World Init took: (0.000421s)
+[2018.05.04-23.12.03:179][  0]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.008160s)
+[2018.05.04-23.12.03:197][  0]LogInit: XAudio2 using 'Realtek Digital Output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.05.04-23.12.03:217][  0]LogInit: FAudioDevice initialized.
+[2018.05.04-23.12.03:247][  0]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.04-23.12.03:250][  0]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2018.05.05-00.12.03
+[2018.05.04-23.12.03:252][  0]LogWorld: Bringing up level for play took: 0.004139
+[2018.05.04-23.12.03:253][  0]PIE: Play in editor start time for /Game/UEDPIE_0_NewMap 0.89
+[2018.05.04-23.12.03:315][  1]LogBlueprintUserMessages: [BTTask_ScanTheArea_C_3] Aborted
+[2018.05.04-23.12.03:315][  1]LogBlueprintUserMessages: [BTTask_ScanTheArea_C_3] Aborted
+[2018.05.04-23.12.05:700][272]LogBlueprintUserMessages: [BTTask_ScanTheArea_C_3] Aborted
+[2018.05.04-23.12.06:292][343]LogBlueprintUserMessages: [BTTask_ScanTheArea_C_3] Aborted
+[2018.05.04-23.12.06:881][413]LogBlueprintUserMessages: [BTTask_ScanTheArea_C_3] Aborted
+[2018.05.04-23.12.08:560][614]LogBlueprintUserMessages: [BTTask_ScanTheArea_C_3] Aborted
+[2018.05.04-23.12.09:914][776]LogBlueprintUserMessages: [BTTask_ScanTheArea_C_3] Aborted
+[2018.05.04-23.12.11:900][ 13]LogBlueprintUserMessages: [BTTask_ScanTheArea_C_3] Aborted
+[2018.05.04-23.12.14:639][340]LogBlueprintUserMessages: [BTTask_ScanTheArea_C_3] Aborted
+[2018.05.04-23.12.17:454][606]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.04-23.12.17:459][606]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap" FILE="../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.05.04-23.12.17:573][606]LogSavePackage: Save=91.42ms
+[2018.05.04-23.12.17:573][606]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/NewMapACBD7D57463B4588022399B64048CCF1.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap.umap'
+[2018.05.04-23.12.17:574][606]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap.umap
+[2018.05.04-23.12.17:597][606]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap_BuiltData" FILE="../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap_BuiltData.uasset" SILENT=true
+[2018.05.04-23.12.17:674][606]LogSavePackage: Save=69.82ms
+[2018.05.04-23.12.17:674][606]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/NewMap_BuiltData014E90814E56F4C390B23D87D45546DE.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap_BuiltData.uasset'
+[2018.05.04-23.12.17:675][606]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap_BuiltData.uasset
+[2018.05.04-23.12.33:603][474]BlueprintLog: New page: Compile Bullet
+[2018.05.04-23.12.34:419][506]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.04-23.12.34:433][506]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.04-23.12.34:433][506]PIE: New page: PIE session: NewMap (5 May 2018 01:12:34)
+[2018.05.04-23.12.34:433][506]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2018.05.04-23.12.34:441][506]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007712s)
+[2018.05.04-23.12.34:441][506]LogAIModule: Creating AISystem for world NewMap
+[2018.05.04-23.12.34:441][506]LogPlayLevel: PIE: World Init took: (0.000450s)
+[2018.05.04-23.12.34:442][506]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.008272s)
+[2018.05.04-23.12.34:460][506]LogInit: XAudio2 using 'Realtek Digital Output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.05.04-23.12.34:479][506]LogInit: FAudioDevice initialized.
+[2018.05.04-23.12.34:512][506]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.04-23.12.34:516][506]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2018.05.05-00.12.34
+[2018.05.04-23.12.34:517][506]LogWorld: Bringing up level for play took: 0.004178
+[2018.05.04-23.12.34:519][506]PIE: Play in editor start time for /Game/UEDPIE_0_NewMap 0.156
+[2018.05.04-23.12.34:551][507]LogBlueprintUserMessages: [BTTask_ScanTheArea_C_3] Aborted
+[2018.05.04-23.12.34:551][507]LogBlueprintUserMessages: [BTTask_ScanTheArea_C_3] Aborted
+[2018.05.04-23.12.34:551][507]LogBlueprintUserMessages: [BTTask_ScanTheArea_C_3] Aborted
+[2018.05.04-23.12.40:388][193]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.04-23.12.40:936][256]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Bullet" FILE="../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/Bullet.uasset" SILENT=true
+[2018.05.04-23.12.40:956][256]LogSavePackage: Save=12.57ms
+[2018.05.04-23.12.40:956][256]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/BulletCA8055DF4CF31D48D063D4B732245E67.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/Bullet.uasset'
+[2018.05.04-23.12.40:958][256]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/Bullet.uasset
+[2018.05.04-23.12.42:051][386]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.04-23.12.42:065][386]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.05.04-23.12.42:067][386]LogPlayLevel: [PlayLevel] Compiling Bullet before play...
+[2018.05.04-23.12.42:253][386]LogPlayLevel: PlayLevel: Blueprint regeneration took 188 ms (1 blueprints)
+[2018.05.04-23.12.42:253][386]PIE: New page: PIE session: NewMap (5 May 2018 01:12:42)
+[2018.05.04-23.12.42:253][386]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2018.05.04-23.12.42:261][386]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007416s)
+[2018.05.04-23.12.42:261][386]LogAIModule: Creating AISystem for world NewMap
+[2018.05.04-23.12.42:261][386]LogPlayLevel: PIE: World Init took: (0.000403s)
+[2018.05.04-23.12.42:261][386]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.007922s)
+[2018.05.04-23.12.42:278][386]LogInit: XAudio2 using 'Realtek Digital Output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.05.04-23.12.42:294][386]LogInit: FAudioDevice initialized.
+[2018.05.04-23.12.42:327][386]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.04-23.12.42:331][386]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2018.05.05-00.12.42
+[2018.05.04-23.12.42:332][386]LogWorld: Bringing up level for play took: 0.004156
+[2018.05.04-23.12.42:333][386]PIE: Play in editor start time for /Game/UEDPIE_0_NewMap -0.03
+[2018.05.04-23.12.42:392][387]LogBlueprintUserMessages: [BTTask_ScanTheArea_C_3] Aborted
+[2018.05.04-23.12.42:393][387]LogBlueprintUserMessages: [BTTask_ScanTheArea_C_3] Aborted
+[2018.05.04-23.12.42:393][387]LogBlueprintUserMessages: [BTTask_ScanTheArea_C_3] Aborted
+[2018.05.04-23.12.42:393][387]LogBlueprintUserMessages: [BTTask_ScanTheArea_C_3] Aborted
+[2018.05.04-23.12.48:131][ 41]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.04-23.12.48:912][132]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Bullet" FILE="../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/Bullet.uasset" SILENT=true
+[2018.05.04-23.12.48:932][132]LogSavePackage: Save=12.39ms
+[2018.05.04-23.12.48:932][132]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/Bullet036D6DC94C2994FF2E7A1CBD2283F1F4.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/Bullet.uasset'
+[2018.05.04-23.12.48:934][132]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/Bullet.uasset
+[2018.05.04-23.12.50:511][320]BlueprintLog: New page: Compile Bullet
+[2018.05.04-23.12.51:305][363]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.04-23.12.51:319][363]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.04-23.12.51:319][363]PIE: New page: PIE session: NewMap (5 May 2018 01:12:51)
+[2018.05.04-23.12.51:319][363]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2018.05.04-23.12.51:327][363]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007680s)
+[2018.05.04-23.12.51:327][363]LogAIModule: Creating AISystem for world NewMap
+[2018.05.04-23.12.51:328][363]LogPlayLevel: PIE: World Init took: (0.000411s)
+[2018.05.04-23.12.51:328][363]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.008193s)
+[2018.05.04-23.12.51:345][363]LogInit: XAudio2 using 'Realtek Digital Output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.05.04-23.12.51:361][363]LogInit: FAudioDevice initialized.
+[2018.05.04-23.12.51:395][363]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.04-23.12.51:398][363]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2018.05.05-00.12.51
+[2018.05.04-23.12.51:399][363]LogWorld: Bringing up level for play took: 0.004099
+[2018.05.04-23.12.51:401][363]PIE: Play in editor start time for /Game/UEDPIE_0_NewMap 1.038
+[2018.05.04-23.12.51:432][364]LogBlueprintUserMessages: [BTTask_ScanTheArea_C_3] Aborted
+[2018.05.04-23.12.51:432][364]LogBlueprintUserMessages: [BTTask_ScanTheArea_C_3] Aborted
+[2018.05.04-23.12.51:432][364]LogBlueprintUserMessages: [BTTask_ScanTheArea_C_3] Aborted
+[2018.05.04-23.12.51:432][364]LogBlueprintUserMessages: [BTTask_ScanTheArea_C_3] Aborted
+[2018.05.04-23.12.51:432][364]LogBlueprintUserMessages: [BTTask_ScanTheArea_C_3] Aborted
+[2018.05.04-23.12.53:941][664]LogBlueprintUserMessages: [BTTask_ScanTheArea_C_3] Aborted
+[2018.05.04-23.12.54:141][688]LogBlueprintUserMessages: [BTTask_ScanTheArea_C_3] Aborted
+[2018.05.04-23.12.54:243][700]LogBlueprintUserMessages: [BTTask_ScanTheArea_C_3] Aborted
+[2018.05.04-23.12.57:497][ 78]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.04-23.12.59:872][361]BlueprintLog: New page: Compile Bullet
+[2018.05.04-23.13.00:980][423]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Bullet" FILE="../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/Bullet.uasset" SILENT=true
+[2018.05.04-23.13.01:000][423]LogSavePackage: Save=12.39ms
+[2018.05.04-23.13.01:000][423]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/Bullet0203B39144E5A54AB11B86895EDD95FC.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/Bullet.uasset'
+[2018.05.04-23.13.01:002][423]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/Bullet.uasset
+[2018.05.04-23.13.01:835][521]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.04-23.13.01:850][521]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.04-23.13.01:850][521]PIE: New page: PIE session: NewMap (5 May 2018 01:13:01)
+[2018.05.04-23.13.01:850][521]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2018.05.04-23.13.01:858][521]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007820s)
+[2018.05.04-23.13.01:858][521]LogAIModule: Creating AISystem for world NewMap
+[2018.05.04-23.13.01:858][521]LogPlayLevel: PIE: World Init took: (0.000404s)
+[2018.05.04-23.13.01:858][521]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.008324s)
+[2018.05.04-23.13.01:877][521]LogInit: XAudio2 using 'Realtek Digital Output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.05.04-23.13.01:896][521]LogInit: FAudioDevice initialized.
+[2018.05.04-23.13.01:923][521]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.04-23.13.01:927][521]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2018.05.05-00.13.01
+[2018.05.04-23.13.01:928][521]LogWorld: Bringing up level for play took: 0.004359
+[2018.05.04-23.13.01:930][521]PIE: Play in editor start time for /Game/UEDPIE_0_NewMap -0.433
+[2018.05.04-23.13.02:023][522]LogBlueprintUserMessages: [BTTask_ScanTheArea_C_3] Aborted
+[2018.05.04-23.13.02:023][522]LogBlueprintUserMessages: [BTTask_ScanTheArea_C_3] Aborted
+[2018.05.04-23.13.02:023][522]LogBlueprintUserMessages: [BTTask_ScanTheArea_C_3] Aborted
+[2018.05.04-23.13.02:023][522]LogBlueprintUserMessages: [BTTask_ScanTheArea_C_3] Aborted
+[2018.05.04-23.13.04:898][866]LogBlueprintUserMessages: [BTTask_ScanTheArea_C_3] Aborted
+[2018.05.04-23.13.08:537][302]LogBlueprintUserMessages: [BTTask_ScanTheArea_C_3] Aborted
+[2018.05.04-23.13.10:124][491]LogBlueprintUserMessages: [BTTask_ScanTheArea_C_3] Aborted
+[2018.05.04-23.13.17:486][294]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.04-23.13.17:492][294]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap" FILE="../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.05.04-23.13.17:605][294]LogSavePackage: Save=91.00ms
+[2018.05.04-23.13.17:605][294]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/NewMap1AC37B58470E790FF02E5AB2310A7F61.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap.umap'
+[2018.05.04-23.13.17:606][294]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap.umap
+[2018.05.04-23.13.17:631][294]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap_BuiltData" FILE="../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap_BuiltData.uasset" SILENT=true
+[2018.05.04-23.13.17:710][294]LogSavePackage: Save=71.47ms
+[2018.05.04-23.13.17:710][294]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/NewMap_BuiltData088889DE49E5D77AAD47D7B2C9E5F433.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap_BuiltData.uasset'
+[2018.05.04-23.13.17:711][294]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap_BuiltData.uasset
+[2018.05.04-23.13.18:763][419]LogSlate: Window 'Bullet' being destroyed
+[2018.05.04-23.13.18:766][419]LogSlate: Window 'Bullet' being destroyed
+[2018.05.04-23.13.19:749][526]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap" FILE="../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.05.04-23.13.19:863][526]LogSavePackage: Save=90.88ms
+[2018.05.04-23.13.19:863][526]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/NewMap2516C89F4BB74DCD0462F8828674108C.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap.umap'
+[2018.05.04-23.13.19:864][526]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap.umap
+[2018.05.04-23.13.19:887][526]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap_BuiltData" FILE="../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap_BuiltData.uasset" SILENT=true
+[2018.05.04-23.13.19:965][526]LogSavePackage: Save=70.44ms
+[2018.05.04-23.13.19:965][526]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/NewMap_BuiltData54DCBF844FAA94293E5A2E9972B3A699.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap_BuiltData.uasset'
+[2018.05.04-23.13.19:966][526]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap_BuiltData.uasset
+[2018.05.04-23.13.25:691][883]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap" FILE="../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.05.04-23.13.25:805][883]LogSavePackage: Save=91.13ms
+[2018.05.04-23.13.25:805][883]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/NewMap1203B29F4E4CDABEEBB003855797FFBD.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap.umap'
+[2018.05.04-23.13.25:806][883]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap.umap
+[2018.05.04-23.13.25:829][883]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap_BuiltData" FILE="../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap_BuiltData.uasset" SILENT=true
+[2018.05.04-23.13.25:906][883]LogSavePackage: Save=69.51ms
+[2018.05.04-23.13.25:906][883]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/NewMap_BuiltData53203D7844B41767902676A7135B8EEC.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap_BuiltData.uasset'
+[2018.05.04-23.13.25:907][883]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap_BuiltData.uasset
+[2018.05.04-23.13.33:775][583]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap" FILE="../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.05.04-23.13.33:887][583]LogSavePackage: Save=90.87ms
+[2018.05.04-23.13.33:887][583]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/NewMapD9D0583D47F7546D86E423A2CC11B743.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap.umap'
+[2018.05.04-23.13.33:888][583]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap.umap
+[2018.05.04-23.13.33:911][583]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap_BuiltData" FILE="../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap_BuiltData.uasset" SILENT=true
+[2018.05.04-23.13.33:989][583]LogSavePackage: Save=70.93ms
+[2018.05.04-23.13.33:989][583]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/NewMap_BuiltData48846B3043A2FC6506F66C813850CD00.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap_BuiltData.uasset'
+[2018.05.04-23.13.33:991][583]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap_BuiltData.uasset
