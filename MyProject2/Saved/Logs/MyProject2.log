@@ -7233,3 +7233,509 @@ Make sure 'BTTask_ShootTarget_C' has been compiled for  Get CanShoot
 [2018.05.05-17.02.54:002][346]LogBlueprint: Error: [Compiler BTTask_ShootTarget] This blueprint (self) is not a Controller, therefore ' Target ' must have a connection.
 [2018.05.05-17.02.54:006][346]LogBlueprint: Error: [Compiler BTTask_ShootTarget] The property associated with  Can Shoot  could not be found
 [2018.05.05-17.02.54:095][346]LogBlueprint: Warning: [Compiler BTTask_ShootTarget] [0559.46] Compile of BTTask_ShootTarget failed. 2 Fatal Issue(s) 1 Warning(s) [in 123 ms] (/Game/ThirdPersonBP/Blueprints/BTTask_ShootTarget.BTTask_ShootTarget)
+[2018.05.05-17.03.07:894][618]LogSavePackage: Save=15.17ms
+[2018.05.05-17.03.07:894][618]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/BTTask_ShootTarget08F673864D82FF922333759BAB3D93C6.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/ThirdPersonBP/Blueprints/BTTask_ShootTarget.uasset'
+[2018.05.05-17.03.07:898][618]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/ThirdPersonBP/Blueprints/BTTask_ShootTarget.uasset
+[2018.05.05-17.03.53:178][497]BlueprintLog: New page: Compile BTTask_ShootTarget
+[2018.05.05-17.03.57:536][579]LogSavePackage: Save=16.44ms
+[2018.05.05-17.03.57:536][579]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/BTTask_ShootTarget1E36E00C4A68EC9CC556478494ABF0F0.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/ThirdPersonBP/Blueprints/BTTask_ShootTarget.uasset'
+[2018.05.05-17.03.57:540][579]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/ThirdPersonBP/Blueprints/BTTask_ShootTarget.uasset
+[2018.05.05-17.03.58:173][593]BlueprintLog: New page: Compile BTTask_ShootTarget
+[2018.05.05-17.03.58:196][593]LogBlueprint: Warning: [Compiler BTTask_ShootTarget] Could not find a variable named "CanShoot" in 'BTTask_ShootTarget_C'.
+Make sure 'BTTask_ShootTarget_C' has been compiled for  Get CanShoot
+[2018.05.05-17.03.58:202][593]LogBlueprint: Error: [Compiler BTTask_ShootTarget] The property associated with  Can Shoot  could not be found
+[2018.05.05-17.03.58:300][593]LogBlueprint: Warning: [Compiler BTTask_ShootTarget] [0623.67] Compile of BTTask_ShootTarget failed. 1 Fatal Issue(s) 1 Warning(s) [in 126 ms] (/Game/ThirdPersonBP/Blueprints/BTTask_ShootTarget.BTTask_ShootTarget)
+[2018.05.05-17.05.23:283][264]LogSavePackage: Save=36.82ms
+[2018.05.05-17.05.23:283][264]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/BTTask_ShootTarget813A687F45A748D58C4862B92CCF5603.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/ThirdPersonBP/Blueprints/BTTask_ShootTarget.uasset'
+[2018.05.05-17.05.23:288][264]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/ThirdPersonBP/Blueprints/BTTask_ShootTarget.uasset
+[2018.05.05-17.05.48:075][744]LogSavePackage: Save=17.64ms
+[2018.05.05-17.05.48:075][744]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/BTTask_ShootTargetB35AB0604B80509ACC43C2AFB3D0EA76.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/ThirdPersonBP/Blueprints/BTTask_ShootTarget.uasset'
+[2018.05.05-17.05.48:079][744]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/ThirdPersonBP/Blueprints/BTTask_ShootTarget.uasset
+[2018.05.05-17.05.50:914][802]BlueprintLog: New page: Compile BTTask_ShootTarget
+[2018.05.05-17.05.50:942][802]LogBlueprint: Error: [Compiler BTTask_ShootTarget] This blueprint (self) is not a EnemyAIController_C, therefore ' Target ' must have a connection.
+[2018.05.05-17.05.50:945][802]LogBlueprint: Error: [Compiler BTTask_ShootTarget] Variable node  Get CanShoot  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2018.05.05-17.05.51:045][802]LogBlueprint: Warning: [Compiler BTTask_ShootTarget] [0736.41] Compile of BTTask_ShootTarget failed. 2 Fatal Issue(s) 0 Warning(s) [in 130 ms] (/Game/ThirdPersonBP/Blueprints/BTTask_ShootTarget.BTTask_ShootTarget)
+[2018.05.05-17.06.06:664][114]BlueprintLog: New page: Compile BTTask_ShootTarget
+[2018.05.05-17.06.06:690][114]LogBlueprint: Error: [Compiler BTTask_ShootTarget] This blueprint (self) is not a EnemyAIController_C, therefore ' Target ' must have a connection.
+[2018.05.05-17.06.06:694][114]LogBlueprint: Error: [Compiler BTTask_ShootTarget] Variable node  Get CanShoot  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2018.05.05-17.06.06:792][114]LogBlueprint: Warning: [Compiler BTTask_ShootTarget] [0752.16] Compile of BTTask_ShootTarget failed. 2 Fatal Issue(s) 0 Warning(s) [in 127 ms] (/Game/ThirdPersonBP/Blueprints/BTTask_ShootTarget.BTTask_ShootTarget)
+[2018.05.05-17.06.21:340][399]BlueprintLog: New page: Compile BTTask_ShootTarget
+[2018.05.05-17.06.26:945][509]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.05-17.06.27:045][509]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.05-17.06.27:046][509]PIE: New page: PIE session: NewMap (5 May 2018 19:06:27)
+[2018.05.05-17.06.27:046][509]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2018.05.05-17.06.27:067][509]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020086s)
+[2018.05.05-17.06.27:068][509]LogAIModule: Creating AISystem for world NewMap
+[2018.05.05-17.06.27:069][509]LogPlayLevel: PIE: World Init took: (0.001845s)
+[2018.05.05-17.06.27:069][509]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.022754s)
+[2018.05.05-17.06.27:106][509]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.05-17.06.27:120][509]LogInit: FAudioDevice initialized.
+[2018.05.05-17.06.27:154][509]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.05-17.06.27:162][509]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2018.05.05-18.06.27
+[2018.05.05-17.06.27:164][509]LogWorld: Bringing up level for play took: 0.009632
+[2018.05.05-17.06.27:168][509]PIE: Play in editor start time for /Game/UEDPIE_0_NewMap 0.092
+[2018.05.05-17.06.28:329][540]LogBlueprintUserMessages: [ThirdPersonCharacter_853] 4.0
+[2018.05.05-17.06.37:800][810]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.05-17.06.39:251][836]LogSavePackage: Save=18.44ms
+[2018.05.05-17.06.39:251][836]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/BTTask_ShootTarget3060C5764F8B7C1A83CCF0A3627624A9.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/ThirdPersonBP/Blueprints/BTTask_ShootTarget.uasset'
+[2018.05.05-17.06.39:255][836]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/ThirdPersonBP/Blueprints/BTTask_ShootTarget.uasset
+[2018.05.05-17.07.10:537][449]LogSavePackage: Save=17.41ms
+[2018.05.05-17.07.10:537][449]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/BTTask_ShootTarget0910410E45E003328981E9A5A0ADC4B8.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/ThirdPersonBP/Blueprints/BTTask_ShootTarget.uasset'
+[2018.05.05-17.07.10:541][449]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/ThirdPersonBP/Blueprints/BTTask_ShootTarget.uasset
+[2018.05.05-17.07.11:389][467]BlueprintLog: New page: Compile BTTask_ShootTarget
+[2018.05.05-17.07.23:610][699]LogSavePackage: Save=17.07ms
+[2018.05.05-17.07.23:610][699]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/BTTask_ShootTarget46947C1C4D5F980234D426A4AF9F0D68.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/ThirdPersonBP/Blueprints/BTTask_ShootTarget.uasset'
+[2018.05.05-17.07.23:612][699]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/ThirdPersonBP/Blueprints/BTTask_ShootTarget.uasset
+[2018.05.05-17.07.33:614][894]LogSavePackage: Save=9.48ms
+[2018.05.05-17.07.33:614][894]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/EnemyBehaviourTree2AEC79C84BC73CCAE69D0DB31AF7AB68.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/ThirdPersonBP/Blueprints/EnemyBehaviourTree.uasset'
+[2018.05.05-17.07.33:618][894]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/ThirdPersonBP/Blueprints/EnemyBehaviourTree.uasset
+[2018.05.05-17.07.34:780][918]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.05-17.07.34:879][918]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.05-17.07.34:879][918]PIE: New page: PIE session: NewMap (5 May 2018 19:07:34)
+[2018.05.05-17.07.34:881][918]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2018.05.05-17.07.34:900][918]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017092s)
+[2018.05.05-17.07.34:901][918]LogAIModule: Creating AISystem for world NewMap
+[2018.05.05-17.07.34:901][918]LogPlayLevel: PIE: World Init took: (0.001169s)
+[2018.05.05-17.07.34:901][918]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.019800s)
+[2018.05.05-17.07.34:932][918]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.05-17.07.34:943][918]LogInit: FAudioDevice initialized.
+[2018.05.05-17.07.34:984][918]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.05-17.07.35:003][918]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2018.05.05-18.07.35
+[2018.05.05-17.07.35:009][918]LogWorld: Bringing up level for play took: 0.023312
+[2018.05.05-17.07.35:016][918]PIE: Play in editor start time for /Game/UEDPIE_0_NewMap -0.06
+[2018.05.05-17.07.36:100][948]LogBlueprintUserMessages: [ThirdPersonCharacter_853] 4.0
+[2018.05.05-17.07.54:280][483]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.05-17.08.52:490][608]LogSavePackage: Save=14.68ms
+[2018.05.05-17.08.52:490][608]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/EnemyBehaviourTreeD364EAD24EEEE669DAB1AE942695BA95.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/ThirdPersonBP/Blueprints/EnemyBehaviourTree.uasset'
+[2018.05.05-17.08.52:495][608]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/ThirdPersonBP/Blueprints/EnemyBehaviourTree.uasset
+[2018.05.05-17.08.54:308][644]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.05-17.08.54:397][644]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.05-17.08.54:398][644]PIE: New page: PIE session: NewMap (5 May 2018 19:08:54)
+[2018.05.05-17.08.54:400][644]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2018.05.05-17.08.54:427][644]LogPlayLevel: PIE: StaticDuplicateObject took: (0.026379s)
+[2018.05.05-17.08.54:428][644]LogAIModule: Creating AISystem for world NewMap
+[2018.05.05-17.08.54:429][644]LogPlayLevel: PIE: World Init took: (0.001438s)
+[2018.05.05-17.08.54:429][644]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.029957s)
+[2018.05.05-17.08.54:462][644]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.05-17.08.54:475][644]LogInit: FAudioDevice initialized.
+[2018.05.05-17.08.54:512][644]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.05-17.08.54:531][644]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2018.05.05-18.08.54
+[2018.05.05-17.08.54:539][644]LogWorld: Bringing up level for play took: 0.025347
+[2018.05.05-17.08.54:548][644]PIE: Play in editor start time for /Game/UEDPIE_0_NewMap -0.528
+[2018.05.05-17.09.07:154][  8]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.05-17.09.07:253][ 10]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.05-17.09.07:325][ 10]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.05-17.09.07:325][ 10]PIE: New page: PIE session: NewMap (5 May 2018 19:09:07)
+[2018.05.05-17.09.07:326][ 10]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2018.05.05-17.09.07:366][ 10]LogPlayLevel: PIE: StaticDuplicateObject took: (0.038636s)
+[2018.05.05-17.09.07:367][ 10]LogAIModule: Creating AISystem for world NewMap
+[2018.05.05-17.09.07:368][ 10]LogPlayLevel: PIE: World Init took: (0.001666s)
+[2018.05.05-17.09.07:368][ 10]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.042554s)
+[2018.05.05-17.09.07:406][ 10]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.05-17.09.07:418][ 10]LogInit: FAudioDevice initialized.
+[2018.05.05-17.09.07:461][ 10]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.05-17.09.07:481][ 10]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2018.05.05-18.09.07
+[2018.05.05-17.09.07:489][ 10]LogWorld: Bringing up level for play took: 0.026042
+[2018.05.05-17.09.07:497][ 10]PIE: Play in editor start time for /Game/UEDPIE_0_NewMap 0.42
+[2018.05.05-17.09.12:667][163]LogBlueprintUserMessages: [SlideDoor_566] Key Card Declined
+[2018.05.05-17.09.19:617][355]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.05-17.09.19:667][356]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.05-17.09.19:739][356]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.05-17.09.19:740][356]PIE: New page: PIE session: NewMap (5 May 2018 19:09:19)
+[2018.05.05-17.09.19:741][356]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2018.05.05-17.09.19:781][356]LogPlayLevel: PIE: StaticDuplicateObject took: (0.037387s)
+[2018.05.05-17.09.19:781][356]LogAIModule: Creating AISystem for world NewMap
+[2018.05.05-17.09.19:783][356]LogPlayLevel: PIE: World Init took: (0.001869s)
+[2018.05.05-17.09.19:783][356]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.042087s)
+[2018.05.05-17.09.19:820][356]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.05-17.09.19:832][356]LogInit: FAudioDevice initialized.
+[2018.05.05-17.09.19:863][356]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.05-17.09.19:869][356]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2018.05.05-18.09.19
+[2018.05.05-17.09.19:871][356]LogWorld: Bringing up level for play took: 0.007569
+[2018.05.05-17.09.19:875][356]PIE: Play in editor start time for /Game/UEDPIE_0_NewMap 0.799
+[2018.05.05-17.09.21:397][400]LogBlueprintUserMessages: [ThirdPersonCharacter_853] 4.0
+[2018.05.05-17.09.47:512][152]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.05-17.10.50:841][371]LogSavePackage: Save=31.54ms
+[2018.05.05-17.10.50:841][371]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/EnemyAIController4BD81F114470F3B89CBA61A9B77EBD1B.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/ThirdPersonBP/Blueprints/EnemyAIController.uasset'
+[2018.05.05-17.10.50:843][371]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/ThirdPersonBP/Blueprints/EnemyAIController.uasset
+[2018.05.05-17.10.54:764][448]LogSavePackage: Save=30.93ms
+[2018.05.05-17.10.54:764][448]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/EnemyAIController287F4AED4074FB9C1A389E943D84CE6F.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/ThirdPersonBP/Blueprints/EnemyAIController.uasset'
+[2018.05.05-17.10.54:766][448]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/ThirdPersonBP/Blueprints/EnemyAIController.uasset
+[2018.05.05-17.10.57:896][512]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.05-17.10.57:982][512]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.05-17.10.57:982][512]PIE: New page: PIE session: NewMap (5 May 2018 19:10:57)
+[2018.05.05-17.10.57:984][512]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2018.05.05-17.10.58:007][512]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022590s)
+[2018.05.05-17.10.58:009][512]LogAIModule: Creating AISystem for world NewMap
+[2018.05.05-17.10.58:009][512]LogPlayLevel: PIE: World Init took: (0.001691s)
+[2018.05.05-17.10.58:009][512]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.025760s)
+[2018.05.05-17.10.58:046][512]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.05-17.10.58:058][512]LogInit: FAudioDevice initialized.
+[2018.05.05-17.10.58:104][512]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.05-17.10.58:117][512]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2018.05.05-18.10.58
+[2018.05.05-17.10.58:120][512]LogWorld: Bringing up level for play took: 0.014098
+[2018.05.05-17.10.58:124][512]PIE: Play in editor start time for /Game/UEDPIE_0_NewMap 1.048
+[2018.05.05-17.11.07:294][763]LogBlueprintUserMessages: [PlayerInventory] Item added to inventory
+[2018.05.05-17.11.27:881][310]LogBlueprintUserMessages: [ThirdPersonEnemy_642] 4.0
+[2018.05.05-17.11.28:031][314]LogBlueprintUserMessages: [ThirdPersonEnemy_642] 3.0
+[2018.05.05-17.11.28:788][334]LogBlueprintUserMessages: [ThirdPersonEnemy_642] 2.0
+[2018.05.05-17.11.28:987][339]LogBlueprintUserMessages: [ThirdPersonEnemy_642] 1.0
+[2018.05.05-17.11.43:069][676]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.05-17.11.49:314][799]LogSavePackage: Save=21.32ms
+[2018.05.05-17.11.49:315][799]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/BTTask_FollowTarget187CC0B94726952981DB40AF41AC19FC.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/ThirdPersonBP/Blueprints/BTTask_FollowTarget.uasset'
+[2018.05.05-17.11.49:317][799]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/ThirdPersonBP/Blueprints/BTTask_FollowTarget.uasset
+[2018.05.05-17.12.11:610][244]LogSavePackage: Save=10.65ms
+[2018.05.05-17.12.11:610][244]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/EnemyBehaviourTreeB4EE88434DD86BE8D33639B2F9FE56D1.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/ThirdPersonBP/Blueprints/EnemyBehaviourTree.uasset'
+[2018.05.05-17.12.11:615][244]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/ThirdPersonBP/Blueprints/EnemyBehaviourTree.uasset
+[2018.05.05-17.12.14:222][295]LogSavePackage: Save=9.67ms
+[2018.05.05-17.12.14:222][295]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/EnemyBehaviourTreeF5DE154745D37B099A003B8015658D02.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/ThirdPersonBP/Blueprints/EnemyBehaviourTree.uasset'
+[2018.05.05-17.12.14:226][295]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/ThirdPersonBP/Blueprints/EnemyBehaviourTree.uasset
+[2018.05.05-17.12.17:223][356]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.05-17.12.17:337][356]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.05-17.12.17:337][356]PIE: New page: PIE session: NewMap (5 May 2018 19:12:17)
+[2018.05.05-17.12.17:338][356]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2018.05.05-17.12.17:358][356]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020453s)
+[2018.05.05-17.12.17:359][356]LogAIModule: Creating AISystem for world NewMap
+[2018.05.05-17.12.17:360][356]LogPlayLevel: PIE: World Init took: (0.001257s)
+[2018.05.05-17.12.17:360][356]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.022634s)
+[2018.05.05-17.12.17:394][356]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.05-17.12.17:405][356]LogInit: FAudioDevice initialized.
+[2018.05.05-17.12.17:448][356]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.05-17.12.17:469][356]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2018.05.05-18.12.17
+[2018.05.05-17.12.17:476][356]LogWorld: Bringing up level for play took: 0.025859
+[2018.05.05-17.12.17:485][356]PIE: Play in editor start time for /Game/UEDPIE_0_NewMap 0.409
+[2018.05.05-17.12.28:139][651]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.05-17.12.30:336][692]LogSavePackage: Save=9.50ms
+[2018.05.05-17.12.30:337][692]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/EnemyBehaviourTreeAA02728942A92C2A0733E681B01C5C11.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/ThirdPersonBP/Blueprints/EnemyBehaviourTree.uasset'
+[2018.05.05-17.12.30:340][692]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/ThirdPersonBP/Blueprints/EnemyBehaviourTree.uasset
+[2018.05.05-17.12.32:156][728]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.05-17.12.32:250][728]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.05-17.12.32:250][728]PIE: New page: PIE session: NewMap (5 May 2018 19:12:32)
+[2018.05.05-17.12.32:250][728]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2018.05.05-17.12.32:272][728]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021586s)
+[2018.05.05-17.12.32:273][728]LogAIModule: Creating AISystem for world NewMap
+[2018.05.05-17.12.32:274][728]LogPlayLevel: PIE: World Init took: (0.001613s)
+[2018.05.05-17.12.32:275][728]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.024342s)
+[2018.05.05-17.12.32:315][728]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.05-17.12.32:325][728]LogInit: FAudioDevice initialized.
+[2018.05.05-17.12.32:365][728]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.05-17.12.32:385][728]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2018.05.05-18.12.32
+[2018.05.05-17.12.32:389][728]LogWorld: Bringing up level for play took: 0.022215
+[2018.05.05-17.12.32:396][728]PIE: Play in editor start time for /Game/UEDPIE_0_NewMap -0.68
+[2018.05.05-17.12.33:468][758]LogBlueprintUserMessages: [ThirdPersonCharacter_853] 4.0
+[2018.05.05-17.12.47:319][138]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.05-17.13.08:335][548]LogSavePackage: Save=11.85ms
+[2018.05.05-17.13.08:335][548]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/EnemyBehaviourTree04FD61C74B5EF8602F8E2BBAEAF622DA.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/ThirdPersonBP/Blueprints/EnemyBehaviourTree.uasset'
+[2018.05.05-17.13.08:339][548]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/ThirdPersonBP/Blueprints/EnemyBehaviourTree.uasset
+[2018.05.05-17.13.09:496][568]LogSavePackage: Save=14.80ms
+[2018.05.05-17.13.09:496][568]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/BTTask_SetBoolToFalse54FF587341F346FE4FCC04B294A64DDB.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/ThirdPersonBP/Blueprints/BTTask_SetBoolToFalse.uasset'
+[2018.05.05-17.13.09:498][568]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/ThirdPersonBP/Blueprints/BTTask_SetBoolToFalse.uasset
+[2018.05.05-17.13.28:934][953]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.05-17.13.29:046][953]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.05-17.13.29:047][953]PIE: New page: PIE session: NewMap (5 May 2018 19:13:29)
+[2018.05.05-17.13.29:047][953]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2018.05.05-17.13.29:065][953]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017527s)
+[2018.05.05-17.13.29:066][953]LogAIModule: Creating AISystem for world NewMap
+[2018.05.05-17.13.29:066][953]LogPlayLevel: PIE: World Init took: (0.001196s)
+[2018.05.05-17.13.29:066][953]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.019498s)
+[2018.05.05-17.13.29:099][953]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.05-17.13.29:111][953]LogInit: FAudioDevice initialized.
+[2018.05.05-17.13.29:150][953]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.05-17.13.29:168][953]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2018.05.05-18.13.29
+[2018.05.05-17.13.29:174][953]LogWorld: Bringing up level for play took: 0.022781
+[2018.05.05-17.13.29:181][953]PIE: Play in editor start time for /Game/UEDPIE_0_NewMap 0.105
+[2018.05.05-17.13.45:185][433]LogBlueprintUserMessages: [ThirdPersonCharacter_853] 4.0
+[2018.05.05-17.13.45:857][454]LogBlueprintUserMessages: [ThirdPersonCharacter_853] 3.0
+[2018.05.05-17.13.46:572][476]LogBlueprintUserMessages: [ThirdPersonCharacter_853] 2.0
+[2018.05.05-17.13.49:353][538]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.05-17.14.15:830][ 54]LogSavePackage: Save=11.31ms
+[2018.05.05-17.14.15:830][ 54]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/EnemyBehaviourTree811F4243412ACECE3524FFA2EDF17805.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/ThirdPersonBP/Blueprints/EnemyBehaviourTree.uasset'
+[2018.05.05-17.14.15:834][ 54]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/ThirdPersonBP/Blueprints/EnemyBehaviourTree.uasset
+[2018.05.05-17.14.22:233][178]LogSavePackage: Save=10.73ms
+[2018.05.05-17.14.22:233][178]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/EnemyBehaviourTreeF1B501734B6B2FEB9991F8B5EADBF410.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/ThirdPersonBP/Blueprints/EnemyBehaviourTree.uasset'
+[2018.05.05-17.14.22:237][178]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/ThirdPersonBP/Blueprints/EnemyBehaviourTree.uasset
+[2018.05.05-17.14.23:652][206]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.05-17.14.23:739][206]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.05-17.14.23:740][206]PIE: New page: PIE session: NewMap (5 May 2018 19:14:23)
+[2018.05.05-17.14.23:742][206]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2018.05.05-17.14.23:765][206]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021959s)
+[2018.05.05-17.14.23:766][206]LogAIModule: Creating AISystem for world NewMap
+[2018.05.05-17.14.23:767][206]LogPlayLevel: PIE: World Init took: (0.001441s)
+[2018.05.05-17.14.23:768][206]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.025897s)
+[2018.05.05-17.14.23:803][206]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.05-17.14.23:814][206]LogInit: FAudioDevice initialized.
+[2018.05.05-17.14.23:846][206]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.05-17.14.23:853][206]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2018.05.05-18.14.23
+[2018.05.05-17.14.23:855][206]LogWorld: Bringing up level for play took: 0.008614
+[2018.05.05-17.14.23:859][206]PIE: Play in editor start time for /Game/UEDPIE_0_NewMap 0.783
+[2018.05.05-17.14.37:505][578]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.05-17.14.39:330][608]LogSavePackage: Save=9.95ms
+[2018.05.05-17.14.39:330][608]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/EnemyBehaviourTreeA48CFEB74FF9B7BF9093DE9DC7CF7A92.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/ThirdPersonBP/Blueprints/EnemyBehaviourTree.uasset'
+[2018.05.05-17.14.39:334][608]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/ThirdPersonBP/Blueprints/EnemyBehaviourTree.uasset
+[2018.05.05-17.14.40:409][627]LogSavePackage: Save=13.15ms
+[2018.05.05-17.14.40:409][627]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/BTTask_SetBoolToFalseE2A90A0447F8E71D12819F9642B1A5EC.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/ThirdPersonBP/Blueprints/BTTask_SetBoolToFalse.uasset'
+[2018.05.05-17.14.40:411][627]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/ThirdPersonBP/Blueprints/BTTask_SetBoolToFalse.uasset
+[2018.05.05-17.14.41:704][653]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.05-17.14.41:823][653]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.05-17.14.41:823][653]PIE: New page: PIE session: NewMap (5 May 2018 19:14:41)
+[2018.05.05-17.14.41:823][653]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2018.05.05-17.14.41:837][653]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013325s)
+[2018.05.05-17.14.41:838][653]LogAIModule: Creating AISystem for world NewMap
+[2018.05.05-17.14.41:838][653]LogPlayLevel: PIE: World Init took: (0.001018s)
+[2018.05.05-17.14.41:838][653]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.014980s)
+[2018.05.05-17.14.41:868][653]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.05-17.14.41:879][653]LogInit: FAudioDevice initialized.
+[2018.05.05-17.14.41:914][653]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.05-17.14.41:920][653]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2018.05.05-18.14.41
+[2018.05.05-17.14.41:923][653]LogWorld: Bringing up level for play took: 0.007843
+[2018.05.05-17.14.41:926][653]PIE: Play in editor start time for /Game/UEDPIE_0_NewMap 0.85
+[2018.05.05-17.14.58:612][136]LogBlueprintUserMessages: [ThirdPersonCharacter_853] 4.0
+[2018.05.05-17.14.59:019][147]LogBlueprintUserMessages: [ThirdPersonCharacter_853] 3.0
+[2018.05.05-17.14.59:207][152]LogBlueprintUserMessages: [ThirdPersonCharacter_853] 2.0
+[2018.05.05-17.14.59:391][157]LogBlueprintUserMessages: [ThirdPersonCharacter_853] 1.0
+[2018.05.05-17.15.04:373][300]LogBlueprintUserMessages: [ThirdPersonEnemy2_1109] 4.0
+[2018.05.05-17.15.04:509][304]LogBlueprintUserMessages: [ThirdPersonEnemy2_1109] 3.0
+[2018.05.05-17.15.04:814][313]LogBlueprintUserMessages: [ThirdPersonEnemy2_1109] 2.0
+[2018.05.05-17.15.04:981][318]LogBlueprintUserMessages: [ThirdPersonEnemy2_1109] 1.0
+[2018.05.05-17.15.05:737][340]LogBlueprintUserMessages: [ThirdPersonEnemy_642] 4.0
+[2018.05.05-17.15.05:910][345]LogBlueprintUserMessages: [ThirdPersonEnemy_642] 3.0
+[2018.05.05-17.15.06:079][350]LogBlueprintUserMessages: [ThirdPersonEnemy_642] 2.0
+[2018.05.05-17.15.09:052][421]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.05-17.15.19:290][619]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.05.05-17.15.22:090][672]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.05.05-17.15.22:396][672]LogPackageName: SearchForPackageOnDisk took   0.000s, but failed to resolve /Game/ThirdPersonBP/Blueprints/BTTask_BlueprintBase_New.
+[2018.05.05-17.15.33:359][863]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/BTTask_TurnToFace.SKEL_BTTask_TurnToFace_C' ref from Metadata '/Game/ThirdPersonBP/Blueprints/BTTask_BlueprintBase_New.PackageMetaData'
+[2018.05.05-17.15.33:360][863]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/BTTask_TurnToFace.BTTask_TurnToFace_C' ref from Metadata '/Game/ThirdPersonBP/Blueprints/BTTask_BlueprintBase_New.PackageMetaData'
+[2018.05.05-17.15.33:410][863]LogSavePackage: Save=16.63ms
+[2018.05.05-17.15.33:410][863]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/BTTask_TurnToFace94C528084398A8B1E4C0FAB81BEA29E6.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/ThirdPersonBP/Blueprints/BTTask_TurnToFace.uasset'
+[2018.05.05-17.15.33:414][863]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/ThirdPersonBP/Blueprints/BTTask_TurnToFace.uasset
+[2018.05.05-17.15.33:817][867]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/ThirdPersonBP/Blueprints/BTTask_TurnToFace.
+[2018.05.05-17.16.43:841][798]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/NewMap' took 0.028
+[2018.05.05-17.16.43:844][798]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/Blueprints/BTTask_TurnToFace] ([1] browsable assets)...
+[2018.05.05-17.16.43:845][798]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/BTTask_TurnToFace]
+[2018.05.05-17.16.43:874][798]LogSavePackage: Save=8.83ms
+[2018.05.05-17.16.43:874][798]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/BTTask_TurnToFace_Auto37FFB90E44C8C234CB67FEF97383A7A1B.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/BTTask_TurnToFace_Auto3.uasset'
+[2018.05.05-17.16.43:883][798]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/BTTask_TurnToFace_Auto3.uasset
+[2018.05.05-17.16.43:884][798]LogFileHelpers: Auto-saving content packages took 0.041
+[2018.05.05-17.17.37:096][338]LogSavePackage: Save=8.13ms
+[2018.05.05-17.17.37:096][338]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/BTTask_TurnToFaceD1ABFFD145D72536F7AAEB86E8278171.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/ThirdPersonBP/Blueprints/BTTask_TurnToFace.uasset'
+[2018.05.05-17.17.37:101][338]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/ThirdPersonBP/Blueprints/BTTask_TurnToFace.uasset
+[2018.05.05-17.17.49:813][583]LogSavePackage: Save=8.48ms
+[2018.05.05-17.17.49:813][583]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/BTTask_TurnToFaceF535D83441D0F7A8145663AF205BA02C.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/ThirdPersonBP/Blueprints/BTTask_TurnToFace.uasset'
+[2018.05.05-17.17.49:817][583]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/ThirdPersonBP/Blueprints/BTTask_TurnToFace.uasset
+[2018.05.05-17.18.05:450][880]LogSavePackage: Save=7.62ms
+[2018.05.05-17.18.05:451][880]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/BTTask_TurnToFaceDB17617E4BCE9970D9DA96944AF2AC06.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/ThirdPersonBP/Blueprints/BTTask_TurnToFace.uasset'
+[2018.05.05-17.18.05:455][880]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/ThirdPersonBP/Blueprints/BTTask_TurnToFace.uasset
+[2018.05.05-17.20.18:214][400]LogSavePackage: Save=11.33ms
+[2018.05.05-17.20.18:214][400]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/BTTask_TurnToFace96BBAE6B4547154CA2D6E294E119F144.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/ThirdPersonBP/Blueprints/BTTask_TurnToFace.uasset'
+[2018.05.05-17.20.18:219][400]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/ThirdPersonBP/Blueprints/BTTask_TurnToFace.uasset
+[2018.05.05-17.20.18:674][410]BlueprintLog: New page: Compile BTTask_TurnToFace
+[2018.05.05-17.20.32:485][625]LogSlate: Window 'Delete Assets' being destroyed
+[2018.05.05-17.20.34:230][652]LogSavePackage: Save=16.87ms
+[2018.05.05-17.20.34:231][652]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/BTTask_FollowTarget92CE2D654FF48CD8F565DBB3A48D5FC8.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/ThirdPersonBP/Blueprints/BTTask_FollowTarget.uasset'
+[2018.05.05-17.20.34:234][652]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/ThirdPersonBP/Blueprints/BTTask_FollowTarget.uasset
+[2018.05.05-17.20.38:022][725]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.05-17.20.38:110][725]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.05-17.20.38:110][725]PIE: New page: PIE session: NewMap (5 May 2018 19:20:38)
+[2018.05.05-17.20.38:110][725]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2018.05.05-17.20.38:135][725]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023717s)
+[2018.05.05-17.20.38:135][725]LogAIModule: Creating AISystem for world NewMap
+[2018.05.05-17.20.38:136][725]LogPlayLevel: PIE: World Init took: (0.000935s)
+[2018.05.05-17.20.38:136][725]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.025663s)
+[2018.05.05-17.20.38:163][725]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.05-17.20.38:174][725]LogInit: FAudioDevice initialized.
+[2018.05.05-17.20.38:215][725]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.05-17.20.38:236][725]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2018.05.05-18.20.38
+[2018.05.05-17.20.38:243][725]LogWorld: Bringing up level for play took: 0.026003
+[2018.05.05-17.20.38:253][725]PIE: Play in editor start time for /Game/UEDPIE_0_NewMap 1.177
+[2018.05.05-17.20.39:345][755]LogBlueprintUserMessages: [ThirdPersonCharacter_853] 4.0
+[2018.05.05-17.20.55:935][217]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.05-17.21.57:327][403]BlueprintLog: New page: Compile EnemyAIController
+[2018.05.05-17.21.57:399][403]LogBlueprint: Error: [Compiler EnemyAIController] This blueprint (self) is not a BlackboardComponent, therefore ' Target ' must have a connection.
+[2018.05.05-17.21.57:403][403]LogBlueprint: Error: [Compiler EnemyAIController] The current value (None) of the ' Key Name ' pin is invalid: 'Key Name' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2018.05.05-17.21.57:679][403]LogBlueprint: Warning: [Compiler EnemyAIController] [1703.05] Compile of EnemyAIController failed. 2 Fatal Issue(s) 0 Warning(s) [in 351 ms] (/Game/ThirdPersonBP/Blueprints/EnemyAIController.EnemyAIController)
+[2018.05.05-17.22.34:587][136]LogSavePackage: Save=8.48ms
+[2018.05.05-17.22.34:587][136]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/EnemyBlackboard7B21EC2C4F7F1DD727D4EB890C6BDF28.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/ThirdPersonBP/Blueprints/EnemyBlackboard.uasset'
+[2018.05.05-17.22.34:591][136]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/ThirdPersonBP/Blueprints/EnemyBlackboard.uasset
+[2018.05.05-17.22.46:905][375]BlueprintLog: New page: Compile EnemyAIController
+[2018.05.05-17.22.46:979][375]LogBlueprint: Error: [Compiler EnemyAIController] This blueprint (self) is not a BlackboardComponent, therefore ' Target ' must have a connection.
+[2018.05.05-17.22.46:982][375]LogBlueprint: Error: [Compiler EnemyAIController] The current value (None) of the ' Key Name ' pin is invalid: 'Key Name' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2018.05.05-17.22.47:256][375]LogBlueprint: Warning: [Compiler EnemyAIController] [1752.62] Compile of EnemyAIController failed. 2 Fatal Issue(s) 0 Warning(s) [in 350 ms] (/Game/ThirdPersonBP/Blueprints/EnemyAIController.EnemyAIController)
+[2018.05.05-17.22.57:579][578]LogSavePackage: Save=32.78ms
+[2018.05.05-17.22.57:579][578]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/EnemyAIController351A1A5F401F3FAD1A68BFB7983961F7.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/ThirdPersonBP/Blueprints/EnemyAIController.uasset'
+[2018.05.05-17.22.57:584][578]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/ThirdPersonBP/Blueprints/EnemyAIController.uasset
+[2018.05.05-17.23.27:023][131]LogSavePackage: Save=40.13ms
+[2018.05.05-17.23.27:024][131]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/EnemyAIController9E4F0B414C40026739DCB1825D7715EC.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/ThirdPersonBP/Blueprints/EnemyAIController.uasset'
+[2018.05.05-17.23.27:028][131]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/ThirdPersonBP/Blueprints/EnemyAIController.uasset
+[2018.05.05-17.23.27:790][145]BlueprintLog: New page: Compile EnemyAIController
+[2018.05.05-17.23.27:858][145]LogBlueprint: Error: [Compiler EnemyAIController] This blueprint (self) is not a BlackboardComponent, therefore ' Target ' must have a connection.
+[2018.05.05-17.23.28:115][145]LogBlueprint: Warning: [Compiler EnemyAIController] [1793.48] Compile of EnemyAIController failed. 1 Fatal Issue(s) 0 Warning(s) [in 324 ms] (/Game/ThirdPersonBP/Blueprints/EnemyAIController.EnemyAIController)
+[2018.05.05-17.23.47:551][486]LogSavePackage: Save=55.07ms
+[2018.05.05-17.23.47:552][486]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/EnemyAIController30A8A25A4490AA9690B059AF6E04B20F.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/ThirdPersonBP/Blueprints/EnemyAIController.uasset'
+[2018.05.05-17.23.47:557][486]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/ThirdPersonBP/Blueprints/EnemyAIController.uasset
+[2018.05.05-17.23.48:302][502]BlueprintLog: New page: Compile EnemyAIController
+[2018.05.05-17.23.50:366][534]LogSavePackage: Save=32.15ms
+[2018.05.05-17.23.50:366][534]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/EnemyAIControllerBC30F2A14BF9D4926B7CCFAC861AADAC.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/ThirdPersonBP/Blueprints/EnemyAIController.uasset'
+[2018.05.05-17.23.50:369][534]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/ThirdPersonBP/Blueprints/EnemyAIController.uasset
+[2018.05.05-17.23.51:753][562]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.05-17.23.51:845][562]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.05-17.23.51:845][562]PIE: New page: PIE session: NewMap (5 May 2018 19:23:51)
+[2018.05.05-17.23.51:846][562]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2018.05.05-17.23.51:872][562]LogPlayLevel: PIE: StaticDuplicateObject took: (0.026002s)
+[2018.05.05-17.23.51:873][562]LogAIModule: Creating AISystem for world NewMap
+[2018.05.05-17.23.51:874][562]LogPlayLevel: PIE: World Init took: (0.001522s)
+[2018.05.05-17.23.51:874][562]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.028613s)
+[2018.05.05-17.23.51:910][562]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.05-17.23.51:924][562]LogInit: FAudioDevice initialized.
+[2018.05.05-17.23.51:968][562]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.05-17.23.51:976][562]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2018.05.05-18.23.51
+[2018.05.05-17.23.51:979][562]LogWorld: Bringing up level for play took: 0.009958
+[2018.05.05-17.23.51:982][562]PIE: Play in editor start time for /Game/UEDPIE_0_NewMap 0.906
+[2018.05.05-17.23.57:184][686]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.05-17.24.01:213][764]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.05-17.24.01:310][764]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.05-17.24.01:310][764]PIE: New page: PIE session: NewMap (5 May 2018 19:24:01)
+[2018.05.05-17.24.01:310][764]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2018.05.05-17.24.01:333][764]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022054s)
+[2018.05.05-17.24.01:334][764]LogAIModule: Creating AISystem for world NewMap
+[2018.05.05-17.24.01:335][764]LogPlayLevel: PIE: World Init took: (0.001659s)
+[2018.05.05-17.24.01:336][764]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.025015s)
+[2018.05.05-17.24.01:374][764]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.05-17.24.01:385][764]LogInit: FAudioDevice initialized.
+[2018.05.05-17.24.01:421][764]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.05-17.24.01:428][764]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2018.05.05-18.24.01
+[2018.05.05-17.24.01:430][764]LogWorld: Bringing up level for play took: 0.008661
+[2018.05.05-17.24.01:434][764]PIE: Play in editor start time for /Game/UEDPIE_0_NewMap 0.358
+[2018.05.05-17.24.07:061][909]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.05-17.24.29:218][339]LogSavePackage: Save=10.92ms
+[2018.05.05-17.24.29:218][339]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/EnemyBehaviourTree731E7977465CDA81648EDA993628C9EE.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/ThirdPersonBP/Blueprints/EnemyBehaviourTree.uasset'
+[2018.05.05-17.24.29:222][339]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/ThirdPersonBP/Blueprints/EnemyBehaviourTree.uasset
+[2018.05.05-17.24.31:161][378]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.05-17.24.31:253][378]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.05-17.24.31:254][378]PIE: New page: PIE session: NewMap (5 May 2018 19:24:31)
+[2018.05.05-17.24.31:255][378]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2018.05.05-17.24.31:283][378]LogPlayLevel: PIE: StaticDuplicateObject took: (0.026433s)
+[2018.05.05-17.24.31:284][378]LogAIModule: Creating AISystem for world NewMap
+[2018.05.05-17.24.31:284][378]LogPlayLevel: PIE: World Init took: (0.001255s)
+[2018.05.05-17.24.31:285][378]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.029935s)
+[2018.05.05-17.24.31:315][378]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.05-17.24.31:327][378]LogInit: FAudioDevice initialized.
+[2018.05.05-17.24.31:368][378]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.05-17.24.31:389][378]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2018.05.05-18.24.31
+[2018.05.05-17.24.31:396][378]LogWorld: Bringing up level for play took: 0.025672
+[2018.05.05-17.24.31:403][378]PIE: Play in editor start time for /Game/UEDPIE_0_NewMap 0.327
+[2018.05.05-17.24.51:327][973]LogBlueprintUserMessages: [ThirdPersonCharacter_853] 4.0
+[2018.05.05-17.24.59:325][201]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.05-17.25.08:262][374]LogSavePackage: Save=10.72ms
+[2018.05.05-17.25.08:262][374]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/EnemyBehaviourTreeD7F033E14103F8C7073412AE065F7859.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/ThirdPersonBP/Blueprints/EnemyBehaviourTree.uasset'
+[2018.05.05-17.25.08:267][374]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/ThirdPersonBP/Blueprints/EnemyBehaviourTree.uasset
+[2018.05.05-17.25.09:202][393]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.05-17.25.09:306][393]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.05-17.25.09:307][393]PIE: New page: PIE session: NewMap (5 May 2018 19:25:09)
+[2018.05.05-17.25.09:307][393]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2018.05.05-17.25.09:329][393]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022159s)
+[2018.05.05-17.25.09:330][393]LogAIModule: Creating AISystem for world NewMap
+[2018.05.05-17.25.09:331][393]LogPlayLevel: PIE: World Init took: (0.001248s)
+[2018.05.05-17.25.09:331][393]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.024328s)
+[2018.05.05-17.25.09:366][393]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.05-17.25.09:379][393]LogInit: FAudioDevice initialized.
+[2018.05.05-17.25.09:417][393]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.05-17.25.09:437][393]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2018.05.05-18.25.09
+[2018.05.05-17.25.09:442][393]LogWorld: Bringing up level for play took: 0.023296
+[2018.05.05-17.25.09:449][393]PIE: Play in editor start time for /Game/UEDPIE_0_NewMap 0.373
+[2018.05.05-17.25.10:235][414]LogBlueprintUserMessages: [ThirdPersonCharacter_853] 4.0
+[2018.05.05-17.25.17:987][621]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.05-17.25.19:620][650]LogSavePackage: Save=9.97ms
+[2018.05.05-17.25.19:620][650]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/EnemyBehaviourTree0D73FD8A46F9D75FA96174BC33689AF2.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/ThirdPersonBP/Blueprints/EnemyBehaviourTree.uasset'
+[2018.05.05-17.25.19:625][650]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/ThirdPersonBP/Blueprints/EnemyBehaviourTree.uasset
+[2018.05.05-17.25.21:057][679]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.05-17.25.21:127][679]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.05-17.25.21:128][679]PIE: New page: PIE session: NewMap (5 May 2018 19:25:21)
+[2018.05.05-17.25.21:129][679]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2018.05.05-17.25.21:163][679]LogPlayLevel: PIE: StaticDuplicateObject took: (0.033872s)
+[2018.05.05-17.25.21:164][679]LogAIModule: Creating AISystem for world NewMap
+[2018.05.05-17.25.21:165][679]LogPlayLevel: PIE: World Init took: (0.001399s)
+[2018.05.05-17.25.21:166][679]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.036335s)
+[2018.05.05-17.25.21:210][679]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.05-17.25.21:223][679]LogInit: FAudioDevice initialized.
+[2018.05.05-17.25.21:261][679]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.05-17.25.21:268][679]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2018.05.05-18.25.21
+[2018.05.05-17.25.21:270][679]LogWorld: Bringing up level for play took: 0.008474
+[2018.05.05-17.25.21:273][679]PIE: Play in editor start time for /Game/UEDPIE_0_NewMap 0.197
+[2018.05.05-17.25.22:281][706]LogBlueprintUserMessages: [ThirdPersonCharacter_853] 4.0
+[2018.05.05-17.25.26:716][821]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.05-17.25.29:454][874]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.05-17.25.29:554][874]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.05-17.25.29:555][874]PIE: New page: PIE session: NewMap (5 May 2018 19:25:29)
+[2018.05.05-17.25.29:556][874]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2018.05.05-17.25.29:580][874]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024334s)
+[2018.05.05-17.25.29:581][874]LogAIModule: Creating AISystem for world NewMap
+[2018.05.05-17.25.29:582][874]LogPlayLevel: PIE: World Init took: (0.001868s)
+[2018.05.05-17.25.29:583][874]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.027411s)
+[2018.05.05-17.25.29:620][874]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.05-17.25.29:630][874]LogInit: FAudioDevice initialized.
+[2018.05.05-17.25.29:674][874]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.05-17.25.29:694][874]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2018.05.05-18.25.29
+[2018.05.05-17.25.29:699][874]LogWorld: Bringing up level for play took: 0.023103
+[2018.05.05-17.25.29:706][874]PIE: Play in editor start time for /Game/UEDPIE_0_NewMap 0.63
+[2018.05.05-17.25.30:729][902]LogBlueprintUserMessages: [ThirdPersonCharacter_853] 4.0
+[2018.05.05-17.25.37:376][ 92]LogBlueprintUserMessages: [ThirdPersonEnemy_642] 4.0
+[2018.05.05-17.25.38:549][125]LogBlueprintUserMessages: [ThirdPersonEnemy_642] 3.0
+[2018.05.05-17.25.38:696][129]LogBlueprintUserMessages: [ThirdPersonEnemy_642] 2.0
+[2018.05.05-17.25.38:807][132]LogBlueprintUserMessages: [ThirdPersonEnemy_642] 1.0
+[2018.05.05-17.25.44:032][274]LogBlueprintUserMessages: [PlayerInventory] Item added to inventory
+[2018.05.05-17.25.49:604][424]LogBlueprintUserMessages: [ThirdPersonEnemy3_1676] 4.0
+[2018.05.05-17.25.49:717][427]LogBlueprintUserMessages: [ThirdPersonEnemy3_1676] 3.0
+[2018.05.05-17.25.50:298][442]LogBlueprintUserMessages: [ThirdPersonEnemy3_1676] 2.0
+[2018.05.05-17.25.50:920][458]LogBlueprintUserMessages: [ThirdPersonEnemy3_1676] 1.0
+[2018.05.05-17.25.52:834][507]LogBlueprintUserMessages: [ThirdPersonEnemy4] 4.0
+[2018.05.05-17.25.53:252][518]LogBlueprintUserMessages: [ThirdPersonEnemy4] 3.0
+[2018.05.05-17.25.53:396][522]LogBlueprintUserMessages: [ThirdPersonEnemy4] 2.0
+[2018.05.05-17.25.53:509][525]LogBlueprintUserMessages: [ThirdPersonEnemy4] 1.0
+[2018.05.05-17.26.02:243][755]LogBlueprintUserMessages: [PlayerInventory] Item added to inventory
+[2018.05.05-17.26.06:081][844]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.05-17.26.09:668][913]LogSavePackage: Save=13.46ms
+[2018.05.05-17.26.09:668][913]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/EnemyBehaviourTree1DF9F2F34F1F1573B1E249A832892036.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/ThirdPersonBP/Blueprints/EnemyBehaviourTree.uasset'
+[2018.05.05-17.26.09:672][913]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/ThirdPersonBP/Blueprints/EnemyBehaviourTree.uasset
+[2018.05.05-17.26.12:866][975]LogSavePackage: Save=32.96ms
+[2018.05.05-17.26.12:867][975]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/EnemyAIControllerED19EA4D4700D289008124B64099AA95.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/ThirdPersonBP/Blueprints/EnemyAIController.uasset'
+[2018.05.05-17.26.12:869][975]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/ThirdPersonBP/Blueprints/EnemyAIController.uasset
+[2018.05.05-17.26.24:120][195]LogSavePackage: Save=32.27ms
+[2018.05.05-17.26.24:121][195]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/EnemyAIController4F5631C5475A01D992B4898774574B9C.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/ThirdPersonBP/Blueprints/EnemyAIController.uasset'
+[2018.05.05-17.26.24:126][195]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/ThirdPersonBP/Blueprints/EnemyAIController.uasset
+[2018.05.05-17.26.24:850][209]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap" FILE="../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.05.05-17.26.25:044][209]LogSavePackage: Save=142.93ms
+[2018.05.05-17.26.25:044][209]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/NewMapEE6D603542A58AD9E4A092BB8FA78C92.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap.umap'
+[2018.05.05-17.26.25:046][209]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap.umap
+[2018.05.05-17.26.25:087][209]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap_BuiltData" FILE="../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap_BuiltData.uasset" SILENT=true
+[2018.05.05-17.26.25:359][209]LogSavePackage: Save=246.44ms
+[2018.05.05-17.26.25:359][209]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/NewMap_BuiltData76F8DEC14B3DA7707AECA1BD5E2BA7EF.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap_BuiltData.uasset'
+[2018.05.05-17.26.25:361][209]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap_BuiltData.uasset
+[2018.05.05-17.26.30:693][317]BlueprintLog: New page: Compile EnemyAIController
+[2018.05.05-17.26.32:081][339]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.05-17.26.32:179][339]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.05-17.26.32:179][339]PIE: New page: PIE session: NewMap (5 May 2018 19:26:32)
+[2018.05.05-17.26.32:180][339]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2018.05.05-17.26.32:198][339]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017848s)
+[2018.05.05-17.26.32:199][339]LogAIModule: Creating AISystem for world NewMap
+[2018.05.05-17.26.32:199][339]LogPlayLevel: PIE: World Init took: (0.001162s)
+[2018.05.05-17.26.32:199][339]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.019774s)
+[2018.05.05-17.26.32:232][339]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.05-17.26.32:246][339]LogInit: FAudioDevice initialized.
+[2018.05.05-17.26.32:295][339]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.05-17.26.32:318][339]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2018.05.05-18.26.32
+[2018.05.05-17.26.32:326][339]LogWorld: Bringing up level for play took: 0.028487
+[2018.05.05-17.26.32:330][339]PIE: Play in editor start time for /Game/UEDPIE_0_NewMap -0.746
+[2018.05.05-17.26.34:031][384]LogBlueprintUserMessages: [ThirdPersonCharacter_853] 4.0
+[2018.05.05-17.26.34:171][388]LogBlueprintUserMessages: [ThirdPersonCharacter_853] 3.0
+[2018.05.05-17.26.34:278][391]LogBlueprintUserMessages: [ThirdPersonCharacter_853] 2.0
+[2018.05.05-17.26.34:421][395]LogBlueprintUserMessages: [ThirdPersonCharacter_853] 1.0
+[2018.05.05-17.26.48:828][785]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.05-17.26.58:840][971]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap" FILE="../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.05.05-17.26.59:012][971]LogSavePackage: Save=133.42ms
+[2018.05.05-17.26.59:012][971]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/NewMap17EA5BBA4E406DD129B50CA3FB948C50.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap.umap'
+[2018.05.05-17.26.59:014][971]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap.umap
+[2018.05.05-17.26.59:054][971]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap_BuiltData" FILE="../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap_BuiltData.uasset" SILENT=true
+[2018.05.05-17.26.59:314][971]LogSavePackage: Save=245.89ms
+[2018.05.05-17.26.59:314][971]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/NewMap_BuiltDataBD28FE674FC0BC36077DC49FB037FEDD.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap_BuiltData.uasset'
+[2018.05.05-17.26.59:316][971]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap_BuiltData.uasset
