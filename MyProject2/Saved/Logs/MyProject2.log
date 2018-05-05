@@ -5775,3 +5775,578 @@ LogInit: Object subsystem initialized
 [2018.05.05-15.55.09:050][171]LogSavePackage: Save=16.12ms
 [2018.05.05-15.55.09:050][171]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/KeyCard_Green5EE497724AEB6C0CDE0ECB8980C9A68F.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/Collectables/KeyCard_Green.uasset'
 [2018.05.05-15.55.09:054][171]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/Collectables/KeyCard_Green.uasset
+[2018.05.05-15.55.34:329][271]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.05-15.55.35:305][291]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.05-15.55.35:354][291]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.05-15.55.35:354][291]PIE: New page: PIE session: NewMap (5 May 2018 17:55:35)
+[2018.05.05-15.55.35:355][291]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2018.05.05-15.55.35:397][291]LogPlayLevel: PIE: StaticDuplicateObject took: (0.042268s)
+[2018.05.05-15.55.35:398][291]LogAIModule: Creating AISystem for world NewMap
+[2018.05.05-15.55.35:399][291]LogPlayLevel: PIE: World Init took: (0.001156s)
+[2018.05.05-15.55.35:399][291]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.044215s)
+[2018.05.05-15.55.35:426][291]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.05-15.55.35:437][291]LogInit: FAudioDevice initialized.
+[2018.05.05-15.55.35:476][291]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.05-15.55.35:500][291]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2018.05.05-16.55.35
+[2018.05.05-15.55.35:508][291]LogWorld: Bringing up level for play took: 0.029956
+[2018.05.05-15.55.35:517][291]PIE: Play in editor start time for /Game/UEDPIE_0_NewMap 0.441
+[2018.05.05-15.55.36:686][335]LogBlueprintUserMessages: [ThirdPersonCharacter_853] 4.0
+[2018.05.05-15.55.37:433][368]LogBlueprintUserMessages: [ThirdPersonCharacter_853] 3.0
+[2018.05.05-15.55.37:880][388]LogBlueprintUserMessages: [ThirdPersonCharacter_853] 2.0
+[2018.05.05-15.55.38:828][430]LogBlueprintUserMessages: [ThirdPersonCharacter_853] 1.0
+[2018.05.05-15.55.42:703][603]LogBlueprintUserMessages: [PlayerInventory] Item added to inventory
+[2018.05.05-15.55.50:989][970]LogBlueprintUserMessages: [ThirdPersonEnemy_642] 4.0
+[2018.05.05-15.55.51:762][  4]LogBlueprintUserMessages: [ThirdPersonEnemy_642] 3.0
+[2018.05.05-15.55.51:904][ 10]LogBlueprintUserMessages: [ThirdPersonEnemy_642] 2.0
+[2018.05.05-15.55.52:033][ 16]LogBlueprintUserMessages: [ThirdPersonEnemy_642] 1.0
+[2018.05.05-15.55.53:294][ 72]LogBlueprintUserMessages: [ThirdPersonEnemy2_1109] 4.0
+[2018.05.05-15.55.53:430][ 78]LogBlueprintUserMessages: [ThirdPersonEnemy2_1109] 3.0
+[2018.05.05-15.55.53:568][ 84]LogBlueprintUserMessages: [ThirdPersonEnemy2_1109] 2.0
+[2018.05.05-15.55.53:726][ 91]LogBlueprintUserMessages: [ThirdPersonEnemy2_1109] 1.0
+[2018.05.05-15.55.57:764][272]LogBlueprintUserMessages: [PlayerInventory] Item added to inventory
+[2018.05.05-15.56.02:511][482]LogBlueprintUserMessages: [ThirdPersonEnemy3_1676] 4.0
+[2018.05.05-15.56.02:641][488]LogBlueprintUserMessages: [ThirdPersonEnemy3_1676] 3.0
+[2018.05.05-15.56.02:751][493]LogBlueprintUserMessages: [ThirdPersonEnemy4] 4.0
+[2018.05.05-15.56.02:856][498]LogBlueprintUserMessages: [ThirdPersonEnemy4] 3.0
+[2018.05.05-15.56.02:988][504]LogBlueprintUserMessages: [ThirdPersonEnemy4] 2.0
+[2018.05.05-15.56.03:140][511]LogBlueprintUserMessages: [ThirdPersonEnemy4] 1.0
+[2018.05.05-15.56.03:458][525]LogBlueprintUserMessages: [ThirdPersonEnemy3_1676] 2.0
+[2018.05.05-15.56.03:730][538]LogBlueprintUserMessages: [ThirdPersonEnemy3_1676] 1.0
+[2018.05.05-15.56.10:700][852]LogBlueprintUserMessages: [PlayerInventory] Item added to inventory
+[2018.05.05-15.56.27:641][506]Cmd: SELECT NONE
+[2018.05.05-15.56.28:230][518]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.05-15.56.28:243][518]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap" FILE="../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.05.05-15.56.28:419][518]LogSavePackage: Save=134.16ms
+[2018.05.05-15.56.28:420][518]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/NewMapA8CA2F114724AEB2793889B15D1B61F3.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap.umap'
+[2018.05.05-15.56.28:421][518]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap.umap
+[2018.05.05-15.56.28:465][518]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap_BuiltData" FILE="../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap_BuiltData.uasset" SILENT=true
+[2018.05.05-15.56.28:718][518]LogSavePackage: Save=241.25ms
+[2018.05.05-15.56.28:718][518]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/NewMap_BuiltDataDDD187F34356D2DF93BEC281CEEE308E.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap_BuiltData.uasset'
+[2018.05.05-15.56.28:720][518]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap_BuiltData.uasset
+[2018.05.05-15.56.40:051][779]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.05-15.56.51:782][959]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.05-15.57.06:543][174]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.05-15.57.54:992][882]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.05-15.58.42:317][585]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SlideDoor" FILE="../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/SlideDoor.uasset" SILENT=true
+[2018.05.05-15.58.42:367][585]LogSavePackage: Save=31.18ms
+[2018.05.05-15.58.42:367][585]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/SlideDoorBB3F5AA14DC7B23C03E0A284E9296F58.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/SlideDoor.uasset'
+[2018.05.05-15.58.42:371][585]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/SlideDoor.uasset
+[2018.05.05-15.58.45:096][628]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.05-15.59.03:768][904]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.05-15.59.04:907][918]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SlideDoor" FILE="../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/SlideDoor.uasset" SILENT=true
+[2018.05.05-15.59.04:948][918]LogSavePackage: Save=28.60ms
+[2018.05.05-15.59.04:948][918]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/SlideDoor05FCEF8A4245EAF73D0042B066682BFA.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/SlideDoor.uasset'
+[2018.05.05-15.59.04:952][918]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/SlideDoor.uasset
+[2018.05.05-15.59.10:958][  8]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.05-15.59.17:517][104]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.05-15.59.17:583][104]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SlideDoor" FILE="../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/SlideDoor.uasset" SILENT=true
+[2018.05.05-15.59.17:643][104]LogSavePackage: Save=24.32ms
+[2018.05.05-15.59.17:643][104]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/SlideDoor03E568B14B0829240718B8AB6F21D30A.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/SlideDoor.uasset'
+[2018.05.05-15.59.17:645][104]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/SlideDoor.uasset
+[2018.05.05-15.59.19:000][126]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.05-16.01.00:418][ 61]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SlideDoor" FILE="../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/SlideDoor.uasset" SILENT=true
+[2018.05.05-16.01.00:461][ 61]LogSavePackage: Save=30.27ms
+[2018.05.05-16.01.00:461][ 61]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/SlideDoor6C585DA0413563375295A9A15882A6C5.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/SlideDoor.uasset'
+[2018.05.05-16.01.00:466][ 61]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/SlideDoor.uasset
+[2018.05.05-16.01.02:032][ 93]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.05-16.01.02:173][ 95]BlueprintLog: New page: Compile SlideDoor
+[2018.05.05-16.01.04:196][125]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.05-16.01.04:298][125]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.05-16.01.04:299][125]PIE: New page: PIE session: NewMap (5 May 2018 18:01:04)
+[2018.05.05-16.01.04:299][125]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2018.05.05-16.01.04:319][125]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019658s)
+[2018.05.05-16.01.04:320][125]LogAIModule: Creating AISystem for world NewMap
+[2018.05.05-16.01.04:321][125]LogPlayLevel: PIE: World Init took: (0.001402s)
+[2018.05.05-16.01.04:321][125]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.021878s)
+[2018.05.05-16.01.04:352][125]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.05-16.01.04:366][125]LogInit: FAudioDevice initialized.
+[2018.05.05-16.01.04:404][125]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.05-16.01.04:424][125]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2018.05.05-17.01.04
+[2018.05.05-16.01.04:430][125]LogWorld: Bringing up level for play took: 0.025037
+[2018.05.05-16.01.04:438][125]PIE: Play in editor start time for /Game/UEDPIE_0_NewMap -0.638
+[2018.05.05-16.01.05:303][147]LogBlueprintUserMessages: [ThirdPersonCharacter_853] 4.0
+[2018.05.05-16.01.12:576][331]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.05-16.01.29:969][672]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SlideDoor" FILE="../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/SlideDoor.uasset" SILENT=true
+[2018.05.05-16.01.30:008][672]LogSavePackage: Save=26.23ms
+[2018.05.05-16.01.30:008][672]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/SlideDoor1C9259C84083974CA77433B81BF3D3D0.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/SlideDoor.uasset'
+[2018.05.05-16.01.30:012][672]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/SlideDoor.uasset
+[2018.05.05-16.01.30:635][686]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.05-16.01.30:683][687]BlueprintLog: New page: Compile SlideDoor
+[2018.05.05-16.01.32:439][714]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.05-16.01.32:534][714]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.05-16.01.32:534][714]PIE: New page: PIE session: NewMap (5 May 2018 18:01:32)
+[2018.05.05-16.01.32:535][714]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2018.05.05-16.01.32:559][714]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023887s)
+[2018.05.05-16.01.32:560][714]LogAIModule: Creating AISystem for world NewMap
+[2018.05.05-16.01.32:561][714]LogPlayLevel: PIE: World Init took: (0.001095s)
+[2018.05.05-16.01.32:561][714]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.025896s)
+[2018.05.05-16.01.32:591][714]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.05-16.01.32:602][714]LogInit: FAudioDevice initialized.
+[2018.05.05-16.01.32:644][714]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.05-16.01.32:662][714]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2018.05.05-17.01.32
+[2018.05.05-16.01.32:666][714]LogWorld: Bringing up level for play took: 0.019513
+[2018.05.05-16.01.32:671][714]PIE: Play in editor start time for /Game/UEDPIE_0_NewMap -0.406
+[2018.05.05-16.01.33:250][728]LogBlueprintUserMessages: [ThirdPersonCharacter_853] 4.0
+[2018.05.05-16.01.44:533][ 51]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.05-16.01.45:150][ 61]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SlideDoor" FILE="../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/SlideDoor.uasset" SILENT=true
+[2018.05.05-16.01.45:191][ 61]LogSavePackage: Save=26.71ms
+[2018.05.05-16.01.45:191][ 61]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/SlideDoorB3243F34454E11CCE2A896B73E037D89.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/SlideDoor.uasset'
+[2018.05.05-16.01.45:193][ 61]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/SlideDoor.uasset
+[2018.05.05-16.01.48:797][135]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.05-16.02.09:104][544]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SlideDoor" FILE="../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/SlideDoor.uasset" SILENT=true
+[2018.05.05-16.02.09:139][544]LogSavePackage: Save=20.63ms
+[2018.05.05-16.02.09:139][544]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/SlideDoor041BC2494E7061BF787651B55B1F6807.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/SlideDoor.uasset'
+[2018.05.05-16.02.09:143][544]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/SlideDoor.uasset
+[2018.05.05-16.02.09:804][559]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.05-16.02.09:902][561]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.05-16.02.09:957][561]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.05-16.02.09:958][561]PIE: New page: PIE session: NewMap (5 May 2018 18:02:09)
+[2018.05.05-16.02.09:958][561]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2018.05.05-16.02.10:003][561]LogPlayLevel: PIE: StaticDuplicateObject took: (0.044303s)
+[2018.05.05-16.02.10:004][561]LogAIModule: Creating AISystem for world NewMap
+[2018.05.05-16.02.10:004][561]LogPlayLevel: PIE: World Init took: (0.001121s)
+[2018.05.05-16.02.10:004][561]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.046215s)
+[2018.05.05-16.02.10:038][561]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.05-16.02.10:049][561]LogInit: FAudioDevice initialized.
+[2018.05.05-16.02.10:100][561]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.05-16.02.10:121][561]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2018.05.05-17.02.10
+[2018.05.05-16.02.10:125][561]LogWorld: Bringing up level for play took: 0.022688
+[2018.05.05-16.02.10:132][561]PIE: Play in editor start time for /Game/UEDPIE_0_NewMap 1.056
+[2018.05.05-16.02.31:806][188]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.05-16.02.36:572][284]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SlideDoor" FILE="../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/SlideDoor.uasset" SILENT=true
+[2018.05.05-16.02.36:608][284]LogSavePackage: Save=21.21ms
+[2018.05.05-16.02.36:609][284]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/SlideDoorA50B3C5241D08A92398F11AFBB08B086.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/SlideDoor.uasset'
+[2018.05.05-16.02.36:613][284]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/SlideDoor.uasset
+[2018.05.05-16.02.38:732][328]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.05-16.02.40:301][357]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SlideDoor" FILE="../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/SlideDoor.uasset" SILENT=true
+[2018.05.05-16.02.40:337][357]LogSavePackage: Save=20.25ms
+[2018.05.05-16.02.40:337][357]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/SlideDoorA4CABF97493B2ABFE6D9CB8336DC840C.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/SlideDoor.uasset'
+[2018.05.05-16.02.40:339][357]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/SlideDoor.uasset
+[2018.05.05-16.02.40:910][370]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.05-16.03.18:960][120]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SlideDoor" FILE="../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/SlideDoor.uasset" SILENT=true
+[2018.05.05-16.03.19:002][120]LogSavePackage: Save=27.30ms
+[2018.05.05-16.03.19:002][120]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/SlideDoorF4AC8B5A400430CA08EBE18C7CF4CBC6.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/SlideDoor.uasset'
+[2018.05.05-16.03.19:007][120]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/SlideDoor.uasset
+[2018.05.05-16.03.19:586][133]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.05-16.03.19:635][134]BlueprintLog: New page: Compile SlideDoor
+[2018.05.05-16.03.19:662][134]LogBlueprint: Warning: [Compiler SlideDoor] 'Actor' does not inherit from 'Primitive Component' ( Cast To Actor  would always fail).
+[2018.05.05-16.03.20:084][134]LogBlueprint: Warning: [Compiler SlideDoor] [6985.45] Compile of SlideDoor successful, but with 1 Warning(s) [in 448 ms] (/Game/SlideDoor.SlideDoor)
+[2018.05.05-16.03.27:520][278]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SlideDoor" FILE="../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/SlideDoor.uasset" SILENT=true
+[2018.05.05-16.03.27:561][278]LogSavePackage: Save=27.78ms
+[2018.05.05-16.03.27:561][278]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/SlideDoor50A1262C4635D2CD08BA5488B2C03C35.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/SlideDoor.uasset'
+[2018.05.05-16.03.27:566][278]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/SlideDoor.uasset
+[2018.05.05-16.03.28:155][291]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.05-16.03.28:203][292]BlueprintLog: New page: Compile SlideDoor
+[2018.05.05-16.03.30:435][328]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.05-16.03.30:527][328]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.05-16.03.30:528][328]PIE: New page: PIE session: NewMap (5 May 2018 18:03:30)
+[2018.05.05-16.03.30:529][328]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2018.05.05-16.03.30:551][328]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021987s)
+[2018.05.05-16.03.30:552][328]LogAIModule: Creating AISystem for world NewMap
+[2018.05.05-16.03.30:553][328]LogPlayLevel: PIE: World Init took: (0.001056s)
+[2018.05.05-16.03.30:553][328]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.023877s)
+[2018.05.05-16.03.30:583][328]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.05-16.03.30:595][328]LogInit: FAudioDevice initialized.
+[2018.05.05-16.03.30:625][328]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.05-16.03.30:632][328]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2018.05.05-17.03.30
+[2018.05.05-16.03.30:634][328]LogWorld: Bringing up level for play took: 0.008552
+[2018.05.05-16.03.30:637][328]PIE: Play in editor start time for /Game/UEDPIE_0_NewMap -0.439
+[2018.05.05-16.03.41:246][587]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.05-16.04.05:948][ 56]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SlideDoor" FILE="../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/SlideDoor.uasset" SILENT=true
+[2018.05.05-16.04.05:996][ 56]LogSavePackage: Save=27.55ms
+[2018.05.05-16.04.05:996][ 56]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/SlideDoorFDE773284156B18897D4358E252FFF59.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/SlideDoor.uasset'
+[2018.05.05-16.04.06:001][ 56]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/SlideDoor.uasset
+[2018.05.05-16.04.07:180][ 81]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.05-16.04.07:281][ 83]BlueprintLog: New page: Compile SlideDoor
+[2018.05.05-16.04.08:741][104]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.05-16.04.08:827][104]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.05-16.04.08:828][104]PIE: New page: PIE session: NewMap (5 May 2018 18:04:08)
+[2018.05.05-16.04.08:830][104]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2018.05.05-16.04.08:852][104]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021012s)
+[2018.05.05-16.04.08:853][104]LogAIModule: Creating AISystem for world NewMap
+[2018.05.05-16.04.08:854][104]LogPlayLevel: PIE: World Init took: (0.001056s)
+[2018.05.05-16.04.08:854][104]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.023695s)
+[2018.05.05-16.04.08:883][104]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.05-16.04.08:894][104]LogInit: FAudioDevice initialized.
+[2018.05.05-16.04.08:945][104]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.05-16.04.08:961][104]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2018.05.05-17.04.08
+[2018.05.05-16.04.08:964][104]LogWorld: Bringing up level for play took: 0.016612
+[2018.05.05-16.04.08:970][104]PIE: Play in editor start time for /Game/UEDPIE_0_NewMap -0.106
+[2018.05.05-16.04.18:225][365]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.05-16.04.18:293][367]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.05-16.04.18:343][367]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.05-16.04.18:343][367]PIE: New page: PIE session: NewMap (5 May 2018 18:04:18)
+[2018.05.05-16.04.18:344][367]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2018.05.05-16.04.18:384][367]LogPlayLevel: PIE: StaticDuplicateObject took: (0.038822s)
+[2018.05.05-16.04.18:385][367]LogAIModule: Creating AISystem for world NewMap
+[2018.05.05-16.04.18:386][367]LogPlayLevel: PIE: World Init took: (0.001467s)
+[2018.05.05-16.04.18:386][367]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.041760s)
+[2018.05.05-16.04.18:422][367]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.05-16.04.18:432][367]LogInit: FAudioDevice initialized.
+[2018.05.05-16.04.18:474][367]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.05-16.04.18:495][367]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2018.05.05-17.04.18
+[2018.05.05-16.04.18:500][367]LogWorld: Bringing up level for play took: 0.023567
+[2018.05.05-16.04.18:506][367]PIE: Play in editor start time for /Game/UEDPIE_0_NewMap -0.57
+[2018.05.05-16.04.19:220][385]LogBlueprintUserMessages: [ThirdPersonCharacter_853] 4.0
+[2018.05.05-16.04.31:824][712]Cmd: SELECT NONE
+[2018.05.05-16.04.33:670][748]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.05-16.04.34:490][762]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SlideDoor" FILE="../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/SlideDoor.uasset" SILENT=true
+[2018.05.05-16.04.34:530][762]LogSavePackage: Save=27.82ms
+[2018.05.05-16.04.34:530][762]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/SlideDoorB09F9EDD44931F197A3A2094A7A37FC6.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/SlideDoor.uasset'
+[2018.05.05-16.04.34:532][762]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/SlideDoor.uasset
+[2018.05.05-16.04.49:487][ 62]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.05-16.05.26:215][767]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SlideDoor" FILE="../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/SlideDoor.uasset" SILENT=true
+[2018.05.05-16.05.26:259][767]LogSavePackage: Save=27.59ms
+[2018.05.05-16.05.26:259][767]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/SlideDoor4A8FA55F4041FFAFDBB30AB7E2252C8A.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/SlideDoor.uasset'
+[2018.05.05-16.05.26:263][767]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/SlideDoor.uasset
+[2018.05.05-16.05.27:219][787]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.05-16.05.27:308][789]BlueprintLog: New page: Compile SlideDoor
+[2018.05.05-16.05.29:155][818]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.05-16.05.29:244][818]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.05-16.05.29:246][818]PIE: New page: PIE session: NewMap (5 May 2018 18:05:29)
+[2018.05.05-16.05.29:248][818]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2018.05.05-16.05.29:270][818]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021841s)
+[2018.05.05-16.05.29:271][818]LogAIModule: Creating AISystem for world NewMap
+[2018.05.05-16.05.29:271][818]LogPlayLevel: PIE: World Init took: (0.001058s)
+[2018.05.05-16.05.29:272][818]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.023845s)
+[2018.05.05-16.05.29:302][818]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.05-16.05.29:315][818]LogInit: FAudioDevice initialized.
+[2018.05.05-16.05.29:364][818]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.05-16.05.29:383][818]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2018.05.05-17.05.29
+[2018.05.05-16.05.29:389][818]LogWorld: Bringing up level for play took: 0.022855
+[2018.05.05-16.05.29:395][818]PIE: Play in editor start time for /Game/UEDPIE_0_NewMap 0.319
+[2018.05.05-16.05.40:901][114]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.05-16.05.48:599][267]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SlideDoor" FILE="../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/SlideDoor.uasset" SILENT=true
+[2018.05.05-16.05.48:639][267]LogSavePackage: Save=26.77ms
+[2018.05.05-16.05.48:639][267]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/SlideDoor31343E39433C2935590D27A303EC7924.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/SlideDoor.uasset'
+[2018.05.05-16.05.48:643][267]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/SlideDoor.uasset
+[2018.05.05-16.05.50:802][312]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.05-16.05.50:851][313]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.05-16.05.50:907][313]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.05-16.05.50:907][313]PIE: New page: PIE session: NewMap (5 May 2018 18:05:50)
+[2018.05.05-16.05.50:908][313]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2018.05.05-16.05.50:955][313]LogPlayLevel: PIE: StaticDuplicateObject took: (0.047073s)
+[2018.05.05-16.05.50:957][313]LogAIModule: Creating AISystem for world NewMap
+[2018.05.05-16.05.50:957][313]LogPlayLevel: PIE: World Init took: (0.001405s)
+[2018.05.05-16.05.50:958][313]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.049663s)
+[2018.05.05-16.05.50:995][313]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.05-16.05.51:007][313]LogInit: FAudioDevice initialized.
+[2018.05.05-16.05.51:056][313]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.05-16.05.51:073][313]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2018.05.05-17.05.51
+[2018.05.05-16.05.51:078][313]LogWorld: Bringing up level for play took: 0.019248
+[2018.05.05-16.05.51:082][313]PIE: Play in editor start time for /Game/UEDPIE_0_NewMap 0.005
+[2018.05.05-16.06.01:132][599]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.05-16.06.03:294][641]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SlideDoor" FILE="../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/SlideDoor.uasset" SILENT=true
+[2018.05.05-16.06.03:331][641]LogSavePackage: Save=21.83ms
+[2018.05.05-16.06.03:331][641]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/SlideDoor44685DEA409CA5FA7B7F66AC71654449.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/SlideDoor.uasset'
+[2018.05.05-16.06.03:333][641]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/SlideDoor.uasset
+[2018.05.05-16.06.04:729][671]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.05-16.06.07:959][735]BlueprintLog: New page: Compile SlideDoor
+[2018.05.05-16.06.13:259][833]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SlideDoor" FILE="../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/SlideDoor.uasset" SILENT=true
+[2018.05.05-16.06.13:298][833]LogSavePackage: Save=26.85ms
+[2018.05.05-16.06.13:298][833]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/SlideDoor82BEFE584545809196219BA4E54205EC.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/SlideDoor.uasset'
+[2018.05.05-16.06.13:303][833]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/SlideDoor.uasset
+[2018.05.05-16.06.14:412][857]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.05-16.06.14:458][858]BlueprintLog: New page: Compile SlideDoor
+[2018.05.05-16.06.16:192][883]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SlideDoor" FILE="../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/SlideDoor.uasset" SILENT=true
+[2018.05.05-16.06.16:229][883]LogSavePackage: Save=25.83ms
+[2018.05.05-16.06.16:230][883]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/SlideDoorDED3CDF847E47D93DD65BA8E964DB691.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/SlideDoor.uasset'
+[2018.05.05-16.06.16:231][883]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/SlideDoor.uasset
+[2018.05.05-16.06.30:341][176]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.05-16.06.30:389][177]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.05-16.06.30:478][177]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.05-16.06.30:479][177]PIE: New page: PIE session: NewMap (5 May 2018 18:06:30)
+[2018.05.05-16.06.30:479][177]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2018.05.05-16.06.30:505][177]LogPlayLevel: PIE: StaticDuplicateObject took: (0.025522s)
+[2018.05.05-16.06.30:506][177]LogAIModule: Creating AISystem for world NewMap
+[2018.05.05-16.06.30:507][177]LogPlayLevel: PIE: World Init took: (0.001412s)
+[2018.05.05-16.06.30:507][177]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.027792s)
+[2018.05.05-16.06.30:541][177]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.05-16.06.30:552][177]LogInit: FAudioDevice initialized.
+[2018.05.05-16.06.30:591][177]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.05-16.06.30:599][177]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2018.05.05-17.06.30
+[2018.05.05-16.06.30:601][177]LogWorld: Bringing up level for play took: 0.009398
+[2018.05.05-16.06.30:604][177]PIE: Play in editor start time for /Game/UEDPIE_0_NewMap -0.472
+[2018.05.05-16.06.31:668][205]LogBlueprintUserMessages: [ThirdPersonCharacter_853] 4.0
+[2018.05.05-16.06.32:110][218]LogBlueprintUserMessages: [ThirdPersonCharacter_853] 3.0
+[2018.05.05-16.06.32:537][231]LogBlueprintUserMessages: [ThirdPersonCharacter_853] 2.0
+[2018.05.05-16.06.32:729][237]LogBlueprintUserMessages: [ThirdPersonCharacter_853] 1.0
+[2018.05.05-16.06.39:096][409]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.05-16.06.39:795][421]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SlideDoor" FILE="../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/SlideDoor.uasset" SILENT=true
+[2018.05.05-16.06.39:831][421]LogSavePackage: Save=21.40ms
+[2018.05.05-16.06.39:832][421]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/SlideDoor3F710D9448B9C6AC3AAA9EACEECE00F1.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/SlideDoor.uasset'
+[2018.05.05-16.06.39:834][421]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/SlideDoor.uasset
+[2018.05.05-16.06.46:994][565]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.05-16.06.56:613][753]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SlideDoor" FILE="../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/SlideDoor.uasset" SILENT=true
+[2018.05.05-16.06.56:648][753]LogSavePackage: Save=20.91ms
+[2018.05.05-16.06.56:648][753]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/SlideDoorCE94C325498FF98D8DCA3287FA314C85.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/SlideDoor.uasset'
+[2018.05.05-16.06.56:653][753]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/SlideDoor.uasset
+[2018.05.05-16.06.59:939][819]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.05-16.08.15:753][290]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SlideDoor" FILE="../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/SlideDoor.uasset" SILENT=true
+[2018.05.05-16.08.15:802][290]LogSavePackage: Save=30.18ms
+[2018.05.05-16.08.15:802][290]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/SlideDoor1168CC1148FA5E189A60C89F86948CE7.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/SlideDoor.uasset'
+[2018.05.05-16.08.15:806][290]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/SlideDoor.uasset
+[2018.05.05-16.08.16:402][303]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.05-16.08.16:453][304]BlueprintLog: New page: Compile SlideDoor
+[2018.05.05-16.08.18:318][332]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.05-16.08.18:411][332]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.05-16.08.18:413][332]PIE: New page: PIE session: NewMap (5 May 2018 18:08:18)
+[2018.05.05-16.08.18:415][332]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2018.05.05-16.08.18:433][332]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018595s)
+[2018.05.05-16.08.18:434][332]LogAIModule: Creating AISystem for world NewMap
+[2018.05.05-16.08.18:435][332]LogPlayLevel: PIE: World Init took: (0.001279s)
+[2018.05.05-16.08.18:435][332]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.020777s)
+[2018.05.05-16.08.18:470][332]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.05-16.08.18:481][332]LogInit: FAudioDevice initialized.
+[2018.05.05-16.08.18:512][332]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.05-16.08.18:519][332]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2018.05.05-17.08.18
+[2018.05.05-16.08.18:522][332]LogWorld: Bringing up level for play took: 0.009303
+[2018.05.05-16.08.18:525][332]PIE: Play in editor start time for /Game/UEDPIE_0_NewMap -0.551
+[2018.05.05-16.08.19:217][349]LogBlueprintUserMessages: [ThirdPersonCharacter_853] 4.0
+[2018.05.05-16.08.22:795][452]LogBlueprintUserMessages: [ThirdPersonCharacter_853] 3.0
+[2018.05.05-16.08.22:941][456]LogBlueprintUserMessages: [ThirdPersonCharacter_853] 2.0
+[2018.05.05-16.08.23:088][460]LogBlueprintUserMessages: [ThirdPersonCharacter_853] 1.0
+[2018.05.05-16.08.26:012][544]LogBlueprintUserMessages: [ThirdPersonEnemy2_1109] 4.0
+[2018.05.05-16.08.26:183][549]LogBlueprintUserMessages: [ThirdPersonEnemy2_1109] 3.0
+[2018.05.05-16.08.26:293][552]LogBlueprintUserMessages: [ThirdPersonEnemy2_1109] 2.0
+[2018.05.05-16.08.26:889][568]LogBlueprintUserMessages: [ThirdPersonEnemy_642] 4.0
+[2018.05.05-16.08.27:072][573]LogBlueprintUserMessages: [ThirdPersonEnemy_642] 3.0
+[2018.05.05-16.08.27:185][576]LogBlueprintUserMessages: [ThirdPersonEnemy_642] 2.0
+[2018.05.05-16.08.27:366][581]LogBlueprintUserMessages: [ThirdPersonEnemy_642] 1.0
+[2018.05.05-16.08.28:560][613]LogBlueprintUserMessages: [ThirdPersonEnemy2_1109] 1.0
+[2018.05.05-16.08.31:879][708]LogBlueprintUserMessages: [ThirdPersonEnemy3_1676] 4.0
+[2018.05.05-16.08.32:020][712]LogBlueprintUserMessages: [ThirdPersonEnemy3_1676] 3.0
+[2018.05.05-16.08.32:332][721]LogBlueprintUserMessages: [ThirdPersonEnemy3_1676] 2.0
+[2018.05.05-16.08.32:474][725]LogBlueprintUserMessages: [ThirdPersonEnemy3_1676] 1.0
+[2018.05.05-16.08.33:733][761]LogBlueprintUserMessages: [ThirdPersonEnemy4] 4.0
+[2018.05.05-16.08.33:914][766]LogBlueprintUserMessages: [ThirdPersonEnemy4] 3.0
+[2018.05.05-16.08.34:050][770]LogBlueprintUserMessages: [ThirdPersonEnemy4] 2.0
+[2018.05.05-16.08.34:193][774]LogBlueprintUserMessages: [ThirdPersonEnemy4] 1.0
+[2018.05.05-16.08.49:310][230]LogBlueprintUserMessages: [PlayerInventory] Item added to inventory
+[2018.05.05-16.09.08:659][785]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.05-16.09.09:912][807]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SlideDoor" FILE="../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/SlideDoor.uasset" SILENT=true
+[2018.05.05-16.09.09:963][807]LogSavePackage: Save=31.18ms
+[2018.05.05-16.09.09:964][807]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/SlideDoor0F99648E40007D664D0F6084B5894F0F.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/SlideDoor.uasset'
+[2018.05.05-16.09.09:968][807]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/SlideDoor.uasset
+[2018.05.05-16.09.10:708][823]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.05-16.09.10:806][825]BlueprintLog: New page: Compile SlideDoor
+[2018.05.05-16.09.13:724][874]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.05-16.09.13:817][874]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.05-16.09.13:817][874]PIE: New page: PIE session: NewMap (5 May 2018 18:09:13)
+[2018.05.05-16.09.13:818][874]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2018.05.05-16.09.13:838][874]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020381s)
+[2018.05.05-16.09.13:839][874]LogAIModule: Creating AISystem for world NewMap
+[2018.05.05-16.09.13:839][874]LogPlayLevel: PIE: World Init took: (0.000925s)
+[2018.05.05-16.09.13:840][874]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.021991s)
+[2018.05.05-16.09.13:868][874]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.05-16.09.13:879][874]LogInit: FAudioDevice initialized.
+[2018.05.05-16.09.13:916][874]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.05-16.09.13:935][874]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2018.05.05-17.09.13
+[2018.05.05-16.09.13:941][874]LogWorld: Bringing up level for play took: 0.023638
+[2018.05.05-16.09.13:949][874]PIE: Play in editor start time for /Game/UEDPIE_0_NewMap 0.873
+[2018.05.05-16.09.14:601][890]LogBlueprintUserMessages: [ThirdPersonCharacter_853] 4.0
+[2018.05.05-16.09.15:024][903]LogBlueprintUserMessages: [ThirdPersonCharacter_853] 3.0
+[2018.05.05-16.09.15:156][907]LogBlueprintUserMessages: [ThirdPersonCharacter_853] 2.0
+[2018.05.05-16.09.15:325][912]LogBlueprintUserMessages: [ThirdPersonCharacter_853] 1.0
+[2018.05.05-16.09.19:836][ 46]LogBlueprintUserMessages: [ThirdPersonEnemy_642] 4.0
+[2018.05.05-16.09.20:015][ 51]LogBlueprintUserMessages: [ThirdPersonEnemy_642] 3.0
+[2018.05.05-16.09.20:120][ 54]LogBlueprintUserMessages: [ThirdPersonEnemy_642] 2.0
+[2018.05.05-16.09.20:222][ 57]LogBlueprintUserMessages: [ThirdPersonEnemy_642] 1.0
+[2018.05.05-16.09.21:026][ 81]LogBlueprintUserMessages: [ThirdPersonEnemy2_1109] 4.0
+[2018.05.05-16.09.21:848][105]LogBlueprintUserMessages: [ThirdPersonEnemy2_1109] 3.0
+[2018.05.05-16.09.21:981][109]LogBlueprintUserMessages: [ThirdPersonEnemy2_1109] 2.0
+[2018.05.05-16.09.22:435][122]LogBlueprintUserMessages: [ThirdPersonEnemy2_1109] 1.0
+[2018.05.05-16.09.24:471][181]LogBlueprintUserMessages: [ThirdPersonEnemy4] 4.0
+[2018.05.05-16.09.24:988][196]LogBlueprintUserMessages: [ThirdPersonEnemy4] 3.0
+[2018.05.05-16.09.25:087][199]LogBlueprintUserMessages: [ThirdPersonEnemy4] 2.0
+[2018.05.05-16.09.25:596][214]LogBlueprintUserMessages: [ThirdPersonEnemy4] 1.0
+[2018.05.05-16.09.28:197][291]LogBlueprintUserMessages: [ThirdPersonEnemy3_1676] 4.0
+[2018.05.05-16.09.28:292][294]LogBlueprintUserMessages: [ThirdPersonEnemy3_1676] 3.0
+[2018.05.05-16.09.33:829][457]LogBlueprintUserMessages: [PlayerInventory] Item added to inventory
+[2018.05.05-16.09.49:566][911]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.05-16.09.50:326][924]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SlideDoor" FILE="../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/SlideDoor.uasset" SILENT=true
+[2018.05.05-16.09.50:371][924]LogSavePackage: Save=31.61ms
+[2018.05.05-16.09.50:371][924]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/SlideDoor6672588C426F7E36C617DDA6E11B47C6.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/SlideDoor.uasset'
+[2018.05.05-16.09.50:373][924]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/SlideDoor.uasset
+[2018.05.05-16.09.51:247][943]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.05-16.10.40:683][912]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SlideDoor" FILE="../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/SlideDoor.uasset" SILENT=true
+[2018.05.05-16.10.40:730][912]LogSavePackage: Save=32.30ms
+[2018.05.05-16.10.40:731][912]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/SlideDoorADC8539B42F2BE4D4ED2C0A70D39B0E5.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/SlideDoor.uasset'
+[2018.05.05-16.10.40:735][912]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/SlideDoor.uasset
+[2018.05.05-16.11.03:360][ 13]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.05-16.11.04:866][ 42]BlueprintLog: New page: Compile SlideDoor
+[2018.05.05-16.11.06:641][ 63]LogSavePackage: Save=144.74ms
+[2018.05.05-16.11.06:641][ 63]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/NewMap_Auto1008C61054E74F0E9B58B2CA134FB4BDB.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/Autosaves/Game/NewMap_Auto1.umap'
+[2018.05.05-16.11.06:643][ 63]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/Autosaves/Game/NewMap_Auto1.umap
+[2018.05.05-16.11.06:648][ 63]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/NewMap' took 0.204
+[2018.05.05-16.11.06:650][ 63]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.204
+[2018.05.05-16.11.16:628][262]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.05-16.11.18:527][295]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SlideDoor" FILE="../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/SlideDoor.uasset" SILENT=true
+[2018.05.05-16.11.18:567][295]LogSavePackage: Save=28.04ms
+[2018.05.05-16.11.18:567][295]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/SlideDoorD2ABCC4E4B8D9C5A4B5F24834ACFCF25.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/SlideDoor.uasset'
+[2018.05.05-16.11.18:571][295]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/SlideDoor.uasset
+[2018.05.05-16.11.19:696][319]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.05-16.11.19:799][321]BlueprintLog: New page: Compile SlideDoor
+[2018.05.05-16.11.25:851][423]LogEditorViewport: Clicking Background
+[2018.05.05-16.11.26:573][437]LogEditorViewport: Clicking on Actor (LMB): SlideDoor_C (SlideDoor)
+[2018.05.05-16.11.35:557][608]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.05-16.12.25:246][567]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SlideDoor" FILE="../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/SlideDoor.uasset" SILENT=true
+[2018.05.05-16.12.25:292][567]LogSavePackage: Save=32.11ms
+[2018.05.05-16.12.25:292][567]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/SlideDoorD8BF32394CCB994664A4D7A0C132C531.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/SlideDoor.uasset'
+[2018.05.05-16.12.25:296][567]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/SlideDoor.uasset
+[2018.05.05-16.12.26:086][583]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.05-16.12.26:182][585]BlueprintLog: New page: Compile SlideDoor
+[2018.05.05-16.12.26:227][585]LogClass: Warning: Type mismatch in RequiredKeyCard of SlideDoor_C - Previous (BoolProperty) Current(ObjectProperty) for package:  FObjectReader
+[2018.05.05-16.12.42:107][875]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap" FILE="../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.05.05-16.12.42:312][875]LogSavePackage: Save=145.83ms
+[2018.05.05-16.12.42:313][875]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/NewMap8B7812D24E372EDF302EC488CDE796F1.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap.umap'
+[2018.05.05-16.12.42:318][875]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap.umap
+[2018.05.05-16.12.42:358][875]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap_BuiltData" FILE="../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap_BuiltData.uasset" SILENT=true
+[2018.05.05-16.12.42:623][875]LogSavePackage: Save=244.52ms
+[2018.05.05-16.12.42:623][875]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/NewMap_BuiltDataF9BDC09844B2DCB97D699D8745174F0B.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap_BuiltData.uasset'
+[2018.05.05-16.12.42:625][875]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap_BuiltData.uasset
+[2018.05.05-16.14.01:239][391]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SlideDoor" FILE="../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/SlideDoor.uasset" SILENT=true
+[2018.05.05-16.14.01:291][391]LogSavePackage: Save=31.69ms
+[2018.05.05-16.14.01:291][391]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/SlideDoor262003C14A630A8912159DBB8F760873.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/SlideDoor.uasset'
+[2018.05.05-16.14.01:295][391]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/SlideDoor.uasset
+[2018.05.05-16.14.41:338][174]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SlideDoor" FILE="../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/SlideDoor.uasset" SILENT=true
+[2018.05.05-16.14.41:390][174]LogSavePackage: Save=25.39ms
+[2018.05.05-16.14.41:391][174]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/SlideDoorC9551C1C4E3DBF687AB1AC8D5C470B40.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/SlideDoor.uasset'
+[2018.05.05-16.14.41:395][174]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/SlideDoor.uasset
+[2018.05.05-16.14.42:311][193]BlueprintLog: New page: Compile SlideDoor
+[2018.05.05-16.14.51:457][362]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SlideDoor" FILE="../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/SlideDoor.uasset" SILENT=true
+[2018.05.05-16.14.51:499][362]LogSavePackage: Save=29.41ms
+[2018.05.05-16.14.51:499][362]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/SlideDoor68AC40E445E9E663AE25A0BD170B6B47.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/SlideDoor.uasset'
+[2018.05.05-16.14.51:501][362]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/SlideDoor.uasset
+[2018.05.05-16.15.15:997][826]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SlideDoor" FILE="../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/SlideDoor.uasset" SILENT=true
+[2018.05.05-16.15.16:067][826]LogSavePackage: Save=53.92ms
+[2018.05.05-16.15.16:067][826]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/SlideDoor2F5A31E04FA92DBCED50BA84E0ACBCD1.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/SlideDoor.uasset'
+[2018.05.05-16.15.16:072][826]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/SlideDoor.uasset
+[2018.05.05-16.15.17:052][843]BlueprintLog: New page: Compile SlideDoor
+[2018.05.05-16.15.23:010][950]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.05-16.15.23:107][950]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.05-16.15.23:108][950]PIE: New page: PIE session: NewMap (5 May 2018 18:15:23)
+[2018.05.05-16.15.23:108][950]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2018.05.05-16.15.23:127][950]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019004s)
+[2018.05.05-16.15.23:128][950]LogAIModule: Creating AISystem for world NewMap
+[2018.05.05-16.15.23:129][950]LogPlayLevel: PIE: World Init took: (0.001323s)
+[2018.05.05-16.15.23:129][950]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.021248s)
+[2018.05.05-16.15.23:163][950]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.05-16.15.23:177][950]LogInit: FAudioDevice initialized.
+[2018.05.05-16.15.23:216][950]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.05-16.15.23:237][950]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2018.05.05-17.15.23
+[2018.05.05-16.15.23:241][950]LogWorld: Bringing up level for play took: 0.022706
+[2018.05.05-16.15.23:246][950]PIE: Play in editor start time for /Game/UEDPIE_0_NewMap 0.17
+[2018.05.05-16.15.24:047][969]LogBlueprintUserMessages: [ThirdPersonCharacter_853] 4.0
+[2018.05.05-16.15.24:441][981]LogBlueprintUserMessages: [ThirdPersonCharacter_853] 3.0
+[2018.05.05-16.15.24:740][990]LogBlueprintUserMessages: [ThirdPersonCharacter_853] 2.0
+[2018.05.05-16.15.24:909][995]LogBlueprintUserMessages: [ThirdPersonCharacter_853] 1.0
+[2018.05.05-16.15.36:355][251]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.05-16.15.50:544][524]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SlideDoor" FILE="../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/SlideDoor.uasset" SILENT=true
+[2018.05.05-16.15.50:588][524]LogSavePackage: Save=31.29ms
+[2018.05.05-16.15.50:588][524]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/SlideDoor5B168CBC49E058DA2E1481A838B722D6.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/SlideDoor.uasset'
+[2018.05.05-16.15.50:592][524]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/SlideDoor.uasset
+[2018.05.05-16.15.54:676][606]BlueprintLog: New page: Compile SlideDoor
+[2018.05.05-16.15.56:036][625]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.05-16.15.56:131][625]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.05-16.15.56:132][625]PIE: New page: PIE session: NewMap (5 May 2018 18:15:56)
+[2018.05.05-16.15.56:133][625]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2018.05.05-16.15.56:155][625]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021125s)
+[2018.05.05-16.15.56:156][625]LogAIModule: Creating AISystem for world NewMap
+[2018.05.05-16.15.56:156][625]LogPlayLevel: PIE: World Init took: (0.000923s)
+[2018.05.05-16.15.56:157][625]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.023953s)
+[2018.05.05-16.15.56:184][625]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.05-16.15.56:195][625]LogInit: FAudioDevice initialized.
+[2018.05.05-16.15.56:244][625]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.05-16.15.56:266][625]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2018.05.05-17.15.56
+[2018.05.05-16.15.56:272][625]LogWorld: Bringing up level for play took: 0.025783
+[2018.05.05-16.15.56:281][625]PIE: Play in editor start time for /Game/UEDPIE_0_NewMap -0.795
+[2018.05.05-16.15.59:459][688]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.05-16.15.59:504][688]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.05-16.15.59:504][688]PIE: New page: PIE session: NewMap (5 May 2018 18:15:59)
+[2018.05.05-16.15.59:505][688]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2018.05.05-16.15.59:525][688]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019633s)
+[2018.05.05-16.15.59:526][688]LogAIModule: Creating AISystem for world NewMap
+[2018.05.05-16.15.59:527][688]LogPlayLevel: PIE: World Init took: (0.001473s)
+[2018.05.05-16.15.59:527][688]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.022018s)
+[2018.05.05-16.15.59:565][688]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.05-16.15.59:577][688]LogInit: FAudioDevice initialized.
+[2018.05.05-16.15.59:618][688]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.05-16.15.59:636][688]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2018.05.05-17.15.59
+[2018.05.05-16.15.59:640][688]LogWorld: Bringing up level for play took: 0.019848
+[2018.05.05-16.15.59:645][688]PIE: Play in editor start time for /Game/UEDPIE_0_NewMap 0.569
+[2018.05.05-16.16.00:234][703]LogBlueprintUserMessages: [ThirdPersonCharacter_853] 4.0
+[2018.05.05-16.16.01:341][735]LogBlueprintUserMessages: [SlideDoor_566] Key Card Declined
+[2018.05.05-16.16.03:174][788]LogBlueprintUserMessages: [SlideDoor_566] Key Card Declined
+[2018.05.05-16.16.04:896][838]LogBlueprintUserMessages: [ThirdPersonCharacter_853] 3.0
+[2018.05.05-16.16.05:031][842]LogBlueprintUserMessages: [ThirdPersonCharacter_853] 2.0
+[2018.05.05-16.16.05:198][847]LogBlueprintUserMessages: [ThirdPersonCharacter_853] 1.0
+[2018.05.05-16.16.07:108][903]LogBlueprintUserMessages: [ThirdPersonEnemy_642] 4.0
+[2018.05.05-16.16.07:280][908]LogBlueprintUserMessages: [ThirdPersonEnemy_642] 3.0
+[2018.05.05-16.16.07:449][913]LogBlueprintUserMessages: [ThirdPersonEnemy_642] 2.0
+[2018.05.05-16.16.07:548][916]LogBlueprintUserMessages: [ThirdPersonEnemy_642] 1.0
+[2018.05.05-16.16.10:463][  1]LogBlueprintUserMessages: [ThirdPersonEnemy2_1109] 4.0
+[2018.05.05-16.16.11:219][ 23]LogBlueprintUserMessages: [ThirdPersonEnemy2_1109] 3.0
+[2018.05.05-16.16.11:322][ 26]LogBlueprintUserMessages: [ThirdPersonEnemy2_1109] 2.0
+[2018.05.05-16.16.11:988][ 44]LogBlueprintUserMessages: [ThirdPersonEnemy2_1109] 1.0
+[2018.05.05-16.16.13:961][101]LogBlueprintUserMessages: [ThirdPersonEnemy3_1676] 4.0
+[2018.05.05-16.16.14:102][105]LogBlueprintUserMessages: [ThirdPersonEnemy3_1676] 3.0
+[2018.05.05-16.16.14:404][114]LogBlueprintUserMessages: [ThirdPersonEnemy3_1676] 2.0
+[2018.05.05-16.16.14:572][119]LogBlueprintUserMessages: [ThirdPersonEnemy3_1676] 1.0
+[2018.05.05-16.16.16:754][183]LogBlueprintUserMessages: [ThirdPersonEnemy4] 4.0
+[2018.05.05-16.16.17:064][192]LogBlueprintUserMessages: [ThirdPersonEnemy4] 3.0
+[2018.05.05-16.16.17:200][196]LogBlueprintUserMessages: [ThirdPersonEnemy4] 2.0
+[2018.05.05-16.16.17:398][202]LogBlueprintUserMessages: [ThirdPersonEnemy4] 1.0
+[2018.05.05-16.16.25:768][455]LogBlueprintUserMessages: [PlayerInventory] Item added to inventory
+[2018.05.05-16.16.31:175][618]LogBlueprintUserMessages: [SlideDoor_566] Key Card Accepted
+[2018.05.05-16.16.35:096][735]LogBlueprintUserMessages: [SlideDoor_566] Key Card Accepted
+[2018.05.05-16.16.40:467][894]LogBlueprintUserMessages: [PlayerInventory] Item added to inventory
+[2018.05.05-16.16.50:228][161]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.05-16.16.51:237][179]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SlideDoor" FILE="../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/SlideDoor.uasset" SILENT=true
+[2018.05.05-16.16.51:282][179]LogSavePackage: Save=31.90ms
+[2018.05.05-16.16.51:283][179]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/SlideDoor999EA33F462E640D444B5B9A610269D5.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/SlideDoor.uasset'
+[2018.05.05-16.16.51:285][179]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/SlideDoor.uasset
+[2018.05.05-16.16.58:210][311]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SlideDoor" FILE="../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/SlideDoor.uasset" SILENT=true
+[2018.05.05-16.16.58:264][311]LogSavePackage: Save=39.66ms
+[2018.05.05-16.16.58:264][311]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/SlideDoor047C9B744D9808E2FBB4F588E97CB8F6.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/SlideDoor.uasset'
+[2018.05.05-16.16.58:268][311]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/SlideDoor.uasset
+[2018.05.05-16.16.59:118][329]BlueprintLog: New page: Compile SlideDoor
+[2018.05.05-16.17.02:812][394]LogSlate: Window 'SlideDoor' being destroyed
+[2018.05.05-16.17.02:877][394]LogSlate: Window 'SlideDoor' being destroyed
+[2018.05.05-16.17.04:153][414]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap" FILE="../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.05.05-16.17.04:340][414]LogSavePackage: Save=134.04ms
+[2018.05.05-16.17.04:340][414]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/NewMapDCD93FEC45A76BAC8F8E60B1E51F1199.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap.umap'
+[2018.05.05-16.17.04:344][414]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap.umap
+[2018.05.05-16.17.04:385][414]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap_BuiltData" FILE="../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap_BuiltData.uasset" SILENT=true
+[2018.05.05-16.17.04:640][414]LogSavePackage: Save=241.00ms
+[2018.05.05-16.17.04:640][414]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/NewMap_BuiltData42DA3CB74075A322A3E887A04C893D00.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap_BuiltData.uasset'
+[2018.05.05-16.17.04:643][414]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap_BuiltData.uasset
+[2018.05.05-16.17.07:187][474]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.05-16.17.07:240][474]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.05-16.17.07:241][474]PIE: New page: PIE session: NewMap (5 May 2018 18:17:07)
+[2018.05.05-16.17.07:241][474]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2018.05.05-16.17.07:277][474]LogPlayLevel: PIE: StaticDuplicateObject took: (0.035065s)
+[2018.05.05-16.17.07:278][474]LogAIModule: Creating AISystem for world NewMap
+[2018.05.05-16.17.07:278][474]LogPlayLevel: PIE: World Init took: (0.001104s)
+[2018.05.05-16.17.07:279][474]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.037247s)
+[2018.05.05-16.17.07:306][474]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.05-16.17.07:317][474]LogInit: FAudioDevice initialized.
+[2018.05.05-16.17.07:353][474]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.05-16.17.07:372][474]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2018.05.05-17.17.07
+[2018.05.05-16.17.07:379][474]LogWorld: Bringing up level for play took: 0.024199
+[2018.05.05-16.17.07:387][474]PIE: Play in editor start time for /Game/UEDPIE_0_NewMap 0.311
+[2018.05.05-16.17.10:463][600]LogBlueprintUserMessages: [ThirdPersonCharacter_853] 4.0
+[2018.05.05-16.17.10:611][606]LogBlueprintUserMessages: [ThirdPersonCharacter_853] 3.0
+[2018.05.05-16.17.10:747][612]LogBlueprintUserMessages: [ThirdPersonCharacter_853] 2.0
+[2018.05.05-16.17.10:861][617]LogBlueprintUserMessages: [ThirdPersonCharacter_853] 1.0
+[2018.05.05-16.17.12:611][692]LogBlueprintUserMessages: [SlideDoor_566] Key Card Declined
+[2018.05.05-16.17.17:736][866]Cmd: SELECT NONE
+[2018.05.05-16.17.18:821][888]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.05-16.17.19:497][899]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap" FILE="../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.05.05-16.17.19:670][899]LogSavePackage: Save=132.76ms
+[2018.05.05-16.17.19:670][899]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/NewMap1E323DB741F43D5DEAE9828284A916DE.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap.umap'
+[2018.05.05-16.17.19:672][899]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap.umap
+[2018.05.05-16.17.19:712][899]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap_BuiltData" FILE="../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap_BuiltData.uasset" SILENT=true
+[2018.05.05-16.17.19:976][899]LogSavePackage: Save=250.74ms
+[2018.05.05-16.17.19:976][899]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/NewMap_BuiltData04C37BC944BC6CB485DD87B2CA4FEFA7.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap_BuiltData.uasset'
+[2018.05.05-16.17.19:979][899]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap_BuiltData.uasset
