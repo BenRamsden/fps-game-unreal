@@ -1998,3 +1998,1285 @@ LogInit: Object subsystem initialized
 [2018.05.05-14.25.51:134][351]LogSavePackage: Save=258.87ms
 [2018.05.05-14.25.51:134][351]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/NewMap_BuiltData9C5A79584A81E1FBDA0B82B35CD8064B.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap_BuiltData.uasset'
 [2018.05.05-14.25.51:136][351]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap_BuiltData.uasset
+[2018.05.05-14.26.36:271][599]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.05-14.26.36:308][599]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.05-14.26.36:308][599]PIE: New page: PIE session: NewMap (5 May 2018 16:26:36)
+[2018.05.05-14.26.36:308][599]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2018.05.05-14.26.36:324][599]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016162s)
+[2018.05.05-14.26.36:326][599]LogAIModule: Creating AISystem for world NewMap
+[2018.05.05-14.26.36:326][599]LogPlayLevel: PIE: World Init took: (0.001041s)
+[2018.05.05-14.26.36:326][599]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.017400s)
+[2018.05.05-14.26.36:360][599]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.05-14.26.36:377][599]LogInit: FAudioDevice initialized.
+[2018.05.05-14.26.36:412][599]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.05-14.26.36:422][599]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2018.05.05-15.26.36
+[2018.05.05-14.26.36:425][599]LogWorld: Bringing up level for play took: 0.011808
+[2018.05.05-14.26.36:427][599]PIE: Play in editor start time for /Game/UEDPIE_0_NewMap -0.65
+[2018.05.05-14.26.37:247][620]LogBlueprintUserMessages: [ThirdPersonCharacter_853] 4.0
+[2018.05.05-14.26.38:151][650]LogBlueprintUserMessages: [ThirdPersonCharacter_853] 3.0
+[2018.05.05-14.26.39:008][677]LogBlueprintUserMessages: [ThirdPersonCharacter_853] 2.0
+[2018.05.05-14.26.39:847][704]LogBlueprintUserMessages: [ThirdPersonCharacter_853] 1.0
+[2018.05.05-14.26.45:675][892]LogBlueprintUserMessages: [ThirdPersonEnemy_642] 4.0
+[2018.05.05-14.26.47:011][934]LogBlueprintUserMessages: [ThirdPersonEnemy_642] 3.0
+[2018.05.05-14.26.47:140][938]LogBlueprintUserMessages: [ThirdPersonEnemy_642] 2.0
+[2018.05.05-14.26.47:281][943]LogBlueprintUserMessages: [ThirdPersonEnemy_642] 1.0
+[2018.05.05-14.26.49:099][  2]LogBlueprintUserMessages: [ThirdPersonEnemy2_1109] 4.0
+[2018.05.05-14.26.49:255][  7]LogBlueprintUserMessages: [ThirdPersonEnemy2_1109] 3.0
+[2018.05.05-14.26.50:305][ 40]LogBlueprintUserMessages: [ThirdPersonEnemy2_1109] 2.0
+[2018.05.05-14.26.50:440][ 44]LogBlueprintUserMessages: [ThirdPersonEnemy2_1109] 1.0
+[2018.05.05-14.26.53:506][143]LogBlueprintUserMessages: [ThirdPersonEnemy4] 4.0
+[2018.05.05-14.26.54:161][164]LogBlueprintUserMessages: [ThirdPersonEnemy3_1676] 4.0
+[2018.05.05-14.26.54:326][169]LogBlueprintUserMessages: [ThirdPersonEnemy3_1676] 3.0
+[2018.05.05-14.26.54:472][174]LogBlueprintUserMessages: [ThirdPersonEnemy3_1676] 2.0
+[2018.05.05-14.26.54:757][183]LogBlueprintUserMessages: [ThirdPersonEnemy3_1676] 1.0
+[2018.05.05-14.26.58:058][254]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.05-14.26.58:719][265]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Bullet" FILE="../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/Bullet.uasset" SILENT=true
+[2018.05.05-14.26.58:753][265]LogSavePackage: Save=20.13ms
+[2018.05.05-14.26.58:753][265]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/Bullet847CD0BB474D2A103EEA5D86AF40425D.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/Bullet.uasset'
+[2018.05.05-14.26.58:754][265]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/Bullet.uasset
+[2018.05.05-14.27.04:506][382]LogSlate: Window 'Bullet' being destroyed
+[2018.05.05-14.27.04:560][382]LogSlate: Window 'Bullet' being destroyed
+[2018.05.05-14.27.45:554][184]LogSavePackage: Save=11.46ms
+[2018.05.05-14.27.45:554][184]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/EnemyBehaviourTreeBB74406D45C4B8E57F348499CCB678EC.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/ThirdPersonBP/Blueprints/EnemyBehaviourTree.uasset'
+[2018.05.05-14.27.45:558][184]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/ThirdPersonBP/Blueprints/EnemyBehaviourTree.uasset
+[2018.05.05-14.27.48:244][238]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.05-14.27.48:300][238]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.05-14.27.48:301][238]PIE: New page: PIE session: NewMap (5 May 2018 16:27:48)
+[2018.05.05-14.27.48:301][238]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2018.05.05-14.27.48:340][238]LogPlayLevel: PIE: StaticDuplicateObject took: (0.039096s)
+[2018.05.05-14.27.48:341][238]LogAIModule: Creating AISystem for world NewMap
+[2018.05.05-14.27.48:341][238]LogPlayLevel: PIE: World Init took: (0.000834s)
+[2018.05.05-14.27.48:341][238]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.040252s)
+[2018.05.05-14.27.48:373][238]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.05-14.27.48:385][238]LogInit: FAudioDevice initialized.
+[2018.05.05-14.27.48:417][238]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.05-14.27.48:424][238]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2018.05.05-15.27.48
+[2018.05.05-14.27.48:425][238]LogWorld: Bringing up level for play took: 0.008352
+[2018.05.05-14.27.48:428][238]PIE: Play in editor start time for /Game/UEDPIE_0_NewMap -0.65
+[2018.05.05-14.27.49:172][258]LogBlueprintUserMessages: [ThirdPersonCharacter_853] 4.0
+[2018.05.05-14.28.21:276][278]LogBlueprintUserMessages: [ThirdPersonCharacter_853] 3.0
+[2018.05.05-14.28.21:457][283]LogBlueprintUserMessages: [ThirdPersonCharacter_853] 2.0
+[2018.05.05-14.28.21:578][287]LogBlueprintUserMessages: [ThirdPersonCharacter_853] 1.0
+[2018.05.05-14.28.24:606][369]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.05-14.28.24:637][369]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap" FILE="../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.05.05-14.28.24:815][369]LogSavePackage: Save=139.98ms
+[2018.05.05-14.28.24:815][369]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/NewMap58EDFAEB4B37EDD0C5647E90C2222745.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap.umap'
+[2018.05.05-14.28.24:817][369]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap.umap
+[2018.05.05-14.28.24:854][369]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap_BuiltData" FILE="../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap_BuiltData.uasset" SILENT=true
+[2018.05.05-14.28.25:124][369]LogSavePackage: Save=257.02ms
+[2018.05.05-14.28.25:124][369]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/NewMap_BuiltData087857DB47A0DEECA6166BBCCE87D4C1.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap_BuiltData.uasset'
+[2018.05.05-14.28.25:126][369]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap_BuiltData.uasset
+[2018.05.05-14.28.27:633][420]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.05-14.28.27:727][420]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.05-14.28.27:728][420]PIE: New page: PIE session: NewMap (5 May 2018 16:28:27)
+[2018.05.05-14.28.27:728][420]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2018.05.05-14.28.27:748][420]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020168s)
+[2018.05.05-14.28.27:749][420]LogAIModule: Creating AISystem for world NewMap
+[2018.05.05-14.28.27:749][420]LogPlayLevel: PIE: World Init took: (0.001167s)
+[2018.05.05-14.28.27:749][420]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.021597s)
+[2018.05.05-14.28.27:782][420]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.05-14.28.27:792][420]LogInit: FAudioDevice initialized.
+[2018.05.05-14.28.27:833][420]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.05-14.28.27:853][420]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2018.05.05-15.28.27
+[2018.05.05-14.28.27:859][420]LogWorld: Bringing up level for play took: 0.024811
+[2018.05.05-14.28.27:868][420]PIE: Play in editor start time for /Game/UEDPIE_0_NewMap 0.79
+[2018.05.05-14.28.28:967][448]LogBlueprintUserMessages: [ThirdPersonCharacter_853] 4.0
+[2018.05.05-14.28.29:702][472]LogBlueprintUserMessages: [ThirdPersonCharacter_853] 3.0
+[2018.05.05-14.28.30:184][487]LogBlueprintUserMessages: [ThirdPersonCharacter_853] 2.0
+[2018.05.05-14.28.30:305][491]LogBlueprintUserMessages: [ThirdPersonCharacter_853] 1.0
+[2018.05.05-14.28.32:936][573]LogBlueprintUserMessages: [ThirdPersonEnemy_642] 4.0
+[2018.05.05-14.28.33:955][605]LogBlueprintUserMessages: [ThirdPersonEnemy_642] 3.0
+[2018.05.05-14.28.34:114][610]LogBlueprintUserMessages: [ThirdPersonEnemy_642] 2.0
+[2018.05.05-14.28.34:241][614]LogBlueprintUserMessages: [ThirdPersonEnemy_642] 1.0
+[2018.05.05-14.28.35:474][652]LogBlueprintUserMessages: [ThirdPersonEnemy2_1109] 4.0
+[2018.05.05-14.28.35:636][657]LogBlueprintUserMessages: [ThirdPersonEnemy2_1109] 3.0
+[2018.05.05-14.28.35:792][662]LogBlueprintUserMessages: [ThirdPersonEnemy2_1109] 2.0
+[2018.05.05-14.28.35:940][667]LogBlueprintUserMessages: [ThirdPersonEnemy2_1109] 1.0
+[2018.05.05-14.28.45:383][965]LogBlueprintUserMessages: [ThirdPersonEnemy3_1676] 4.0
+[2018.05.05-14.28.45:516][969]LogBlueprintUserMessages: [ThirdPersonEnemy3_1676] 3.0
+[2018.05.05-14.28.45:669][974]LogBlueprintUserMessages: [ThirdPersonEnemy3_1676] 2.0
+[2018.05.05-14.28.45:798][978]LogBlueprintUserMessages: [ThirdPersonEnemy3_1676] 1.0
+[2018.05.05-14.28.47:448][ 30]LogBlueprintUserMessages: [ThirdPersonEnemy4] 4.0
+[2018.05.05-14.28.47:575][ 34]LogBlueprintUserMessages: [ThirdPersonEnemy4] 3.0
+[2018.05.05-14.28.47:765][ 40]LogBlueprintUserMessages: [ThirdPersonEnemy4] 2.0
+[2018.05.05-14.28.47:927][ 45]LogBlueprintUserMessages: [ThirdPersonEnemy4] 1.0
+[2018.05.05-14.29.30:086][367]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.05-14.29.38:737][540]LogSlate: Window 'EnemyBehaviourTree' being destroyed
+[2018.05.05-14.29.38:790][540]LogSlate: Window 'EnemyBehaviourTree' being destroyed
+[2018.05.05-14.29.42:847][630]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap" FILE="../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.05.05-14.29.43:017][630]LogSavePackage: Save=133.92ms
+[2018.05.05-14.29.43:017][630]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/NewMap4ADCB6D74D222A29BB6CB38279A65E30.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap.umap'
+[2018.05.05-14.29.43:019][630]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap.umap
+[2018.05.05-14.29.43:056][630]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap_BuiltData" FILE="../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap_BuiltData.uasset" SILENT=true
+[2018.05.05-14.29.43:327][630]LogSavePackage: Save=257.82ms
+[2018.05.05-14.29.43:327][630]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/NewMap_BuiltDataB76EB68346E4F1A1447DF089DEBAE15E.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap_BuiltData.uasset'
+[2018.05.05-14.29.43:330][630]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap_BuiltData.uasset
+[2018.05.05-14.29.57:432][942]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.05.05-14.30.03:819][ 86]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.05.05-14.30.05:248][117]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.05-14.30.05:313][117]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.05-14.30.05:314][117]PIE: New page: PIE session: NewMap (5 May 2018 16:30:05)
+[2018.05.05-14.30.05:315][117]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2018.05.05-14.30.05:340][117]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024589s)
+[2018.05.05-14.30.05:340][117]LogAIModule: Creating AISystem for world NewMap
+[2018.05.05-14.30.05:341][117]LogPlayLevel: PIE: World Init took: (0.000797s)
+[2018.05.05-14.30.05:341][117]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.025907s)
+[2018.05.05-14.30.05:365][117]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.05-14.30.05:376][117]LogInit: FAudioDevice initialized.
+[2018.05.05-14.30.05:414][117]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.05.05-14.30.05:434][117]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2018.05.05-15.30.05
+[2018.05.05-14.30.05:439][117]LogWorld: Bringing up level for play took: 0.024169
+[2018.05.05-14.30.05:449][117]LogScript: Warning: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue
+	EnemyAIController_C /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.EnemyAIController_C_5
+	Function /Game/ThirdPersonBP/Blueprints/EnemyAIController.EnemyAIController_C:ExecuteUbergraph_EnemyAIController:0324
+[2018.05.05-14.30.05:450][117]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue from function: 'ExecuteUbergraph_EnemyAIController' from node: Set Value as Vector in graph: EventGraph in object: EnemyAIController with description: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue
+[2018.05.05-14.30.05:450][117]PIE: Play in editor start time for /Game/UEDPIE_0_NewMap 0.372
+[2018.05.05-14.30.37:017][444]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.05-14.30.47:566][668]LogSlate: Window 'Message Log' being destroyed
+[2018.05.05-14.30.47:620][668]LogSlate: Window 'Message Log' being destroyed
+[2018.05.05-14.30.53:730][813]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.05.05-14.30.57:337][894]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap" FILE="../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.05.05-14.30.57:513][894]LogSavePackage: Save=134.27ms
+[2018.05.05-14.30.57:513][894]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/NewMap0B03D3F440A07B8D7E41C8BBF7C586BF.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap.umap'
+[2018.05.05-14.30.57:514][894]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap.umap
+[2018.05.05-14.30.57:554][894]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap_BuiltData" FILE="../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap_BuiltData.uasset" SILENT=true
+[2018.05.05-14.30.57:853][894]LogSavePackage: Save=274.81ms
+[2018.05.05-14.30.57:853][894]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/NewMap_BuiltData5CD9CA434D70CDB1949BB89DDD586ECB.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap_BuiltData.uasset'
+[2018.05.05-14.30.57:855][894]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap_BuiltData.uasset
+[2018.05.05-14.30.58:524][912]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.05-14.30.58:572][912]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.05-14.30.58:572][912]PIE: New page: PIE session: NewMap (5 May 2018 16:30:58)
+[2018.05.05-14.30.58:572][912]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2018.05.05-14.30.58:586][912]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013445s)
+[2018.05.05-14.30.58:586][912]LogAIModule: Creating AISystem for world NewMap
+[2018.05.05-14.30.58:587][912]LogPlayLevel: PIE: World Init took: (0.000872s)
+[2018.05.05-14.30.58:587][912]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.014524s)
+[2018.05.05-14.30.58:616][912]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.05-14.30.58:627][912]LogInit: FAudioDevice initialized.
+[2018.05.05-14.30.58:661][912]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.05-14.30.58:676][912]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2018.05.05-15.30.58
+[2018.05.05-14.30.58:680][912]LogWorld: Bringing up level for play took: 0.018017
+[2018.05.05-14.30.58:684][912]PIE: Play in editor start time for /Game/UEDPIE_0_NewMap -0.394
+[2018.05.05-14.30.59:455][942]LogBlueprintUserMessages: [ThirdPersonCharacter_853] 4.0
+[2018.05.05-14.31.00:704][997]LogBlueprintUserMessages: [ThirdPersonCharacter_853] 3.0
+[2018.05.05-14.31.00:829][  2]LogBlueprintUserMessages: [ThirdPersonCharacter_853] 2.0
+[2018.05.05-14.31.00:958][  8]LogBlueprintUserMessages: [ThirdPersonCharacter_853] 1.0
+[2018.05.05-14.31.04:471][166]LogBlueprintUserMessages: [ThirdPersonEnemy2_1109] 4.0
+[2018.05.05-14.31.04:628][173]LogBlueprintUserMessages: [ThirdPersonEnemy2_1109] 3.0
+[2018.05.05-14.31.04:755][179]LogBlueprintUserMessages: [ThirdPersonEnemy2_1109] 2.0
+[2018.05.05-14.31.04:888][185]LogBlueprintUserMessages: [ThirdPersonEnemy2_1109] 1.0
+[2018.05.05-14.31.14:626][443]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.05-14.31.14:636][443]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap" FILE="../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.05.05-14.31.14:809][443]LogSavePackage: Save=134.72ms
+[2018.05.05-14.31.14:809][443]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/NewMap685D008D404893C14237A8867BA183BD.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap.umap'
+[2018.05.05-14.31.14:811][443]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap.umap
+[2018.05.05-14.31.14:850][443]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap_BuiltData" FILE="../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap_BuiltData.uasset" SILENT=true
+[2018.05.05-14.31.15:117][443]LogSavePackage: Save=253.88ms
+[2018.05.05-14.31.15:117][443]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/NewMap_BuiltData7CA7CA7145A1801A44CA6295766E5F72.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap_BuiltData.uasset'
+[2018.05.05-14.31.15:119][443]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap_BuiltData.uasset
+[2018.05.05-14.31.19:904][521]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap" FILE="../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.05.05-14.31.20:072][521]LogSavePackage: Save=133.91ms
+[2018.05.05-14.31.20:073][521]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/NewMapCF1048DA4E6052E8D5F5EAB8A889AA24.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap.umap'
+[2018.05.05-14.31.20:075][521]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap.umap
+[2018.05.05-14.31.20:112][521]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap_BuiltData" FILE="../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap_BuiltData.uasset" SILENT=true
+[2018.05.05-14.31.20:386][521]LogSavePackage: Save=261.95ms
+[2018.05.05-14.31.20:386][521]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/NewMap_BuiltData3C2D74A9483E347C5FF8B7A9B829B7D4.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap_BuiltData.uasset'
+[2018.05.05-14.31.20:388][521]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap_BuiltData.uasset
+[2018.05.05-14.31.53:426][167]LogSavePackage: Save=52.41ms
+[2018.05.05-14.31.53:426][167]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/ThirdPersonEnemy4E4A508449C5EC6B1CF4C49C5E86D8EE.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/ThirdPersonBP/Blueprints/ThirdPersonEnemy.uasset'
+[2018.05.05-14.31.53:430][167]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/ThirdPersonBP/Blueprints/ThirdPersonEnemy.uasset
+[2018.05.05-14.32.05:080][399]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap" FILE="../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.05.05-14.32.05:286][399]LogSavePackage: Save=141.72ms
+[2018.05.05-14.32.05:286][399]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/NewMapC01E64E24D17AB5598A45BBA110B6133.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap.umap'
+[2018.05.05-14.32.05:291][399]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap.umap
+[2018.05.05-14.32.05:340][399]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap_BuiltData" FILE="../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap_BuiltData.uasset" SILENT=true
+[2018.05.05-14.32.05:606][399]LogSavePackage: Save=255.16ms
+[2018.05.05-14.32.05:606][399]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/NewMap_BuiltData10EE8314457698A00911758B8A8E648B.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap_BuiltData.uasset'
+[2018.05.05-14.32.05:608][399]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap_BuiltData.uasset
+[2018.05.05-14.32.06:008][409]BlueprintLog: New page: Compile ThirdPersonEnemy
+[2018.05.05-14.32.07:928][428]LogSavePackage: Save=48.48ms
+[2018.05.05-14.32.07:928][428]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/ThirdPersonEnemy56CE1B084CC7F8FD20006A8F70EB2C6C.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/ThirdPersonBP/Blueprints/ThirdPersonEnemy.uasset'
+[2018.05.05-14.32.07:930][428]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/ThirdPersonBP/Blueprints/ThirdPersonEnemy.uasset
+[2018.05.05-14.32.19:686][661]LogSavePackage: Save=44.21ms
+[2018.05.05-14.32.19:686][661]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/ThirdPersonEnemy62D7E55B439957856C3B90BB12ED5AAA.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/ThirdPersonBP/Blueprints/ThirdPersonEnemy.uasset'
+[2018.05.05-14.32.19:687][661]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/ThirdPersonBP/Blueprints/ThirdPersonEnemy.uasset
+[2018.05.05-14.32.42:249][ 93]LogSavePackage: Save=30.11ms
+[2018.05.05-14.32.42:249][ 93]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/EnemyAIControllerC25AF75A4462B5A0ADB8148E872BED2A.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/ThirdPersonBP/Blueprints/EnemyAIController.uasset'
+[2018.05.05-14.32.42:253][ 93]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/ThirdPersonBP/Blueprints/EnemyAIController.uasset
+[2018.05.05-14.32.47:181][185]LogSavePackage: Save=68.44ms
+[2018.05.05-14.32.47:181][185]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/ThirdPersonEnemyD21FD8D24B0E7EEAF9C98586BF35EB3F.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/ThirdPersonBP/Blueprints/ThirdPersonEnemy.uasset'
+[2018.05.05-14.32.47:184][185]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/ThirdPersonBP/Blueprints/ThirdPersonEnemy.uasset
+[2018.05.05-14.32.50:679][257]BlueprintLog: New page: Compile ThirdPersonEnemy
+[2018.05.05-14.32.52:960][283]LogSavePackage: Save=48.62ms
+[2018.05.05-14.32.52:960][283]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/ThirdPersonEnemyF4AFC0D74018E235714AB78BE3DAF077.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/ThirdPersonBP/Blueprints/ThirdPersonEnemy.uasset'
+[2018.05.05-14.32.52:962][283]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/ThirdPersonBP/Blueprints/ThirdPersonEnemy.uasset
+[2018.05.05-14.35.10:201][954]LogSavePackage: Save=48.58ms
+[2018.05.05-14.35.10:201][954]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/EnemyAIController56DE00FA4474D908DB857696155D0BA9.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/ThirdPersonBP/Blueprints/EnemyAIController.uasset'
+[2018.05.05-14.35.10:205][954]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/ThirdPersonBP/Blueprints/EnemyAIController.uasset
+[2018.05.05-14.35.30:021][341]LogSavePackage: Save=39.31ms
+[2018.05.05-14.35.30:021][341]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/EnemyAIController0BDCC99E486831A8EEAB2B83744861A8.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/ThirdPersonBP/Blueprints/EnemyAIController.uasset'
+[2018.05.05-14.35.30:025][341]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/ThirdPersonBP/Blueprints/EnemyAIController.uasset
+[2018.05.05-14.35.33:783][418]BlueprintLog: New page: Compile EnemyAIController
+[2018.05.05-14.35.44:414][624]LogSavePackage: Save=40.66ms
+[2018.05.05-14.35.44:414][624]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/EnemyAIController1D513F894B5BCFC92191BCBDEEF195CF.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/ThirdPersonBP/Blueprints/EnemyAIController.uasset'
+[2018.05.05-14.35.44:416][624]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/ThirdPersonBP/Blueprints/EnemyAIController.uasset
+[2018.05.05-14.35.45:192][641]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.05-14.35.45:311][641]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.05-14.35.45:311][641]PIE: New page: PIE session: NewMap (5 May 2018 16:35:45)
+[2018.05.05-14.35.45:311][641]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2018.05.05-14.35.45:328][641]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016547s)
+[2018.05.05-14.35.45:329][641]LogAIModule: Creating AISystem for world NewMap
+[2018.05.05-14.35.45:330][641]LogPlayLevel: PIE: World Init took: (0.000980s)
+[2018.05.05-14.35.45:330][641]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.017775s)
+[2018.05.05-14.35.45:366][641]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.05-14.35.45:378][641]LogInit: FAudioDevice initialized.
+[2018.05.05-14.35.45:423][641]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.05-14.35.45:449][641]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2018.05.05-15.35.45
+[2018.05.05-14.35.45:456][641]LogWorld: Bringing up level for play took: 0.030695
+[2018.05.05-14.35.45:460][641]PIE: Play in editor start time for /Game/UEDPIE_0_NewMap 0.382
+[2018.05.05-14.35.47:411][698]LogBlueprintUserMessages: [ThirdPersonCharacter_853] 4.0
+[2018.05.05-14.35.57:581][986]LogBlueprintUserMessages: [ThirdPersonCharacter_853] 3.0
+[2018.05.05-14.35.58:031][998]LogBlueprintUserMessages: [ThirdPersonCharacter_853] 2.0
+[2018.05.05-14.35.58:218][  3]LogBlueprintUserMessages: [ThirdPersonCharacter_853] 1.0
+[2018.05.05-14.36.08:953][288]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.05-14.36.09:628][298]LogSavePackage: Save=33.05ms
+[2018.05.05-14.36.09:628][298]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/EnemyAIControllerA320CED34DDE074268E661A4C1A8AEC1.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/ThirdPersonBP/Blueprints/EnemyAIController.uasset'
+[2018.05.05-14.36.09:630][298]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/ThirdPersonBP/Blueprints/EnemyAIController.uasset
+[2018.05.05-14.36.11:031][326]LogSlate: Window 'EnemyAIController' being destroyed
+[2018.05.05-14.36.11:084][326]LogSlate: Window 'EnemyAIController' being destroyed
+[2018.05.05-14.36.11:218][326]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.05.05-14.37.03:406][315]BlueprintLog: New page: Compile Bullet
+[2018.05.05-14.37.03:445][315]LogBlueprint: Error: [Compiler Bullet] The type of  Object  is undetermined.  Connect something to  Cast To FirstPersonCharacter  to imply a specific type.
+[2018.05.05-14.37.03:446][315]LogBlueprint: Error: [Compiler Bullet] The current value of the ' Object ' pin is invalid: Unsupported type Object Wildcard on pin Object
+[2018.05.05-14.37.03:614][315]LogBlueprint: Warning: [Compiler Bullet] [1808.98] Compile of Bullet failed. 2 Fatal Issue(s) 0 Warning(s) [in 207 ms] (/Game/Bullet.Bullet)
+[2018.05.05-14.37.12:483][485]BlueprintLog: New page: Compile Bullet
+[2018.05.05-14.37.24:607][714]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Bullet" FILE="../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/Bullet.uasset" SILENT=true
+[2018.05.05-14.37.24:649][714]LogSavePackage: Save=23.38ms
+[2018.05.05-14.37.24:649][714]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/Bullet1DD5489F44B7097E1FE858814608AC41.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/Bullet.uasset'
+[2018.05.05-14.37.24:653][714]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/Bullet.uasset
+[2018.05.05-14.37.25:090][724]BlueprintLog: New page: Compile Bullet
+[2018.05.05-14.37.26:719][749]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.05-14.37.26:777][749]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.05-14.37.26:778][749]PIE: New page: PIE session: NewMap (5 May 2018 16:37:26)
+[2018.05.05-14.37.26:778][749]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2018.05.05-14.37.26:824][749]LogPlayLevel: PIE: StaticDuplicateObject took: (0.045446s)
+[2018.05.05-14.37.26:825][749]LogAIModule: Creating AISystem for world NewMap
+[2018.05.05-14.37.26:826][749]LogPlayLevel: PIE: World Init took: (0.001918s)
+[2018.05.05-14.37.26:827][749]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.048165s)
+[2018.05.05-14.37.26:860][749]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.05-14.37.26:873][749]LogInit: FAudioDevice initialized.
+[2018.05.05-14.37.26:915][749]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.05-14.37.26:935][749]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2018.05.05-15.37.26
+[2018.05.05-14.37.26:940][749]LogWorld: Bringing up level for play took: 0.022715
+[2018.05.05-14.37.26:946][749]PIE: Play in editor start time for /Game/UEDPIE_0_NewMap -0.132
+[2018.05.05-14.37.27:714][770]LogBlueprintUserMessages: [ThirdPersonCharacter_853] 4.0
+[2018.05.05-14.37.44:637][212]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.05-14.37.50:856][329]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.05-14.37.53:998][384]LogSlate: Window 'Message Log' being destroyed
+[2018.05.05-14.37.54:060][384]LogSlate: Window 'Message Log' being destroyed
+[2018.05.05-14.37.55:536][412]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.05-14.37.58:865][472]LogSlate: Took 0.014641 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2018.05.05-14.38.02:331][537]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.05-14.38.02:429][539]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.05-14.38.02:494][539]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.05-14.38.02:494][539]PIE: New page: PIE session: NewMap (5 May 2018 16:38:02)
+[2018.05.05-14.38.02:495][539]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2018.05.05-14.38.02:537][539]LogPlayLevel: PIE: StaticDuplicateObject took: (0.042580s)
+[2018.05.05-14.38.02:538][539]LogAIModule: Creating AISystem for world NewMap
+[2018.05.05-14.38.02:539][539]LogPlayLevel: PIE: World Init took: (0.001258s)
+[2018.05.05-14.38.02:539][539]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.044583s)
+[2018.05.05-14.38.02:569][539]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.05-14.38.02:580][539]LogInit: FAudioDevice initialized.
+[2018.05.05-14.38.02:625][539]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.05-14.38.02:648][539]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2018.05.05-15.38.02
+[2018.05.05-14.38.02:655][539]LogWorld: Bringing up level for play took: 0.027336
+[2018.05.05-14.38.02:663][539]PIE: Play in editor start time for /Game/UEDPIE_0_NewMap -0.415
+[2018.05.05-14.38.12:499][834]LogBlueprintUserMessages: [ThirdPersonCharacter_853] 4.0
+[2018.05.05-14.38.13:616][866]LogBlueprintUserMessages: [ThirdPersonCharacter_853] 3.0
+[2018.05.05-14.38.14:907][903]LogBlueprintUserMessages: [ThirdPersonCharacter_853] 2.0
+[2018.05.05-14.38.23:160][ 88]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.05-14.38.25:444][131]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Bullet" FILE="../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/Bullet.uasset" SILENT=true
+[2018.05.05-14.38.25:478][131]LogSavePackage: Save=22.57ms
+[2018.05.05-14.38.25:479][131]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/Bullet20F605D241F617BEE8EF26AB0F3608AF.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/Bullet.uasset'
+[2018.05.05-14.38.25:481][131]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/Bullet.uasset
+[2018.05.05-14.38.29:107][204]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.05-14.38.29:153][204]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap" FILE="../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.05.05-14.38.29:331][204]LogSavePackage: Save=132.94ms
+[2018.05.05-14.38.29:331][204]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/NewMapAFCC72214852AEAC372ECEBB8B666686.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap.umap'
+[2018.05.05-14.38.29:335][204]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap.umap
+[2018.05.05-14.38.29:374][204]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap_BuiltData" FILE="../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap_BuiltData.uasset" SILENT=true
+[2018.05.05-14.38.29:665][204]LogSavePackage: Save=259.46ms
+[2018.05.05-14.38.29:665][204]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/NewMap_BuiltData0A0FC5054A5FDB0D71E61CACB3BC200C.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap_BuiltData.uasset'
+[2018.05.05-14.38.29:667][204]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap_BuiltData.uasset
+[2018.05.05-14.38.32:337][259]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.05-14.38.32:437][261]LogSlate: Window 'Bullet' being destroyed
+[2018.05.05-14.38.32:492][261]LogSlate: Window 'Bullet' being destroyed
+[2018.05.05-14.38.35:201][321]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.05-14.38.50:107][597]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Bullet" FILE="../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/Bullet.uasset" SILENT=true
+[2018.05.05-14.38.50:147][597]LogSavePackage: Save=24.00ms
+[2018.05.05-14.38.50:147][597]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/Bullet1646FCCD4564AC3DFE6FF9A01CCAC228.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/Bullet.uasset'
+[2018.05.05-14.38.50:152][597]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/Bullet.uasset
+[2018.05.05-14.38.51:516][625]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.05-14.38.51:615][627]BlueprintLog: New page: Compile Bullet
+[2018.05.05-14.38.53:862][665]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.05-14.38.53:919][665]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.05-14.38.53:920][665]PIE: New page: PIE session: NewMap (5 May 2018 16:38:53)
+[2018.05.05-14.38.53:921][665]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2018.05.05-14.38.53:964][665]LogPlayLevel: PIE: StaticDuplicateObject took: (0.042070s)
+[2018.05.05-14.38.53:965][665]LogAIModule: Creating AISystem for world NewMap
+[2018.05.05-14.38.53:965][665]LogPlayLevel: PIE: World Init took: (0.001216s)
+[2018.05.05-14.38.53:966][665]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.044417s)
+[2018.05.05-14.38.54:007][665]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.05-14.38.54:020][665]LogInit: FAudioDevice initialized.
+[2018.05.05-14.38.54:063][665]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.05-14.38.54:082][665]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2018.05.05-15.38.54
+[2018.05.05-14.38.54:088][665]LogWorld: Bringing up level for play took: 0.023544
+[2018.05.05-14.38.54:094][665]PIE: Play in editor start time for /Game/UEDPIE_0_NewMap 1.016
+[2018.05.05-14.39.00:077][817]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.05-14.39.35:943][498]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Bullet" FILE="../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/Bullet.uasset" SILENT=true
+[2018.05.05-14.39.35:981][498]LogSavePackage: Save=24.88ms
+[2018.05.05-14.39.35:981][498]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/BulletF47BEA054821649FD84C859F3ED5083B.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/Bullet.uasset'
+[2018.05.05-14.39.35:985][498]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/Bullet.uasset
+[2018.05.05-14.39.36:941][518]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.05-14.39.36:993][519]BlueprintLog: New page: Compile Bullet
+[2018.05.05-14.39.38:743][545]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.05-14.39.38:801][545]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.05-14.39.38:802][545]PIE: New page: PIE session: NewMap (5 May 2018 16:39:38)
+[2018.05.05-14.39.38:803][545]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2018.05.05-14.39.38:846][545]LogPlayLevel: PIE: StaticDuplicateObject took: (0.042722s)
+[2018.05.05-14.39.38:847][545]LogAIModule: Creating AISystem for world NewMap
+[2018.05.05-14.39.38:848][545]LogPlayLevel: PIE: World Init took: (0.000932s)
+[2018.05.05-14.39.38:848][545]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.044530s)
+[2018.05.05-14.39.38:878][545]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.05-14.39.38:892][545]LogInit: FAudioDevice initialized.
+[2018.05.05-14.39.38:931][545]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.05-14.39.38:954][545]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2018.05.05-15.39.38
+[2018.05.05-14.39.38:961][545]LogWorld: Bringing up level for play took: 0.027198
+[2018.05.05-14.39.38:966][545]PIE: Play in editor start time for /Game/UEDPIE_0_NewMap -0.112
+[2018.05.05-14.39.47:548][798]LogBlueprintUserMessages: [ThirdPersonCharacter_853] 4.0
+[2018.05.05-14.40.09:085][240]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.05-14.40.09:888][254]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Bullet" FILE="../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/Bullet.uasset" SILENT=true
+[2018.05.05-14.40.09:925][254]LogSavePackage: Save=23.76ms
+[2018.05.05-14.40.09:925][254]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/Bullet2AAF3A9D46F610658BABD99818544630.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/Bullet.uasset'
+[2018.05.05-14.40.09:927][254]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/Bullet.uasset
+[2018.05.05-14.40.12:844][314]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.05-14.40.12:943][316]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.05-14.40.12:998][316]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.05-14.40.12:999][316]PIE: New page: PIE session: NewMap (5 May 2018 16:40:12)
+[2018.05.05-14.40.13:000][316]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2018.05.05-14.40.13:042][316]LogPlayLevel: PIE: StaticDuplicateObject took: (0.042032s)
+[2018.05.05-14.40.13:043][316]LogAIModule: Creating AISystem for world NewMap
+[2018.05.05-14.40.13:043][316]LogPlayLevel: PIE: World Init took: (0.000961s)
+[2018.05.05-14.40.13:043][316]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.043881s)
+[2018.05.05-14.40.13:075][316]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.05-14.40.13:087][316]LogInit: FAudioDevice initialized.
+[2018.05.05-14.40.13:129][316]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.05-14.40.13:137][316]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2018.05.05-15.40.13
+[2018.05.05-14.40.13:139][316]LogWorld: Bringing up level for play took: 0.009377
+[2018.05.05-14.40.13:142][316]PIE: Play in editor start time for /Game/UEDPIE_0_NewMap 0.064
+[2018.05.05-14.40.23:719][626]LogBlueprintUserMessages: [Bullet_C_0] Bullet Hit FPC
+[2018.05.05-14.40.23:858][630]LogBlueprintUserMessages: [Bullet_C_1] Bullet Hit FPC
+[2018.05.05-14.40.24:638][653]LogBlueprintUserMessages: [Bullet_C_6] Bullet Hit FPC
+[2018.05.05-14.40.24:980][663]LogBlueprintUserMessages: [Bullet_C_8] Bullet Hit FPC
+[2018.05.05-14.40.25:434][676]LogBlueprintUserMessages: [Bullet_C_9] Bullet Hit FPC
+[2018.05.05-14.40.33:778][909]LogBlueprintUserMessages: [ThirdPersonCharacter_853] 4.0
+[2018.05.05-14.40.35:057][944]LogBlueprintUserMessages: [ThirdPersonCharacter_853] 3.0
+[2018.05.05-14.40.35:347][952]LogBlueprintUserMessages: [ThirdPersonCharacter_853] 2.0
+[2018.05.05-14.40.35:779][964]LogBlueprintUserMessages: [ThirdPersonCharacter_853] 1.0
+[2018.05.05-14.40.40:720][ 75]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.05-14.40.41:169][ 82]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Bullet" FILE="../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/Bullet.uasset" SILENT=true
+[2018.05.05-14.40.41:205][ 82]LogSavePackage: Save=19.25ms
+[2018.05.05-14.40.41:205][ 82]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/BulletF1F7770E4F788F88E92844888CC7599F.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/Bullet.uasset'
+[2018.05.05-14.40.41:207][ 82]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/Bullet.uasset
+[2018.05.05-14.40.45:390][158]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.05-14.40.48:016][200]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CanShoot" FILE="../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/CanShoot.uasset" SILENT=true
+[2018.05.05-14.40.48:049][200]LogSavePackage: Save=13.29ms
+[2018.05.05-14.40.48:049][200]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/CanShoot0011EF9C4A944423F860099500B94578.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/CanShoot.uasset'
+[2018.05.05-14.40.48:051][200]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/CanShoot.uasset
+[2018.05.05-14.40.48:474][210]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.05-14.41.05:847][555]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap" FILE="../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.05.05-14.41.06:030][555]LogSavePackage: Save=140.29ms
+[2018.05.05-14.41.06:030][555]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/NewMap5FF5ECDD42636E09BBC83FB8B265F766.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap.umap'
+[2018.05.05-14.41.06:032][555]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap.umap
+[2018.05.05-14.41.06:070][555]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap_BuiltData" FILE="../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap_BuiltData.uasset" SILENT=true
+[2018.05.05-14.41.06:345][555]LogSavePackage: Save=260.37ms
+[2018.05.05-14.41.06:346][555]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/NewMap_BuiltData75F379164B2FC99204A2CF98B48B24A6.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap_BuiltData.uasset'
+[2018.05.05-14.41.06:348][555]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap_BuiltData.uasset
+[2018.05.05-14.41.07:041][568]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.05-14.41.13:570][680]LogSavePackage: Save=33.59ms
+[2018.05.05-14.41.13:571][680]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/EnemyAIController700165D949A674E9CB39EDB0AF544BD2.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/ThirdPersonBP/Blueprints/EnemyAIController.uasset'
+[2018.05.05-14.41.13:574][680]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/ThirdPersonBP/Blueprints/EnemyAIController.uasset
+[2018.05.05-14.41.14:638][703]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.05-14.42.39:178][385]LogSavePackage: Save=34.67ms
+[2018.05.05-14.42.39:178][385]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/EnemyAIControllerBEC2DA194C96FACFDD43059A339E1C7B.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/ThirdPersonBP/Blueprints/EnemyAIController.uasset'
+[2018.05.05-14.42.39:183][385]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/ThirdPersonBP/Blueprints/EnemyAIController.uasset
+[2018.05.05-14.42.40:661][416]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.05-14.42.40:758][418]BlueprintLog: New page: Compile EnemyAIController
+[2018.05.05-14.42.42:573][448]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.05-14.42.42:652][448]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.05-14.42.42:653][448]PIE: New page: PIE session: NewMap (5 May 2018 16:42:42)
+[2018.05.05-14.42.42:654][448]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2018.05.05-14.42.42:680][448]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024769s)
+[2018.05.05-14.42.42:681][448]LogAIModule: Creating AISystem for world NewMap
+[2018.05.05-14.42.42:685][448]LogPlayLevel: PIE: World Init took: (0.004927s)
+[2018.05.05-14.42.42:685][448]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.031563s)
+[2018.05.05-14.42.42:722][448]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.05-14.42.42:736][448]LogInit: FAudioDevice initialized.
+[2018.05.05-14.42.42:777][448]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.05-14.42.42:800][448]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2018.05.05-15.42.42
+[2018.05.05-14.42.42:807][448]LogWorld: Bringing up level for play took: 0.028469
+[2018.05.05-14.42.42:814][448]PIE: Play in editor start time for /Game/UEDPIE_0_NewMap -0.264
+[2018.05.05-14.42.51:841][669]LogBlueprintUserMessages: [ThirdPersonCharacter_853] 4.0
+[2018.05.05-14.42.53:945][691]LogBlueprintUserMessages: [Bullet_C_127] Bullet Hit FPC
+[2018.05.05-14.42.53:954][691]LogBlueprintUserMessages: [Bullet_C_37] Bullet Hit FPC
+[2018.05.05-14.42.53:956][691]LogBlueprintUserMessages: [Bullet_C_38] Bullet Hit FPC
+[2018.05.05-14.42.53:967][691]LogBlueprintUserMessages: [Bullet_C_61] Bullet Hit FPC
+[2018.05.05-14.42.53:968][691]LogBlueprintUserMessages: [Bullet_C_62] Bullet Hit FPC
+[2018.05.05-14.42.53:970][691]LogBlueprintUserMessages: [Bullet_C_63] Bullet Hit FPC
+[2018.05.05-14.42.53:971][691]LogBlueprintUserMessages: [Bullet_C_64] Bullet Hit FPC
+[2018.05.05-14.42.53:972][691]LogBlueprintUserMessages: [Bullet_C_65] Bullet Hit FPC
+[2018.05.05-14.42.53:974][691]LogBlueprintUserMessages: [Bullet_C_66] Bullet Hit FPC
+[2018.05.05-14.42.53:975][691]LogBlueprintUserMessages: [Bullet_C_67] Bullet Hit FPC
+[2018.05.05-14.42.53:977][691]LogBlueprintUserMessages: [Bullet_C_68] Bullet Hit FPC
+[2018.05.05-14.42.53:978][691]LogBlueprintUserMessages: [Bullet_C_69] Bullet Hit FPC
+[2018.05.05-14.42.53:979][691]LogBlueprintUserMessages: [Bullet_C_70] Bullet Hit FPC
+[2018.05.05-14.42.53:981][691]LogBlueprintUserMessages: [Bullet_C_71] Bullet Hit FPC
+[2018.05.05-14.42.53:983][691]LogBlueprintUserMessages: [Bullet_C_72] Bullet Hit FPC
+[2018.05.05-14.42.53:984][691]LogBlueprintUserMessages: [Bullet_C_73] Bullet Hit FPC
+[2018.05.05-14.42.53:985][691]LogBlueprintUserMessages: [Bullet_C_74] Bullet Hit FPC
+[2018.05.05-14.42.53:987][691]LogBlueprintUserMessages: [Bullet_C_75] Bullet Hit FPC
+[2018.05.05-14.42.53:988][691]LogBlueprintUserMessages: [Bullet_C_76] Bullet Hit FPC
+[2018.05.05-14.42.53:990][691]LogBlueprintUserMessages: [Bullet_C_77] Bullet Hit FPC
+[2018.05.05-14.42.53:991][691]LogBlueprintUserMessages: [Bullet_C_78] Bullet Hit FPC
+[2018.05.05-14.42.53:993][691]LogBlueprintUserMessages: [Bullet_C_79] Bullet Hit FPC
+[2018.05.05-14.42.53:994][691]LogBlueprintUserMessages: [Bullet_C_80] Bullet Hit FPC
+[2018.05.05-14.42.53:996][691]LogBlueprintUserMessages: [Bullet_C_81] Bullet Hit FPC
+[2018.05.05-14.42.53:997][691]LogBlueprintUserMessages: [Bullet_C_82] Bullet Hit FPC
+[2018.05.05-14.42.53:999][691]LogBlueprintUserMessages: [Bullet_C_83] Bullet Hit FPC
+[2018.05.05-14.42.54:000][691]LogBlueprintUserMessages: [Bullet_C_84] Bullet Hit FPC
+[2018.05.05-14.42.54:002][691]LogBlueprintUserMessages: [Bullet_C_85] Bullet Hit FPC
+[2018.05.05-14.42.54:004][691]LogBlueprintUserMessages: [Bullet_C_86] Bullet Hit FPC
+[2018.05.05-14.42.54:005][691]LogBlueprintUserMessages: [Bullet_C_87] Bullet Hit FPC
+[2018.05.05-14.42.54:007][691]LogBlueprintUserMessages: [Bullet_C_88] Bullet Hit FPC
+[2018.05.05-14.42.54:008][691]LogBlueprintUserMessages: [Bullet_C_89] Bullet Hit FPC
+[2018.05.05-14.42.54:010][691]LogBlueprintUserMessages: [Bullet_C_90] Bullet Hit FPC
+[2018.05.05-14.42.54:012][691]LogBlueprintUserMessages: [Bullet_C_91] Bullet Hit FPC
+[2018.05.05-14.42.54:013][691]LogBlueprintUserMessages: [Bullet_C_92] Bullet Hit FPC
+[2018.05.05-14.42.54:015][691]LogBlueprintUserMessages: [Bullet_C_93] Bullet Hit FPC
+[2018.05.05-14.42.54:017][691]LogBlueprintUserMessages: [Bullet_C_94] Bullet Hit FPC
+[2018.05.05-14.42.54:018][691]LogBlueprintUserMessages: [Bullet_C_95] Bullet Hit FPC
+[2018.05.05-14.42.54:020][691]LogBlueprintUserMessages: [Bullet_C_96] Bullet Hit FPC
+[2018.05.05-14.42.54:021][691]LogBlueprintUserMessages: [Bullet_C_97] Bullet Hit FPC
+[2018.05.05-14.42.54:023][691]LogBlueprintUserMessages: [Bullet_C_98] Bullet Hit FPC
+[2018.05.05-14.42.54:025][691]LogBlueprintUserMessages: [Bullet_C_99] Bullet Hit FPC
+[2018.05.05-14.42.54:026][691]LogBlueprintUserMessages: [Bullet_C_100] Bullet Hit FPC
+[2018.05.05-14.42.54:028][691]LogBlueprintUserMessages: [Bullet_C_101] Bullet Hit FPC
+[2018.05.05-14.42.54:030][691]LogBlueprintUserMessages: [Bullet_C_102] Bullet Hit FPC
+[2018.05.05-14.42.54:031][691]LogBlueprintUserMessages: [Bullet_C_103] Bullet Hit FPC
+[2018.05.05-14.42.54:033][691]LogBlueprintUserMessages: [Bullet_C_104] Bullet Hit FPC
+[2018.05.05-14.42.54:035][691]LogBlueprintUserMessages: [Bullet_C_105] Bullet Hit FPC
+[2018.05.05-14.42.54:036][691]LogBlueprintUserMessages: [Bullet_C_106] Bullet Hit FPC
+[2018.05.05-14.42.54:038][691]LogBlueprintUserMessages: [Bullet_C_107] Bullet Hit FPC
+[2018.05.05-14.42.54:040][691]LogBlueprintUserMessages: [Bullet_C_108] Bullet Hit FPC
+[2018.05.05-14.42.54:042][691]LogBlueprintUserMessages: [Bullet_C_109] Bullet Hit FPC
+[2018.05.05-14.42.54:044][691]LogBlueprintUserMessages: [Bullet_C_110] Bullet Hit FPC
+[2018.05.05-14.42.54:045][691]LogBlueprintUserMessages: [Bullet_C_111] Bullet Hit FPC
+[2018.05.05-14.42.54:047][691]LogBlueprintUserMessages: [Bullet_C_112] Bullet Hit FPC
+[2018.05.05-14.42.54:049][691]LogBlueprintUserMessages: [Bullet_C_113] Bullet Hit FPC
+[2018.05.05-14.42.54:051][691]LogBlueprintUserMessages: [Bullet_C_114] Bullet Hit FPC
+[2018.05.05-14.42.54:053][691]LogBlueprintUserMessages: [Bullet_C_115] Bullet Hit FPC
+[2018.05.05-14.42.54:055][691]LogBlueprintUserMessages: [Bullet_C_116] Bullet Hit FPC
+[2018.05.05-14.42.54:056][691]LogBlueprintUserMessages: [Bullet_C_117] Bullet Hit FPC
+[2018.05.05-14.42.54:058][691]LogBlueprintUserMessages: [Bullet_C_118] Bullet Hit FPC
+[2018.05.05-14.42.54:060][691]LogBlueprintUserMessages: [Bullet_C_119] Bullet Hit FPC
+[2018.05.05-14.42.54:063][691]LogBlueprintUserMessages: [Bullet_C_120] Bullet Hit FPC
+[2018.05.05-14.42.54:065][691]LogBlueprintUserMessages: [Bullet_C_121] Bullet Hit FPC
+[2018.05.05-14.42.54:067][691]LogBlueprintUserMessages: [Bullet_C_122] Bullet Hit FPC
+[2018.05.05-14.42.54:069][691]LogBlueprintUserMessages: [Bullet_C_123] Bullet Hit FPC
+[2018.05.05-14.42.54:071][691]LogBlueprintUserMessages: [Bullet_C_124] Bullet Hit FPC
+[2018.05.05-14.42.54:073][691]LogBlueprintUserMessages: [Bullet_C_125] Bullet Hit FPC
+[2018.05.05-14.42.54:075][691]LogBlueprintUserMessages: [Bullet_C_126] Bullet Hit FPC
+[2018.05.05-14.42.54:078][691]LogBlueprintUserMessages: [Bullet_C_128] Bullet Hit FPC
+[2018.05.05-14.42.54:080][691]LogBlueprintUserMessages: [Bullet_C_129] Bullet Hit FPC
+[2018.05.05-14.42.54:083][691]LogBlueprintUserMessages: [Bullet_C_130] Bullet Hit FPC
+[2018.05.05-14.42.54:086][691]LogBlueprintUserMessages: [Bullet_C_131] Bullet Hit FPC
+[2018.05.05-14.42.54:087][691]LogBlueprintUserMessages: [Bullet_C_132] Bullet Hit FPC
+[2018.05.05-14.42.54:090][691]LogBlueprintUserMessages: [Bullet_C_133] Bullet Hit FPC
+[2018.05.05-14.42.54:098][691]LogBlueprintUserMessages: [Bullet_C_136] Bullet Hit FPC
+[2018.05.05-14.42.54:157][692]LogBlueprintUserMessages: [Bullet_C_33] Bullet Hit FPC
+[2018.05.05-14.42.54:157][692]LogBlueprintUserMessages: [Bullet_C_34] Bullet Hit FPC
+[2018.05.05-14.42.54:158][692]LogBlueprintUserMessages: [Bullet_C_35] Bullet Hit FPC
+[2018.05.05-14.42.54:158][692]LogBlueprintUserMessages: [Bullet_C_36] Bullet Hit FPC
+[2018.05.05-14.42.54:165][692]LogBlueprintUserMessages: [Bullet_C_39] Bullet Hit FPC
+[2018.05.05-14.42.54:166][692]LogBlueprintUserMessages: [Bullet_C_40] Bullet Hit FPC
+[2018.05.05-14.42.54:166][692]LogBlueprintUserMessages: [Bullet_C_41] Bullet Hit FPC
+[2018.05.05-14.42.54:166][692]LogBlueprintUserMessages: [Bullet_C_42] Bullet Hit FPC
+[2018.05.05-14.42.54:167][692]LogBlueprintUserMessages: [Bullet_C_45] Bullet Hit FPC
+[2018.05.05-14.42.54:167][692]LogBlueprintUserMessages: [Bullet_C_46] Bullet Hit FPC
+[2018.05.05-14.42.54:168][692]LogBlueprintUserMessages: [Bullet_C_47] Bullet Hit FPC
+[2018.05.05-14.42.54:168][692]LogBlueprintUserMessages: [Bullet_C_48] Bullet Hit FPC
+[2018.05.05-14.42.54:169][692]LogBlueprintUserMessages: [Bullet_C_49] Bullet Hit FPC
+[2018.05.05-14.42.54:169][692]LogBlueprintUserMessages: [Bullet_C_50] Bullet Hit FPC
+[2018.05.05-14.42.54:169][692]LogBlueprintUserMessages: [Bullet_C_51] Bullet Hit FPC
+[2018.05.05-14.42.54:170][692]LogBlueprintUserMessages: [Bullet_C_52] Bullet Hit FPC
+[2018.05.05-14.42.54:170][692]LogBlueprintUserMessages: [Bullet_C_53] Bullet Hit FPC
+[2018.05.05-14.42.54:171][692]LogBlueprintUserMessages: [Bullet_C_54] Bullet Hit FPC
+[2018.05.05-14.42.54:171][692]LogBlueprintUserMessages: [Bullet_C_55] Bullet Hit FPC
+[2018.05.05-14.42.54:172][692]LogBlueprintUserMessages: [Bullet_C_56] Bullet Hit FPC
+[2018.05.05-14.42.54:172][692]LogBlueprintUserMessages: [Bullet_C_57] Bullet Hit FPC
+[2018.05.05-14.42.54:173][692]LogBlueprintUserMessages: [Bullet_C_58] Bullet Hit FPC
+[2018.05.05-14.42.54:173][692]LogBlueprintUserMessages: [Bullet_C_59] Bullet Hit FPC
+[2018.05.05-14.42.54:174][692]LogBlueprintUserMessages: [Bullet_C_60] Bullet Hit FPC
+[2018.05.05-14.42.54:300][692]LogBlueprintUserMessages: [Bullet_C_134] Bullet Hit FPC
+[2018.05.05-14.42.54:303][692]LogBlueprintUserMessages: [Bullet_C_135] Bullet Hit FPC
+[2018.05.05-14.42.54:308][692]LogBlueprintUserMessages: [Bullet_C_137] Bullet Hit FPC
+[2018.05.05-14.42.54:311][692]LogBlueprintUserMessages: [Bullet_C_138] Bullet Hit FPC
+[2018.05.05-14.42.54:313][692]LogBlueprintUserMessages: [Bullet_C_139] Bullet Hit FPC
+[2018.05.05-14.42.54:316][692]LogBlueprintUserMessages: [Bullet_C_140] Bullet Hit FPC
+[2018.05.05-14.42.54:319][692]LogBlueprintUserMessages: [Bullet_C_141] Bullet Hit FPC
+[2018.05.05-14.42.54:322][692]LogBlueprintUserMessages: [Bullet_C_142] Bullet Hit FPC
+[2018.05.05-14.42.54:324][692]LogBlueprintUserMessages: [Bullet_C_143] Bullet Hit FPC
+[2018.05.05-14.42.54:327][692]LogBlueprintUserMessages: [Bullet_C_144] Bullet Hit FPC
+[2018.05.05-14.42.54:330][692]LogBlueprintUserMessages: [Bullet_C_145] Bullet Hit FPC
+[2018.05.05-14.42.54:333][692]LogBlueprintUserMessages: [Bullet_C_146] Bullet Hit FPC
+[2018.05.05-14.42.54:336][692]LogBlueprintUserMessages: [Bullet_C_147] Bullet Hit FPC
+[2018.05.05-14.42.54:338][692]LogBlueprintUserMessages: [Bullet_C_148] Bullet Hit FPC
+[2018.05.05-14.42.54:341][692]LogBlueprintUserMessages: [Bullet_C_149] Bullet Hit FPC
+[2018.05.05-14.42.54:346][692]LogBlueprintUserMessages: [Bullet_C_150] Bullet Hit FPC
+[2018.05.05-14.42.54:385][693]LogBlueprintUserMessages: [Bullet_C_43] Bullet Hit FPC
+[2018.05.05-14.42.54:385][693]LogBlueprintUserMessages: [Bullet_C_44] Bullet Hit FPC
+[2018.05.05-14.42.54:591][694]LogBlueprintUserMessages: [Bullet_C_12] Bullet Hit FPC
+[2018.05.05-14.42.54:592][694]LogBlueprintUserMessages: [Bullet_C_13] Bullet Hit FPC
+[2018.05.05-14.42.54:592][694]LogBlueprintUserMessages: [Bullet_C_14] Bullet Hit FPC
+[2018.05.05-14.42.54:780][694]LogBlueprintUserMessages: [Bullet_C_151] Bullet Hit FPC
+[2018.05.05-14.42.54:995][695]LogBlueprintUserMessages: [Bullet_C_152] Bullet Hit FPC
+[2018.05.05-14.42.55:202][696]LogBlueprintUserMessages: [Bullet_C_153] Bullet Hit FPC
+[2018.05.05-14.43.02:238][838]LogBlueprintUserMessages: [ThirdPersonCharacter_853] 3.0
+[2018.05.05-14.43.02:768][854]LogBlueprintUserMessages: [ThirdPersonCharacter_853] 2.0
+[2018.05.05-14.43.02:803][855]LogBlueprintUserMessages: [ThirdPersonCharacter_853] 1.0
+[2018.05.05-14.43.06:890][949]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.05-14.43.08:157][971]LogSavePackage: Save=32.39ms
+[2018.05.05-14.43.08:157][971]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/EnemyAIControllerC410E11342FBC2C63BE20C99A51D61CE.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/ThirdPersonBP/Blueprints/EnemyAIController.uasset'
+[2018.05.05-14.43.08:159][971]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/ThirdPersonBP/Blueprints/EnemyAIController.uasset
+[2018.05.05-14.43.30:037][410]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.05-14.43.30:730][421]LogSavePackage: Save=33.79ms
+[2018.05.05-14.43.30:730][421]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/EnemyAIControllerC50CB1774819141966E76C9C23B07FF1.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/ThirdPersonBP/Blueprints/EnemyAIController.uasset'
+[2018.05.05-14.43.30:733][421]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/ThirdPersonBP/Blueprints/EnemyAIController.uasset
+[2018.05.05-14.43.33:018][468]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.05-14.43.40:480][614]LogSavePackage: Save=36.14ms
+[2018.05.05-14.43.40:480][614]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/EnemyAIController17FCF9644CF21C0E0350B4B203E4DEBE.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/ThirdPersonBP/Blueprints/EnemyAIController.uasset'
+[2018.05.05-14.43.40:483][614]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/ThirdPersonBP/Blueprints/EnemyAIController.uasset
+[2018.05.05-14.43.58:177][969]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.05-14.43.58:228][970]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.05-14.43.58:308][970]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.05-14.43.58:309][970]PIE: New page: PIE session: NewMap (5 May 2018 16:43:58)
+[2018.05.05-14.43.58:309][970]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2018.05.05-14.43.58:337][970]LogPlayLevel: PIE: StaticDuplicateObject took: (0.027148s)
+[2018.05.05-14.43.58:338][970]LogAIModule: Creating AISystem for world NewMap
+[2018.05.05-14.43.58:338][970]LogPlayLevel: PIE: World Init took: (0.001282s)
+[2018.05.05-14.43.58:338][970]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.029297s)
+[2018.05.05-14.43.58:374][970]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.05-14.43.58:386][970]LogInit: FAudioDevice initialized.
+[2018.05.05-14.43.58:439][970]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.05-14.43.58:447][970]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2018.05.05-15.43.58
+[2018.05.05-14.43.58:449][970]LogWorld: Bringing up level for play took: 0.008883
+[2018.05.05-14.43.58:452][970]PIE: Play in editor start time for /Game/UEDPIE_0_NewMap -0.626
+[2018.05.05-14.44.09:154][282]LogBlueprintUserMessages: [ThirdPersonCharacter_853] 4.0
+[2018.05.05-14.44.14:995][462]LogBlueprintUserMessages: [ThirdPersonCharacter_853] 3.0
+[2018.05.05-14.44.15:157][467]LogBlueprintUserMessages: [ThirdPersonCharacter_853] 2.0
+[2018.05.05-14.44.39:236][206]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.05-14.44.39:929][217]LogSavePackage: Save=33.45ms
+[2018.05.05-14.44.39:929][217]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/EnemyAIController9C3A96CC4C604E87D469218E949B62ED.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/ThirdPersonBP/Blueprints/EnemyAIController.uasset'
+[2018.05.05-14.44.39:931][217]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/ThirdPersonBP/Blueprints/EnemyAIController.uasset
+[2018.05.05-14.44.43:760][294]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.05-14.45.00:626][587]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Bullet" FILE="../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/Bullet.uasset" SILENT=true
+[2018.05.05-14.45.00:687][587]LogSavePackage: Save=27.63ms
+[2018.05.05-14.45.00:687][587]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/Bullet98E20A45498377D98EAF95ABEAE5DD69.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/Bullet.uasset'
+[2018.05.05-14.45.00:690][587]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/Bullet.uasset
+[2018.05.05-14.45.01:561][600]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.05-14.45.06:970][682]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Bullet" FILE="../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/Bullet.uasset" SILENT=true
+[2018.05.05-14.45.07:004][682]LogSavePackage: Save=22.23ms
+[2018.05.05-14.45.07:004][682]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/Bullet1719DB6743E29E5E3FFE9B9998CEE265.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/Bullet.uasset'
+[2018.05.05-14.45.07:008][682]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/Bullet.uasset
+[2018.05.05-14.45.15:855][821]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.05-14.45.15:987][823]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.05-14.45.16:069][823]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.05.05-14.45.16:118][823]LogPlayLevel: [PlayLevel] Compiling Bullet before play...
+[2018.05.05-14.45.16:410][823]LogPlayLevel: PlayLevel: Blueprint regeneration took 341 ms (1 blueprints)
+[2018.05.05-14.45.16:411][823]PIE: New page: PIE session: NewMap (5 May 2018 16:45:16)
+[2018.05.05-14.45.16:411][823]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2018.05.05-14.45.16:423][823]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011549s)
+[2018.05.05-14.45.16:424][823]LogAIModule: Creating AISystem for world NewMap
+[2018.05.05-14.45.16:424][823]LogPlayLevel: PIE: World Init took: (0.001025s)
+[2018.05.05-14.45.16:424][823]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.013134s)
+[2018.05.05-14.45.16:451][823]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.05-14.45.16:461][823]LogInit: FAudioDevice initialized.
+[2018.05.05-14.45.16:507][823]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.05-14.45.16:517][823]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2018.05.05-15.45.16
+[2018.05.05-14.45.16:519][823]LogWorld: Bringing up level for play took: 0.010735
+[2018.05.05-14.45.16:522][823]PIE: Play in editor start time for /Game/UEDPIE_0_NewMap 1.444
+[2018.05.05-14.45.17:955][866]LogBlueprintUserMessages: [ThirdPersonCharacter_853] 4.0
+[2018.05.05-14.45.19:899][929]LogBlueprintUserMessages: [Bullet_C_1] Bullet Hit FPC
+[2018.05.05-14.45.19:932][930]LogBlueprintUserMessages: [Bullet_C_2] Bullet Hit FPC
+[2018.05.05-14.45.19:967][931]LogBlueprintUserMessages: [Bullet_C_3] Bullet Hit FPC
+[2018.05.05-14.45.19:997][932]LogBlueprintUserMessages: [Bullet_C_4] Bullet Hit FPC
+[2018.05.05-14.45.20:032][933]LogBlueprintUserMessages: [Bullet_C_5] Bullet Hit FPC
+[2018.05.05-14.45.20:061][934]LogBlueprintUserMessages: [Bullet_C_6] Bullet Hit FPC
+[2018.05.05-14.45.20:093][935]LogBlueprintUserMessages: [Bullet_C_7] Bullet Hit FPC
+[2018.05.05-14.45.20:125][936]LogBlueprintUserMessages: [Bullet_C_8] Bullet Hit FPC
+[2018.05.05-14.45.20:156][937]LogBlueprintUserMessages: [Bullet_C_9] Bullet Hit FPC
+[2018.05.05-14.45.20:187][938]LogBlueprintUserMessages: [Bullet_C_10] Bullet Hit FPC
+[2018.05.05-14.45.20:221][939]LogBlueprintUserMessages: [Bullet_C_11] Bullet Hit FPC
+[2018.05.05-14.45.20:254][940]LogBlueprintUserMessages: [Bullet_C_12] Bullet Hit FPC
+[2018.05.05-14.45.20:286][941]LogBlueprintUserMessages: [Bullet_C_13] Bullet Hit FPC
+[2018.05.05-14.45.20:318][942]LogBlueprintUserMessages: [Bullet_C_14] Bullet Hit FPC
+[2018.05.05-14.45.20:350][943]LogBlueprintUserMessages: [Bullet_C_15] Bullet Hit FPC
+[2018.05.05-14.45.20:382][944]LogBlueprintUserMessages: [Bullet_C_16] Bullet Hit FPC
+[2018.05.05-14.45.20:415][945]LogBlueprintUserMessages: [Bullet_C_17] Bullet Hit FPC
+[2018.05.05-14.45.20:448][946]LogBlueprintUserMessages: [Bullet_C_18] Bullet Hit FPC
+[2018.05.05-14.45.20:486][947]LogBlueprintUserMessages: [Bullet_C_19] Bullet Hit FPC
+[2018.05.05-14.45.20:517][948]LogBlueprintUserMessages: [Bullet_C_20] Bullet Hit FPC
+[2018.05.05-14.45.20:549][949]LogBlueprintUserMessages: [Bullet_C_21] Bullet Hit FPC
+[2018.05.05-14.45.20:584][950]LogBlueprintUserMessages: [Bullet_C_22] Bullet Hit FPC
+[2018.05.05-14.45.20:617][951]LogBlueprintUserMessages: [Bullet_C_23] Bullet Hit FPC
+[2018.05.05-14.45.20:649][952]LogBlueprintUserMessages: [Bullet_C_24] Bullet Hit FPC
+[2018.05.05-14.45.20:677][953]LogBlueprintUserMessages: [Bullet_C_25] Bullet Hit FPC
+[2018.05.05-14.45.20:709][954]LogBlueprintUserMessages: [Bullet_C_26] Bullet Hit FPC
+[2018.05.05-14.45.20:741][955]LogBlueprintUserMessages: [Bullet_C_27] Bullet Hit FPC
+[2018.05.05-14.45.20:773][956]LogBlueprintUserMessages: [Bullet_C_28] Bullet Hit FPC
+[2018.05.05-14.45.20:806][957]LogBlueprintUserMessages: [Bullet_C_29] Bullet Hit FPC
+[2018.05.05-14.45.20:840][958]LogBlueprintUserMessages: [Bullet_C_30] Bullet Hit FPC
+[2018.05.05-14.45.20:874][959]LogBlueprintUserMessages: [Bullet_C_31] Bullet Hit FPC
+[2018.05.05-14.45.20:906][960]LogBlueprintUserMessages: [Bullet_C_32] Bullet Hit FPC
+[2018.05.05-14.45.20:939][961]LogBlueprintUserMessages: [Bullet_C_33] Bullet Hit FPC
+[2018.05.05-14.45.20:972][962]LogBlueprintUserMessages: [Bullet_C_34] Bullet Hit FPC
+[2018.05.05-14.45.21:008][963]LogBlueprintUserMessages: [Bullet_C_35] Bullet Hit FPC
+[2018.05.05-14.45.21:040][964]LogBlueprintUserMessages: [Bullet_C_36] Bullet Hit FPC
+[2018.05.05-14.45.21:073][965]LogBlueprintUserMessages: [Bullet_C_37] Bullet Hit FPC
+[2018.05.05-14.45.21:105][966]LogBlueprintUserMessages: [Bullet_C_38] Bullet Hit FPC
+[2018.05.05-14.45.21:138][967]LogBlueprintUserMessages: [Bullet_C_39] Bullet Hit FPC
+[2018.05.05-14.45.21:171][968]LogBlueprintUserMessages: [Bullet_C_40] Bullet Hit FPC
+[2018.05.05-14.45.21:206][969]LogBlueprintUserMessages: [Bullet_C_41] Bullet Hit FPC
+[2018.05.05-14.45.21:241][970]LogBlueprintUserMessages: [Bullet_C_42] Bullet Hit FPC
+[2018.05.05-14.45.21:274][971]LogBlueprintUserMessages: [Bullet_C_43] Bullet Hit FPC
+[2018.05.05-14.45.21:307][972]LogBlueprintUserMessages: [Bullet_C_44] Bullet Hit FPC
+[2018.05.05-14.45.21:340][973]LogBlueprintUserMessages: [Bullet_C_45] Bullet Hit FPC
+[2018.05.05-14.45.21:373][974]LogBlueprintUserMessages: [Bullet_C_46] Bullet Hit FPC
+[2018.05.05-14.45.21:406][975]LogBlueprintUserMessages: [Bullet_C_47] Bullet Hit FPC
+[2018.05.05-14.45.21:439][976]LogBlueprintUserMessages: [Bullet_C_48] Bullet Hit FPC
+[2018.05.05-14.45.21:472][977]LogBlueprintUserMessages: [Bullet_C_49] Bullet Hit FPC
+[2018.05.05-14.45.21:506][978]LogBlueprintUserMessages: [Bullet_C_50] Bullet Hit FPC
+[2018.05.05-14.45.21:538][979]LogBlueprintUserMessages: [Bullet_C_51] Bullet Hit FPC
+[2018.05.05-14.45.21:571][980]LogBlueprintUserMessages: [Bullet_C_52] Bullet Hit FPC
+[2018.05.05-14.45.21:604][981]LogBlueprintUserMessages: [Bullet_C_53] Bullet Hit FPC
+[2018.05.05-14.45.21:637][982]LogBlueprintUserMessages: [Bullet_C_54] Bullet Hit FPC
+[2018.05.05-14.45.21:670][983]LogBlueprintUserMessages: [Bullet_C_55] Bullet Hit FPC
+[2018.05.05-14.45.21:702][984]LogBlueprintUserMessages: [Bullet_C_56] Bullet Hit FPC
+[2018.05.05-14.45.21:735][985]LogBlueprintUserMessages: [Bullet_C_57] Bullet Hit FPC
+[2018.05.05-14.45.21:768][986]LogBlueprintUserMessages: [Bullet_C_58] Bullet Hit FPC
+[2018.05.05-14.45.21:801][987]LogBlueprintUserMessages: [Bullet_C_59] Bullet Hit FPC
+[2018.05.05-14.45.21:834][988]LogBlueprintUserMessages: [Bullet_C_60] Bullet Hit FPC
+[2018.05.05-14.45.21:870][989]LogBlueprintUserMessages: [Bullet_C_61] Bullet Hit FPC
+[2018.05.05-14.45.21:909][990]LogBlueprintUserMessages: [Bullet_C_62] Bullet Hit FPC
+[2018.05.05-14.45.21:943][991]LogBlueprintUserMessages: [Bullet_C_63] Bullet Hit FPC
+[2018.05.05-14.45.21:976][992]LogBlueprintUserMessages: [Bullet_C_64] Bullet Hit FPC
+[2018.05.05-14.45.22:016][993]LogBlueprintUserMessages: [Bullet_C_65] Bullet Hit FPC
+[2018.05.05-14.45.22:047][994]LogBlueprintUserMessages: [Bullet_C_66] Bullet Hit FPC
+[2018.05.05-14.45.22:085][995]LogBlueprintUserMessages: [Bullet_C_67] Bullet Hit FPC
+[2018.05.05-14.45.22:121][996]LogBlueprintUserMessages: [Bullet_C_68] Bullet Hit FPC
+[2018.05.05-14.45.22:152][997]LogBlueprintUserMessages: [Bullet_C_69] Bullet Hit FPC
+[2018.05.05-14.45.22:186][998]LogBlueprintUserMessages: [Bullet_C_70] Bullet Hit FPC
+[2018.05.05-14.45.22:220][999]LogBlueprintUserMessages: [Bullet_C_71] Bullet Hit FPC
+[2018.05.05-14.45.22:254][  0]LogBlueprintUserMessages: [Bullet_C_72] Bullet Hit FPC
+[2018.05.05-14.45.22:286][  1]LogBlueprintUserMessages: [Bullet_C_73] Bullet Hit FPC
+[2018.05.05-14.45.22:319][  2]LogBlueprintUserMessages: [Bullet_C_74] Bullet Hit FPC
+[2018.05.05-14.45.22:352][  3]LogBlueprintUserMessages: [Bullet_C_75] Bullet Hit FPC
+[2018.05.05-14.45.22:386][  4]LogBlueprintUserMessages: [Bullet_C_76] Bullet Hit FPC
+[2018.05.05-14.45.22:419][  5]LogBlueprintUserMessages: [Bullet_C_77] Bullet Hit FPC
+[2018.05.05-14.45.22:452][  6]LogBlueprintUserMessages: [Bullet_C_78] Bullet Hit FPC
+[2018.05.05-14.45.22:491][  7]LogBlueprintUserMessages: [Bullet_C_79] Bullet Hit FPC
+[2018.05.05-14.45.22:528][  8]LogBlueprintUserMessages: [Bullet_C_80] Bullet Hit FPC
+[2018.05.05-14.45.22:565][  9]LogBlueprintUserMessages: [Bullet_C_81] Bullet Hit FPC
+[2018.05.05-14.45.22:595][ 10]LogBlueprintUserMessages: [Bullet_C_82] Bullet Hit FPC
+[2018.05.05-14.45.22:636][ 11]LogBlueprintUserMessages: [Bullet_C_83] Bullet Hit FPC
+[2018.05.05-14.45.22:643][ 11]LogBlueprintUserMessages: [Bullet_C_84] Bullet Hit FPC
+[2018.05.05-14.45.22:709][ 13]LogBlueprintUserMessages: [Bullet_C_85] Bullet Hit FPC
+[2018.05.05-14.45.22:717][ 13]LogBlueprintUserMessages: [Bullet_C_86] Bullet Hit FPC
+[2018.05.05-14.45.22:749][ 14]LogBlueprintUserMessages: [Bullet_C_87] Bullet Hit FPC
+[2018.05.05-14.45.22:811][ 16]LogBlueprintUserMessages: [Bullet_C_88] Bullet Hit FPC
+[2018.05.05-14.45.22:817][ 16]LogBlueprintUserMessages: [Bullet_C_89] Bullet Hit FPC
+[2018.05.05-14.45.22:845][ 17]LogBlueprintUserMessages: [Bullet_C_89] Bullet Hit FPC
+[2018.05.05-14.45.22:884][ 18]LogBlueprintUserMessages: [Bullet_C_90] Bullet Hit FPC
+[2018.05.05-14.45.22:920][ 19]LogBlueprintUserMessages: [Bullet_C_91] Bullet Hit FPC
+[2018.05.05-14.45.22:924][ 19]LogBlueprintUserMessages: [Bullet_C_92] Bullet Hit FPC
+[2018.05.05-14.45.22:953][ 20]LogBlueprintUserMessages: [Bullet_C_93] Bullet Hit FPC
+[2018.05.05-14.45.22:992][ 21]LogBlueprintUserMessages: [Bullet_C_94] Bullet Hit FPC
+[2018.05.05-14.45.23:022][ 22]LogBlueprintUserMessages: [Bullet_C_94] Bullet Hit FPC
+[2018.05.05-14.45.23:029][ 22]LogBlueprintUserMessages: [Bullet_C_95] Bullet Hit FPC
+[2018.05.05-14.45.23:059][ 23]LogBlueprintUserMessages: [Bullet_C_96] Bullet Hit FPC
+[2018.05.05-14.45.23:096][ 24]LogBlueprintUserMessages: [Bullet_C_97] Bullet Hit FPC
+[2018.05.05-14.45.23:158][ 26]LogBlueprintUserMessages: [Bullet_C_98] Bullet Hit FPC
+[2018.05.05-14.45.23:164][ 26]LogBlueprintUserMessages: [Bullet_C_99] Bullet Hit FPC
+[2018.05.05-14.45.23:196][ 27]LogBlueprintUserMessages: [Bullet_C_100] Bullet Hit FPC
+[2018.05.05-14.45.23:231][ 28]LogBlueprintUserMessages: [Bullet_C_101] Bullet Hit FPC
+[2018.05.05-14.45.23:269][ 29]LogBlueprintUserMessages: [Bullet_C_102] Bullet Hit FPC
+[2018.05.05-14.45.23:309][ 30]LogBlueprintUserMessages: [Bullet_C_103] Bullet Hit FPC
+[2018.05.05-14.45.23:339][ 31]LogBlueprintUserMessages: [Bullet_C_104] Bullet Hit FPC
+[2018.05.05-14.45.23:380][ 32]LogBlueprintUserMessages: [Bullet_C_105] Bullet Hit FPC
+[2018.05.05-14.45.23:413][ 33]LogBlueprintUserMessages: [Bullet_C_106] Bullet Hit FPC
+[2018.05.05-14.45.23:447][ 34]LogBlueprintUserMessages: [Bullet_C_107] Bullet Hit FPC
+[2018.05.05-14.45.23:477][ 35]LogBlueprintUserMessages: [Bullet_C_108] Bullet Hit FPC
+[2018.05.05-14.45.23:510][ 36]LogBlueprintUserMessages: [Bullet_C_109] Bullet Hit FPC
+[2018.05.05-14.45.23:548][ 37]LogBlueprintUserMessages: [Bullet_C_110] Bullet Hit FPC
+[2018.05.05-14.45.23:583][ 38]LogBlueprintUserMessages: [Bullet_C_111] Bullet Hit FPC
+[2018.05.05-14.45.23:613][ 39]LogBlueprintUserMessages: [Bullet_C_112] Bullet Hit FPC
+[2018.05.05-14.45.23:650][ 40]LogBlueprintUserMessages: [Bullet_C_113] Bullet Hit FPC
+[2018.05.05-14.45.23:680][ 41]LogBlueprintUserMessages: [Bullet_C_114] Bullet Hit FPC
+[2018.05.05-14.45.23:719][ 42]LogBlueprintUserMessages: [Bullet_C_115] Bullet Hit FPC
+[2018.05.05-14.45.23:755][ 43]LogBlueprintUserMessages: [Bullet_C_116] Bullet Hit FPC
+[2018.05.05-14.45.23:798][ 44]LogBlueprintUserMessages: [Bullet_C_117] Bullet Hit FPC
+[2018.05.05-14.45.23:829][ 45]LogBlueprintUserMessages: [Bullet_C_118] Bullet Hit FPC
+[2018.05.05-14.45.23:866][ 46]LogBlueprintUserMessages: [Bullet_C_119] Bullet Hit FPC
+[2018.05.05-14.45.23:900][ 47]LogBlueprintUserMessages: [Bullet_C_120] Bullet Hit FPC
+[2018.05.05-14.45.23:930][ 48]LogBlueprintUserMessages: [Bullet_C_121] Bullet Hit FPC
+[2018.05.05-14.45.23:967][ 49]LogBlueprintUserMessages: [Bullet_C_122] Bullet Hit FPC
+[2018.05.05-14.45.23:999][ 50]LogBlueprintUserMessages: [Bullet_C_123] Bullet Hit FPC
+[2018.05.05-14.45.24:038][ 51]LogBlueprintUserMessages: [Bullet_C_124] Bullet Hit FPC
+[2018.05.05-14.45.24:070][ 52]LogBlueprintUserMessages: [Bullet_C_125] Bullet Hit FPC
+[2018.05.05-14.45.24:107][ 53]LogBlueprintUserMessages: [Bullet_C_126] Bullet Hit FPC
+[2018.05.05-14.45.24:139][ 54]LogBlueprintUserMessages: [Bullet_C_127] Bullet Hit FPC
+[2018.05.05-14.45.24:176][ 55]LogBlueprintUserMessages: [Bullet_C_128] Bullet Hit FPC
+[2018.05.05-14.45.24:206][ 56]LogBlueprintUserMessages: [Bullet_C_129] Bullet Hit FPC
+[2018.05.05-14.45.24:243][ 57]LogBlueprintUserMessages: [Bullet_C_130] Bullet Hit FPC
+[2018.05.05-14.45.24:277][ 58]LogBlueprintUserMessages: [Bullet_C_131] Bullet Hit FPC
+[2018.05.05-14.45.24:310][ 59]LogBlueprintUserMessages: [Bullet_C_132] Bullet Hit FPC
+[2018.05.05-14.45.24:346][ 60]LogBlueprintUserMessages: [Bullet_C_133] Bullet Hit FPC
+[2018.05.05-14.45.27:145][102]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.05-14.45.27:205][102]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap" FILE="../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.05.05-14.45.27:386][102]LogSavePackage: Save=133.77ms
+[2018.05.05-14.45.27:386][102]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/NewMap295D618E40384A987AF937B4E4DDD3F5.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap.umap'
+[2018.05.05-14.45.27:388][102]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap.umap
+[2018.05.05-14.45.27:425][102]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap_BuiltData" FILE="../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap_BuiltData.uasset" SILENT=true
+[2018.05.05-14.45.27:706][102]LogSavePackage: Save=257.98ms
+[2018.05.05-14.45.27:707][102]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/NewMap_BuiltData1998ECBA43A3978B5F710D9BCD872703.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap_BuiltData.uasset'
+[2018.05.05-14.45.27:710][102]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap_BuiltData.uasset
+[2018.05.05-14.45.31:600][165]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.05-14.46.34:208][395]LogSavePackage: Save=33.30ms
+[2018.05.05-14.46.34:209][395]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/EnemyAIController3D476CD541DE64B0D1AC2F8196E685AB.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/ThirdPersonBP/Blueprints/EnemyAIController.uasset'
+[2018.05.05-14.46.34:211][395]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/ThirdPersonBP/Blueprints/EnemyAIController.uasset
+[2018.05.05-14.46.42:836][568]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.05-14.47.02:758][873]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Bullet" FILE="../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/Bullet.uasset" SILENT=true
+[2018.05.05-14.47.02:811][873]LogSavePackage: Save=39.34ms
+[2018.05.05-14.47.02:811][873]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/Bullet2BFA8DBD43335E2269E935813246FE9E.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/Bullet.uasset'
+[2018.05.05-14.47.02:815][873]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/Bullet.uasset
+[2018.05.05-14.47.03:723][888]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.05-14.47.03:781][889]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.05-14.47.03:857][889]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.05.05-14.47.03:865][889]LogPlayLevel: [PlayLevel] Compiling Bullet before play...
+[2018.05.05-14.47.04:242][889]LogPlayLevel: PlayLevel: Blueprint regeneration took 385 ms (1 blueprints)
+[2018.05.05-14.47.04:243][889]PIE: New page: PIE session: NewMap (5 May 2018 16:47:04)
+[2018.05.05-14.47.04:243][889]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2018.05.05-14.47.04:255][889]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012344s)
+[2018.05.05-14.47.04:256][889]LogAIModule: Creating AISystem for world NewMap
+[2018.05.05-14.47.04:256][889]LogPlayLevel: PIE: World Init took: (0.000864s)
+[2018.05.05-14.47.04:257][889]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.013875s)
+[2018.05.05-14.47.04:285][889]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.05-14.47.04:296][889]LogInit: FAudioDevice initialized.
+[2018.05.05-14.47.04:335][889]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.05-14.47.04:343][889]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2018.05.05-15.47.04
+[2018.05.05-14.47.04:345][889]LogWorld: Bringing up level for play took: 0.009162
+[2018.05.05-14.47.04:348][889]PIE: Play in editor start time for /Game/UEDPIE_0_NewMap 1.27
+[2018.05.05-14.47.06:306][949]LogBlueprintUserMessages: [ThirdPersonCharacter_853] 4.0
+[2018.05.05-14.47.07:348][983]LogBlueprintUserMessages: [ThirdPersonCharacter_853] 3.0
+[2018.05.05-14.47.08:135][  9]LogBlueprintUserMessages: [ThirdPersonCharacter_853] 2.0
+[2018.05.05-14.47.11:489][116]LogBlueprintUserMessages: [ThirdPersonCharacter_853] 1.0
+[2018.05.05-14.47.17:023][290]LogBlueprintUserMessages: [ThirdPersonEnemy_642] 4.0
+[2018.05.05-14.47.17:181][295]LogBlueprintUserMessages: [ThirdPersonEnemy_642] 3.0
+[2018.05.05-14.47.17:287][298]LogBlueprintUserMessages: [ThirdPersonEnemy_642] 2.0
+[2018.05.05-14.47.18:360][331]LogBlueprintUserMessages: [ThirdPersonEnemy_642] 1.0
+[2018.05.05-14.47.20:365][394]LogBlueprintUserMessages: [ThirdPersonEnemy2_1109] 4.0
+[2018.05.05-14.47.20:456][397]LogBlueprintUserMessages: [ThirdPersonEnemy2_1109] 3.0
+[2018.05.05-14.47.21:100][418]LogBlueprintUserMessages: [ThirdPersonEnemy2_1109] 2.0
+[2018.05.05-14.47.21:282][424]LogBlueprintUserMessages: [ThirdPersonEnemy2_1109] 1.0
+[2018.05.05-14.47.25:196][489]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.05-14.47.29:310][551]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Bullet" FILE="../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/Bullet.uasset" SILENT=true
+[2018.05.05-14.47.29:346][551]LogSavePackage: Save=22.89ms
+[2018.05.05-14.47.29:346][551]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/Bullet7E6C193548320A6FF0E33389B8E2AC5B.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/Bullet.uasset'
+[2018.05.05-14.47.29:350][551]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/Bullet.uasset
+[2018.05.05-14.47.32:163][596]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.05-14.47.32:226][597]BlueprintLog: New page: Compile Bullet
+[2018.05.05-14.47.34:050][619]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.05-14.47.34:148][619]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.05-14.47.34:151][619]PIE: New page: PIE session: NewMap (5 May 2018 16:47:34)
+[2018.05.05-14.47.34:153][619]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2018.05.05-14.47.34:188][619]LogPlayLevel: PIE: StaticDuplicateObject took: (0.034373s)
+[2018.05.05-14.47.34:189][619]LogAIModule: Creating AISystem for world NewMap
+[2018.05.05-14.47.34:189][619]LogPlayLevel: PIE: World Init took: (0.001025s)
+[2018.05.05-14.47.34:190][619]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.037040s)
+[2018.05.05-14.47.34:222][619]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.05-14.47.34:232][619]LogInit: FAudioDevice initialized.
+[2018.05.05-14.47.34:268][619]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.05-14.47.34:287][619]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2018.05.05-15.47.34
+[2018.05.05-14.47.34:293][619]LogWorld: Bringing up level for play took: 0.022952
+[2018.05.05-14.47.34:298][619]PIE: Play in editor start time for /Game/UEDPIE_0_NewMap -0.78
+[2018.05.05-14.47.35:064][640]LogBlueprintUserMessages: [ThirdPersonCharacter_853] 4.0
+[2018.05.05-14.47.35:470][654]LogBlueprintUserMessages: [ThirdPersonCharacter_853] 3.0
+[2018.05.05-14.47.35:621][659]LogBlueprintUserMessages: [ThirdPersonCharacter_853] 2.0
+[2018.05.05-14.47.35:776][664]LogBlueprintUserMessages: [ThirdPersonCharacter_853] 1.0
+[2018.05.05-14.47.51:518][170]LogBlueprintUserMessages: [ThirdPersonEnemy_642] 4.0
+[2018.05.05-14.47.51:684][175]LogBlueprintUserMessages: [ThirdPersonEnemy_642] 3.0
+[2018.05.05-14.47.52:337][195]LogBlueprintUserMessages: [ThirdPersonEnemy_642] 2.0
+[2018.05.05-14.47.52:630][204]LogBlueprintUserMessages: [ThirdPersonEnemy_642] 1.0
+[2018.05.05-14.47.54:639][267]LogBlueprintUserMessages: [ThirdPersonEnemy2_1109] 4.0
+[2018.05.05-14.47.55:115][282]LogBlueprintUserMessages: [ThirdPersonEnemy2_1109] 3.0
+[2018.05.05-14.47.55:245][286]LogBlueprintUserMessages: [ThirdPersonEnemy2_1109] 2.0
+[2018.05.05-14.47.55:368][290]LogBlueprintUserMessages: [ThirdPersonEnemy2_1109] 1.0
+[2018.05.05-14.47.59:876][432]LogBlueprintUserMessages: [ThirdPersonEnemy4] 4.0
+[2018.05.05-14.48.01:568][485]LogBlueprintUserMessages: [ThirdPersonEnemy4] 3.0
+[2018.05.05-14.48.05:995][615]LogBlueprintUserMessages: [Bullet_C_169] Bullet Hit FPC
+[2018.05.05-14.48.06:026][616]LogBlueprintUserMessages: [Bullet_C_171] Bullet Hit FPC
+[2018.05.05-14.48.06:059][617]LogBlueprintUserMessages: [Bullet_C_173] Bullet Hit FPC
+[2018.05.05-14.48.06:093][618]LogBlueprintUserMessages: [Bullet_C_175] Bullet Hit FPC
+[2018.05.05-14.48.06:136][619]LogBlueprintUserMessages: [Bullet_C_177] Bullet Hit FPC
+[2018.05.05-14.48.06:171][620]LogBlueprintUserMessages: [Bullet_C_179] Bullet Hit FPC
+[2018.05.05-14.48.06:204][621]LogBlueprintUserMessages: [Bullet_C_181] Bullet Hit FPC
+[2018.05.05-14.48.06:233][622]LogBlueprintUserMessages: [Bullet_C_182] Bullet Hit FPC
+[2018.05.05-14.48.06:239][622]LogBlueprintUserMessages: [Bullet_C_183] Bullet Hit FPC
+[2018.05.05-14.48.06:270][623]LogBlueprintUserMessages: [Bullet_C_184] Bullet Hit FPC
+[2018.05.05-14.48.06:275][623]LogBlueprintUserMessages: [Bullet_C_185] Bullet Hit FPC
+[2018.05.05-14.48.06:306][624]LogBlueprintUserMessages: [Bullet_C_186] Bullet Hit FPC
+[2018.05.05-14.48.06:311][624]LogBlueprintUserMessages: [Bullet_C_187] Bullet Hit FPC
+[2018.05.05-14.48.06:312][624]LogBlueprintUserMessages: [Bullet_C_188] Bullet Hit FPC
+[2018.05.05-14.48.06:346][625]LogBlueprintUserMessages: [Bullet_C_189] Bullet Hit FPC
+[2018.05.05-14.48.06:347][625]LogBlueprintUserMessages: [Bullet_C_190] Bullet Hit FPC
+[2018.05.05-14.48.06:383][626]LogBlueprintUserMessages: [Bullet_C_191] Bullet Hit FPC
+[2018.05.05-14.48.06:384][626]LogBlueprintUserMessages: [Bullet_C_192] Bullet Hit FPC
+[2018.05.05-14.48.06:414][627]LogBlueprintUserMessages: [Bullet_C_192] Bullet Hit FPC
+[2018.05.05-14.48.06:421][627]LogBlueprintUserMessages: [Bullet_C_193] Bullet Hit FPC
+[2018.05.05-14.48.06:422][627]LogBlueprintUserMessages: [Bullet_C_194] Bullet Hit FPC
+[2018.05.05-14.48.06:459][628]LogBlueprintUserMessages: [Bullet_C_195] Bullet Hit FPC
+[2018.05.05-14.48.06:460][628]LogBlueprintUserMessages: [Bullet_C_196] Bullet Hit FPC
+[2018.05.05-14.48.06:495][629]LogBlueprintUserMessages: [Bullet_C_197] Bullet Hit FPC
+[2018.05.05-14.48.06:495][629]LogBlueprintUserMessages: [Bullet_C_198] Bullet Hit FPC
+[2018.05.05-14.48.06:530][630]LogBlueprintUserMessages: [Bullet_C_199] Bullet Hit FPC
+[2018.05.05-14.48.06:531][630]LogBlueprintUserMessages: [Bullet_C_200] Bullet Hit FPC
+[2018.05.05-14.48.06:567][631]LogBlueprintUserMessages: [Bullet_C_201] Bullet Hit FPC
+[2018.05.05-14.48.06:567][631]LogBlueprintUserMessages: [Bullet_C_202] Bullet Hit FPC
+[2018.05.05-14.48.06:598][632]LogBlueprintUserMessages: [Bullet_C_203] Bullet Hit FPC
+[2018.05.05-14.48.06:599][632]LogBlueprintUserMessages: [Bullet_C_204] Bullet Hit FPC
+[2018.05.05-14.48.06:635][633]LogBlueprintUserMessages: [Bullet_C_205] Bullet Hit FPC
+[2018.05.05-14.48.06:637][633]LogBlueprintUserMessages: [Bullet_C_206] Bullet Hit FPC
+[2018.05.05-14.48.06:671][634]LogBlueprintUserMessages: [Bullet_C_207] Bullet Hit FPC
+[2018.05.05-14.48.06:673][634]LogBlueprintUserMessages: [Bullet_C_208] Bullet Hit FPC
+[2018.05.05-14.48.06:709][635]LogBlueprintUserMessages: [Bullet_C_209] Bullet Hit FPC
+[2018.05.05-14.48.06:710][635]LogBlueprintUserMessages: [Bullet_C_210] Bullet Hit FPC
+[2018.05.05-14.48.06:747][636]LogBlueprintUserMessages: [Bullet_C_211] Bullet Hit FPC
+[2018.05.05-14.48.06:747][636]LogBlueprintUserMessages: [Bullet_C_212] Bullet Hit FPC
+[2018.05.05-14.48.06:788][637]LogBlueprintUserMessages: [Bullet_C_213] Bullet Hit FPC
+[2018.05.05-14.48.06:788][637]LogBlueprintUserMessages: [Bullet_C_214] Bullet Hit FPC
+[2018.05.05-14.48.06:827][638]LogBlueprintUserMessages: [Bullet_C_215] Bullet Hit FPC
+[2018.05.05-14.48.06:828][638]LogBlueprintUserMessages: [Bullet_C_216] Bullet Hit FPC
+[2018.05.05-14.48.06:866][639]LogBlueprintUserMessages: [Bullet_C_217] Bullet Hit FPC
+[2018.05.05-14.48.06:866][639]LogBlueprintUserMessages: [Bullet_C_218] Bullet Hit FPC
+[2018.05.05-14.48.06:906][640]LogBlueprintUserMessages: [Bullet_C_219] Bullet Hit FPC
+[2018.05.05-14.48.06:907][640]LogBlueprintUserMessages: [Bullet_C_220] Bullet Hit FPC
+[2018.05.05-14.48.06:944][641]LogBlueprintUserMessages: [Bullet_C_221] Bullet Hit FPC
+[2018.05.05-14.48.06:944][641]LogBlueprintUserMessages: [Bullet_C_222] Bullet Hit FPC
+[2018.05.05-14.48.06:982][642]LogBlueprintUserMessages: [Bullet_C_223] Bullet Hit FPC
+[2018.05.05-14.48.06:983][642]LogBlueprintUserMessages: [Bullet_C_224] Bullet Hit FPC
+[2018.05.05-14.48.07:018][643]LogBlueprintUserMessages: [Bullet_C_225] Bullet Hit FPC
+[2018.05.05-14.48.07:020][643]LogBlueprintUserMessages: [Bullet_C_226] Bullet Hit FPC
+[2018.05.05-14.48.07:057][644]LogBlueprintUserMessages: [Bullet_C_227] Bullet Hit FPC
+[2018.05.05-14.48.07:057][644]LogBlueprintUserMessages: [Bullet_C_228] Bullet Hit FPC
+[2018.05.05-14.48.07:094][645]LogBlueprintUserMessages: [Bullet_C_230] Bullet Hit FPC
+[2018.05.05-14.48.07:130][646]LogBlueprintUserMessages: [Bullet_C_231] Bullet Hit FPC
+[2018.05.05-14.48.07:130][646]LogBlueprintUserMessages: [Bullet_C_232] Bullet Hit FPC
+[2018.05.05-14.48.07:171][647]LogBlueprintUserMessages: [Bullet_C_234] Bullet Hit FPC
+[2018.05.05-14.48.07:210][648]LogBlueprintUserMessages: [Bullet_C_235] Bullet Hit FPC
+[2018.05.05-14.48.07:210][648]LogBlueprintUserMessages: [Bullet_C_236] Bullet Hit FPC
+[2018.05.05-14.48.07:247][649]LogBlueprintUserMessages: [Bullet_C_237] Bullet Hit FPC
+[2018.05.05-14.48.07:248][649]LogBlueprintUserMessages: [ThirdPersonEnemy3_1676] 4.0
+[2018.05.05-14.48.07:289][650]LogBlueprintUserMessages: [Bullet_C_239] Bullet Hit FPC
+[2018.05.05-14.48.07:290][650]LogBlueprintUserMessages: [ThirdPersonEnemy3_1676] 3.0
+[2018.05.05-14.48.07:326][651]LogBlueprintUserMessages: [Bullet_C_241] Bullet Hit FPC
+[2018.05.05-14.48.07:326][651]LogBlueprintUserMessages: [ThirdPersonEnemy3_1676] 2.0
+[2018.05.05-14.48.07:364][652]LogBlueprintUserMessages: [Bullet_C_243] Bullet Hit FPC
+[2018.05.05-14.48.07:365][652]LogBlueprintUserMessages: [ThirdPersonEnemy3_1676] 1.0
+[2018.05.05-14.48.07:405][653]LogBlueprintUserMessages: [Bullet_C_245] Bullet Hit FPC
+[2018.05.05-14.48.07:443][654]LogBlueprintUserMessages: [Bullet_C_247] Bullet Hit FPC
+[2018.05.05-14.48.07:480][655]LogBlueprintUserMessages: [Bullet_C_248] Bullet Hit FPC
+[2018.05.05-14.48.07:515][656]LogBlueprintUserMessages: [Bullet_C_249] Bullet Hit FPC
+[2018.05.05-14.48.07:554][657]LogBlueprintUserMessages: [Bullet_C_250] Bullet Hit FPC
+[2018.05.05-14.48.07:593][658]LogBlueprintUserMessages: [Bullet_C_251] Bullet Hit FPC
+[2018.05.05-14.48.07:630][659]LogBlueprintUserMessages: [Bullet_C_252] Bullet Hit FPC
+[2018.05.05-14.48.07:666][660]LogBlueprintUserMessages: [Bullet_C_253] Bullet Hit FPC
+[2018.05.05-14.48.07:701][661]LogBlueprintUserMessages: [Bullet_C_254] Bullet Hit FPC
+[2018.05.05-14.48.07:738][662]LogBlueprintUserMessages: [Bullet_C_255] Bullet Hit FPC
+[2018.05.05-14.48.07:778][663]LogBlueprintUserMessages: [Bullet_C_256] Bullet Hit FPC
+[2018.05.05-14.48.07:810][664]LogBlueprintUserMessages: [Bullet_C_257] Bullet Hit FPC
+[2018.05.05-14.48.07:849][665]LogBlueprintUserMessages: [Bullet_C_258] Bullet Hit FPC
+[2018.05.05-14.48.07:890][666]LogBlueprintUserMessages: [Bullet_C_259] Bullet Hit FPC
+[2018.05.05-14.48.07:970][668]LogBlueprintUserMessages: [Bullet_C_261] Bullet Hit FPC
+[2018.05.05-14.48.08:039][670]LogBlueprintUserMessages: [Bullet_C_263] Bullet Hit FPC
+[2018.05.05-14.48.08:107][672]LogBlueprintUserMessages: [Bullet_C_265] Bullet Hit FPC
+[2018.05.05-14.48.08:178][674]LogBlueprintUserMessages: [Bullet_C_267] Bullet Hit FPC
+[2018.05.05-14.48.08:248][676]LogBlueprintUserMessages: [Bullet_C_269] Bullet Hit FPC
+[2018.05.05-14.48.08:327][678]LogBlueprintUserMessages: [Bullet_C_271] Bullet Hit FPC
+[2018.05.05-14.48.08:411][680]LogBlueprintUserMessages: [Bullet_C_273] Bullet Hit FPC
+[2018.05.05-14.48.08:487][682]LogBlueprintUserMessages: [Bullet_C_275] Bullet Hit FPC
+[2018.05.05-14.48.08:525][683]LogBlueprintUserMessages: [Bullet_C_276] Bullet Hit FPC
+[2018.05.05-14.48.08:557][684]LogBlueprintUserMessages: [Bullet_C_277] Bullet Hit FPC
+[2018.05.05-14.48.08:595][685]LogBlueprintUserMessages: [Bullet_C_278] Bullet Hit FPC
+[2018.05.05-14.48.08:631][686]LogBlueprintUserMessages: [Bullet_C_279] Bullet Hit FPC
+[2018.05.05-14.48.08:670][687]LogBlueprintUserMessages: [Bullet_C_280] Bullet Hit FPC
+[2018.05.05-14.48.08:707][688]LogBlueprintUserMessages: [Bullet_C_281] Bullet Hit FPC
+[2018.05.05-14.48.08:741][689]LogBlueprintUserMessages: [Bullet_C_282] Bullet Hit FPC
+[2018.05.05-14.48.08:778][690]LogBlueprintUserMessages: [Bullet_C_283] Bullet Hit FPC
+[2018.05.05-14.48.08:818][691]LogBlueprintUserMessages: [Bullet_C_284] Bullet Hit FPC
+[2018.05.05-14.48.08:858][692]LogBlueprintUserMessages: [Bullet_C_285] Bullet Hit FPC
+[2018.05.05-14.48.08:895][693]LogBlueprintUserMessages: [Bullet_C_286] Bullet Hit FPC
+[2018.05.05-14.48.08:932][694]LogBlueprintUserMessages: [Bullet_C_287] Bullet Hit FPC
+[2018.05.05-14.48.08:974][695]LogBlueprintUserMessages: [Bullet_C_288] Bullet Hit FPC
+[2018.05.05-14.48.09:010][696]LogBlueprintUserMessages: [Bullet_C_289] Bullet Hit FPC
+[2018.05.05-14.48.09:048][697]LogBlueprintUserMessages: [Bullet_C_290] Bullet Hit FPC
+[2018.05.05-14.48.09:088][698]LogBlueprintUserMessages: [Bullet_C_291] Bullet Hit FPC
+[2018.05.05-14.48.09:126][699]LogBlueprintUserMessages: [Bullet_C_292] Bullet Hit FPC
+[2018.05.05-14.48.09:163][700]LogBlueprintUserMessages: [Bullet_C_293] Bullet Hit FPC
+[2018.05.05-14.48.09:301][704]LogBlueprintUserMessages: [Bullet_C_297] Bullet Hit FPC
+[2018.05.05-14.48.09:400][707]LogBlueprintUserMessages: [Bullet_C_299] Bullet Hit FPC
+[2018.05.05-14.48.09:436][708]LogBlueprintUserMessages: [Bullet_C_300] Bullet Hit FPC
+[2018.05.05-14.48.09:471][709]LogBlueprintUserMessages: [Bullet_C_301] Bullet Hit FPC
+[2018.05.05-14.48.09:511][710]LogBlueprintUserMessages: [Bullet_C_302] Bullet Hit FPC
+[2018.05.05-14.48.09:540][711]LogBlueprintUserMessages: [Bullet_C_303] Bullet Hit FPC
+[2018.05.05-14.48.09:587][712]LogBlueprintUserMessages: [Bullet_C_304] Bullet Hit FPC
+[2018.05.05-14.48.09:618][713]LogBlueprintUserMessages: [Bullet_C_305] Bullet Hit FPC
+[2018.05.05-14.48.09:659][714]LogBlueprintUserMessages: [Bullet_C_306] Bullet Hit FPC
+[2018.05.05-14.48.09:697][715]LogBlueprintUserMessages: [Bullet_C_307] Bullet Hit FPC
+[2018.05.05-14.48.09:731][716]LogBlueprintUserMessages: [Bullet_C_308] Bullet Hit FPC
+[2018.05.05-14.48.09:769][717]LogBlueprintUserMessages: [Bullet_C_309] Bullet Hit FPC
+[2018.05.05-14.48.09:803][718]LogBlueprintUserMessages: [Bullet_C_310] Bullet Hit FPC
+[2018.05.05-14.48.09:837][719]LogBlueprintUserMessages: [Bullet_C_311] Bullet Hit FPC
+[2018.05.05-14.48.09:875][720]LogBlueprintUserMessages: [Bullet_C_312] Bullet Hit FPC
+[2018.05.05-14.48.09:909][721]LogBlueprintUserMessages: [Bullet_C_313] Bullet Hit FPC
+[2018.05.05-14.48.09:945][722]LogBlueprintUserMessages: [Bullet_C_314] Bullet Hit FPC
+[2018.05.05-14.48.09:981][723]LogBlueprintUserMessages: [Bullet_C_315] Bullet Hit FPC
+[2018.05.05-14.48.10:016][724]LogBlueprintUserMessages: [Bullet_C_316] Bullet Hit FPC
+[2018.05.05-14.48.10:057][725]LogBlueprintUserMessages: [Bullet_C_317] Bullet Hit FPC
+[2018.05.05-14.48.10:090][726]LogBlueprintUserMessages: [Bullet_C_318] Bullet Hit FPC
+[2018.05.05-14.48.10:124][727]LogBlueprintUserMessages: [Bullet_C_319] Bullet Hit FPC
+[2018.05.05-14.48.10:159][728]LogBlueprintUserMessages: [Bullet_C_320] Bullet Hit FPC
+[2018.05.05-14.48.10:196][729]LogBlueprintUserMessages: [Bullet_C_321] Bullet Hit FPC
+[2018.05.05-14.48.10:231][730]LogBlueprintUserMessages: [Bullet_C_322] Bullet Hit FPC
+[2018.05.05-14.48.10:268][731]LogBlueprintUserMessages: [Bullet_C_323] Bullet Hit FPC
+[2018.05.05-14.48.10:305][732]LogBlueprintUserMessages: [Bullet_C_324] Bullet Hit FPC
+[2018.05.05-14.48.10:339][733]LogBlueprintUserMessages: [Bullet_C_325] Bullet Hit FPC
+[2018.05.05-14.48.10:375][734]LogBlueprintUserMessages: [Bullet_C_326] Bullet Hit FPC
+[2018.05.05-14.48.10:409][735]LogBlueprintUserMessages: [Bullet_C_327] Bullet Hit FPC
+[2018.05.05-14.48.10:450][736]LogBlueprintUserMessages: [Bullet_C_328] Bullet Hit FPC
+[2018.05.05-14.48.10:490][737]LogBlueprintUserMessages: [Bullet_C_329] Bullet Hit FPC
+[2018.05.05-14.48.10:528][738]LogBlueprintUserMessages: [Bullet_C_330] Bullet Hit FPC
+[2018.05.05-14.48.10:570][739]LogBlueprintUserMessages: [Bullet_C_331] Bullet Hit FPC
+[2018.05.05-14.48.10:718][743]LogBlueprintUserMessages: [Bullet_C_335] Bullet Hit FPC
+[2018.05.05-14.48.10:790][745]LogBlueprintUserMessages: [Bullet_C_337] Bullet Hit FPC
+[2018.05.05-14.48.10:827][746]LogBlueprintUserMessages: [Bullet_C_338] Bullet Hit FPC
+[2018.05.05-14.48.10:864][747]LogBlueprintUserMessages: [Bullet_C_339] Bullet Hit FPC
+[2018.05.05-14.48.10:900][748]LogBlueprintUserMessages: [Bullet_C_340] Bullet Hit FPC
+[2018.05.05-14.48.10:939][749]LogBlueprintUserMessages: [Bullet_C_341] Bullet Hit FPC
+[2018.05.05-14.48.10:970][750]LogBlueprintUserMessages: [Bullet_C_342] Bullet Hit FPC
+[2018.05.05-14.48.11:008][751]LogBlueprintUserMessages: [Bullet_C_343] Bullet Hit FPC
+[2018.05.05-14.48.11:077][753]LogBlueprintUserMessages: [Bullet_C_345] Bullet Hit FPC
+[2018.05.05-14.48.11:153][755]LogBlueprintUserMessages: [Bullet_C_347] Bullet Hit FPC
+[2018.05.05-14.48.11:187][756]LogBlueprintUserMessages: [Bullet_C_347] Bullet Hit FPC
+[2018.05.05-14.48.11:224][757]LogBlueprintUserMessages: [Bullet_C_348] Bullet Hit FPC
+[2018.05.05-14.48.11:225][757]LogBlueprintUserMessages: [Bullet_C_349] Bullet Hit FPC
+[2018.05.05-14.48.11:264][758]LogBlueprintUserMessages: [Bullet_C_349] Bullet Hit FPC
+[2018.05.05-14.48.11:297][759]LogBlueprintUserMessages: [Bullet_C_350] Bullet Hit FPC
+[2018.05.05-14.48.11:333][760]LogBlueprintUserMessages: [Bullet_C_351] Bullet Hit FPC
+[2018.05.05-14.48.11:369][761]LogBlueprintUserMessages: [Bullet_C_352] Bullet Hit FPC
+[2018.05.05-14.48.11:408][762]LogBlueprintUserMessages: [Bullet_C_353] Bullet Hit FPC
+[2018.05.05-14.48.11:442][763]LogBlueprintUserMessages: [Bullet_C_354] Bullet Hit FPC
+[2018.05.05-14.48.11:477][764]LogBlueprintUserMessages: [Bullet_C_355] Bullet Hit FPC
+[2018.05.05-14.48.11:514][765]LogBlueprintUserMessages: [Bullet_C_356] Bullet Hit FPC
+[2018.05.05-14.48.11:552][766]LogBlueprintUserMessages: [Bullet_C_357] Bullet Hit FPC
+[2018.05.05-14.48.11:588][767]LogBlueprintUserMessages: [Bullet_C_358] Bullet Hit FPC
+[2018.05.05-14.48.11:624][768]LogBlueprintUserMessages: [Bullet_C_359] Bullet Hit FPC
+[2018.05.05-14.48.11:659][769]LogBlueprintUserMessages: [Bullet_C_360] Bullet Hit FPC
+[2018.05.05-14.48.16:169][899]LogBlueprintUserMessages: [ThirdPersonEnemy4] 2.0
+[2018.05.05-14.48.16:372][905]LogBlueprintUserMessages: [ThirdPersonEnemy4] 1.0
+[2018.05.05-14.48.20:272][977]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.05-14.48.20:329][977]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap" FILE="../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.05.05-14.48.20:505][977]LogSavePackage: Save=135.31ms
+[2018.05.05-14.48.20:505][977]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/NewMap953820934C3CE83A9B9850BB83E538D8.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap.umap'
+[2018.05.05-14.48.20:508][977]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap.umap
+[2018.05.05-14.48.20:547][977]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap_BuiltData" FILE="../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap_BuiltData.uasset" SILENT=true
+[2018.05.05-14.48.20:820][977]LogSavePackage: Save=258.01ms
+[2018.05.05-14.48.20:820][977]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/NewMap_BuiltDataB909E35D4ADF816432728E8F3C285CAB.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap_BuiltData.uasset'
+[2018.05.05-14.48.20:823][977]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap_BuiltData.uasset
+[2018.05.05-14.48.24:054][ 30]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.05-14.48.27:609][100]LogSlate: Window 'EnemyAIController' being destroyed
+[2018.05.05-14.48.27:658][100]LogSlate: Window 'EnemyAIController' being destroyed
+[2018.05.05-14.48.27:860][100]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.05.05-14.48.29:013][126]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.05-14.48.52:347][579]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Bullet" FILE="../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/Bullet.uasset" SILENT=true
+[2018.05.05-14.48.52:382][579]LogSavePackage: Save=22.24ms
+[2018.05.05-14.48.52:382][579]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/Bullet7EDA9A8D410F0463D5553DA31F8C3F2F.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/Bullet.uasset'
+[2018.05.05-14.48.52:386][579]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/Bullet.uasset
+[2018.05.05-14.48.53:300][599]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.05-14.49.19:108][123]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Bullet" FILE="../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/Bullet.uasset" SILENT=true
+[2018.05.05-14.49.19:146][123]LogSavePackage: Save=23.10ms
+[2018.05.05-14.49.19:146][123]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/BulletAA51608C44092DC6278D7D9F25AACA3F.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/Bullet.uasset'
+[2018.05.05-14.49.19:149][123]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/Bullet.uasset
+[2018.05.05-14.49.19:665][134]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.05-14.49.30:605][347]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Bullet" FILE="../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/Bullet.uasset" SILENT=true
+[2018.05.05-14.49.30:642][347]LogSavePackage: Save=24.06ms
+[2018.05.05-14.49.30:642][347]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/Bullet4F26DC8C4DA79EE3174D24A5936EB216.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/Bullet.uasset'
+[2018.05.05-14.49.30:647][347]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/Bullet.uasset
+[2018.05.05-14.49.32:091][377]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.05-14.49.32:128][378]BlueprintLog: New page: Compile Bullet
+[2018.05.05-14.49.49:574][717]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Bullet" FILE="../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/Bullet.uasset" SILENT=true
+[2018.05.05-14.49.49:623][717]LogSavePackage: Save=35.95ms
+[2018.05.05-14.49.49:623][717]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/Bullet781474CF4417766CD6F8E7907B99C795.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/Bullet.uasset'
+[2018.05.05-14.49.49:627][717]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/Bullet.uasset
+[2018.05.05-14.49.51:788][762]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.05-14.49.51:886][764]BlueprintLog: New page: Compile Bullet
+[2018.05.05-14.49.53:979][798]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Bullet" FILE="../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/Bullet.uasset" SILENT=true
+[2018.05.05-14.49.54:015][798]LogSavePackage: Save=23.43ms
+[2018.05.05-14.49.54:015][798]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/Bullet9C6DF1A948E8E52738401C95D7151766.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/Bullet.uasset'
+[2018.05.05-14.49.54:025][798]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/Bullet.uasset
+[2018.05.05-14.49.57:021][855]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.05-14.50.41:563][688]LogSavePackage: Save=79.89ms
+[2018.05.05-14.50.41:563][688]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/FirstPersonCharacter36B9C78C441B4D0DD3614F8C4D76CA5D.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2018.05.05-14.50.41:567][688]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset
+[2018.05.05-14.50.46:857][797]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.05-14.50.58:588][ 21]BlueprintLog: New page: Compile FirstPersonCharacter
+[2018.05.05-14.51.04:530][131]BlueprintLog: New page: Compile FirstPersonCharacter
+[2018.05.05-14.51.31:695][645]LogSavePackage: Save=82.17ms
+[2018.05.05-14.51.31:695][645]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/FirstPersonCharacter2A908E24431D0FBB7F88EC8DA3D3683E.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2018.05.05-14.51.31:699][645]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset
+[2018.05.05-14.51.32:050][654]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.05-14.52.10:805][409]LogSavePackage: Save=85.46ms
+[2018.05.05-14.52.10:806][409]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/FirstPersonCharacter63FC000444F667379E070295B7CD17C5.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2018.05.05-14.52.10:810][409]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset
+[2018.05.05-14.52.10:970][414]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.05-14.52.12:393][443]BlueprintLog: New page: Compile FirstPersonCharacter
+[2018.05.05-14.52.17:301][529]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.05-14.52.17:399][531]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.05-14.52.17:494][531]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.05-14.52.17:495][531]PIE: New page: PIE session: NewMap (5 May 2018 16:52:17)
+[2018.05.05-14.52.17:495][531]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2018.05.05-14.52.17:518][531]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022741s)
+[2018.05.05-14.52.17:519][531]LogAIModule: Creating AISystem for world NewMap
+[2018.05.05-14.52.17:520][531]LogPlayLevel: PIE: World Init took: (0.001125s)
+[2018.05.05-14.52.17:520][531]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.024795s)
+[2018.05.05-14.52.17:556][531]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.05-14.52.17:568][531]LogInit: FAudioDevice initialized.
+[2018.05.05-14.52.17:604][531]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.05-14.52.17:622][531]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2018.05.05-15.52.17
+[2018.05.05-14.52.17:628][531]LogWorld: Bringing up level for play took: 0.022472
+[2018.05.05-14.52.17:634][531]PIE: Play in editor start time for /Game/UEDPIE_0_NewMap 0.556
+[2018.05.05-14.52.18:311][548]LogBlueprintUserMessages: [ThirdPersonCharacter_853] 4.0
+[2018.05.05-14.52.24:870][726]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.05-14.52.25:732][739]LogSavePackage: Save=81.72ms
+[2018.05.05-14.52.25:732][739]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/FirstPersonCharacter7962A3CC449EF8FDA387399D6687BA70.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2018.05.05-14.52.25:734][739]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset
+[2018.05.05-14.52.30:988][846]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.05-14.52.42:796][ 70]LogSavePackage: Save=84.66ms
+[2018.05.05-14.52.42:796][ 70]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/FirstPersonCharacter17AE30864668290CED8B98A2125670A6.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2018.05.05-14.52.42:801][ 70]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset
+[2018.05.05-14.52.43:680][ 89]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.05-14.52.43:731][ 90]BlueprintLog: New page: Compile FirstPersonCharacter
+[2018.05.05-14.52.45:112][108]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.05-14.52.45:179][108]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.05-14.52.45:179][108]PIE: New page: PIE session: NewMap (5 May 2018 16:52:45)
+[2018.05.05-14.52.45:180][108]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2018.05.05-14.52.45:215][108]LogPlayLevel: PIE: StaticDuplicateObject took: (0.035007s)
+[2018.05.05-14.52.45:216][108]LogAIModule: Creating AISystem for world NewMap
+[2018.05.05-14.52.45:217][108]LogPlayLevel: PIE: World Init took: (0.001524s)
+[2018.05.05-14.52.45:218][108]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.038400s)
+[2018.05.05-14.52.45:250][108]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.05-14.52.45:261][108]LogInit: FAudioDevice initialized.
+[2018.05.05-14.52.45:310][108]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.05-14.52.45:317][108]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2018.05.05-15.52.45
+[2018.05.05-14.52.45:319][108]LogWorld: Bringing up level for play took: 0.008069
+[2018.05.05-14.52.45:322][108]PIE: Play in editor start time for /Game/UEDPIE_0_NewMap 0.244
+[2018.05.05-14.52.47:352][167]LogBlueprintUserMessages: [ThirdPersonCharacter_853] 4.0
+[2018.05.05-14.52.53:017][313]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.05-14.52.54:275][333]LogEditorTransaction: Undo Delete current selection
+[2018.05.05-14.52.56:953][378]LogSavePackage: Save=90.69ms
+[2018.05.05-14.52.56:953][378]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/FirstPersonCharacter8A1D53E94500E8DAA6C137B5914392F7.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2018.05.05-14.52.56:956][378]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset
+[2018.05.05-14.52.57:303][386]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.05-14.52.57:393][388]BlueprintLog: New page: Compile FirstPersonCharacter
+[2018.05.05-14.52.59:119][409]LogSavePackage: Save=79.20ms
+[2018.05.05-14.52.59:119][409]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/FirstPersonCharacterB74666744F161CDD134AEB807C28F9D4.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2018.05.05-14.52.59:121][409]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset
+[2018.05.05-14.52.59:514][418]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.05-14.53.16:492][753]LogSavePackage: Save=74.93ms
+[2018.05.05-14.53.16:492][753]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/FirstPersonCharacterDD6D70564A6AC34F029A1DB6B9E49D23.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2018.05.05-14.53.16:494][753]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset
+[2018.05.05-14.53.17:428][773]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.05-14.53.26:621][954]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Bullet" FILE="../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/Bullet.uasset" SILENT=true
+[2018.05.05-14.53.26:663][954]LogSavePackage: Save=23.66ms
+[2018.05.05-14.53.26:663][954]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/BulletEEB003444C7BBDF374BAA8BA3CE5D2D7.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/Bullet.uasset'
+[2018.05.05-14.53.26:667][954]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/Bullet.uasset
+[2018.05.05-14.53.27:358][969]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.05-14.53.27:408][970]BlueprintLog: New page: Compile Bullet
+[2018.05.05-14.53.29:155][999]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.05-14.53.29:222][999]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.05-14.53.29:222][999]PIE: New page: PIE session: NewMap (5 May 2018 16:53:29)
+[2018.05.05-14.53.29:222][999]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2018.05.05-14.53.29:261][999]LogPlayLevel: PIE: StaticDuplicateObject took: (0.038202s)
+[2018.05.05-14.53.29:262][999]LogAIModule: Creating AISystem for world NewMap
+[2018.05.05-14.53.29:262][999]LogPlayLevel: PIE: World Init took: (0.001221s)
+[2018.05.05-14.53.29:262][999]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.040138s)
+[2018.05.05-14.53.29:293][999]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.05-14.53.29:305][999]LogInit: FAudioDevice initialized.
+[2018.05.05-14.53.29:343][999]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.05-14.53.29:364][999]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2018.05.05-15.53.29
+[2018.05.05-14.53.29:371][999]LogWorld: Bringing up level for play took: 0.025490
+[2018.05.05-14.53.29:378][999]PIE: Play in editor start time for /Game/UEDPIE_0_NewMap 0.3
+[2018.05.05-14.53.29:917][ 12]LogBlueprintUserMessages: [ThirdPersonCharacter_853] 4.0
+[2018.05.05-14.53.31:853][ 73]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Player Dead
+[2018.05.05-14.53.31:889][ 74]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Player Dead
+[2018.05.05-14.53.31:921][ 75]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Player Dead
+[2018.05.05-14.53.31:954][ 76]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Player Dead
+[2018.05.05-14.53.31:986][ 77]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Player Dead
+[2018.05.05-14.53.32:019][ 78]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Player Dead
+[2018.05.05-14.53.32:051][ 79]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Player Dead
+[2018.05.05-14.53.32:085][ 80]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Player Dead
+[2018.05.05-14.53.32:117][ 81]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Player Dead
+[2018.05.05-14.53.32:150][ 82]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Player Dead
+[2018.05.05-14.53.32:184][ 83]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Player Dead
+[2018.05.05-14.53.32:216][ 84]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Player Dead
+[2018.05.05-14.53.32:249][ 85]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Player Dead
+[2018.05.05-14.53.32:282][ 86]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Player Dead
+[2018.05.05-14.53.32:316][ 87]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Player Dead
+[2018.05.05-14.53.32:349][ 88]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Player Dead
+[2018.05.05-14.53.32:382][ 89]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Player Dead
+[2018.05.05-14.53.32:416][ 90]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Player Dead
+[2018.05.05-14.53.32:449][ 91]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Player Dead
+[2018.05.05-14.53.32:482][ 92]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Player Dead
+[2018.05.05-14.53.32:516][ 93]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Player Dead
+[2018.05.05-14.53.32:549][ 94]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Player Dead
+[2018.05.05-14.53.32:581][ 95]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Player Dead
+[2018.05.05-14.53.32:614][ 96]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Player Dead
+[2018.05.05-14.53.32:647][ 97]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Player Dead
+[2018.05.05-14.53.32:679][ 98]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Player Dead
+[2018.05.05-14.53.32:712][ 99]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Player Dead
+[2018.05.05-14.53.32:746][100]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Player Dead
+[2018.05.05-14.53.32:778][101]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Player Dead
+[2018.05.05-14.53.32:809][102]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Player Dead
+[2018.05.05-14.53.32:843][103]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Player Dead
+[2018.05.05-14.53.32:873][104]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Player Dead
+[2018.05.05-14.53.32:913][105]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Player Dead
+[2018.05.05-14.53.32:917][105]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Player Dead
+[2018.05.05-14.53.32:948][106]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Player Dead
+[2018.05.05-14.53.32:979][107]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Player Dead
+[2018.05.05-14.53.33:011][108]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Player Dead
+[2018.05.05-14.53.33:043][109]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Player Dead
+[2018.05.05-14.53.33:075][110]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Player Dead
+[2018.05.05-14.53.33:108][111]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Player Dead
+[2018.05.05-14.53.33:138][112]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Player Dead
+[2018.05.05-14.53.33:170][113]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Player Dead
+[2018.05.05-14.53.33:203][114]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Player Dead
+[2018.05.05-14.53.33:237][115]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Player Dead
+[2018.05.05-14.53.33:270][116]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Player Dead
+[2018.05.05-14.53.33:302][117]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Player Dead
+[2018.05.05-14.53.33:336][118]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Player Dead
+[2018.05.05-14.53.33:368][119]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Player Dead
+[2018.05.05-14.53.33:401][120]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Player Dead
+[2018.05.05-14.53.33:434][121]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Player Dead
+[2018.05.05-14.53.33:466][122]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Player Dead
+[2018.05.05-14.53.33:499][123]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Player Dead
+[2018.05.05-14.53.33:532][124]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Player Dead
+[2018.05.05-14.53.33:596][126]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Player Dead
+[2018.05.05-14.53.33:627][127]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Player Dead
+[2018.05.05-14.53.33:657][128]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Player Dead
+[2018.05.05-14.53.33:689][129]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Player Dead
+[2018.05.05-14.53.33:721][130]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Player Dead
+[2018.05.05-14.53.33:754][131]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Player Dead
+[2018.05.05-14.53.33:757][131]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Player Dead
+[2018.05.05-14.53.33:789][132]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Player Dead
+[2018.05.05-14.53.33:821][133]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Player Dead
+[2018.05.05-14.53.33:853][134]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Player Dead
+[2018.05.05-14.53.33:886][135]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Player Dead
+[2018.05.05-14.53.33:923][136]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Player Dead
+[2018.05.05-14.53.33:956][137]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Player Dead
+[2018.05.05-14.53.33:987][138]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Player Dead
+[2018.05.05-14.53.35:493][166]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.05-14.53.36:157][177]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Bullet" FILE="../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/Bullet.uasset" SILENT=true
+[2018.05.05-14.53.36:195][177]LogSavePackage: Save=24.31ms
+[2018.05.05-14.53.36:195][177]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/BulletB7C70BBB4617E6E9180CEEAE2C09405F.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/Bullet.uasset'
+[2018.05.05-14.53.36:197][177]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/Bullet.uasset
+[2018.05.05-14.53.37:045][195]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.05-14.53.46:896][376]LogSavePackage: Save=85.35ms
+[2018.05.05-14.53.46:896][376]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/FirstPersonCharacter7AEFEC2A49B36EC2DC1FA1941DE86D78.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2018.05.05-14.53.46:901][376]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset
+[2018.05.05-14.53.47:815][396]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.05-14.53.47:866][397]BlueprintLog: New page: Compile FirstPersonCharacter
+[2018.05.05-14.53.50:447][438]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.05-14.53.50:526][438]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.05-14.53.50:528][438]PIE: New page: PIE session: NewMap (5 May 2018 16:53:50)
+[2018.05.05-14.53.50:528][438]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2018.05.05-14.53.50:557][438]LogPlayLevel: PIE: StaticDuplicateObject took: (0.028607s)
+[2018.05.05-14.53.50:558][438]LogAIModule: Creating AISystem for world NewMap
+[2018.05.05-14.53.50:559][438]LogPlayLevel: PIE: World Init took: (0.001156s)
+[2018.05.05-14.53.50:559][438]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.030733s)
+[2018.05.05-14.53.50:595][438]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.05-14.53.50:607][438]LogInit: FAudioDevice initialized.
+[2018.05.05-14.53.50:643][438]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.05-14.53.50:660][438]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2018.05.05-15.53.50
+[2018.05.05-14.53.50:666][438]LogWorld: Bringing up level for play took: 0.021204
+[2018.05.05-14.53.50:673][438]PIE: Play in editor start time for /Game/UEDPIE_0_NewMap -0.404
+[2018.05.05-14.54.22:109][372]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.05-14.54.22:768][381]LogSavePackage: Save=81.66ms
+[2018.05.05-14.54.22:768][381]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/FirstPersonCharacterCC84416C4F69D192C564569A5D334217.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2018.05.05-14.54.22:771][381]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset
+[2018.05.05-14.54.23:076][389]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.05-14.54.46:388][828]LogSavePackage: Save=81.65ms
+[2018.05.05-14.54.46:388][828]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/FirstPersonCharacter076DEDEA4BC4D1947A510BBE60BCB80E.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2018.05.05-14.54.46:393][828]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset
+[2018.05.05-14.54.47:260][847]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.05-14.54.47:363][849]BlueprintLog: New page: Compile FirstPersonCharacter
+[2018.05.05-14.54.50:629][900]LogSavePackage: Save=81.34ms
+[2018.05.05-14.54.50:629][900]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/FirstPersonCharacter8F03A81D4DB5389EF1FA9CA726F97B6B.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2018.05.05-14.54.50:631][900]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset
+[2018.05.05-14.54.51:485][919]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.05-14.54.51:589][921]BlueprintLog: New page: Compile FirstPersonCharacter
+[2018.05.05-14.54.53:440][944]LogSavePackage: Save=79.08ms
+[2018.05.05-14.54.53:440][944]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/FirstPersonCharacterBAF7B56C4F0BBCFC89852AB74BF66044.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2018.05.05-14.54.53:443][944]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset
+[2018.05.05-14.54.54:205][961]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.05-14.54.54:313][963]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.05-14.54.54:381][963]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.05-14.54.54:382][963]PIE: New page: PIE session: NewMap (5 May 2018 16:54:54)
+[2018.05.05-14.54.54:382][963]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2018.05.05-14.54.54:425][963]LogPlayLevel: PIE: StaticDuplicateObject took: (0.042789s)
+[2018.05.05-14.54.54:426][963]LogAIModule: Creating AISystem for world NewMap
+[2018.05.05-14.54.54:427][963]LogPlayLevel: PIE: World Init took: (0.001065s)
+[2018.05.05-14.54.54:427][963]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.044606s)
+[2018.05.05-14.54.54:459][963]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.05-14.54.54:472][963]LogInit: FAudioDevice initialized.
+[2018.05.05-14.54.54:523][963]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.05-14.54.54:537][963]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2018.05.05-15.54.54
+[2018.05.05-14.54.54:540][963]LogWorld: Bringing up level for play took: 0.015471
+[2018.05.05-14.54.54:544][963]PIE: Play in editor start time for /Game/UEDPIE_0_NewMap -0.534
+[2018.05.05-14.55.00:999][137]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.05-14.55.01:750][147]LogSavePackage: Save=118.35ms
+[2018.05.05-14.55.01:750][147]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/FirstPersonCharacter9F9436E34773A12EF1C3F1AD5616D3DF.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2018.05.05-14.55.01:752][147]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset
+[2018.05.05-14.55.05:479][222]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.05-14.55.05:590][224]LogSlate: Window 'FirstPersonCharacter' being destroyed
+[2018.05.05-14.55.05:638][224]LogSlate: Window 'FirstPersonCharacter' being destroyed
+[2018.05.05-14.55.05:778][224]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.05.05-14.55.05:876][224]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.05.05-14.55.06:982][248]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.05-14.55.08:214][272]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap" FILE="../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.05.05-14.55.08:413][272]LogSavePackage: Save=134.89ms
+[2018.05.05-14.55.08:415][272]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/NewMapF56A67FA428D607183F9B3B0C7CEABD8.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap.umap'
+[2018.05.05-14.55.08:417][272]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap.umap
+[2018.05.05-14.55.08:453][272]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap_BuiltData" FILE="../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap_BuiltData.uasset" SILENT=true
+[2018.05.05-14.55.08:733][272]LogSavePackage: Save=259.49ms
+[2018.05.05-14.55.08:733][272]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/NewMap_BuiltData9EDFD287499773D7162ACF8BDDC8D14E.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap_BuiltData.uasset'
+[2018.05.05-14.55.08:735][272]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap_BuiltData.uasset
+[2018.05.05-14.55.10:510][314]LogSlate: FSceneViewport::OnFocusLost() reason 2
