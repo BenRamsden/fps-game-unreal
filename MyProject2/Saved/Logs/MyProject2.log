@@ -4693,3 +4693,523 @@ LogInit: Object subsystem initialized
 [2018.05.06-14.09.52:868][118]LogSavePackage: Save=18.20ms
 [2018.05.06-14.09.52:868][118]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/RedMat6EFCA0854226DD20A31C15842F2F1D49.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/Materials/RedMat.uasset'
 [2018.05.06-14.09.52:872][118]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/Materials/RedMat.uasset
+[2018.05.06-14.12.18:431][642]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.06-14.12.20:368][678]LogSlate: Window 'Message Log' being destroyed
+[2018.05.06-14.12.20:425][678]LogSlate: Window 'Message Log' being destroyed
+[2018.05.06-14.12.21:120][691]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.06-14.12.22:066][710]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.06-14.12.22:114][710]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.06-14.12.22:114][710]PIE: New page: PIE session: NewMap (6 May 2018 16:12:22)
+[2018.05.06-14.12.22:115][710]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2018.05.06-14.12.22:171][710]LogPlayLevel: PIE: StaticDuplicateObject took: (0.055487s)
+[2018.05.06-14.12.22:173][710]LogAIModule: Creating AISystem for world NewMap
+[2018.05.06-14.12.22:174][710]LogPlayLevel: PIE: World Init took: (0.002874s)
+[2018.05.06-14.12.22:174][710]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.059065s)
+[2018.05.06-14.12.22:201][710]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.06-14.12.22:214][710]LogInit: FAudioDevice initialized.
+[2018.05.06-14.12.22:254][710]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.06-14.12.22:294][710]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2018.05.06-15.12.22
+[2018.05.06-14.12.22:298][710]LogWorld: Bringing up level for play took: 0.042196
+[2018.05.06-14.12.22:303][710]PIE: Play in editor start time for /Game/UEDPIE_0_NewMap -0.776
+[2018.05.06-14.12.23:456][755]LogBlueprintUserMessages: [ThirdPersonCharacter_853] 4.0
+[2018.05.06-14.12.29:929][ 45]LogBlueprintUserMessages: [ThirdPersonEnemy5_446] 4.0
+[2018.05.06-14.12.30:049][ 50]LogBlueprintUserMessages: [ThirdPersonEnemy5_446] 3.0
+[2018.05.06-14.12.30:165][ 55]LogBlueprintUserMessages: [ThirdPersonEnemy5_446] 2.0
+[2018.05.06-14.12.30:554][ 72]LogBlueprintUserMessages: [ThirdPersonEnemy5_446] 1.0
+[2018.05.06-14.12.32:572][163]LogBlueprintUserMessages: [ThirdPersonEnemy6] 4.0
+[2018.05.06-14.12.32:740][170]LogBlueprintUserMessages: [ThirdPersonEnemy6] 3.0
+[2018.05.06-14.12.33:357][198]LogBlueprintUserMessages: [ThirdPersonEnemy6] 2.0
+[2018.05.06-14.12.35:383][284]LogBlueprintUserMessages: [ThirdPersonEnemy6] 1.0
+[2018.05.06-14.12.42:632][585]LogCharacterMovement: FirstPersonCharacter_C_0 is stuck and failed to move! Velocity: X=2.09 Y=476.57 Z=0.00 Location: X=5457.75 Y=-5533.61 Z=1018.15 Normal: X=-1.00 Y=0.00 Z=0.00 PenetrationDepth:0.000 Actor:Cube86 Component:StaticMeshComponent0 BoneName:None (0 other events since notify)
+[2018.05.06-14.12.54:933][ 94]LogBlueprintUserMessages: [PlayerInventory] Item added to inventory
+[2018.05.06-14.12.56:258][149]LogBlueprintUserMessages: [SlideDoor3_980] Key Card Accepted
+[2018.05.06-14.13.12:848][873]LogBlueprintUserMessages: [SlideDoor4] Key Card Accepted
+[2018.05.06-14.13.15:877][  9]LogBlueprintUserMessages: [SlideDoor4] Key Card Accepted
+[2018.05.06-14.13.19:965][193]LogBlueprintUserMessages: [SlideDoor4] Key Card Accepted
+[2018.05.06-14.13.46:835][411]LogBlueprintUserMessages: [PlayerInventory] Item added to inventory
+[2018.05.06-14.13.47:144][424]LogBlueprintUserMessages: [ThirdPersonEnemy8] 4.0
+[2018.05.06-14.13.47:331][432]LogBlueprintUserMessages: [ThirdPersonEnemy9] 4.0
+[2018.05.06-14.13.47:438][437]LogBlueprintUserMessages: [ThirdPersonEnemy9] 3.0
+[2018.05.06-14.13.47:571][442]LogBlueprintUserMessages: [ThirdPersonEnemy8] 3.0
+[2018.05.06-14.13.47:707][448]LogBlueprintUserMessages: [ThirdPersonEnemy8] 2.0
+[2018.05.06-14.13.47:731][449]LogBlueprintUserMessages: [ThirdPersonEnemy8] 1.0
+[2018.05.06-14.13.47:924][457]LogBlueprintUserMessages: [ThirdPersonEnemy9] 2.0
+[2018.05.06-14.13.47:967][459]LogBlueprintUserMessages: [ThirdPersonEnemy9] 1.0
+[2018.05.06-14.13.48:292][473]LogBlueprintUserMessages: [ThirdPersonEnemy10] 4.0
+[2018.05.06-14.13.48:848][497]LogCharacterMovement: FirstPersonCharacter_C_0 is stuck and failed to move! Velocity: X=-28.29 Y=29.01 Z=0.00 Location: X=7007.96 Y=882.09 Z=618.15 Normal: X=0.73 Y=0.68 Z=0.00 PenetrationDepth:3.141 Actor:Bullet_C_76 Component:bullet1 BoneName:None (0 other events since notify)
+[2018.05.06-14.13.48:873][498]LogBlueprintUserMessages: [ThirdPersonEnemy10] 3.0
+[2018.05.06-14.13.49:030][505]LogBlueprintUserMessages: [ThirdPersonEnemy10] 2.0
+[2018.05.06-14.13.49:173][511]LogBlueprintUserMessages: [ThirdPersonEnemy10] 1.0
+[2018.05.06-14.13.58:362][921]LogBlueprintUserMessages: [SlideDoor4] Key Card Accepted
+[2018.05.06-14.14.01:677][ 67]LogBlueprintUserMessages: [SlideDoor5] Key Card Accepted
+[2018.05.06-14.14.13:929][443]LogEditorViewport: Clicking on Actor (LMB): SlideDoor_C (SlideDoor2)
+[2018.05.06-14.14.18:000][532]Cmd: SELECT NONE
+[2018.05.06-14.14.19:062][555]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.06-14.14.19:074][555]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap" FILE="../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.05.06-14.14.19:415][555]LogSavePackage: Save=301.05ms
+[2018.05.06-14.14.19:415][555]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/NewMap75AB64A74994BF1D874753AD567DF812.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap.umap'
+[2018.05.06-14.14.19:419][555]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap.umap
+[2018.05.06-14.14.19:455][555]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap_BuiltData" FILE="../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap_BuiltData.uasset" SILENT=true
+[2018.05.06-14.14.20:111][555]LogSavePackage: Save=632.80ms
+[2018.05.06-14.14.20:111][555]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/NewMap_BuiltData8DD5E8B54B83B5139C59D3AB4B8BCD3C.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap_BuiltData.uasset'
+[2018.05.06-14.14.20:114][555]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap_BuiltData.uasset
+[2018.05.06-14.14.25:445][675]Cmd: SELECT NONE
+[2018.05.06-14.14.26:337][695]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.06-14.14.26:362][695]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap" FILE="../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.05.06-14.14.26:693][695]LogSavePackage: Save=297.89ms
+[2018.05.06-14.14.26:693][695]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/NewMap336EFA954D77E8199A11ED8E83CA2BF3.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap.umap'
+[2018.05.06-14.14.26:695][695]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap.umap
+[2018.05.06-14.14.26:742][695]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap_BuiltData" FILE="../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap_BuiltData.uasset" SILENT=true
+[2018.05.06-14.14.27:375][695]LogSavePackage: Save=625.91ms
+[2018.05.06-14.14.27:375][695]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/NewMap_BuiltDataBE34000F4F4BB1F8DD23FE9F4CDC01C9.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap_BuiltData.uasset'
+[2018.05.06-14.14.27:377][695]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap_BuiltData.uasset
+[2018.05.06-14.14.29:498][739]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.06-14.15.05:128][293]LogMaterial: Missing cached shader map for material DoorMat, compiling. 
+[2018.05.06-14.15.05:614][293]LogMaterial: Missing cached shader map for material DoorMat, compiling. 
+[2018.05.06-14.15.05:625][293]LogMaterial: Missing cached shader map for material DoorMat, compiling. 
+[2018.05.06-14.15.05:648][293]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.05.06-14.15.05:648][293]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.05.06-14.15.05:648][293]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.05.06-14.15.05:661][293]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2018.05.06-14.15.09:522][348]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.05.06-14.15.09:725][351]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.05.06-14.15.09:785][352]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.05.06-14.15.11:921][380]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.05.06-14.15.11:950][380]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.05.06-14.15.12:219][385]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.05.06-14.15.14:042][410]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.05.06-14.15.15:242][425]LogMaterial: Missing cached shader map for material DoorMat, compiling. 
+[2018.05.06-14.15.15:270][425]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2018.05.06-14.15.15:946][436]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.05.06-14.15.16:787][448]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.05.06-14.15.16:800][448]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.05.06-14.15.18:445][471]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.05.06-14.15.18:949][478]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.05.06-14.15.19:153][481]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.05.06-14.15.20:012][493]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.05.06-14.15.21:008][506]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.05.06-14.15.21:457][513]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.05.06-14.15.22:109][521]LogMaterial: Missing cached shader map for material DoorMat, compiling. 
+[2018.05.06-14.15.22:166][521]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2018.05.06-14.15.22:194][521]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.05.06-14.15.22:194][521]LogSlate: Window 'Color Picker' being destroyed
+[2018.05.06-14.15.24:676][558]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.05.06-14.15.24:944][562]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.05.06-14.15.26:359][582]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.05.06-14.15.26:714][587]LogMaterialEditor: Saving and Compiling material DoorMat
+[2018.05.06-14.15.29:204][587]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.05.06-14.15.29:204][587]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.05.06-14.15.29:204][587]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.05.06-14.15.29:204][587]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.05.06-14.15.29:204][587]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.05.06-14.15.29:204][587]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.05.06-14.15.29:204][587]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.05.06-14.15.29:204][587]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.05.06-14.15.29:204][587]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.05.06-14.15.29:204][587]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.05.06-14.15.29:204][587]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.05.06-14.15.29:204][587]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.05.06-14.15.29:204][587]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.05.06-14.15.29:204][587]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.05.06-14.15.29:228][587]LogMaterial: Missing cached shader map for material DoorMat, compiling. 
+[2018.05.06-14.15.29:310][587]LogMaterial: Missing cached shader map for material DoorMat, compiling. 
+[2018.05.06-14.15.29:346][587]LogMaterial: Missing cached shader map for material DoorMat, compiling. 
+[2018.05.06-14.15.29:431][587]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy DoorMat, compiling. 
+[2018.05.06-14.15.31:286][587]LogShaderCompilers: Display: Shaders left to compile 39
+[2018.05.06-14.15.31:286][587]LogShaderCompilers: Display: Shaders left to compile 38
+[2018.05.06-14.15.31:286][587]LogShaderCompilers: Display: Shaders left to compile 37
+[2018.05.06-14.15.31:287][587]LogShaderCompilers: Display: Shaders left to compile 36
+[2018.05.06-14.15.31:287][587]LogShaderCompilers: Display: Shaders left to compile 35
+[2018.05.06-14.15.31:287][587]LogShaderCompilers: Display: Shaders left to compile 34
+[2018.05.06-14.15.31:287][587]LogShaderCompilers: Display: Shaders left to compile 33
+[2018.05.06-14.15.31:287][587]LogShaderCompilers: Display: Shaders left to compile 32
+[2018.05.06-14.15.31:287][587]LogShaderCompilers: Display: Shaders left to compile 31
+[2018.05.06-14.15.31:287][587]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.05.06-14.15.31:287][587]LogShaderCompilers: Display: Shaders left to compile 29
+[2018.05.06-14.15.31:287][587]LogShaderCompilers: Display: Shaders left to compile 28
+[2018.05.06-14.15.31:287][587]LogShaderCompilers: Display: Shaders left to compile 27
+[2018.05.06-14.15.31:287][587]LogShaderCompilers: Display: Shaders left to compile 26
+[2018.05.06-14.15.31:287][587]LogShaderCompilers: Display: Shaders left to compile 25
+[2018.05.06-14.15.31:287][587]LogShaderCompilers: Display: Shaders left to compile 24
+[2018.05.06-14.15.31:287][587]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.05.06-14.15.31:287][587]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.05.06-14.15.31:287][587]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.05.06-14.15.31:287][587]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.05.06-14.15.31:290][587]TextureStreamingBuild: Display: Compiling optional shaders took 1.867 seconds.
+[2018.05.06-14.15.31:708][587]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.06-14.15.34:006][587]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/DoorMat" FILE="../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/Materials/DoorMat.uasset" SILENT=true
+[2018.05.06-14.15.34:032][587]LogSavePackage: Save=13.51ms
+[2018.05.06-14.15.34:032][587]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/DoorMat7EFF42F94C7E7B90D9043EB085B0432A.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/Materials/DoorMat.uasset'
+[2018.05.06-14.15.34:035][587]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/Materials/DoorMat.uasset
+[2018.05.06-14.15.34:077][587]MaterialEditorStats: Base pass shader: 100 instructions
+[2018.05.06-14.15.34:077][587]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 173 instructions
+[2018.05.06-14.15.34:077][587]MaterialEditorStats: Vertex shader: 34 instructions
+[2018.05.06-14.15.34:077][587]MaterialEditorStats: Texture samplers: 3/16
+[2018.05.06-14.15.37:716][647]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.06-14.15.37:778][648]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.06-14.15.37:829][648]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.06-14.15.37:829][648]PIE: New page: PIE session: NewMap (6 May 2018 16:15:37)
+[2018.05.06-14.15.37:831][648]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2018.05.06-14.15.37:911][648]LogPlayLevel: PIE: StaticDuplicateObject took: (0.078822s)
+[2018.05.06-14.15.37:912][648]LogAIModule: Creating AISystem for world NewMap
+[2018.05.06-14.15.37:912][648]LogPlayLevel: PIE: World Init took: (0.000938s)
+[2018.05.06-14.15.37:912][648]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.081456s)
+[2018.05.06-14.15.37:948][648]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.06-14.15.37:960][648]LogInit: FAudioDevice initialized.
+[2018.05.06-14.15.38:005][648]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.06-14.15.38:041][648]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2018.05.06-15.15.38
+[2018.05.06-14.15.38:046][648]LogWorld: Bringing up level for play took: 0.040717
+[2018.05.06-14.15.38:051][648]PIE: Play in editor start time for /Game/UEDPIE_0_NewMap 0.972
+[2018.05.06-14.15.39:374][684]LogBlueprintUserMessages: [ThirdPersonCharacter_853] 4.0
+[2018.05.06-14.15.40:318][713]LogBlueprintUserMessages: [SlideDoor_566] Key Card Declined
+[2018.05.06-14.15.43:508][807]LogBlueprintUserMessages: [SlideDoor2] Key Card Declined
+[2018.05.06-14.15.48:216][921]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.06-14.15.49:937][946]LogMaterial: Missing cached shader map for material DoorMat, compiling. 
+[2018.05.06-14.15.49:964][946]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.05.06-14.15.49:964][946]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.05.06-14.15.49:964][946]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.05.06-14.15.49:968][946]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2018.05.06-14.15.51:884][975]LogMaterial: Missing cached shader map for material DoorMat, compiling. 
+[2018.05.06-14.15.51:939][975]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2018.05.06-14.15.51:968][975]LogSlate: Window 'Color Picker' being destroyed
+[2018.05.06-14.15.52:353][982]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.05.06-14.15.52:665][986]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.05.06-14.15.52:712][986]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.05.06-14.15.55:312][ 25]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.05.06-14.15.55:690][ 32]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.05.06-14.15.55:850][ 35]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.05.06-14.15.56:010][ 38]LogMaterialEditor: Saving and Compiling material DoorMat
+[2018.05.06-14.15.57:043][ 38]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.05.06-14.15.57:043][ 38]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.05.06-14.15.57:043][ 38]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.05.06-14.15.57:043][ 38]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.05.06-14.15.57:068][ 38]LogMaterial: Missing cached shader map for material DoorMat, compiling. 
+[2018.05.06-14.15.57:105][ 38]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.05.06-14.15.57:105][ 38]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.05.06-14.15.57:137][ 38]LogMaterial: Missing cached shader map for material DoorMat, compiling. 
+[2018.05.06-14.15.57:166][ 38]LogMaterial: Missing cached shader map for material DoorMat, compiling. 
+[2018.05.06-14.15.57:178][ 38]LogShaderCompilers: Display: Shaders left to compile 38
+[2018.05.06-14.15.57:252][ 38]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy DoorMat, compiling. 
+[2018.05.06-14.15.59:179][ 38]LogShaderCompilers: Display: Shaders left to compile 38
+[2018.05.06-14.15.59:179][ 38]LogShaderCompilers: Display: Shaders left to compile 37
+[2018.05.06-14.15.59:179][ 38]LogShaderCompilers: Display: Shaders left to compile 36
+[2018.05.06-14.15.59:179][ 38]LogShaderCompilers: Display: Shaders left to compile 35
+[2018.05.06-14.15.59:179][ 38]LogShaderCompilers: Display: Shaders left to compile 34
+[2018.05.06-14.15.59:179][ 38]LogShaderCompilers: Display: Shaders left to compile 33
+[2018.05.06-14.15.59:179][ 38]LogShaderCompilers: Display: Shaders left to compile 32
+[2018.05.06-14.15.59:179][ 38]LogShaderCompilers: Display: Shaders left to compile 31
+[2018.05.06-14.15.59:179][ 38]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.05.06-14.15.59:179][ 38]LogShaderCompilers: Display: Shaders left to compile 29
+[2018.05.06-14.15.59:179][ 38]LogShaderCompilers: Display: Shaders left to compile 28
+[2018.05.06-14.15.59:179][ 38]LogShaderCompilers: Display: Shaders left to compile 27
+[2018.05.06-14.15.59:179][ 38]LogShaderCompilers: Display: Shaders left to compile 26
+[2018.05.06-14.15.59:179][ 38]LogShaderCompilers: Display: Shaders left to compile 25
+[2018.05.06-14.15.59:179][ 38]LogShaderCompilers: Display: Shaders left to compile 24
+[2018.05.06-14.15.59:179][ 38]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.05.06-14.15.59:179][ 38]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.05.06-14.15.59:179][ 38]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.05.06-14.15.59:179][ 38]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.05.06-14.15.59:182][ 38]TextureStreamingBuild: Display: Compiling optional shaders took 1.937 seconds.
+[2018.05.06-14.15.59:230][ 38]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.06-14.16.01:762][ 38]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/DoorMat" FILE="../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/Materials/DoorMat.uasset" SILENT=true
+[2018.05.06-14.16.01:783][ 38]LogSavePackage: Save=12.86ms
+[2018.05.06-14.16.01:783][ 38]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/DoorMat67BD5F674C1FFF00FB9887A5FC39A7B1.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/Materials/DoorMat.uasset'
+[2018.05.06-14.16.01:786][ 38]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/Materials/DoorMat.uasset
+[2018.05.06-14.16.01:797][ 38]MaterialEditorStats: Base pass shader: 100 instructions
+[2018.05.06-14.16.01:797][ 38]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 173 instructions
+[2018.05.06-14.16.01:797][ 38]MaterialEditorStats: Vertex shader: 34 instructions
+[2018.05.06-14.16.01:797][ 38]MaterialEditorStats: Texture samplers: 3/16
+[2018.05.06-14.16.09:981][175]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.06-14.16.12:874][219]LogMaterial: Missing cached shader map for material DoorMat, compiling. 
+[2018.05.06-14.16.12:903][219]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.05.06-14.16.12:903][219]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.05.06-14.16.12:903][219]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.05.06-14.16.12:903][219]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2018.05.06-14.16.15:241][255]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.05.06-14.16.15:304][256]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.05.06-14.16.15:503][259]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.05.06-14.16.17:524][290]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.05.06-14.16.17:708][293]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.05.06-14.16.17:804][293]LogMaterial: Missing cached shader map for material DoorMat, compiling. 
+[2018.05.06-14.16.17:857][293]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2018.05.06-14.16.17:885][293]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.05.06-14.16.17:885][293]LogSlate: Window 'Color Picker' being destroyed
+[2018.05.06-14.16.19:356][317]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.05.06-14.16.20:576][336]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.05.06-14.16.21:502][350]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.05.06-14.16.22:061][359]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.05.06-14.16.22:765][370]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.05.06-14.16.23:399][379]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.05.06-14.16.23:895][387]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.05.06-14.16.24:728][400]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.05.06-14.16.25:179][407]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.05.06-14.16.27:315][440]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.05.06-14.16.28:021][451]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.05.06-14.16.28:839][464]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.05.06-14.16.30:831][495]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.05.06-14.16.31:571][506]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.05.06-14.16.32:724][524]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.05.06-14.16.34:124][546]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.05.06-14.16.34:971][559]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.05.06-14.16.35:224][562]MaterialEditorStats: Base pass shader: 100 instructions
+[2018.05.06-14.16.35:225][562]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 173 instructions
+[2018.05.06-14.16.35:225][562]MaterialEditorStats: Vertex shader: 34 instructions
+[2018.05.06-14.16.35:225][562]MaterialEditorStats: Texture samplers: 2/16
+[2018.05.06-14.16.48:407][790]LogMaterialEditor: Saving and Compiling material DoorMat
+[2018.05.06-14.16.49:002][790]LogMaterial: Missing cached shader map for material DoorMat, compiling. 
+[2018.05.06-14.16.49:033][790]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.05.06-14.16.49:034][790]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.05.06-14.16.49:034][790]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.05.06-14.16.49:053][790]LogMaterial: Missing cached shader map for material DoorMat, compiling. 
+[2018.05.06-14.16.49:084][790]LogMaterial: Missing cached shader map for material DoorMat, compiling. 
+[2018.05.06-14.16.49:149][790]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy DoorMat, compiling. 
+[2018.05.06-14.16.50:793][790]LogShaderCompilers: Display: Shaders left to compile 36
+[2018.05.06-14.16.50:793][790]LogShaderCompilers: Display: Shaders left to compile 35
+[2018.05.06-14.16.50:793][790]LogShaderCompilers: Display: Shaders left to compile 34
+[2018.05.06-14.16.50:793][790]LogShaderCompilers: Display: Shaders left to compile 33
+[2018.05.06-14.16.50:793][790]LogShaderCompilers: Display: Shaders left to compile 32
+[2018.05.06-14.16.50:793][790]LogShaderCompilers: Display: Shaders left to compile 31
+[2018.05.06-14.16.50:793][790]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.05.06-14.16.50:793][790]LogShaderCompilers: Display: Shaders left to compile 29
+[2018.05.06-14.16.50:793][790]LogShaderCompilers: Display: Shaders left to compile 28
+[2018.05.06-14.16.50:794][790]LogShaderCompilers: Display: Shaders left to compile 27
+[2018.05.06-14.16.50:794][790]LogShaderCompilers: Display: Shaders left to compile 26
+[2018.05.06-14.16.50:794][790]LogShaderCompilers: Display: Shaders left to compile 25
+[2018.05.06-14.16.50:794][790]LogShaderCompilers: Display: Shaders left to compile 24
+[2018.05.06-14.16.50:794][790]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.05.06-14.16.50:794][790]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.05.06-14.16.50:794][790]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.05.06-14.16.50:796][790]TextureStreamingBuild: Display: Compiling optional shaders took 1.655 seconds.
+[2018.05.06-14.16.50:850][790]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.06-14.16.53:384][790]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.05.06-14.16.53:430][790]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/DoorMat" FILE="../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/Materials/DoorMat.uasset" SILENT=true
+[2018.05.06-14.16.53:452][790]LogSavePackage: Save=13.47ms
+[2018.05.06-14.16.53:452][790]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/DoorMat536728D141F970F9989418AE809212FB.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/Materials/DoorMat.uasset'
+[2018.05.06-14.16.53:455][790]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/Materials/DoorMat.uasset
+[2018.05.06-14.16.53:464][790]MaterialEditorStats: Base pass shader: 100 instructions
+[2018.05.06-14.16.53:465][790]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 173 instructions
+[2018.05.06-14.16.53:465][790]MaterialEditorStats: Vertex shader: 34 instructions
+[2018.05.06-14.16.53:465][790]MaterialEditorStats: Texture samplers: 3/16
+[2018.05.06-14.16.54:804][814]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.06-14.16.54:919][816]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.06-14.16.54:982][816]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.06-14.16.54:983][816]PIE: New page: PIE session: NewMap (6 May 2018 16:16:54)
+[2018.05.06-14.16.54:983][816]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2018.05.06-14.16.55:049][816]LogPlayLevel: PIE: StaticDuplicateObject took: (0.066521s)
+[2018.05.06-14.16.55:050][816]LogAIModule: Creating AISystem for world NewMap
+[2018.05.06-14.16.55:050][816]LogPlayLevel: PIE: World Init took: (0.000995s)
+[2018.05.06-14.16.55:050][816]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.067844s)
+[2018.05.06-14.16.55:079][816]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.06-14.16.55:089][816]LogInit: FAudioDevice initialized.
+[2018.05.06-14.16.55:127][816]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.06-14.16.55:158][816]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2018.05.06-15.16.55
+[2018.05.06-14.16.55:165][816]LogWorld: Bringing up level for play took: 0.036834
+[2018.05.06-14.16.55:170][816]PIE: Play in editor start time for /Game/UEDPIE_0_NewMap 0.091
+[2018.05.06-14.16.56:214][845]LogBlueprintUserMessages: [ThirdPersonCharacter_853] 4.0
+[2018.05.06-14.17.01:134][994]LogBlueprintUserMessages: [SlideDoor_566] Key Card Declined
+[2018.05.06-14.17.03:504][ 64]LogBlueprintUserMessages: [ThirdPersonCharacter_853] 3.0
+[2018.05.06-14.17.03:670][ 69]LogBlueprintUserMessages: [ThirdPersonCharacter_853] 2.0
+[2018.05.06-14.17.04:017][ 77]LogBlueprintUserMessages: [ThirdPersonCharacter_853] 1.0
+[2018.05.06-14.17.09:678][248]LogBlueprintUserMessages: [ThirdPersonEnemy_642] 4.0
+[2018.05.06-14.17.09:843][253]LogBlueprintUserMessages: [ThirdPersonEnemy_642] 3.0
+[2018.05.06-14.17.10:004][258]LogBlueprintUserMessages: [ThirdPersonEnemy_642] 2.0
+[2018.05.06-14.17.10:134][262]LogBlueprintUserMessages: [ThirdPersonEnemy_642] 1.0
+[2018.05.06-14.17.12:667][338]LogBlueprintUserMessages: [ThirdPersonEnemy2_1109] 4.0
+[2018.05.06-14.17.12:807][342]LogBlueprintUserMessages: [ThirdPersonEnemy2_1109] 3.0
+[2018.05.06-14.17.12:935][346]LogBlueprintUserMessages: [ThirdPersonEnemy2_1109] 2.0
+[2018.05.06-14.17.13:066][350]LogBlueprintUserMessages: [ThirdPersonEnemy2_1109] 1.0
+[2018.05.06-14.17.16:342][448]LogBlueprintUserMessages: [PlayerInventory] Item added to inventory
+[2018.05.06-14.17.29:080][838]LogBlueprintUserMessages: [ThirdPersonEnemy4] 4.0
+[2018.05.06-14.17.29:245][843]LogBlueprintUserMessages: [ThirdPersonEnemy4] 3.0
+[2018.05.06-14.17.29:824][861]LogBlueprintUserMessages: [ThirdPersonEnemy4] 2.0
+[2018.05.06-14.17.30:376][878]LogBlueprintUserMessages: [ThirdPersonEnemy4] 1.0
+[2018.05.06-14.17.32:223][934]LogBlueprintUserMessages: [ThirdPersonEnemy3_1676] 4.0
+[2018.05.06-14.17.32:386][939]LogBlueprintUserMessages: [ThirdPersonEnemy3_1676] 3.0
+[2018.05.06-14.17.32:488][942]LogBlueprintUserMessages: [ThirdPersonEnemy3_1676] 2.0
+[2018.05.06-14.17.32:676][948]LogBlueprintUserMessages: [ThirdPersonEnemy3_1676] 1.0
+[2018.05.06-14.17.39:728][164]LogBlueprintUserMessages: [SlideDoor_566] Key Card Accepted
+[2018.05.06-14.17.43:410][278]LogBlueprintUserMessages: [SlideDoor2] Key Card Accepted
+[2018.05.06-14.18.11:861][135]LogBlueprintUserMessages: [PlayerInventory] Item added to inventory
+[2018.05.06-14.18.13:083][172]LogBlueprintUserMessages: [SlideDoor3_980] Key Card Accepted
+[2018.05.06-14.18.25:686][558]LogBlueprintUserMessages: [SlideDoor2] Key Card Accepted
+[2018.05.06-14.18.30:493][705]LogBlueprintUserMessages: [SlideDoor4] Key Card Accepted
+[2018.05.06-14.18.43:502][116]LogBlueprintUserMessages: [PlayerInventory] Item added to inventory
+[2018.05.06-14.18.44:373][141]LogBlueprintUserMessages: [ThirdPersonEnemy9] 4.0
+[2018.05.06-14.18.44:403][142]LogBlueprintUserMessages: [ThirdPersonEnemy8] 4.0
+[2018.05.06-14.18.44:534][146]LogBlueprintUserMessages: [ThirdPersonEnemy9] 3.0
+[2018.05.06-14.18.44:572][147]LogBlueprintUserMessages: [ThirdPersonEnemy9] 2.0
+[2018.05.06-14.18.44:659][149]LogBlueprintUserMessages: [ThirdPersonEnemy9] 1.0
+[2018.05.06-14.18.44:874][155]LogBlueprintUserMessages: [ThirdPersonEnemy10] 4.0
+[2018.05.06-14.18.44:973][158]LogBlueprintUserMessages: [ThirdPersonEnemy8] 3.0
+[2018.05.06-14.18.45:016][159]LogBlueprintUserMessages: [ThirdPersonEnemy8] 2.0
+[2018.05.06-14.18.45:114][162]LogBlueprintUserMessages: [ThirdPersonEnemy8] 1.0
+[2018.05.06-14.18.45:546][175]LogBlueprintUserMessages: [ThirdPersonEnemy10] 3.0
+[2018.05.06-14.18.45:995][188]LogBlueprintUserMessages: [ThirdPersonEnemy10] 2.0
+[2018.05.06-14.18.46:624][206]LogBlueprintUserMessages: [ThirdPersonEnemy10] 1.0
+[2018.05.06-14.18.58:866][588]LogBlueprintUserMessages: [SlideDoor4] Key Card Accepted
+[2018.05.06-14.19.01:919][683]LogBlueprintUserMessages: [SlideDoor5] Key Card Accepted
+[2018.05.06-14.19.15:915][977]Cmd: SELECT NONE
+[2018.05.06-14.19.17:151][996]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.06-14.19.17:163][996]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap" FILE="../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.05.06-14.19.17:501][996]LogSavePackage: Save=301.85ms
+[2018.05.06-14.19.17:501][996]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/NewMapE3EA6D5E4D98B4535220ADBCF4F0F2C8.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap.umap'
+[2018.05.06-14.19.17:503][996]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap.umap
+[2018.05.06-14.19.17:544][996]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap_BuiltData" FILE="../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap_BuiltData.uasset" SILENT=true
+[2018.05.06-14.19.18:177][996]LogSavePackage: Save=625.58ms
+[2018.05.06-14.19.18:177][996]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/NewMap_BuiltData524890C8466AB2CAA9F8AC91C19CC859.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap_BuiltData.uasset'
+[2018.05.06-14.19.18:180][996]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap_BuiltData.uasset
+[2018.05.06-14.19.22:115][ 63]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.06-14.19.47:131][470]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube145)
+[2018.05.06-14.19.48:385][488]Cmd: DELETE
+[2018.05.06-14.19.48:385][488]Cmd: ACTOR DELETE
+[2018.05.06-14.19.48:402][488]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.05.06-14.19.48:406][488]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.05.06-14.19.48:410][488]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.05.06-14.19.48:478][488]LogEditorActor: Deleted 3 Actors (0.092 secs)
+[2018.05.06-14.19.50:557][522]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube170)
+[2018.05.06-14.20.02:060][702]Cmd: DELETE
+[2018.05.06-14.20.02:061][702]Cmd: ACTOR DELETE
+[2018.05.06-14.20.02:092][702]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.05.06-14.20.02:095][702]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.05.06-14.20.02:098][702]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.05.06-14.20.02:151][702]LogEditorActor: Deleted 3 Actors (0.090 secs)
+[2018.05.06-14.20.04:213][736]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube157)
+[2018.05.06-14.20.17:615][942]Cmd: SELECT NONE
+[2018.05.06-14.20.18:724][959]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.06-14.20.18:768][959]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap" FILE="../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.05.06-14.20.19:109][959]LogSavePackage: Save=301.57ms
+[2018.05.06-14.20.19:109][959]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/NewMap4322AF534B870DF27317E898A02ED84F.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap.umap'
+[2018.05.06-14.20.19:113][959]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap.umap
+[2018.05.06-14.20.19:151][959]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap_BuiltData" FILE="../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap_BuiltData.uasset" SILENT=true
+[2018.05.06-14.20.19:799][959]LogSavePackage: Save=620.85ms
+[2018.05.06-14.20.19:799][959]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/NewMap_BuiltData319053A04488E9C70FA5C59ED1D55A8A.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap_BuiltData.uasset'
+[2018.05.06-14.20.19:801][959]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap_BuiltData.uasset
+[2018.05.06-14.20.41:281][313]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.06-14.20.41:324][313]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap" FILE="../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.05.06-14.20.41:663][313]LogSavePackage: Save=304.58ms
+[2018.05.06-14.20.41:663][313]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/NewMap8EC127FC41F77F8D7C51459940123700.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap.umap'
+[2018.05.06-14.20.41:665][313]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap.umap
+[2018.05.06-14.20.41:703][313]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap_BuiltData" FILE="../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap_BuiltData.uasset" SILENT=true
+[2018.05.06-14.20.42:337][313]LogSavePackage: Save=625.17ms
+[2018.05.06-14.20.42:337][313]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/NewMap_BuiltData81967850449D41EBBDC4AB86C52506DB.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap_BuiltData.uasset'
+[2018.05.06-14.20.42:339][313]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap_BuiltData.uasset
+[2018.05.06-14.20.51:764][468]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube213)
+[2018.05.06-14.20.52:042][470]Cmd: DELETE
+[2018.05.06-14.20.52:043][470]Cmd: ACTOR DELETE
+[2018.05.06-14.20.52:073][470]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.05.06-14.20.52:074][470]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.05.06-14.20.52:079][470]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.05.06-14.20.52:110][470]LogEditorActor: Deleted 3 Actors (0.067 secs)
+[2018.05.06-14.20.53:375][492]LogEditorViewport: Clicking on Actor (LMB): SlideDoor_C (SlideDoor5)
+[2018.05.06-14.21.13:762][818]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube151)
+[2018.05.06-14.21.17:999][882]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube179)
+[2018.05.06-14.21.23:226][965]Cmd: SELECT NONE
+[2018.05.06-14.21.23:788][973]LogEditorViewport: Clicking on Actor (LMB): SlideDoor_C (SlideDoor6)
+[2018.05.06-14.21.34:333][135]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube212)
+[2018.05.06-14.21.43:128][269]Cmd: SELECT NONE
+[2018.05.06-14.21.59:760][538]LogEditorViewport: Clicking on Actor (LMB): SlideDoor_C (SlideDoor6)
+[2018.05.06-14.22.01:116][559]Cmd: SELECT NONE
+[2018.05.06-14.22.03:765][600]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.06-14.22.03:789][600]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap" FILE="../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.05.06-14.22.04:127][600]LogSavePackage: Save=303.45ms
+[2018.05.06-14.22.04:127][600]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/NewMap3BBFBC3547FF581A693969AE890964F7.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap.umap'
+[2018.05.06-14.22.04:130][600]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap.umap
+[2018.05.06-14.22.04:176][600]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap_BuiltData" FILE="../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap_BuiltData.uasset" SILENT=true
+[2018.05.06-14.22.04:816][600]LogSavePackage: Save=631.81ms
+[2018.05.06-14.22.04:816][600]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/NewMap_BuiltData2A6AA7B548BFA97937BF3999094CCC59.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap_BuiltData.uasset'
+[2018.05.06-14.22.04:818][600]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap_BuiltData.uasset
+[2018.05.06-14.22.14:086][743]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.06-14.22.21:725][861]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.06-14.22.21:851][863]MapCheck: New page: Map Check
+[2018.05.06-14.22.21:985][863]Cmd: MAP REBUILD ALLVISIBLE
+[2018.05.06-14.22.21:985][863]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2018.05.06-14.22.23:080][863]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy WorldGridMaterial, compiling. Is special engine material.
+[2018.05.06-14.22.23:087][863]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy MaterialInstanceDynamic_19, compiling. 
+[2018.05.06-14.22.23:093][863]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.05.06-14.22.23:093][863]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.05.06-14.22.23:093][863]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy BasicShapeMaterial, compiling. 
+[2018.05.06-14.22.23:099][863]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy BlueMat, compiling. 
+[2018.05.06-14.22.23:105][863]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy RedMat, compiling. 
+[2018.05.06-14.22.23:113][863]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.05.06-14.22.23:113][863]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy GreenMat, compiling. 
+[2018.05.06-14.22.23:121][863]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy DoorMat, compiling. 
+[2018.05.06-14.22.23:139][863]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_UE4Man_Body, compiling. 
+[2018.05.06-14.22.23:153][863]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_UE4Man_ChestLogo, compiling. 
+[2018.05.06-14.22.24:306][863]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.05.06-14.22.24:306][863]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.05.06-14.22.24:306][863]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.05.06-14.22.24:307][863]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.05.06-14.22.24:307][863]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.05.06-14.22.24:307][863]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.05.06-14.22.24:307][863]TextureStreamingBuild: Display: Compiling optional shaders took 1.266 seconds.
+[2018.05.06-14.22.24:350][863]LogLevel: Display: Export Material TexCoord Scales took 0.044 seconds.
+[2018.05.06-14.22.24:415][863]TextureStreamingBuild: Display: Build Texture Streaming took 0.064 seconds.
+[2018.05.06-14.22.24:440][863]LightingResults: New page: Lighting Build - 6 May 2018 16:22:24
+[2018.05.06-14.22.24:450][863]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2018.05.06-14.22.24:453][863]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2018.05.06-14.22.24:453][863]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2018.05.06-14.22.24:454][863]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2018.05.06-14.22.24:454][863]LogSwarmInterface: [TryOpenConnection] Local Process ID is 1372
+[2018.05.06-14.22.33:491][863]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2018.05.06-14.22.33:492][863]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2018.05.06-14.22.33:492][863]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2018.05.06-14.22.33:492][863]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2018.05.06-14.22.33:492][863]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2018.05.06-14.22.33:492][863]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2018.05.06-14.22.33:671][863]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2018.05.06-14.22.33:671][863]MapCheck: New page: NewMap - 6 May 2018 16:22:33
+[2018.05.06-14.22.33:671][863]MapCheck: Error: WorldSettings_1 Maps need lighting rebuilt 
+[2018.05.06-14.22.33:739][863]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 68.194ms to complete.
+[2018.05.06-14.22.33:761][863]LogEditorBuildUtils: Build time 0:11
+[2018.05.06-14.22.33:773][863]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.06-14.22.33:806][863]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer RedMat, compiling. 
+[2018.05.06-14.22.33:813][863]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer RedMat, compiling. 
+[2018.05.06-14.22.33:855][863]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.05.06-14.23.18:349][384]LogSlate: Window 'Message Log' being destroyed
+[2018.05.06-14.23.18:435][384]LogSlate: Window 'Message Log' being destroyed
+[2018.05.06-14.23.22:264][439]Job is a success!
+[2018.05.06-14.23.22:525][440]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.06-14.23.22:617][440]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.037s
+[2018.05.06-14.23.22:618][440]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2018.05.06-14.23.22:618][440]LogVolumetricLightmapImport:      BrickData 1280x5x5 = 1.1Mb (trimmed 0.1Mb due to 0.010000 MinBrickError)
+[2018.05.06-14.23.22:618][440]LogVolumetricLightmapImport:      Bricks at Level
+[2018.05.06-14.23.22:618][440]LogVolumetricLightmapImport:          0: 0.4% covering 100.0% of volume
+[2018.05.06-14.23.22:618][440]LogVolumetricLightmapImport:          1: 3.5% covering 14.1% of volume
+[2018.05.06-14.23.22:618][440]LogVolumetricLightmapImport:          2: 96.1% covering 6.0% of volume
+[2018.05.06-14.23.24:743][440]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 256X256)
+[2018.05.06-14.23.24:744][440]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 256X256)
+[2018.05.06-14.23.24:744][440]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 1024X1024)
+[2018.05.06-14.23.24:744][440]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 1024X1024)
+[2018.05.06-14.23.24:744][440]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 1024X1024)
+[2018.05.06-14.23.24:744][440]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 1024X1024)
+[2018.05.06-14.23.24:744][440]LogTexture: Display: Building textures: HQ_Lightmap1_4 (AutoDXT, 64X64)
+[2018.05.06-14.23.24:744][440]LogTexture: Display: Building textures: LQ_Lightmap_1_4 (DXT1, 64X64)
+[2018.05.06-14.23.24:944][440]LogTexture: Display: Building textures: ShadowMapTexture2D_55 (G8, 256X128)
+[2018.05.06-14.23.24:944][440]LogTexture: Display: Building textures: ShadowMapTexture2D_57 (G8, 32X32)
+[2018.05.06-14.23.25:091][440]LogTexture: Display: Building textures: ShadowMapTexture2D_56 (BGRA8, 1024X1024)
+[2018.05.06-14.23.25:149][440]Lightmass on BEN-PAVILION: 49.0 sec total, 452 ms importing, 105 ms setup, 5.16 sec photons, 43.2 sec processing, 0 ms extra exporting [410/410 mappings]. Threads: 2:53 min total, 1:35 min processing.
+[2018.05.06-14.23.25:164][440]LogStaticLightingSystem: Illumination: 1:00 min (1.97 sec encoding lightmaps, 342 ms encoding shadowmaps)
+[2018.05.06-14.23.25:164][440]LogStaticLightingSystem: Lightmap texture memory:  4.1 MB (4.0 MB streaming, 0.1 MB non-streaming), 8 textures
+[2018.05.06-14.23.25:164][440]LogStaticLightingSystem: Shadowmap texture memory: 5.4 MB (5.3 MB streaming, 0.0 MB non-streaming), 3 textures
+[2018.05.06-14.23.39:530][440]DumpUnbuiltLightIteractions
+[2018.05.06-14.23.39:530][440]Lights with unbuilt interactions: 0
+[2018.05.06-14.23.39:530][440]
+[2018.05.06-14.23.39:530][440]Primitives with unbuilt interactions: 0
+[2018.05.06-14.23.39:547][440]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.06-14.23.39:738][441]Cmd: MAP CHECK NOTIFYRESULTS
+[2018.05.06-14.23.39:738][441]MapCheck: New page: NewMap - 6 May 2018 16:23:39
+[2018.05.06-14.23.39:819][441]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 80.885ms to complete.
+[2018.05.06-14.23.42:018][475]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.06-14.23.42:086][476]LogSlate: Window 'DoorMat' being destroyed
+[2018.05.06-14.23.42:154][476]LogSlate: Window 'DoorMat' being destroyed
+[2018.05.06-14.23.43:314][495]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.06-14.23.44:463][513]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap" FILE="../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.05.06-14.23.44:806][513]LogSavePackage: Save=308.05ms
+[2018.05.06-14.23.44:806][513]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/NewMapC26CDFCD464E02BB86749D92B963D48C.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap.umap'
+[2018.05.06-14.23.44:810][513]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap.umap
+[2018.05.06-14.23.44:850][513]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap_BuiltData" FILE="../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap_BuiltData.uasset" SILENT=true
+[2018.05.06-14.23.45:499][513]LogSavePackage: Save=640.27ms
+[2018.05.06-14.23.45:499][513]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/NewMap_BuiltData89B752A54609A09B2E3BD79AB2558E72.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap_BuiltData.uasset'
+[2018.05.06-14.23.45:504][513]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap_BuiltData.uasset
+[2018.05.06-14.23.46:766][538]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.06-14.23.50:972][619]LogSlate: FSceneViewport::OnFocusLost() reason 0
