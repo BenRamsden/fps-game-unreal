@@ -3139,3 +3139,1034 @@ LogInit: Object subsystem initialized
 [2018.05.06-13.20.02:556][661]LogSavePackage: Save=354.84ms
 [2018.05.06-13.20.02:557][661]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/NewMap_BuiltDataD35A3B7A41FDC63AF3BE43BCA8AAEC98.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap_BuiltData.uasset'
 [2018.05.06-13.20.02:559][661]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap_BuiltData.uasset
+[2018.05.06-13.20.48:446][  2]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube103)
+[2018.05.06-13.20.50:906][ 54]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube105)
+[2018.05.06-13.20.58:128][211]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.06-13.21.01:240][276]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.06-13.21.27:119][827]Cmd: DELETE
+[2018.05.06-13.21.27:119][827]Cmd: ACTOR DELETE
+[2018.05.06-13.21.27:139][827]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.05.06-13.21.27:180][827]LogEditorActor: Deleted 1 Actors (0.060 secs)
+[2018.05.06-13.21.28:379][854]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.06-13.21.28:403][854]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap" FILE="../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.05.06-13.21.28:635][854]LogSavePackage: Save=197.57ms
+[2018.05.06-13.21.28:635][854]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/NewMapDDAB48B748526CECBDE0F1B8CF1C5FD2.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap.umap'
+[2018.05.06-13.21.28:638][854]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap.umap
+[2018.05.06-13.21.28:676][854]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap_BuiltData" FILE="../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap_BuiltData.uasset" SILENT=true
+[2018.05.06-13.21.29:055][854]LogSavePackage: Save=366.54ms
+[2018.05.06-13.21.29:055][854]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/NewMap_BuiltData7F64C533489482B9DEB71ABBCA2CFBBD.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap_BuiltData.uasset'
+[2018.05.06-13.21.29:057][854]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap_BuiltData.uasset
+[2018.05.06-13.21.34:724][980]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube127)
+[2018.05.06-13.21.49:336][280]Cmd: SELECT NONE
+[2018.05.06-13.21.53:991][381]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.06-13.21.54:003][381]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap" FILE="../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.05.06-13.21.54:232][381]LogSavePackage: Save=193.45ms
+[2018.05.06-13.21.54:232][381]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/NewMapF4D50E2946F2D618DD345C87C6211B3D.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap.umap'
+[2018.05.06-13.21.54:236][381]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap.umap
+[2018.05.06-13.21.54:276][381]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap_BuiltData" FILE="../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap_BuiltData.uasset" SILENT=true
+[2018.05.06-13.21.54:689][381]LogSavePackage: Save=403.08ms
+[2018.05.06-13.21.54:689][381]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/NewMap_BuiltDataC46625A04953420F8A67D292F1962375.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap_BuiltData.uasset'
+[2018.05.06-13.21.54:697][381]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap_BuiltData.uasset
+[2018.05.06-13.22.00:638][515]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube94)
+[2018.05.06-13.22.02:837][562]Cmd: DELETE
+[2018.05.06-13.22.02:837][562]Cmd: ACTOR DELETE
+[2018.05.06-13.22.02:867][562]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.05.06-13.22.02:905][562]LogEditorActor: Deleted 1 Actors (0.068 secs)
+[2018.05.06-13.22.03:137][568]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube95)
+[2018.05.06-13.22.03:316][569]Cmd: DELETE
+[2018.05.06-13.22.03:316][569]Cmd: ACTOR DELETE
+[2018.05.06-13.22.03:326][569]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.05.06-13.22.03:348][569]LogEditorActor: Deleted 1 Actors (0.032 secs)
+[2018.05.06-13.22.04:071][586]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube96)
+[2018.05.06-13.22.04:165][586]Cmd: DELETE
+[2018.05.06-13.22.04:165][586]Cmd: ACTOR DELETE
+[2018.05.06-13.22.04:170][586]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.05.06-13.22.04:191][586]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2018.05.06-13.22.04:682][598]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube97)
+[2018.05.06-13.22.04:784][598]Cmd: DELETE
+[2018.05.06-13.22.04:784][598]Cmd: ACTOR DELETE
+[2018.05.06-13.22.04:796][598]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.05.06-13.22.04:821][598]LogEditorActor: Deleted 1 Actors (0.036 secs)
+[2018.05.06-13.22.06:067][627]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube98)
+[2018.05.06-13.22.06:623][637]Cmd: DELETE
+[2018.05.06-13.22.06:623][637]Cmd: ACTOR DELETE
+[2018.05.06-13.22.06:642][637]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.05.06-13.22.06:688][637]LogEditorActor: Deleted 1 Actors (0.064 secs)
+[2018.05.06-13.22.07:035][646]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube102)
+[2018.05.06-13.22.07:146][646]Cmd: DELETE
+[2018.05.06-13.22.07:146][646]Cmd: ACTOR DELETE
+[2018.05.06-13.22.07:152][646]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.05.06-13.22.07:174][646]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2018.05.06-13.22.09:037][689]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube92)
+[2018.05.06-13.22.26:345][ 52]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube103)
+[2018.05.06-13.22.30:905][150]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube105)
+[2018.05.06-13.22.32:011][173]Cmd: DELETE
+[2018.05.06-13.22.32:011][173]Cmd: ACTOR DELETE
+[2018.05.06-13.22.32:032][173]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.05.06-13.22.32:072][173]LogEditorActor: Deleted 1 Actors (0.061 secs)
+[2018.05.06-13.22.33:347][203]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube103)
+[2018.05.06-13.22.36:405][266]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube103)
+[2018.05.06-13.22.37:810][296]Cmd: DELETE
+[2018.05.06-13.22.37:810][296]Cmd: ACTOR DELETE
+[2018.05.06-13.22.37:851][296]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.05.06-13.22.37:896][296]LogEditorActor: Deleted 1 Actors (0.086 secs)
+[2018.05.06-13.22.39:469][332]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.06-13.22.39:495][332]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap" FILE="../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.05.06-13.22.39:725][332]LogSavePackage: Save=192.25ms
+[2018.05.06-13.22.39:725][332]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/NewMap8B30125E4D641280A972F6B084A0E003.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap.umap'
+[2018.05.06-13.22.39:730][332]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap.umap
+[2018.05.06-13.22.39:774][332]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap_BuiltData" FILE="../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap_BuiltData.uasset" SILENT=true
+[2018.05.06-13.22.40:139][332]LogSavePackage: Save=356.13ms
+[2018.05.06-13.22.40:139][332]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/NewMap_BuiltData64F04DC048E5E0C60D51538DC883C285.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap_BuiltData.uasset'
+[2018.05.06-13.22.40:141][332]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap_BuiltData.uasset
+[2018.05.06-13.22.41:595][367]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.06-13.22.41:644][367]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.06-13.22.41:644][367]PIE: New page: PIE session: NewMap (6 May 2018 15:22:41)
+[2018.05.06-13.22.41:644][367]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2018.05.06-13.22.41:688][367]LogPlayLevel: PIE: StaticDuplicateObject took: (0.043463s)
+[2018.05.06-13.22.41:688][367]LogAIModule: Creating AISystem for world NewMap
+[2018.05.06-13.22.41:689][367]LogPlayLevel: PIE: World Init took: (0.000871s)
+[2018.05.06-13.22.41:689][367]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.044698s)
+[2018.05.06-13.22.41:716][367]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.06-13.22.41:730][367]LogInit: FAudioDevice initialized.
+[2018.05.06-13.22.41:768][367]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.06-13.22.41:799][367]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2018.05.06-14.22.41
+[2018.05.06-13.22.41:805][367]LogWorld: Bringing up level for play took: 0.035524
+[2018.05.06-13.22.41:810][367]PIE: Play in editor start time for /Game/UEDPIE_0_NewMap 0.731
+[2018.05.06-13.22.45:764][478]LogEditorViewport: Clicking on Actor (LMB): SlideDoor_C (SlideDoor2)
+[2018.05.06-13.22.48:657][540]Cmd: SELECT NONE
+[2018.05.06-13.22.49:541][560]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.06-13.22.49:584][560]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap" FILE="../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.05.06-13.22.49:835][560]LogSavePackage: Save=192.15ms
+[2018.05.06-13.22.49:836][560]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/NewMap38E104C74BFB6D1F180884866C43158E.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap.umap'
+[2018.05.06-13.22.49:839][560]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap.umap
+[2018.05.06-13.22.49:875][560]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap_BuiltData" FILE="../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap_BuiltData.uasset" SILENT=true
+[2018.05.06-13.22.50:248][560]LogSavePackage: Save=361.28ms
+[2018.05.06-13.22.50:248][560]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/NewMap_BuiltData0FE7C5D94442BDA63C90A68534D884B1.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap_BuiltData.uasset'
+[2018.05.06-13.22.50:250][560]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap_BuiltData.uasset
+[2018.05.06-13.22.50:577][570]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.06-13.22.50:607][570]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.06-13.22.50:607][570]PIE: New page: PIE session: NewMap (6 May 2018 15:22:50)
+[2018.05.06-13.22.50:608][570]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2018.05.06-13.22.50:626][570]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018482s)
+[2018.05.06-13.22.50:627][570]LogAIModule: Creating AISystem for world NewMap
+[2018.05.06-13.22.50:627][570]LogPlayLevel: PIE: World Init took: (0.000867s)
+[2018.05.06-13.22.50:627][570]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.019608s)
+[2018.05.06-13.22.50:654][570]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.06-13.22.50:664][570]LogInit: FAudioDevice initialized.
+[2018.05.06-13.22.50:700][570]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.06-13.22.50:709][570]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2018.05.06-14.22.50
+[2018.05.06-13.22.50:711][570]LogWorld: Bringing up level for play took: 0.011121
+[2018.05.06-13.22.50:714][570]PIE: Play in editor start time for /Game/UEDPIE_0_NewMap -0.365
+[2018.05.06-13.22.51:690][609]LogBlueprintUserMessages: [ThirdPersonCharacter_853] 4.0
+[2018.05.06-13.23.34:586][396]LogBlueprintUserMessages: [PlayerInventory] Item added to inventory
+[2018.05.06-13.23.35:611][438]LogBlueprintUserMessages: [SlideDoor3_980] Key Card Accepted
+[2018.05.06-13.23.56:610][903]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube92)
+[2018.05.06-13.23.57:480][918]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube92)
+[2018.05.06-13.23.57:841][926]Cmd: DELETE
+[2018.05.06-13.23.57:841][926]Cmd: ACTOR DELETE
+[2018.05.06-13.23.57:859][926]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.05.06-13.23.57:904][926]LogEditorActor: Deleted 1 Actors (0.063 secs)
+[2018.05.06-13.23.58:340][937]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube94)
+[2018.05.06-13.24.01:235][993]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube95)
+[2018.05.06-13.24.01:781][  3]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube96)
+[2018.05.06-13.24.02:326][ 13]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube97)
+[2018.05.06-13.24.02:873][ 23]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube105)
+[2018.05.06-13.24.05:139][ 69]Cmd: SELECT NONE
+[2018.05.06-13.24.13:226][255]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube94)
+[2018.05.06-13.24.20:650][413]Cmd: SELECT NONE
+[2018.05.06-13.24.25:404][520]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube95)
+[2018.05.06-13.24.29:082][598]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube96)
+[2018.05.06-13.24.35:483][735]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube97)
+[2018.05.06-13.24.41:107][855]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube105)
+[2018.05.06-13.24.46:802][978]Cmd: DELETE
+[2018.05.06-13.24.46:802][978]Cmd: ACTOR DELETE
+[2018.05.06-13.24.46:833][978]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.05.06-13.24.46:879][978]LogEditorActor: Deleted 1 Actors (0.077 secs)
+[2018.05.06-13.24.47:375][990]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube97)
+[2018.05.06-13.24.47:613][991]Cmd: DELETE
+[2018.05.06-13.24.47:613][991]Cmd: ACTOR DELETE
+[2018.05.06-13.24.47:623][991]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.05.06-13.24.47:645][991]LogEditorActor: Deleted 1 Actors (0.032 secs)
+[2018.05.06-13.24.48:081][  1]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube96)
+[2018.05.06-13.24.48:285][  2]Cmd: DELETE
+[2018.05.06-13.24.48:285][  2]Cmd: ACTOR DELETE
+[2018.05.06-13.24.48:296][  2]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.05.06-13.24.48:318][  2]LogEditorActor: Deleted 1 Actors (0.034 secs)
+[2018.05.06-13.24.48:637][ 10]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube95)
+[2018.05.06-13.24.48:724][ 10]Cmd: DELETE
+[2018.05.06-13.24.48:724][ 10]Cmd: ACTOR DELETE
+[2018.05.06-13.24.48:730][ 10]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.05.06-13.24.48:751][ 10]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2018.05.06-13.24.49:172][ 21]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube98)
+[2018.05.06-13.24.49:283][ 21]Cmd: DELETE
+[2018.05.06-13.24.49:283][ 21]Cmd: ACTOR DELETE
+[2018.05.06-13.24.49:288][ 21]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.05.06-13.24.49:309][ 21]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2018.05.06-13.24.50:261][ 43]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.06-13.24.50:275][ 43]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap" FILE="../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.05.06-13.24.50:528][ 43]LogSavePackage: Save=208.18ms
+[2018.05.06-13.24.50:528][ 43]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/NewMapBD2ECCFA46DBB1DFA06F6EA50546AB4E.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap.umap'
+[2018.05.06-13.24.50:533][ 43]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap.umap
+[2018.05.06-13.24.50:578][ 43]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap_BuiltData" FILE="../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap_BuiltData.uasset" SILENT=true
+[2018.05.06-13.24.50:969][ 43]LogSavePackage: Save=368.35ms
+[2018.05.06-13.24.50:969][ 43]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/NewMap_BuiltData6C947ABF46A26A44B5A2E3BB0A8080AD.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap_BuiltData.uasset'
+[2018.05.06-13.24.50:971][ 43]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap_BuiltData.uasset
+[2018.05.06-13.25.01:675][283]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube94)
+[2018.05.06-13.25.22:884][737]Cmd: DELETE
+[2018.05.06-13.25.22:884][737]Cmd: ACTOR DELETE
+[2018.05.06-13.25.22:904][737]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.05.06-13.25.22:950][737]LogEditorActor: Deleted 1 Actors (0.066 secs)
+[2018.05.06-13.25.23:217][744]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube102)
+[2018.05.06-13.25.23:339][744]Cmd: DELETE
+[2018.05.06-13.25.23:339][744]Cmd: ACTOR DELETE
+[2018.05.06-13.25.23:359][744]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.05.06-13.25.23:389][744]LogEditorActor: Deleted 1 Actors (0.049 secs)
+[2018.05.06-13.25.23:902][756]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube98)
+[2018.05.06-13.25.23:996][756]Cmd: DELETE
+[2018.05.06-13.25.23:997][756]Cmd: ACTOR DELETE
+[2018.05.06-13.25.24:002][756]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.05.06-13.25.24:024][756]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2018.05.06-13.25.24:583][770]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube97)
+[2018.05.06-13.25.24:706][770]Cmd: DELETE
+[2018.05.06-13.25.24:707][770]Cmd: ACTOR DELETE
+[2018.05.06-13.25.24:722][770]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.05.06-13.25.24:752][770]LogEditorActor: Deleted 1 Actors (0.046 secs)
+[2018.05.06-13.25.25:376][786]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube96)
+[2018.05.06-13.25.25:503][786]Cmd: DELETE
+[2018.05.06-13.25.25:503][786]Cmd: ACTOR DELETE
+[2018.05.06-13.25.25:509][786]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.05.06-13.25.25:530][786]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2018.05.06-13.25.26:145][800]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube95)
+[2018.05.06-13.25.26:321][801]Cmd: DELETE
+[2018.05.06-13.25.26:321][801]Cmd: ACTOR DELETE
+[2018.05.06-13.25.26:331][801]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.05.06-13.25.26:356][801]LogEditorActor: Deleted 1 Actors (0.035 secs)
+[2018.05.06-13.25.26:810][812]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube94)
+[2018.05.06-13.25.26:900][812]Cmd: DELETE
+[2018.05.06-13.25.26:900][812]Cmd: ACTOR DELETE
+[2018.05.06-13.25.26:906][812]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.05.06-13.25.26:927][812]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2018.05.06-13.25.28:267][843]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.06-13.25.28:279][843]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap" FILE="../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.05.06-13.25.28:500][843]LogSavePackage: Save=188.42ms
+[2018.05.06-13.25.28:500][843]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/NewMap6B2F306A4F38E0F6D89E808A38AB1301.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap.umap'
+[2018.05.06-13.25.28:504][843]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap.umap
+[2018.05.06-13.25.28:544][843]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap_BuiltData" FILE="../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap_BuiltData.uasset" SILENT=true
+[2018.05.06-13.25.28:919][843]LogSavePackage: Save=362.60ms
+[2018.05.06-13.25.28:919][843]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/NewMap_BuiltDataC43776FD4D2B41A69A2ED8AE19D36F56.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap_BuiltData.uasset'
+[2018.05.06-13.25.28:921][843]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap_BuiltData.uasset
+[2018.05.06-13.25.33:254][942]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.06-13.25.33:384][945]MapCheck: New page: Map Check
+[2018.05.06-13.25.33:471][945]Cmd: MAP REBUILD ALLVISIBLE
+[2018.05.06-13.25.33:472][945]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2018.05.06-13.25.34:181][945]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy WorldGridMaterial, compiling. Is special engine material.
+[2018.05.06-13.25.34:187][945]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy MaterialInstanceDynamic_12, compiling. 
+[2018.05.06-13.25.34:193][945]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.05.06-13.25.34:193][945]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy BasicShapeMaterial, compiling. 
+[2018.05.06-13.25.34:199][945]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.05.06-13.25.34:200][945]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.05.06-13.25.34:200][945]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy BlueMat, compiling. 
+[2018.05.06-13.25.34:208][945]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy RedMat, compiling. 
+[2018.05.06-13.25.34:216][945]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy GreenMat, compiling. 
+[2018.05.06-13.25.34:223][945]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy DoorMat, compiling. 
+[2018.05.06-13.25.34:232][945]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_UE4Man_Body, compiling. 
+[2018.05.06-13.25.34:246][945]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_UE4Man_ChestLogo, compiling. 
+[2018.05.06-13.25.35:462][945]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.05.06-13.25.35:462][945]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.05.06-13.25.35:462][945]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.05.06-13.25.35:463][945]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.05.06-13.25.35:463][945]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.05.06-13.25.35:463][945]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.05.06-13.25.35:463][945]TextureStreamingBuild: Display: Compiling optional shaders took 1.285 seconds.
+[2018.05.06-13.25.35:519][945]LogLevel: Display: Export Material TexCoord Scales took 0.057 seconds.
+[2018.05.06-13.25.35:553][945]TextureStreamingBuild: Display: Build Texture Streaming took 0.033 seconds.
+[2018.05.06-13.25.35:574][945]LightingResults: New page: Lighting Build - 6 May 2018 15:25:35
+[2018.05.06-13.25.35:584][945]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2018.05.06-13.25.35:585][945]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2018.05.06-13.25.35:585][945]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2018.05.06-13.25.35:586][945]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2018.05.06-13.25.35:587][945]LogSwarmInterface: [TryOpenConnection] Local Process ID is 1372
+[2018.05.06-13.25.49:121][945]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2018.05.06-13.25.49:122][945]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2018.05.06-13.25.49:122][945]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2018.05.06-13.25.49:122][945]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2018.05.06-13.25.49:122][945]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2018.05.06-13.25.49:122][945]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2018.05.06-13.25.49:307][945]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2018.05.06-13.25.49:307][945]MapCheck: New page: NewMap - 6 May 2018 15:25:49
+[2018.05.06-13.25.49:307][945]MapCheck: Error: WorldSettings_1 Maps need lighting rebuilt 
+[2018.05.06-13.25.49:372][945]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 64.497ms to complete.
+[2018.05.06-13.25.49:395][945]LogEditorBuildUtils: Build time 0:15
+[2018.05.06-13.25.52:588][992]LogSlate: Window 'Message Log' being destroyed
+[2018.05.06-13.25.52:649][992]LogSlate: Window 'Message Log' being destroyed
+[2018.05.06-13.26.01:145][165]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube123)
+[2018.05.06-13.26.07:075][276]Cmd: SELECT NONE
+[2018.05.06-13.26.18:822][527]Job is a success!
+[2018.05.06-13.26.19:024][528]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.06-13.26.19:114][528]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.041s
+[2018.05.06-13.26.19:114][528]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2018.05.06-13.26.19:114][528]LogVolumetricLightmapImport:      BrickData 1170x5x5 = 1.0Mb (trimmed 0.1Mb due to 0.010000 MinBrickError)
+[2018.05.06-13.26.19:114][528]LogVolumetricLightmapImport:      Bricks at Level
+[2018.05.06-13.26.19:114][528]LogVolumetricLightmapImport:          0: 0.4% covering 100.0% of volume
+[2018.05.06-13.26.19:114][528]LogVolumetricLightmapImport:          1: 3.4% covering 12.5% of volume
+[2018.05.06-13.26.19:114][528]LogVolumetricLightmapImport:          2: 96.2% covering 5.5% of volume
+[2018.05.06-13.26.20:406][528]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 256X256)
+[2018.05.06-13.26.20:406][528]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 256X256)
+[2018.05.06-13.26.20:406][528]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 1024X1024)
+[2018.05.06-13.26.20:406][528]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 1024X1024)
+[2018.05.06-13.26.20:406][528]LogTexture: Display: Building textures: HQ_Lightmap1_3 (AutoDXT, 64X64)
+[2018.05.06-13.26.20:406][528]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (DXT1, 64X64)
+[2018.05.06-13.26.20:594][528]LogTexture: Display: Building textures: ShadowMapTexture2D_34 (G8, 256X128)
+[2018.05.06-13.26.20:594][528]LogTexture: Display: Building textures: ShadowMapTexture2D_36 (G8, 32X32)
+[2018.05.06-13.26.20:594][528]LogTexture: Display: Building textures: ShadowMapTexture2D_35 (BGRA8, 1024X512)
+[2018.05.06-13.26.20:643][528]Lightmass on BEN-PAVILION: 30.0 sec total, 959 ms importing, 97 ms setup, 3.52 sec photons, 25.4 sec processing, 0 ms extra exporting [320/320 mappings]. Threads: 1:41 min total, 51.6 sec processing.
+[2018.05.06-13.26.20:658][528]LogStaticLightingSystem: Illumination: 44.9 sec (1.18 sec encoding lightmaps, 180 ms encoding shadowmaps)
+[2018.05.06-13.26.20:658][528]LogStaticLightingSystem: Lightmap texture memory:  2.1 MB (2.0 MB streaming, 0.1 MB non-streaming), 6 textures
+[2018.05.06-13.26.20:658][528]LogStaticLightingSystem: Shadowmap texture memory: 2.7 MB (2.7 MB streaming, 0.0 MB non-streaming), 3 textures
+[2018.05.06-13.26.35:146][528]DumpUnbuiltLightIteractions
+[2018.05.06-13.26.35:147][528]Lights with unbuilt interactions: 2
+[2018.05.06-13.26.35:147][528]    Light LightSource
+[2018.05.06-13.26.35:147][528]    Light PointLight_1
+[2018.05.06-13.26.35:147][528]
+[2018.05.06-13.26.35:147][528]Primitives with unbuilt interactions: 1
+[2018.05.06-13.26.35:147][528]    Primitive StaticMeshComponent /Game/NewMap.NewMap:PersistentLevel.Cube133.StaticMeshComponent0
+[2018.05.06-13.26.35:324][529]Cmd: MAP CHECK NOTIFYRESULTS
+[2018.05.06-13.26.35:324][529]MapCheck: New page: NewMap - 6 May 2018 15:26:35
+[2018.05.06-13.26.35:325][529]MapCheck: Error: WorldSettings_1 Maps need lighting rebuilt 
+[2018.05.06-13.26.35:394][529]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 70.337ms to complete.
+[2018.05.06-13.26.37:230][572]LogEditorViewport: Clicking Background
+[2018.05.06-13.26.38:209][594]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube133)
+[2018.05.06-13.26.46:564][776]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.06-13.26.46:606][777]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.06-13.26.46:650][777]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.06-13.26.46:651][777]PIE: New page: PIE session: NewMap (6 May 2018 15:26:46)
+[2018.05.06-13.26.46:651][777]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2018.05.06-13.26.46:693][777]LogPlayLevel: PIE: StaticDuplicateObject took: (0.041152s)
+[2018.05.06-13.26.46:693][777]LogAIModule: Creating AISystem for world NewMap
+[2018.05.06-13.26.46:694][777]LogPlayLevel: PIE: World Init took: (0.001020s)
+[2018.05.06-13.26.46:694][777]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.042589s)
+[2018.05.06-13.26.46:721][777]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.06-13.26.46:733][777]LogInit: FAudioDevice initialized.
+[2018.05.06-13.26.46:777][777]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.06-13.26.46:804][777]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2018.05.06-14.26.46
+[2018.05.06-13.26.46:811][777]LogWorld: Bringing up level for play took: 0.032532
+[2018.05.06-13.26.46:819][777]PIE: Play in editor start time for /Game/UEDPIE_0_NewMap -0.26
+[2018.05.06-13.26.47:800][815]LogBlueprintUserMessages: [ThirdPersonCharacter_853] 4.0
+[2018.05.06-13.26.52:631][ 29]LogBlueprintUserMessages: [ThirdPersonEnemy5_446] 4.0
+[2018.05.06-13.26.52:747][ 34]LogBlueprintUserMessages: [ThirdPersonEnemy5_446] 3.0
+[2018.05.06-13.26.52:883][ 40]LogBlueprintUserMessages: [ThirdPersonEnemy5_446] 2.0
+[2018.05.06-13.26.52:982][ 44]LogBlueprintUserMessages: [ThirdPersonEnemy5_446] 1.0
+[2018.05.06-13.26.53:940][ 86]LogBlueprintUserMessages: [ThirdPersonEnemy6] 4.0
+[2018.05.06-13.26.54:217][ 98]LogBlueprintUserMessages: [ThirdPersonEnemy6] 3.0
+[2018.05.06-13.26.54:316][103]LogBlueprintUserMessages: [ThirdPersonEnemy6] 2.0
+[2018.05.06-13.26.54:457][109]LogBlueprintUserMessages: [ThirdPersonEnemy6] 1.0
+[2018.05.06-13.27.07:813][566]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube134)
+[2018.05.06-13.27.46:399][399]Cmd: SELECT NONE
+[2018.05.06-13.27.47:313][418]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.06-13.27.47:326][418]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap" FILE="../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.05.06-13.27.47:562][418]LogSavePackage: Save=195.94ms
+[2018.05.06-13.27.47:562][418]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/NewMap869E7060419B050EE963D7B9F1336626.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap.umap'
+[2018.05.06-13.27.47:566][418]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap.umap
+[2018.05.06-13.27.47:610][418]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap_BuiltData" FILE="../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap_BuiltData.uasset" SILENT=true
+[2018.05.06-13.27.47:985][418]LogSavePackage: Save=367.15ms
+[2018.05.06-13.27.47:985][418]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/NewMap_BuiltDataC3F6C82E434A56BE56CEE5AD49500C73.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap_BuiltData.uasset'
+[2018.05.06-13.27.47:989][418]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap_BuiltData.uasset
+[2018.05.06-13.27.48:972][442]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.06-13.27.49:029][442]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.06-13.27.49:029][442]PIE: New page: PIE session: NewMap (6 May 2018 15:27:49)
+[2018.05.06-13.27.49:030][442]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2018.05.06-13.27.49:073][442]LogPlayLevel: PIE: StaticDuplicateObject took: (0.043011s)
+[2018.05.06-13.27.49:073][442]LogAIModule: Creating AISystem for world NewMap
+[2018.05.06-13.27.49:074][442]LogPlayLevel: PIE: World Init took: (0.000944s)
+[2018.05.06-13.27.49:074][442]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.044292s)
+[2018.05.06-13.27.49:100][442]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.06-13.27.49:111][442]LogInit: FAudioDevice initialized.
+[2018.05.06-13.27.49:150][442]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.06-13.27.49:178][442]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2018.05.06-14.27.49
+[2018.05.06-13.27.49:184][442]LogWorld: Bringing up level for play took: 0.032760
+[2018.05.06-13.27.49:190][442]PIE: Play in editor start time for /Game/UEDPIE_0_NewMap 0.111
+[2018.05.06-13.27.49:979][472]LogBlueprintUserMessages: [ThirdPersonCharacter_853] 4.0
+[2018.05.06-13.27.55:339][709]LogBlueprintUserMessages: [ThirdPersonEnemy5_446] 4.0
+[2018.05.06-13.27.55:458][714]LogBlueprintUserMessages: [ThirdPersonEnemy5_446] 3.0
+[2018.05.06-13.27.55:593][720]LogBlueprintUserMessages: [ThirdPersonEnemy5_446] 2.0
+[2018.05.06-13.27.55:861][731]LogBlueprintUserMessages: [ThirdPersonEnemy5_446] 1.0
+[2018.05.06-13.27.57:425][798]LogBlueprintUserMessages: [ThirdPersonEnemy6] 4.0
+[2018.05.06-13.27.57:691][809]LogBlueprintUserMessages: [ThirdPersonEnemy6] 3.0
+[2018.05.06-13.28.32:307][964]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube133)
+[2018.05.06-13.28.34:264][  4]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube82)
+[2018.05.06-13.28.34:735][ 13]Cmd: SELECT NONE
+[2018.05.06-13.28.36:230][ 47]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube137)
+[2018.05.06-13.28.42:616][183]Cmd: SELECT NONE
+[2018.05.06-13.28.46:025][256]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube137)
+[2018.05.06-13.28.53:080][406]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube136)
+[2018.05.06-13.28.55:175][449]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube135)
+[2018.05.06-13.28.56:813][481]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube134)
+[2018.05.06-13.28.58:927][525]Cmd: SELECT NONE
+[2018.05.06-13.29.00:358][557]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube133)
+[2018.05.06-13.29.01:149][572]Cmd: DELETE
+[2018.05.06-13.29.01:149][572]Cmd: ACTOR DELETE
+[2018.05.06-13.29.01:184][572]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.05.06-13.29.01:228][572]LogEditorActor: Deleted 1 Actors (0.079 secs)
+[2018.05.06-13.29.06:059][680]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube135)
+[2018.05.06-13.29.06:749][694]Cmd: DELETE
+[2018.05.06-13.29.06:749][694]Cmd: ACTOR DELETE
+[2018.05.06-13.29.06:763][694]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.05.06-13.29.06:807][694]LogEditorActor: Deleted 1 Actors (0.057 secs)
+[2018.05.06-13.29.07:091][700]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube134)
+[2018.05.06-13.29.07:263][701]Cmd: DELETE
+[2018.05.06-13.29.07:263][701]Cmd: ACTOR DELETE
+[2018.05.06-13.29.07:273][701]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.05.06-13.29.07:296][701]LogEditorActor: Deleted 1 Actors (0.033 secs)
+[2018.05.06-13.29.07:731][712]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube136)
+[2018.05.06-13.29.20:523][984]Cmd: SELECT NONE
+[2018.05.06-13.29.22:991][ 39]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube142)
+[2018.05.06-13.29.23:189][ 40]Cmd: DELETE
+[2018.05.06-13.29.23:189][ 40]Cmd: ACTOR DELETE
+[2018.05.06-13.29.23:199][ 40]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.05.06-13.29.23:222][ 40]LogEditorActor: Deleted 1 Actors (0.033 secs)
+[2018.05.06-13.29.29:555][182]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube141)
+[2018.05.06-13.29.30:434][198]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube136)
+[2018.05.06-13.29.31:002][208]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube137)
+[2018.05.06-13.29.31:548][218]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube138)
+[2018.05.06-13.29.32:082][228]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube139)
+[2018.05.06-13.29.34:153][272]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube140)
+[2018.05.06-13.29.34:718][283]Cmd: DELETE
+[2018.05.06-13.29.34:718][283]Cmd: ACTOR DELETE
+[2018.05.06-13.29.34:740][283]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.05.06-13.29.34:785][283]LogEditorActor: Deleted 1 Actors (0.067 secs)
+[2018.05.06-13.29.35:230][293]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube123)
+[2018.05.06-13.29.35:387][294]Cmd: DELETE
+[2018.05.06-13.29.35:387][294]Cmd: ACTOR DELETE
+[2018.05.06-13.29.35:397][294]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.05.06-13.29.35:418][294]LogEditorActor: Deleted 1 Actors (0.031 secs)
+[2018.05.06-13.29.36:379][317]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube141)
+[2018.05.06-13.29.37:454][338]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube136)
+[2018.05.06-13.29.38:040][348]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube137)
+[2018.05.06-13.29.38:638][359]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube138)
+[2018.05.06-13.29.39:093][367]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube139)
+[2018.05.06-13.29.42:877][448]Cmd: SELECT NONE
+[2018.05.06-13.29.43:729][467]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube141)
+[2018.05.06-13.29.53:244][665]Cmd: SELECT NONE
+[2018.05.06-13.30.01:831][858]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube143)
+[2018.05.06-13.30.02:261][865]Cmd: DELETE
+[2018.05.06-13.30.02:262][865]Cmd: ACTOR DELETE
+[2018.05.06-13.30.02:284][865]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.05.06-13.30.02:330][865]LogEditorActor: Deleted 1 Actors (0.068 secs)
+[2018.05.06-13.30.05:618][940]Cmd: SELECT NONE
+[2018.05.06-13.30.06:792][965]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.06-13.30.06:800][965]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap" FILE="../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.05.06-13.30.07:037][965]LogSavePackage: Save=195.93ms
+[2018.05.06-13.30.07:037][965]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/NewMapAF56C79140035FC2183392A491EFE07C.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap.umap'
+[2018.05.06-13.30.07:041][965]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap.umap
+[2018.05.06-13.30.07:085][965]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap_BuiltData" FILE="../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap_BuiltData.uasset" SILENT=true
+[2018.05.06-13.30.07:464][965]LogSavePackage: Save=358.64ms
+[2018.05.06-13.30.07:464][965]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/NewMap_BuiltData618C19AA4C43B38235D5E2B5B6118574.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap_BuiltData.uasset'
+[2018.05.06-13.30.07:466][965]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap_BuiltData.uasset
+[2018.05.06-13.30.09:598][ 16]MapCheck: New page: Map Check
+[2018.05.06-13.30.09:684][ 16]Cmd: MAP REBUILD ALLVISIBLE
+[2018.05.06-13.30.09:684][ 16]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2018.05.06-13.30.10:426][ 16]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy WorldGridMaterial, compiling. Is special engine material.
+[2018.05.06-13.30.10:432][ 16]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy MaterialInstanceDynamic_13, compiling. 
+[2018.05.06-13.30.10:438][ 16]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy BasicShapeMaterial, compiling. 
+[2018.05.06-13.30.10:443][ 16]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.05.06-13.30.10:443][ 16]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.05.06-13.30.10:443][ 16]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy BlueMat, compiling. 
+[2018.05.06-13.30.10:449][ 16]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy RedMat, compiling. 
+[2018.05.06-13.30.10:456][ 16]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy GreenMat, compiling. 
+[2018.05.06-13.30.10:465][ 16]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.05.06-13.30.10:465][ 16]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy DoorMat, compiling. 
+[2018.05.06-13.30.10:474][ 16]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_UE4Man_Body, compiling. 
+[2018.05.06-13.30.10:487][ 16]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_UE4Man_ChestLogo, compiling. 
+[2018.05.06-13.30.11:694][ 16]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.05.06-13.30.11:694][ 16]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.05.06-13.30.11:694][ 16]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.05.06-13.30.11:694][ 16]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.05.06-13.30.11:694][ 16]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.05.06-13.30.11:695][ 16]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.05.06-13.30.11:695][ 16]TextureStreamingBuild: Display: Compiling optional shaders took 1.272 seconds.
+[2018.05.06-13.30.11:746][ 16]LogLevel: Display: Export Material TexCoord Scales took 0.051 seconds.
+[2018.05.06-13.30.11:781][ 16]TextureStreamingBuild: Display: Build Texture Streaming took 0.034 seconds.
+[2018.05.06-13.30.11:803][ 16]LightingResults: New page: Lighting Build - 6 May 2018 15:30:11
+[2018.05.06-13.30.11:812][ 16]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2018.05.06-13.30.11:814][ 16]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2018.05.06-13.30.11:814][ 16]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2018.05.06-13.30.11:815][ 16]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2018.05.06-13.30.11:815][ 16]LogSwarmInterface: [TryOpenConnection] Local Process ID is 1372
+[2018.05.06-13.30.25:376][ 16]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2018.05.06-13.30.25:376][ 16]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2018.05.06-13.30.25:376][ 16]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2018.05.06-13.30.25:376][ 16]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2018.05.06-13.30.25:376][ 16]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2018.05.06-13.30.25:376][ 16]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2018.05.06-13.30.25:547][ 16]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2018.05.06-13.30.25:547][ 16]MapCheck: New page: NewMap - 6 May 2018 15:30:25
+[2018.05.06-13.30.25:548][ 16]MapCheck: Error: WorldSettings_1 Maps need lighting rebuilt 
+[2018.05.06-13.30.25:612][ 16]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 63.828ms to complete.
+[2018.05.06-13.30.25:634][ 16]LogEditorBuildUtils: Build time 0:15
+[2018.05.06-13.30.28:426][ 57]LogSlate: Window 'Message Log' being destroyed
+[2018.05.06-13.30.28:488][ 57]LogSlate: Window 'Message Log' being destroyed
+[2018.05.06-13.30.58:949][613]Job is a success!
+[2018.05.06-13.30.59:122][614]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.06-13.30.59:198][614]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.031s
+[2018.05.06-13.30.59:198][614]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2018.05.06-13.30.59:198][614]LogVolumetricLightmapImport:      BrickData 1185x5x5 = 1.0Mb (trimmed 0.1Mb due to 0.010000 MinBrickError)
+[2018.05.06-13.30.59:198][614]LogVolumetricLightmapImport:      Bricks at Level
+[2018.05.06-13.30.59:198][614]LogVolumetricLightmapImport:          0: 0.4% covering 100.0% of volume
+[2018.05.06-13.30.59:198][614]LogVolumetricLightmapImport:          1: 3.4% covering 12.5% of volume
+[2018.05.06-13.30.59:198][614]LogVolumetricLightmapImport:          2: 96.2% covering 5.6% of volume
+[2018.05.06-13.31.00:490][614]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 256X256)
+[2018.05.06-13.31.00:490][614]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 256X256)
+[2018.05.06-13.31.00:490][614]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 1024X1024)
+[2018.05.06-13.31.00:490][614]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 1024X1024)
+[2018.05.06-13.31.00:490][614]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 64X64)
+[2018.05.06-13.31.00:490][614]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 64X64)
+[2018.05.06-13.31.00:671][614]LogTexture: Display: Building textures: ShadowMapTexture2D_37 (G8, 256X128)
+[2018.05.06-13.31.00:671][614]LogTexture: Display: Building textures: ShadowMapTexture2D_39 (G8, 32X32)
+[2018.05.06-13.31.00:671][614]LogTexture: Display: Building textures: ShadowMapTexture2D_38 (BGRA8, 1024X512)
+[2018.05.06-13.31.00:726][614]Lightmass on BEN-PAVILION: 33.9 sec total, 486 ms importing, 85 ms setup, 4.18 sec photons, 29.1 sec processing, 0 ms extra exporting [325/325 mappings]. Threads: 1:56 min total, 58.6 sec processing.
+[2018.05.06-13.31.00:739][614]LogStaticLightingSystem: Illumination: 48.8 sec (1.18 sec encoding lightmaps, 175 ms encoding shadowmaps)
+[2018.05.06-13.31.00:739][614]LogStaticLightingSystem: Lightmap texture memory:  2.1 MB (2.0 MB streaming, 0.1 MB non-streaming), 6 textures
+[2018.05.06-13.31.00:739][614]LogStaticLightingSystem: Shadowmap texture memory: 2.7 MB (2.7 MB streaming, 0.0 MB non-streaming), 3 textures
+[2018.05.06-13.31.15:401][614]DumpUnbuiltLightIteractions
+[2018.05.06-13.31.15:401][614]Lights with unbuilt interactions: 0
+[2018.05.06-13.31.15:401][614]
+[2018.05.06-13.31.15:401][614]Primitives with unbuilt interactions: 0
+[2018.05.06-13.31.15:568][615]Cmd: MAP CHECK NOTIFYRESULTS
+[2018.05.06-13.31.15:569][615]MapCheck: New page: NewMap - 6 May 2018 15:31:15
+[2018.05.06-13.31.15:639][615]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 70.614ms to complete.
+[2018.05.06-13.31.20:512][719]LogEditorViewport: Clicking Background
+[2018.05.06-13.31.23:921][792]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.06-13.31.23:928][792]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap" FILE="../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.05.06-13.31.24:156][792]LogSavePackage: Save=195.43ms
+[2018.05.06-13.31.24:156][792]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/NewMapBA043A094083C1352E015EBB77ADA812.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap.umap'
+[2018.05.06-13.31.24:160][792]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap.umap
+[2018.05.06-13.31.24:201][792]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap_BuiltData" FILE="../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap_BuiltData.uasset" SILENT=true
+[2018.05.06-13.31.24:583][792]LogSavePackage: Save=371.60ms
+[2018.05.06-13.31.24:583][792]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/NewMap_BuiltDataACE4567D4AA1E61971ADCB9400CDEE0D.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap_BuiltData.uasset'
+[2018.05.06-13.31.24:587][792]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap_BuiltData.uasset
+[2018.05.06-13.31.25:050][805]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.06-13.31.25:098][805]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.06-13.31.25:098][805]PIE: New page: PIE session: NewMap (6 May 2018 15:31:25)
+[2018.05.06-13.31.25:099][805]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2018.05.06-13.31.25:144][805]LogPlayLevel: PIE: StaticDuplicateObject took: (0.045399s)
+[2018.05.06-13.31.25:145][805]LogAIModule: Creating AISystem for world NewMap
+[2018.05.06-13.31.25:145][805]LogPlayLevel: PIE: World Init took: (0.001015s)
+[2018.05.06-13.31.25:145][805]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.046708s)
+[2018.05.06-13.31.25:175][805]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.06-13.31.25:190][805]LogInit: FAudioDevice initialized.
+[2018.05.06-13.31.25:232][805]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.06-13.31.25:254][805]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2018.05.06-14.31.25
+[2018.05.06-13.31.25:258][805]LogWorld: Bringing up level for play took: 0.024152
+[2018.05.06-13.31.25:262][805]PIE: Play in editor start time for /Game/UEDPIE_0_NewMap 0.183
+[2018.05.06-13.31.26:273][845]LogBlueprintUserMessages: [ThirdPersonCharacter_853] 4.0
+[2018.05.06-13.31.26:617][861]LogBlueprintUserMessages: [ThirdPersonCharacter_853] 3.0
+[2018.05.06-13.31.26:773][868]LogBlueprintUserMessages: [ThirdPersonCharacter_853] 2.0
+[2018.05.06-13.31.26:892][873]LogBlueprintUserMessages: [ThirdPersonCharacter_853] 1.0
+[2018.05.06-13.31.32:452][118]LogBlueprintUserMessages: [ThirdPersonEnemy5_446] 4.0
+[2018.05.06-13.31.32:605][124]LogBlueprintUserMessages: [ThirdPersonEnemy5_446] 3.0
+[2018.05.06-13.31.33:127][147]LogBlueprintUserMessages: [ThirdPersonEnemy5_446] 2.0
+[2018.05.06-13.31.33:370][157]LogBlueprintUserMessages: [ThirdPersonEnemy5_446] 1.0
+[2018.05.06-13.31.40:272][455]LogBlueprintUserMessages: [SlideDoor3_980] Key Card Declined
+[2018.05.06-13.31.43:691][593]LogBlueprintUserMessages: [SlideDoor3_980] Key Card Declined
+[2018.05.06-13.31.52:751][881]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube142)
+[2018.05.06-13.32.03:378][113]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube139)
+[2018.05.06-13.32.12:756][311]Cmd: SELECT NONE
+[2018.05.06-13.32.20:410][481]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube100)
+[2018.05.06-13.32.22:412][525]LogEditorViewport: Clicking on Actor (CTRL LMB): SlideDoor_C (SlideDoor3)
+[2018.05.06-13.32.23:509][548]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube121)
+[2018.05.06-13.32.24:137][561]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube108)
+[2018.05.06-13.32.24:830][574]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube88)
+[2018.05.06-13.32.26:883][617]Cmd: SELECT NONE
+[2018.05.06-13.32.28:617][653]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube142)
+[2018.05.06-13.32.33:123][745]Cmd: SELECT NONE
+[2018.05.06-13.32.39:456][883]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube132)
+[2018.05.06-13.32.41:982][937]Cmd: DELETE
+[2018.05.06-13.32.41:982][937]Cmd: ACTOR DELETE
+[2018.05.06-13.32.42:003][937]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.05.06-13.32.42:046][937]LogEditorActor: Deleted 1 Actors (0.064 secs)
+[2018.05.06-13.32.42:793][954]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.06-13.32.42:814][954]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap" FILE="../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.05.06-13.32.43:039][954]LogSavePackage: Save=189.67ms
+[2018.05.06-13.32.43:039][954]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/NewMapD57C1BD94C274B03C19F48A174329192.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap.umap'
+[2018.05.06-13.32.43:042][954]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap.umap
+[2018.05.06-13.32.43:089][954]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap_BuiltData" FILE="../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap_BuiltData.uasset" SILENT=true
+[2018.05.06-13.32.43:467][954]LogSavePackage: Save=370.50ms
+[2018.05.06-13.32.43:467][954]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/NewMap_BuiltDataB10B6CBC4180DB16351808B16B8E0C53.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap_BuiltData.uasset'
+[2018.05.06-13.32.43:470][954]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap_BuiltData.uasset
+[2018.05.06-13.32.50:802][118]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube86)
+[2018.05.06-13.32.52:202][146]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube87)
+[2018.05.06-13.32.54:087][183]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.06-13.33.07:400][436]Cmd: SELECT NONE
+[2018.05.06-13.33.09:138][469]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube93)
+[2018.05.06-13.33.13:995][557]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.06-13.33.17:093][613]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube104)
+[2018.05.06-13.33.17:365][618]Cmd: SELECT NONE
+[2018.05.06-13.33.29:937][890]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube115)
+[2018.05.06-13.33.37:515][ 50]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.06-13.33.43:144][167]Cmd: SELECT NONE
+[2018.05.06-13.33.47:274][258]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube82)
+[2018.05.06-13.33.51:218][331]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.06-13.33.55:875][419]Cmd: SELECT NONE
+[2018.05.06-13.33.57:477][450]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube91)
+[2018.05.06-13.34.03:182][555]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.06-13.34.09:638][676]Cmd: SELECT NONE
+[2018.05.06-13.34.14:197][767]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube117)
+[2018.05.06-13.34.15:581][792]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.06-13.34.22:222][912]Cmd: SELECT NONE
+[2018.05.06-13.34.27:379][ 14]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube114)
+[2018.05.06-13.34.31:792][ 95]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.06-13.34.36:885][191]Cmd: SELECT NONE
+[2018.05.06-13.34.39:418][242]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.06-13.34.39:429][242]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap" FILE="../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.05.06-13.34.39:662][242]LogSavePackage: Save=195.40ms
+[2018.05.06-13.34.39:662][242]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/NewMapA43BC26F4868DF6F4BCAFE99DE082BFF.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap.umap'
+[2018.05.06-13.34.39:666][242]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap.umap
+[2018.05.06-13.34.39:706][242]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap_BuiltData" FILE="../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap_BuiltData.uasset" SILENT=true
+[2018.05.06-13.34.40:095][242]LogSavePackage: Save=380.19ms
+[2018.05.06-13.34.40:095][242]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/NewMap_BuiltData521E824D42BCED142797B7B4C036767C.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap_BuiltData.uasset'
+[2018.05.06-13.34.40:097][242]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap_BuiltData.uasset
+[2018.05.06-13.34.47:956][404]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube124)
+[2018.05.06-13.34.48:625][415]Cmd: DELETE
+[2018.05.06-13.34.48:625][415]Cmd: ACTOR DELETE
+[2018.05.06-13.34.48:665][415]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.05.06-13.34.48:711][415]LogEditorActor: Deleted 1 Actors (0.086 secs)
+[2018.05.06-13.34.49:400][430]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube125)
+[2018.05.06-13.34.50:468][448]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube126)
+[2018.05.06-13.34.53:758][509]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube128)
+[2018.05.06-13.34.58:811][602]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube129)
+[2018.05.06-13.34.59:387][611]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube130)
+[2018.05.06-13.34.59:574][612]Cmd: DELETE
+[2018.05.06-13.34.59:574][612]Cmd: ACTOR DELETE
+[2018.05.06-13.34.59:584][612]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.05.06-13.34.59:607][612]LogEditorActor: Deleted 1 Actors (0.032 secs)
+[2018.05.06-13.35.01:022][640]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.06-13.35.01:039][640]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap" FILE="../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.05.06-13.35.01:266][640]LogSavePackage: Save=190.24ms
+[2018.05.06-13.35.01:266][640]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/NewMap09C3911444CE671C35E7F0879A06C53E.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap.umap'
+[2018.05.06-13.35.01:269][640]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap.umap
+[2018.05.06-13.35.01:315][640]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap_BuiltData" FILE="../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap_BuiltData.uasset" SILENT=true
+[2018.05.06-13.35.01:694][640]LogSavePackage: Save=369.82ms
+[2018.05.06-13.35.01:694][640]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/NewMap_BuiltData26E8EC4149E174077B4D6E92DCD82826.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap_BuiltData.uasset'
+[2018.05.06-13.35.01:696][640]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap_BuiltData.uasset
+[2018.05.06-13.35.10:709][826]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.06-13.35.10:726][826]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap" FILE="../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.05.06-13.35.10:959][826]LogSavePackage: Save=191.78ms
+[2018.05.06-13.35.10:959][826]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/NewMap6872F6B445F32880F5083A949973C820.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap.umap'
+[2018.05.06-13.35.10:961][826]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap.umap
+[2018.05.06-13.35.11:000][826]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap_BuiltData" FILE="../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap_BuiltData.uasset" SILENT=true
+[2018.05.06-13.35.11:398][826]LogSavePackage: Save=375.75ms
+[2018.05.06-13.35.11:398][826]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/NewMap_BuiltDataF7187A604268C2B85A7879AED3A721CB.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap_BuiltData.uasset'
+[2018.05.06-13.35.11:399][826]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap_BuiltData.uasset
+[2018.05.06-13.35.13:774][875]MapCheck: New page: Map Check
+[2018.05.06-13.35.13:872][875]Cmd: MAP REBUILD ALLVISIBLE
+[2018.05.06-13.35.13:872][875]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2018.05.06-13.35.14:649][875]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy WorldGridMaterial, compiling. Is special engine material.
+[2018.05.06-13.35.14:654][875]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy MaterialInstanceDynamic_14, compiling. 
+[2018.05.06-13.35.14:660][875]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.05.06-13.35.14:660][875]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy BasicShapeMaterial, compiling. 
+[2018.05.06-13.35.14:666][875]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy BlueMat, compiling. 
+[2018.05.06-13.35.14:674][875]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.05.06-13.35.14:674][875]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.05.06-13.35.14:674][875]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy RedMat, compiling. 
+[2018.05.06-13.35.14:682][875]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy GreenMat, compiling. 
+[2018.05.06-13.35.14:689][875]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy DoorMat, compiling. 
+[2018.05.06-13.35.14:698][875]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_UE4Man_Body, compiling. 
+[2018.05.06-13.35.14:711][875]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_UE4Man_ChestLogo, compiling. 
+[2018.05.06-13.35.15:853][875]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.05.06-13.35.15:853][875]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.05.06-13.35.15:853][875]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.05.06-13.35.15:853][875]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.05.06-13.35.15:853][875]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.05.06-13.35.15:853][875]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.05.06-13.35.15:853][875]TextureStreamingBuild: Display: Compiling optional shaders took 1.209 seconds.
+[2018.05.06-13.35.15:908][875]LogLevel: Display: Export Material TexCoord Scales took 0.055 seconds.
+[2018.05.06-13.35.15:943][875]TextureStreamingBuild: Display: Build Texture Streaming took 0.034 seconds.
+[2018.05.06-13.35.15:966][875]LightingResults: New page: Lighting Build - 6 May 2018 15:35:15
+[2018.05.06-13.35.15:975][875]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2018.05.06-13.35.15:978][875]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2018.05.06-13.35.15:978][875]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2018.05.06-13.35.15:979][875]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2018.05.06-13.35.15:979][875]LogSwarmInterface: [TryOpenConnection] Local Process ID is 1372
+[2018.05.06-13.35.34:038][875]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2018.05.06-13.35.34:038][875]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2018.05.06-13.35.34:039][875]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2018.05.06-13.35.34:039][875]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2018.05.06-13.35.34:039][875]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2018.05.06-13.35.34:039][875]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2018.05.06-13.35.34:223][875]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2018.05.06-13.35.34:223][875]MapCheck: New page: NewMap - 6 May 2018 15:35:34
+[2018.05.06-13.35.34:223][875]MapCheck: Error: WorldSettings_1 Maps need lighting rebuilt 
+[2018.05.06-13.35.34:286][875]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 63.081ms to complete.
+[2018.05.06-13.35.34:308][875]LogEditorBuildUtils: Build time 0:20
+[2018.05.06-13.35.38:251][929]LogSlate: Window 'Message Log' being destroyed
+[2018.05.06-13.35.38:320][929]LogSlate: Window 'Message Log' being destroyed
+[2018.05.06-13.35.42:017][994]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.06-13.35.42:060][994]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap" FILE="../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.05.06-13.35.42:409][994]LogSavePackage: Save=307.97ms
+[2018.05.06-13.35.42:409][994]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/NewMapE0DF256D4E76566A1F05A69F8C040545.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap.umap'
+[2018.05.06-13.35.42:413][994]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap.umap
+[2018.05.06-13.35.42:467][994]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap_BuiltData" FILE="../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap_BuiltData.uasset" SILENT=true
+[2018.05.06-13.35.42:974][994]LogSavePackage: Save=495.26ms
+[2018.05.06-13.35.42:974][994]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/NewMap_BuiltData6C2A1A66463C6F79636A1F992FEB21EB.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap_BuiltData.uasset'
+[2018.05.06-13.35.42:976][994]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap_BuiltData.uasset
+[2018.05.06-13.35.59:725][306]Job is a success!
+[2018.05.06-13.35.59:985][307]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.034s
+[2018.05.06-13.35.59:985][307]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2018.05.06-13.35.59:985][307]LogVolumetricLightmapImport:      BrickData 1170x5x5 = 1.0Mb (trimmed 0.1Mb due to 0.010000 MinBrickError)
+[2018.05.06-13.35.59:985][307]LogVolumetricLightmapImport:      Bricks at Level
+[2018.05.06-13.35.59:985][307]LogVolumetricLightmapImport:          0: 0.4% covering 100.0% of volume
+[2018.05.06-13.35.59:985][307]LogVolumetricLightmapImport:          1: 3.4% covering 12.5% of volume
+[2018.05.06-13.35.59:985][307]LogVolumetricLightmapImport:          2: 96.2% covering 5.5% of volume
+[2018.05.06-13.36.01:384][307]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 256X256)
+[2018.05.06-13.36.01:384][307]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 256X256)
+[2018.05.06-13.36.01:384][307]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 1024X1024)
+[2018.05.06-13.36.01:384][307]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 1024X1024)
+[2018.05.06-13.36.01:384][307]LogTexture: Display: Building textures: HQ_Lightmap1_3 (AutoDXT, 64X64)
+[2018.05.06-13.36.01:384][307]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (DXT1, 64X64)
+[2018.05.06-13.36.01:589][307]LogTexture: Display: Building textures: ShadowMapTexture2D_40 (G8, 256X128)
+[2018.05.06-13.36.01:589][307]LogTexture: Display: Building textures: ShadowMapTexture2D_42 (G8, 32X32)
+[2018.05.06-13.36.01:589][307]LogTexture: Display: Building textures: ShadowMapTexture2D_41 (BGRA8, 1024X512)
+[2018.05.06-13.36.01:641][307]Lightmass on BEN-PAVILION: 26.0 sec total, 489 ms importing, 87 ms setup, 3.75 sec photons, 21.6 sec processing, 0 ms extra exporting [323/323 mappings]. Threads: 1:26 min total, 42.3 sec processing.
+[2018.05.06-13.36.01:655][307]LogStaticLightingSystem: Illumination: 45.5 sec (1.28 sec encoding lightmaps, 199 ms encoding shadowmaps)
+[2018.05.06-13.36.01:656][307]LogStaticLightingSystem: Lightmap texture memory:  2.1 MB (2.0 MB streaming, 0.1 MB non-streaming), 6 textures
+[2018.05.06-13.36.01:656][307]LogStaticLightingSystem: Shadowmap texture memory: 2.7 MB (2.7 MB streaming, 0.0 MB non-streaming), 3 textures
+[2018.05.06-13.36.20:064][307]DumpUnbuiltLightIteractions
+[2018.05.06-13.36.20:064][307]Lights with unbuilt interactions: 0
+[2018.05.06-13.36.20:064][307]
+[2018.05.06-13.36.20:064][307]Primitives with unbuilt interactions: 0
+[2018.05.06-13.36.20:240][308]Cmd: MAP CHECK NOTIFYRESULTS
+[2018.05.06-13.36.20:240][308]MapCheck: New page: NewMap - 6 May 2018 15:36:20
+[2018.05.06-13.36.20:313][308]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 72.815ms to complete.
+[2018.05.06-13.36.25:902][431]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap" FILE="../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.05.06-13.36.26:126][431]LogSavePackage: Save=192.31ms
+[2018.05.06-13.36.26:126][431]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/NewMap275DD5CA4334CCE058E923ADA49E2A37.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap.umap'
+[2018.05.06-13.36.26:130][431]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap.umap
+[2018.05.06-13.36.26:167][431]LogFileHelpers: Saving map 'NewMap' took 0.328
+[2018.05.06-13.36.26:170][431]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap_BuiltData" FILE="../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap_BuiltData.uasset" SILENT=true
+[2018.05.06-13.36.26:552][431]LogSavePackage: Save=369.88ms
+[2018.05.06-13.36.26:552][431]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/NewMap_BuiltData4886A37641D8009F33EF9BBEE90DBFB2.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap_BuiltData.uasset'
+[2018.05.06-13.36.26:558][431]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap_BuiltData.uasset
+[2018.05.06-13.36.28:653][481]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.06-13.36.28:702][481]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.06-13.36.28:703][481]PIE: New page: PIE session: NewMap (6 May 2018 15:36:28)
+[2018.05.06-13.36.28:703][481]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2018.05.06-13.36.28:747][481]LogPlayLevel: PIE: StaticDuplicateObject took: (0.043730s)
+[2018.05.06-13.36.28:747][481]LogAIModule: Creating AISystem for world NewMap
+[2018.05.06-13.36.28:748][481]LogPlayLevel: PIE: World Init took: (0.000897s)
+[2018.05.06-13.36.28:748][481]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.044913s)
+[2018.05.06-13.36.28:772][481]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.06-13.36.28:784][481]LogInit: FAudioDevice initialized.
+[2018.05.06-13.36.28:814][481]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.06-13.36.28:823][481]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2018.05.06-14.36.28
+[2018.05.06-13.36.28:825][481]LogWorld: Bringing up level for play took: 0.010009
+[2018.05.06-13.36.28:828][481]PIE: Play in editor start time for /Game/UEDPIE_0_NewMap -0.251
+[2018.05.06-13.36.29:843][520]LogBlueprintUserMessages: [ThirdPersonCharacter_853] 4.0
+[2018.05.06-13.36.34:871][743]LogBlueprintUserMessages: [ThirdPersonEnemy5_446] 4.0
+[2018.05.06-13.36.34:986][748]LogBlueprintUserMessages: [ThirdPersonEnemy5_446] 3.0
+[2018.05.06-13.36.35:133][754]LogBlueprintUserMessages: [ThirdPersonEnemy5_446] 2.0
+[2018.05.06-13.36.35:243][759]LogBlueprintUserMessages: [ThirdPersonEnemy5_446] 1.0
+[2018.05.06-13.36.36:216][802]LogBlueprintUserMessages: [ThirdPersonEnemy6] 4.0
+[2018.05.06-13.36.36:479][814]LogBlueprintUserMessages: [ThirdPersonEnemy6] 3.0
+[2018.05.06-13.36.36:610][820]LogBlueprintUserMessages: [ThirdPersonEnemy6] 2.0
+[2018.05.06-13.36.39:319][939]LogBlueprintUserMessages: [ThirdPersonEnemy6] 1.0
+[2018.05.06-13.37.15:309][277]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube125)
+[2018.05.06-13.37.15:785][285]Cmd: DELETE
+[2018.05.06-13.37.15:785][285]Cmd: ACTOR DELETE
+[2018.05.06-13.37.15:800][285]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.05.06-13.37.15:844][285]LogEditorActor: Deleted 1 Actors (0.058 secs)
+[2018.05.06-13.37.16:366][298]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube126)
+[2018.05.06-13.37.18:040][330]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.06-13.37.31:180][580]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube128)
+[2018.05.06-13.37.31:838][593]Cmd: DELETE
+[2018.05.06-13.37.31:839][593]Cmd: ACTOR DELETE
+[2018.05.06-13.37.31:849][593]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.05.06-13.37.31:896][593]LogEditorActor: Deleted 1 Actors (0.057 secs)
+[2018.05.06-13.37.34:170][643]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube129)
+[2018.05.06-13.37.35:094][662]Cmd: DELETE
+[2018.05.06-13.37.35:094][662]Cmd: ACTOR DELETE
+[2018.05.06-13.37.35:105][662]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.05.06-13.37.35:148][662]LogEditorActor: Deleted 1 Actors (0.054 secs)
+[2018.05.06-13.37.37:213][709]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube126)
+[2018.05.06-13.37.38:821][738]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.06-13.37.45:851][876]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.06-13.37.50:316][968]Cmd: SELECT NONE
+[2018.05.06-13.37.55:797][ 89]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.06-13.37.55:817][ 89]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap" FILE="../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.05.06-13.37.56:045][ 89]LogSavePackage: Save=188.67ms
+[2018.05.06-13.37.56:045][ 89]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/NewMap143767E44722F2405BF638BB76666D7B.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap.umap'
+[2018.05.06-13.37.56:049][ 89]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap.umap
+[2018.05.06-13.37.56:093][ 89]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap_BuiltData" FILE="../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap_BuiltData.uasset" SILENT=true
+[2018.05.06-13.37.56:474][ 89]LogSavePackage: Save=372.08ms
+[2018.05.06-13.37.56:474][ 89]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/NewMap_BuiltDataF27E2FEA43BD22137F5BFCBE9B52A351.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap_BuiltData.uasset'
+[2018.05.06-13.37.56:476][ 89]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap_BuiltData.uasset
+[2018.05.06-13.38.03:406][248]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube127)
+[2018.05.06-13.38.05:578][289]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.06-13.38.08:012][334]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube126)
+[2018.05.06-13.38.08:785][348]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.06-13.38.16:481][490]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube128)
+[2018.05.06-13.38.17:558][509]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.06-13.38.19:593][547]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube126)
+[2018.05.06-13.38.21:859][594]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube128)
+[2018.05.06-13.38.23:830][633]Cmd: SELECT NONE
+[2018.05.06-13.38.28:682][741]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube127)
+[2018.05.06-13.38.30:169][768]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.06-13.38.32:401][810]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube126)
+[2018.05.06-13.38.33:446][829]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.06-13.38.36:224][882]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube128)
+[2018.05.06-13.38.36:860][895]Cmd: DELETE
+[2018.05.06-13.38.36:860][895]Cmd: ACTOR DELETE
+[2018.05.06-13.38.36:886][895]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.05.06-13.38.36:932][895]LogEditorActor: Deleted 1 Actors (0.071 secs)
+[2018.05.06-13.38.37:480][908]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube126)
+[2018.05.06-13.38.42:424][ 15]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.06-13.38.53:083][236]Cmd: SELECT NONE
+[2018.05.06-13.38.55:325][282]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.06-13.38.55:336][282]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap" FILE="../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.05.06-13.38.55:561][282]LogSavePackage: Save=190.14ms
+[2018.05.06-13.38.55:561][282]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/NewMap173D3E3B46AFFE688CF7468113438311.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap.umap'
+[2018.05.06-13.38.55:565][282]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap.umap
+[2018.05.06-13.38.55:603][282]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap_BuiltData" FILE="../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap_BuiltData.uasset" SILENT=true
+[2018.05.06-13.38.55:981][282]LogSavePackage: Save=366.26ms
+[2018.05.06-13.38.55:981][282]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/NewMap_BuiltData95DE59C84730C930E41764A630AD4C53.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap_BuiltData.uasset'
+[2018.05.06-13.38.55:983][282]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap_BuiltData.uasset
+[2018.05.06-13.38.58:458][339]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.06-13.38.58:508][339]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.06-13.38.58:508][339]PIE: New page: PIE session: NewMap (6 May 2018 15:38:58)
+[2018.05.06-13.38.58:508][339]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2018.05.06-13.38.58:552][339]LogPlayLevel: PIE: StaticDuplicateObject took: (0.043728s)
+[2018.05.06-13.38.58:553][339]LogAIModule: Creating AISystem for world NewMap
+[2018.05.06-13.38.58:553][339]LogPlayLevel: PIE: World Init took: (0.000802s)
+[2018.05.06-13.38.58:553][339]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.044773s)
+[2018.05.06-13.38.58:580][339]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.06-13.38.58:592][339]LogInit: FAudioDevice initialized.
+[2018.05.06-13.38.58:635][339]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.06-13.38.58:661][339]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2018.05.06-14.38.58
+[2018.05.06-13.38.58:666][339]LogWorld: Bringing up level for play took: 0.028599
+[2018.05.06-13.38.58:671][339]PIE: Play in editor start time for /Game/UEDPIE_0_NewMap -0.408
+[2018.05.06-13.38.59:662][378]LogBlueprintUserMessages: [ThirdPersonCharacter_853] 4.0
+[2018.05.06-13.39.27:225][548]LogBlueprintUserMessages: [PlayerInventory] Item added to inventory
+[2018.05.06-13.39.28:537][602]LogBlueprintUserMessages: [SlideDoor3_980] Key Card Accepted
+[2018.05.06-13.39.44:844][311]LogBlueprintUserMessages: [SlideDoor4] Key Card Accepted
+[2018.05.06-13.39.47:853][420]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.06-13.39.47:932][422]MapCheck: New page: Map Check
+[2018.05.06-13.39.48:011][422]Cmd: MAP REBUILD ALLVISIBLE
+[2018.05.06-13.39.48:012][422]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2018.05.06-13.39.48:848][422]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy WorldGridMaterial, compiling. Is special engine material.
+[2018.05.06-13.39.48:854][422]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy MaterialInstanceDynamic_15, compiling. 
+[2018.05.06-13.39.48:860][422]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.05.06-13.39.48:860][422]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.05.06-13.39.48:860][422]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy BasicShapeMaterial, compiling. 
+[2018.05.06-13.39.48:867][422]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy BlueMat, compiling. 
+[2018.05.06-13.39.48:872][422]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy RedMat, compiling. 
+[2018.05.06-13.39.48:879][422]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.05.06-13.39.48:880][422]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy GreenMat, compiling. 
+[2018.05.06-13.39.48:887][422]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy DoorMat, compiling. 
+[2018.05.06-13.39.48:896][422]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_UE4Man_Body, compiling. 
+[2018.05.06-13.39.48:909][422]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_UE4Man_ChestLogo, compiling. 
+[2018.05.06-13.39.50:072][422]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.05.06-13.39.50:072][422]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.05.06-13.39.50:072][422]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.05.06-13.39.50:072][422]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.05.06-13.39.50:072][422]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.05.06-13.39.50:072][422]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.05.06-13.39.50:072][422]TextureStreamingBuild: Display: Compiling optional shaders took 1.228 seconds.
+[2018.05.06-13.39.50:115][422]LogLevel: Display: Export Material TexCoord Scales took 0.043 seconds.
+[2018.05.06-13.39.50:150][422]TextureStreamingBuild: Display: Build Texture Streaming took 0.035 seconds.
+[2018.05.06-13.39.50:173][422]LightingResults: New page: Lighting Build - 6 May 2018 15:39:50
+[2018.05.06-13.39.50:182][422]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2018.05.06-13.39.50:185][422]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2018.05.06-13.39.50:185][422]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2018.05.06-13.39.50:186][422]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2018.05.06-13.39.50:186][422]LogSwarmInterface: [TryOpenConnection] Local Process ID is 1372
+[2018.05.06-13.40.08:241][422]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2018.05.06-13.40.08:242][422]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2018.05.06-13.40.08:242][422]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2018.05.06-13.40.08:242][422]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2018.05.06-13.40.08:242][422]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2018.05.06-13.40.08:242][422]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2018.05.06-13.40.08:414][422]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2018.05.06-13.40.08:414][422]MapCheck: New page: NewMap - 6 May 2018 15:40:08
+[2018.05.06-13.40.08:414][422]MapCheck: Error: WorldSettings_1 Maps need lighting rebuilt 
+[2018.05.06-13.40.08:478][422]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 64.003ms to complete.
+[2018.05.06-13.40.08:500][422]LogEditorBuildUtils: Build time 0:20
+[2018.05.06-13.40.24:976][736]LogSlate: Window 'Message Log' being destroyed
+[2018.05.06-13.40.25:033][736]LogSlate: Window 'Message Log' being destroyed
+[2018.05.06-13.40.39:957][  8]Job is a success!
+[2018.05.06-13.40.40:214][  9]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.032s
+[2018.05.06-13.40.40:214][  9]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2018.05.06-13.40.40:214][  9]LogVolumetricLightmapImport:      BrickData 1170x5x5 = 1.0Mb (trimmed 0.1Mb due to 0.010000 MinBrickError)
+[2018.05.06-13.40.40:214][  9]LogVolumetricLightmapImport:      Bricks at Level
+[2018.05.06-13.40.40:214][  9]LogVolumetricLightmapImport:          0: 0.4% covering 100.0% of volume
+[2018.05.06-13.40.40:214][  9]LogVolumetricLightmapImport:          1: 3.4% covering 12.5% of volume
+[2018.05.06-13.40.40:214][  9]LogVolumetricLightmapImport:          2: 96.2% covering 5.5% of volume
+[2018.05.06-13.40.41:503][  9]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 256X256)
+[2018.05.06-13.40.41:503][  9]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 256X256)
+[2018.05.06-13.40.41:503][  9]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 1024X1024)
+[2018.05.06-13.40.41:503][  9]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 1024X1024)
+[2018.05.06-13.40.41:504][  9]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 64X64)
+[2018.05.06-13.40.41:504][  9]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 64X64)
+[2018.05.06-13.40.41:677][  9]LogTexture: Display: Building textures: ShadowMapTexture2D_43 (G8, 256X128)
+[2018.05.06-13.40.41:677][  9]LogTexture: Display: Building textures: ShadowMapTexture2D_45 (G8, 32X32)
+[2018.05.06-13.40.41:677][  9]LogTexture: Display: Building textures: ShadowMapTexture2D_44 (BGRA8, 1024X512)
+[2018.05.06-13.40.41:691][  9]Lightmass on BEN-PAVILION: 31.8 sec total, 486 ms importing, 77 ms setup, 3.51 sec photons, 27.7 sec processing, 0 ms extra exporting [325/325 mappings]. Threads: 1:51 min total, 58.2 sec processing.
+[2018.05.06-13.40.41:743][  9]LogStaticLightingSystem: Illumination: 51.4 sec (1.18 sec encoding lightmaps, 166 ms encoding shadowmaps)
+[2018.05.06-13.40.41:743][  9]LogStaticLightingSystem: Lightmap texture memory:  2.1 MB (2.0 MB streaming, 0.1 MB non-streaming), 6 textures
+[2018.05.06-13.40.41:743][  9]LogStaticLightingSystem: Shadowmap texture memory: 2.7 MB (2.7 MB streaming, 0.0 MB non-streaming), 3 textures
+[2018.05.06-13.41.00:272][  9]DumpUnbuiltLightIteractions
+[2018.05.06-13.41.00:272][  9]Lights with unbuilt interactions: 0
+[2018.05.06-13.41.00:272][  9]
+[2018.05.06-13.41.00:272][  9]Primitives with unbuilt interactions: 0
+[2018.05.06-13.41.00:465][ 10]Cmd: MAP CHECK NOTIFYRESULTS
+[2018.05.06-13.41.00:465][ 10]MapCheck: New page: NewMap - 6 May 2018 15:41:00
+[2018.05.06-13.41.00:535][ 10]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 69.651ms to complete.
+[2018.05.06-13.41.05:892][136]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.06-13.41.05:907][136]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap" FILE="../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.05.06-13.41.06:142][136]LogSavePackage: Save=193.45ms
+[2018.05.06-13.41.06:142][136]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/NewMap7D291D3D44A14341EFC569838EA310FF.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap.umap'
+[2018.05.06-13.41.06:145][136]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap.umap
+[2018.05.06-13.41.06:189][136]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap_BuiltData" FILE="../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap_BuiltData.uasset" SILENT=true
+[2018.05.06-13.41.06:581][136]LogSavePackage: Save=372.74ms
+[2018.05.06-13.41.06:581][136]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/NewMap_BuiltDataD934C23C4031EA26AF9B498169F8675B.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap_BuiltData.uasset'
+[2018.05.06-13.41.06:585][136]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap_BuiltData.uasset
+[2018.05.06-13.42.36:709][145]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube122)
+[2018.05.06-13.42.37:994][171]Cmd: DELETE
+[2018.05.06-13.42.37:994][171]Cmd: ACTOR DELETE
+[2018.05.06-13.42.38:016][171]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.05.06-13.42.38:056][171]LogEditorActor: Deleted 1 Actors (0.061 secs)
+[2018.05.06-13.42.38:655][184]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.06-13.42.38:664][184]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap" FILE="../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.05.06-13.42.38:892][184]LogSavePackage: Save=191.47ms
+[2018.05.06-13.42.38:892][184]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/NewMapBDD58B844C1B996049421A80954EFD29.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap.umap'
+[2018.05.06-13.42.38:896][184]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap.umap
+[2018.05.06-13.42.38:934][184]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap_BuiltData" FILE="../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap_BuiltData.uasset" SILENT=true
+[2018.05.06-13.42.39:327][184]LogSavePackage: Save=384.61ms
+[2018.05.06-13.42.39:327][184]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/NewMap_BuiltDataD1A5A6D84E416B352C3BB59949451B50.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap_BuiltData.uasset'
+[2018.05.06-13.42.39:329][184]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap_BuiltData.uasset
+[2018.05.06-13.42.44:609][302]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube109)
+[2018.05.06-13.42.45:579][323]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube39)
+[2018.05.06-13.42.46:126][333]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube85)
+[2018.05.06-13.42.51:586][448]Cmd: SELECT NONE
+[2018.05.06-13.42.55:632][539]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube94)
+[2018.05.06-13.43.04:582][723]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.05.06-13.43.05:025][730]Cmd: SELECT NONE
+[2018.05.06-13.43.11:891][881]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube94)
+[2018.05.06-13.43.12:548][893]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube122)
+[2018.05.06-13.43.13:136][904]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube92)
+[2018.05.06-13.43.14:291][928]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube94)
+[2018.05.06-13.43.14:391][928]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.06-13.43.22:753][108]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.06-13.43.24:656][150]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.05.06-13.43.25:453][163]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube94)
+[2018.05.06-13.43.39:523][470]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.06-13.43.41:580][515]Cmd: DELETE
+[2018.05.06-13.43.41:580][515]Cmd: ACTOR DELETE
+[2018.05.06-13.43.41:610][515]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.05.06-13.43.41:612][515]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.05.06-13.43.41:615][515]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.05.06-13.43.41:669][515]LogEditorActor: Deleted 3 Actors (0.089 secs)
+[2018.05.06-13.43.42:359][530]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube94)
+[2018.05.06-13.43.43:925][560]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.06-13.43.53:720][761]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.06-13.43.57:162][835]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.06-13.44.02:845][956]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.06-13.44.07:011][ 46]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.06-13.44.31:155][564]Cmd: DELETE
+[2018.05.06-13.44.31:155][564]Cmd: ACTOR DELETE
+[2018.05.06-13.44.31:179][564]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.05.06-13.44.31:180][564]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.05.06-13.44.31:184][564]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.05.06-13.44.31:225][564]LogEditorActor: Deleted 3 Actors (0.070 secs)
+[2018.05.06-13.44.38:798][738]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube96)
+[2018.05.06-13.44.40:150][767]Cmd: DELETE
+[2018.05.06-13.44.40:150][767]Cmd: ACTOR DELETE
+[2018.05.06-13.44.40:199][767]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.05.06-13.44.40:201][767]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.05.06-13.44.40:206][767]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.05.06-13.44.40:232][767]LogEditorActor: Deleted 3 Actors (0.081 secs)
+[2018.05.06-13.44.41:637][801]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube92)
+[2018.05.06-13.44.45:060][876]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube119)
+[2018.05.06-13.44.47:294][920]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.06-13.44.55:335][ 85]LogEditorViewport: Clicking on Actor (LMB): SlideDoor_C (SlideDoor4)
+[2018.05.06-13.44.56:386][107]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube120)
+[2018.05.06-13.44.57:299][125]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube94)
+[2018.05.06-13.45.01:794][223]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube45)
+[2018.05.06-13.45.03:153][247]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.06-13.45.08:067][346]Cmd: SELECT NONE
+[2018.05.06-13.45.10:683][403]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube122)
+[2018.05.06-13.45.15:315][502]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.06-13.45.19:269][589]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.06-13.45.22:506][659]Cmd: SELECT NONE
+[2018.05.06-13.45.25:501][724]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube123)
+[2018.05.06-13.45.29:632][811]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.06-13.45.33:096][885]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.06-13.45.36:517][958]Cmd: SELECT NONE
+[2018.05.06-13.45.51:488][299]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube92)
+[2018.05.06-13.45.57:722][433]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube39)
+[2018.05.06-13.46.03:958][562]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.06-13.46.11:573][715]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.06-13.46.17:014][825]Cmd: SELECT NONE
+[2018.05.06-13.46.22:137][937]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.06-13.46.23:861][975]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube102)
+[2018.05.06-13.46.27:522][ 51]Cmd: TRANSACTION UNDO
+[2018.05.06-13.46.27:522][ 51]LogEditorTransaction: Undo Move Actors
+[2018.05.06-13.46.28:696][ 75]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.06-13.46.31:440][128]Cmd: SELECT NONE
+[2018.05.06-13.46.34:816][202]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube102)
+[2018.05.06-13.46.36:453][233]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.06-13.46.39:150][280]Cmd: SELECT NONE
+[2018.05.06-13.46.42:392][352]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube102)
+[2018.05.06-13.46.43:405][372]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.06-13.46.51:286][540]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube123)
+[2018.05.06-13.46.55:955][638]Cmd: DELETE
+[2018.05.06-13.46.55:955][638]Cmd: ACTOR DELETE
+[2018.05.06-13.46.55:994][638]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.05.06-13.46.55:996][638]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.05.06-13.46.55:999][638]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.05.06-13.46.56:037][638]LogEditorActor: Deleted 3 Actors (0.082 secs)
+[2018.05.06-13.46.57:328][666]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.06-13.46.57:341][666]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap" FILE="../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.05.06-13.46.57:584][666]LogSavePackage: Save=203.89ms
+[2018.05.06-13.46.57:584][666]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/NewMapF668C89242B4D3BBDBADB782B119CC98.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap.umap'
+[2018.05.06-13.46.57:588][666]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap.umap
+[2018.05.06-13.46.57:626][666]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap_BuiltData" FILE="../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap_BuiltData.uasset" SILENT=true
+[2018.05.06-13.46.58:022][666]LogSavePackage: Save=375.17ms
+[2018.05.06-13.46.58:022][666]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/NewMap_BuiltDataEF65A02D4FE8D09A4859BA851998B8E8.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap_BuiltData.uasset'
+[2018.05.06-13.46.58:024][666]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap_BuiltData.uasset
+[2018.05.06-13.47.01:495][745]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube123)
+[2018.05.06-13.47.10:616][936]Cmd: SELECT NONE
+[2018.05.06-13.47.14:982][ 28]LogEditorViewport: Clicking on Actor (LMB): NavMeshBoundsVolume (NavMeshBoundsVolume)
+[2018.05.06-13.47.20:951][153]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.06-13.47.47:106][697]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube98)
+[2018.05.06-13.48.04:644][ 59]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube102)
+[2018.05.06-13.48.07:864][125]Cmd: SELECT NONE
+[2018.05.06-13.48.14:233][262]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube85)
+[2018.05.06-13.48.20:971][399]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.06-13.48.26:541][519]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.06-13.48.43:956][867]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.06-13.48.46:723][924]Cmd: SELECT NONE
+[2018.05.06-13.48.53:597][ 75]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube152)
+[2018.05.06-13.48.58:647][180]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.06-13.49.02:433][261]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.06-13.49.11:173][442]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.06-13.49.14:040][497]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.05.06-13.49.14:400][504]Cmd: SELECT NONE
+[2018.05.06-13.49.24:342][721]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube153)
+[2018.05.06-13.49.32:067][877]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.06-13.49.36:582][973]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.06-13.49.46:460][185]Cmd: DELETE
+[2018.05.06-13.49.46:460][185]Cmd: ACTOR DELETE
+[2018.05.06-13.49.46:487][185]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.05.06-13.49.46:533][185]LogEditorActor: Deleted 1 Actors (0.073 secs)
+[2018.05.06-13.49.47:797][214]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube154)
+[2018.05.06-13.49.52:946][322]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.06-13.49.56:442][396]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.06-13.50.06:130][589]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.06-13.50.14:554][748]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube154)
+[2018.05.06-13.50.16:111][776]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.06-13.50.21:460][877]Cmd: SELECT NONE
+[2018.05.06-13.50.21:999][889]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube154)
+[2018.05.06-13.50.22:800][904]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube155)
+[2018.05.06-13.50.23:496][917]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube103)
+[2018.05.06-13.50.25:568][960]Cmd: SELECT NONE
+[2018.05.06-13.50.26:437][979]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube154)
