@@ -5633,3 +5633,1928 @@ LogInit: Object subsystem initialized
 [2018.05.06-14.37.28:162][937]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/NewMap_BuiltData305F766643D0648374BE9F8CBD5C5A39.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap_BuiltData.uasset'
 [2018.05.06-14.37.28:165][937]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap_BuiltData.uasset
 [2018.05.06-14.37.28:806][953]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.06-14.41.44:689][941]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.06-14.41.45:577][956]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap" FILE="../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.05.06-14.41.45:984][956]LogSavePackage: Save=339.84ms
+[2018.05.06-14.41.45:984][956]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/NewMap6AE222484A9A63B8D901FE9AE203DD09.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap.umap'
+[2018.05.06-14.41.45:985][956]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap.umap
+[2018.05.06-14.41.46:040][956]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap_BuiltData" FILE="../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap_BuiltData.uasset" SILENT=true
+[2018.05.06-14.41.46:707][956]LogSavePackage: Save=645.96ms
+[2018.05.06-14.41.46:707][956]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/NewMap_BuiltData158E00B845E2AA44227E919C528BC555.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap_BuiltData.uasset'
+[2018.05.06-14.41.46:709][956]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap_BuiltData.uasset
+[2018.05.06-14.41.47:028][965]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.06-14.41.47:102][967]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.06-14.41.47:127][967]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.06-14.41.47:127][967]PIE: New page: PIE session: NewMap (6 May 2018 16:41:47)
+[2018.05.06-14.41.47:127][967]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2018.05.06-14.41.47:151][967]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024487s)
+[2018.05.06-14.41.47:152][967]LogAIModule: Creating AISystem for world NewMap
+[2018.05.06-14.41.47:153][967]LogPlayLevel: PIE: World Init took: (0.000963s)
+[2018.05.06-14.41.47:153][967]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.025730s)
+[2018.05.06-14.41.47:178][967]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.06-14.41.47:190][967]LogInit: FAudioDevice initialized.
+[2018.05.06-14.41.47:222][967]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.06-14.41.47:237][967]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2018.05.06-15.41.47
+[2018.05.06-14.41.47:241][967]LogWorld: Bringing up level for play took: 0.018882
+[2018.05.06-14.41.47:245][967]PIE: Play in editor start time for /Game/UEDPIE_0_NewMap 0.166
+[2018.05.06-14.41.48:482][ 18]LogBlueprintUserMessages: [ThirdPersonCharacter_853] 4.0
+[2018.05.06-14.41.49:630][ 69]LogBlueprintUserMessages: [ThirdPersonCharacter_853] 3.0
+[2018.05.06-14.41.52:477][138]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.06-14.43.44:643][355]LogSavePackage: Save=91.00ms
+[2018.05.06-14.43.44:643][355]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/FirstPersonCharacterA3085486468B5A02C5B12AA884B54E9B.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2018.05.06-14.43.44:648][355]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset
+[2018.05.06-14.43.46:072][385]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.06-14.43.46:163][387]BlueprintLog: New page: Compile FirstPersonCharacter
+[2018.05.06-14.43.48:897][429]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.06-14.43.48:962][429]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.06-14.43.48:963][429]PIE: New page: PIE session: NewMap (6 May 2018 16:43:48)
+[2018.05.06-14.43.48:963][429]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2018.05.06-14.43.49:021][429]LogPlayLevel: PIE: StaticDuplicateObject took: (0.057513s)
+[2018.05.06-14.43.49:022][429]LogAIModule: Creating AISystem for world NewMap
+[2018.05.06-14.43.49:022][429]LogPlayLevel: PIE: World Init took: (0.001085s)
+[2018.05.06-14.43.49:023][429]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.058981s)
+[2018.05.06-14.43.49:053][429]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.06-14.43.49:066][429]LogInit: FAudioDevice initialized.
+[2018.05.06-14.43.49:103][429]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.06-14.43.49:132][429]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2018.05.06-15.43.49
+[2018.05.06-14.43.49:138][429]LogWorld: Bringing up level for play took: 0.034279
+[2018.05.06-14.43.49:142][429]PIE: Play in editor start time for /Game/UEDPIE_0_NewMap 0.064
+[2018.05.06-14.43.50:546][464]LogBlueprintUserMessages: [ThirdPersonCharacter_853] 4.0
+[2018.05.06-14.44.01:845][700]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.06-14.44.02:910][717]LogSavePackage: Save=83.31ms
+[2018.05.06-14.44.02:910][717]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/FirstPersonCharacterF7DB692A404D39E1D11E4E9D88FE5F79.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2018.05.06-14.44.02:912][717]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset
+[2018.05.06-14.44.05:724][773]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.06-14.44.22:207][ 67]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.05.06-14.44.44:578][510]BlueprintLog: New page: Compile EnemyAIController
+[2018.05.06-14.44.48:333][579]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.06-14.44.48:405][579]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.06-14.44.48:406][579]PIE: New page: PIE session: NewMap (6 May 2018 16:44:48)
+[2018.05.06-14.44.48:406][579]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2018.05.06-14.44.48:455][579]LogPlayLevel: PIE: StaticDuplicateObject took: (0.048909s)
+[2018.05.06-14.44.48:456][579]LogAIModule: Creating AISystem for world NewMap
+[2018.05.06-14.44.48:456][579]LogPlayLevel: PIE: World Init took: (0.001087s)
+[2018.05.06-14.44.48:456][579]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.050276s)
+[2018.05.06-14.44.48:486][579]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.06-14.44.48:498][579]LogInit: FAudioDevice initialized.
+[2018.05.06-14.44.48:535][579]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.06-14.44.48:575][579]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2018.05.06-15.44.48
+[2018.05.06-14.44.48:582][579]LogWorld: Bringing up level for play took: 0.045947
+[2018.05.06-14.44.48:586][579]PIE: Play in editor start time for /Game/UEDPIE_0_NewMap -0.493
+[2018.05.06-14.44.53:588][725]LogBlueprintUserMessages: [SlideDoor2] Key Card Declined
+[2018.05.06-14.44.56:582][810]LogBlueprintUserMessages: [SlideDoor_566] Key Card Declined
+[2018.05.06-14.44.58:003][850]LogBlueprintUserMessages: [SlideDoor_566] Key Card Declined
+[2018.05.06-14.45.02:641][981]LogBlueprintUserMessages: [ThirdPersonEnemy8] 4.0
+[2018.05.06-14.45.02:878][988]LogBlueprintUserMessages: [ThirdPersonEnemy8] 3.0
+[2018.05.06-14.45.09:491][120]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.06-14.45.10:189][131]LogSavePackage: Save=33.08ms
+[2018.05.06-14.45.10:189][131]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/EnemyAIController91009BE24A501831FC931A9495245FA9.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/ThirdPersonBP/Blueprints/EnemyAIController.uasset'
+[2018.05.06-14.45.10:193][131]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/ThirdPersonBP/Blueprints/EnemyAIController.uasset
+[2018.05.06-14.45.10:910][147]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.06-14.46.56:234][728]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.06-14.46.56:971][740]LogSavePackage: Save=38.80ms
+[2018.05.06-14.46.56:972][740]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/EnemyAIControllerFC6C1B6F47C841DA098421A6D53F4F99.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/ThirdPersonBP/Blueprints/EnemyAIController.uasset'
+[2018.05.06-14.46.56:973][740]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/ThirdPersonBP/Blueprints/EnemyAIController.uasset
+[2018.05.06-14.47.00:413][810]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.06-14.47.26:580][321]LogSavePackage: Save=30.57ms
+[2018.05.06-14.47.26:580][321]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/EnemyAIController63719C78449C80DBCCFC1299A8D59247.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/ThirdPersonBP/Blueprints/EnemyAIController.uasset'
+[2018.05.06-14.47.26:584][321]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/ThirdPersonBP/Blueprints/EnemyAIController.uasset
+[2018.05.06-14.47.27:324][337]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.06-14.47.27:425][339]BlueprintLog: New page: Compile EnemyAIController
+[2018.05.06-14.47.29:537][375]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.06-14.47.29:602][375]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.06-14.47.29:602][375]PIE: New page: PIE session: NewMap (6 May 2018 16:47:29)
+[2018.05.06-14.47.29:602][375]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2018.05.06-14.47.29:656][375]LogPlayLevel: PIE: StaticDuplicateObject took: (0.053748s)
+[2018.05.06-14.47.29:657][375]LogAIModule: Creating AISystem for world NewMap
+[2018.05.06-14.47.29:657][375]LogPlayLevel: PIE: World Init took: (0.000910s)
+[2018.05.06-14.47.29:657][375]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.055024s)
+[2018.05.06-14.47.29:689][375]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.06-14.47.29:700][375]LogInit: FAudioDevice initialized.
+[2018.05.06-14.47.29:742][375]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.06-14.47.29:779][375]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2018.05.06-15.47.29
+[2018.05.06-14.47.29:784][375]LogWorld: Bringing up level for play took: 0.041636
+[2018.05.06-14.47.29:788][375]PIE: Play in editor start time for /Game/UEDPIE_0_NewMap 0.709
+[2018.05.06-14.47.29:791][375]LogBlueprintUserMessages: [EnemyAIController_C_2] Found
+[2018.05.06-14.47.29:791][375]LogBlueprintUserMessages: [EnemyAIController_C_3] Found
+[2018.05.06-14.47.29:791][375]LogBlueprintUserMessages: [EnemyAIController_C_5] Found
+[2018.05.06-14.47.29:791][375]LogBlueprintUserMessages: [EnemyAIController_C_11] Found
+[2018.05.06-14.47.29:791][375]LogBlueprintUserMessages: [EnemyAIController_C_13] Found
+[2018.05.06-14.47.29:895][376]LogBlueprintUserMessages: [EnemyAIController_C_2] Found
+[2018.05.06-14.47.29:896][376]LogBlueprintUserMessages: [EnemyAIController_C_3] Found
+[2018.05.06-14.47.29:896][376]LogBlueprintUserMessages: [EnemyAIController_C_5] Found
+[2018.05.06-14.47.29:897][376]LogBlueprintUserMessages: [EnemyAIController_C_6] Found
+[2018.05.06-14.47.29:898][376]LogBlueprintUserMessages: [EnemyAIController_C_9] Found
+[2018.05.06-14.47.29:898][376]LogBlueprintUserMessages: [EnemyAIController_C_10] Found
+[2018.05.06-14.47.29:898][376]LogBlueprintUserMessages: [EnemyAIController_C_11] Found
+[2018.05.06-14.47.29:898][376]LogBlueprintUserMessages: [EnemyAIController_C_13] Found
+[2018.05.06-14.47.29:953][377]LogBlueprintUserMessages: [EnemyAIController_C_2] Found
+[2018.05.06-14.47.29:953][377]LogBlueprintUserMessages: [EnemyAIController_C_3] Found
+[2018.05.06-14.47.29:953][377]LogBlueprintUserMessages: [EnemyAIController_C_5] Found
+[2018.05.06-14.47.29:953][377]LogBlueprintUserMessages: [EnemyAIController_C_6] Found
+[2018.05.06-14.47.29:954][377]LogBlueprintUserMessages: [EnemyAIController_C_7] Found
+[2018.05.06-14.47.29:954][377]LogBlueprintUserMessages: [EnemyAIController_C_9] Found
+[2018.05.06-14.47.29:954][377]LogBlueprintUserMessages: [EnemyAIController_C_10] Found
+[2018.05.06-14.47.29:954][377]LogBlueprintUserMessages: [EnemyAIController_C_11] Found
+[2018.05.06-14.47.29:954][377]LogBlueprintUserMessages: [EnemyAIController_C_13] Found
+[2018.05.06-14.47.29:985][378]LogBlueprintUserMessages: [EnemyAIController_C_2] Found
+[2018.05.06-14.47.29:985][378]LogBlueprintUserMessages: [EnemyAIController_C_3] Found
+[2018.05.06-14.47.29:985][378]LogBlueprintUserMessages: [EnemyAIController_C_6] Found
+[2018.05.06-14.47.29:985][378]LogBlueprintUserMessages: [EnemyAIController_C_7] Found
+[2018.05.06-14.47.29:985][378]LogBlueprintUserMessages: [EnemyAIController_C_9] Found
+[2018.05.06-14.47.29:985][378]LogBlueprintUserMessages: [EnemyAIController_C_10] Found
+[2018.05.06-14.47.29:985][378]LogBlueprintUserMessages: [EnemyAIController_C_11] Found
+[2018.05.06-14.47.29:985][378]LogBlueprintUserMessages: [EnemyAIController_C_13] Found
+[2018.05.06-14.47.30:017][379]LogBlueprintUserMessages: [EnemyAIController_C_2] Found
+[2018.05.06-14.47.30:017][379]LogBlueprintUserMessages: [EnemyAIController_C_3] Found
+[2018.05.06-14.47.30:017][379]LogBlueprintUserMessages: [EnemyAIController_C_6] Found
+[2018.05.06-14.47.30:017][379]LogBlueprintUserMessages: [EnemyAIController_C_7] Found
+[2018.05.06-14.47.30:017][379]LogBlueprintUserMessages: [EnemyAIController_C_9] Found
+[2018.05.06-14.47.30:017][379]LogBlueprintUserMessages: [EnemyAIController_C_10] Found
+[2018.05.06-14.47.30:017][379]LogBlueprintUserMessages: [EnemyAIController_C_11] Found
+[2018.05.06-14.47.30:017][379]LogBlueprintUserMessages: [EnemyAIController_C_13] Found
+[2018.05.06-14.47.30:049][380]LogBlueprintUserMessages: [EnemyAIController_C_2] Found
+[2018.05.06-14.47.30:049][380]LogBlueprintUserMessages: [EnemyAIController_C_3] Found
+[2018.05.06-14.47.30:049][380]LogBlueprintUserMessages: [EnemyAIController_C_5] Found
+[2018.05.06-14.47.30:049][380]LogBlueprintUserMessages: [EnemyAIController_C_6] Found
+[2018.05.06-14.47.30:049][380]LogBlueprintUserMessages: [EnemyAIController_C_7] Found
+[2018.05.06-14.47.30:049][380]LogBlueprintUserMessages: [EnemyAIController_C_8] Found
+[2018.05.06-14.47.30:049][380]LogBlueprintUserMessages: [EnemyAIController_C_9] Found
+[2018.05.06-14.47.30:049][380]LogBlueprintUserMessages: [EnemyAIController_C_10] Found
+[2018.05.06-14.47.30:049][380]LogBlueprintUserMessages: [EnemyAIController_C_11] Found
+[2018.05.06-14.47.30:049][380]LogBlueprintUserMessages: [EnemyAIController_C_13] Found
+[2018.05.06-14.47.30:082][381]LogBlueprintUserMessages: [EnemyAIController_C_2] Found
+[2018.05.06-14.47.30:082][381]LogBlueprintUserMessages: [EnemyAIController_C_3] Found
+[2018.05.06-14.47.30:082][381]LogBlueprintUserMessages: [EnemyAIController_C_6] Found
+[2018.05.06-14.47.30:082][381]LogBlueprintUserMessages: [EnemyAIController_C_7] Found
+[2018.05.06-14.47.30:082][381]LogBlueprintUserMessages: [EnemyAIController_C_8] Found
+[2018.05.06-14.47.30:082][381]LogBlueprintUserMessages: [EnemyAIController_C_9] Found
+[2018.05.06-14.47.30:083][381]LogBlueprintUserMessages: [EnemyAIController_C_10] Found
+[2018.05.06-14.47.30:083][381]LogBlueprintUserMessages: [EnemyAIController_C_11] Found
+[2018.05.06-14.47.30:083][381]LogBlueprintUserMessages: [EnemyAIController_C_13] Found
+[2018.05.06-14.47.30:111][382]LogBlueprintUserMessages: [EnemyAIController_C_2] Found
+[2018.05.06-14.47.30:112][382]LogBlueprintUserMessages: [EnemyAIController_C_3] Found
+[2018.05.06-14.47.30:112][382]LogBlueprintUserMessages: [EnemyAIController_C_5] Found
+[2018.05.06-14.47.30:112][382]LogBlueprintUserMessages: [EnemyAIController_C_6] Found
+[2018.05.06-14.47.30:112][382]LogBlueprintUserMessages: [EnemyAIController_C_7] Found
+[2018.05.06-14.47.30:112][382]LogBlueprintUserMessages: [EnemyAIController_C_8] Found
+[2018.05.06-14.47.30:112][382]LogBlueprintUserMessages: [EnemyAIController_C_9] Found
+[2018.05.06-14.47.30:112][382]LogBlueprintUserMessages: [EnemyAIController_C_10] Found
+[2018.05.06-14.47.30:113][382]LogBlueprintUserMessages: [EnemyAIController_C_11] Found
+[2018.05.06-14.47.30:113][382]LogBlueprintUserMessages: [EnemyAIController_C_13] Found
+[2018.05.06-14.47.30:140][383]LogBlueprintUserMessages: [EnemyAIController_C_2] Found
+[2018.05.06-14.47.30:140][383]LogBlueprintUserMessages: [EnemyAIController_C_3] Found
+[2018.05.06-14.47.30:140][383]LogBlueprintUserMessages: [EnemyAIController_C_6] Found
+[2018.05.06-14.47.30:140][383]LogBlueprintUserMessages: [EnemyAIController_C_7] Found
+[2018.05.06-14.47.30:140][383]LogBlueprintUserMessages: [EnemyAIController_C_8] Found
+[2018.05.06-14.47.30:140][383]LogBlueprintUserMessages: [EnemyAIController_C_9] Found
+[2018.05.06-14.47.30:140][383]LogBlueprintUserMessages: [EnemyAIController_C_10] Found
+[2018.05.06-14.47.30:140][383]LogBlueprintUserMessages: [EnemyAIController_C_11] Found
+[2018.05.06-14.47.30:140][383]LogBlueprintUserMessages: [EnemyAIController_C_13] Found
+[2018.05.06-14.47.30:171][384]LogBlueprintUserMessages: [EnemyAIController_C_2] Found
+[2018.05.06-14.47.30:171][384]LogBlueprintUserMessages: [EnemyAIController_C_3] Found
+[2018.05.06-14.47.30:171][384]LogBlueprintUserMessages: [EnemyAIController_C_5] Found
+[2018.05.06-14.47.30:171][384]LogBlueprintUserMessages: [EnemyAIController_C_6] Found
+[2018.05.06-14.47.30:171][384]LogBlueprintUserMessages: [EnemyAIController_C_7] Found
+[2018.05.06-14.47.30:171][384]LogBlueprintUserMessages: [EnemyAIController_C_8] Found
+[2018.05.06-14.47.30:171][384]LogBlueprintUserMessages: [EnemyAIController_C_9] Found
+[2018.05.06-14.47.30:171][384]LogBlueprintUserMessages: [EnemyAIController_C_10] Found
+[2018.05.06-14.47.30:171][384]LogBlueprintUserMessages: [EnemyAIController_C_11] Found
+[2018.05.06-14.47.30:171][384]LogBlueprintUserMessages: [EnemyAIController_C_13] Found
+[2018.05.06-14.47.30:201][385]LogBlueprintUserMessages: [EnemyAIController_C_2] Found
+[2018.05.06-14.47.30:201][385]LogBlueprintUserMessages: [EnemyAIController_C_6] Found
+[2018.05.06-14.47.30:201][385]LogBlueprintUserMessages: [EnemyAIController_C_7] Found
+[2018.05.06-14.47.30:201][385]LogBlueprintUserMessages: [EnemyAIController_C_8] Found
+[2018.05.06-14.47.30:201][385]LogBlueprintUserMessages: [EnemyAIController_C_9] Found
+[2018.05.06-14.47.30:201][385]LogBlueprintUserMessages: [EnemyAIController_C_10] Found
+[2018.05.06-14.47.30:202][385]LogBlueprintUserMessages: [EnemyAIController_C_11] Found
+[2018.05.06-14.47.30:202][385]LogBlueprintUserMessages: [EnemyAIController_C_13] Found
+[2018.05.06-14.47.30:231][386]LogBlueprintUserMessages: [EnemyAIController_C_2] Found
+[2018.05.06-14.47.30:232][386]LogBlueprintUserMessages: [EnemyAIController_C_3] Found
+[2018.05.06-14.47.30:232][386]LogBlueprintUserMessages: [EnemyAIController_C_5] Found
+[2018.05.06-14.47.30:232][386]LogBlueprintUserMessages: [EnemyAIController_C_6] Found
+[2018.05.06-14.47.30:232][386]LogBlueprintUserMessages: [EnemyAIController_C_7] Found
+[2018.05.06-14.47.30:232][386]LogBlueprintUserMessages: [EnemyAIController_C_8] Found
+[2018.05.06-14.47.30:232][386]LogBlueprintUserMessages: [EnemyAIController_C_9] Found
+[2018.05.06-14.47.30:232][386]LogBlueprintUserMessages: [EnemyAIController_C_10] Found
+[2018.05.06-14.47.30:232][386]LogBlueprintUserMessages: [EnemyAIController_C_11] Found
+[2018.05.06-14.47.30:232][386]LogBlueprintUserMessages: [EnemyAIController_C_13] Found
+[2018.05.06-14.47.30:261][387]LogBlueprintUserMessages: [EnemyAIController_C_2] Found
+[2018.05.06-14.47.30:261][387]LogBlueprintUserMessages: [EnemyAIController_C_3] Found
+[2018.05.06-14.47.30:261][387]LogBlueprintUserMessages: [EnemyAIController_C_6] Found
+[2018.05.06-14.47.30:261][387]LogBlueprintUserMessages: [EnemyAIController_C_8] Found
+[2018.05.06-14.47.30:261][387]LogBlueprintUserMessages: [EnemyAIController_C_9] Found
+[2018.05.06-14.47.30:262][387]LogBlueprintUserMessages: [EnemyAIController_C_10] Found
+[2018.05.06-14.47.30:262][387]LogBlueprintUserMessages: [EnemyAIController_C_11] Found
+[2018.05.06-14.47.30:262][387]LogBlueprintUserMessages: [EnemyAIController_C_13] Found
+[2018.05.06-14.47.30:292][388]LogBlueprintUserMessages: [EnemyAIController_C_2] Found
+[2018.05.06-14.47.30:293][388]LogBlueprintUserMessages: [EnemyAIController_C_3] Found
+[2018.05.06-14.47.30:293][388]LogBlueprintUserMessages: [EnemyAIController_C_6] Found
+[2018.05.06-14.47.30:293][388]LogBlueprintUserMessages: [EnemyAIController_C_7] Found
+[2018.05.06-14.47.30:293][388]LogBlueprintUserMessages: [EnemyAIController_C_8] Found
+[2018.05.06-14.47.30:293][388]LogBlueprintUserMessages: [EnemyAIController_C_9] Found
+[2018.05.06-14.47.30:293][388]LogBlueprintUserMessages: [EnemyAIController_C_10] Found
+[2018.05.06-14.47.30:293][388]LogBlueprintUserMessages: [EnemyAIController_C_11] Found
+[2018.05.06-14.47.30:293][388]LogBlueprintUserMessages: [EnemyAIController_C_13] Found
+[2018.05.06-14.47.30:326][389]LogBlueprintUserMessages: [EnemyAIController_C_2] Found
+[2018.05.06-14.47.30:326][389]LogBlueprintUserMessages: [EnemyAIController_C_3] Found
+[2018.05.06-14.47.30:326][389]LogBlueprintUserMessages: [EnemyAIController_C_6] Found
+[2018.05.06-14.47.30:326][389]LogBlueprintUserMessages: [EnemyAIController_C_7] Found
+[2018.05.06-14.47.30:326][389]LogBlueprintUserMessages: [EnemyAIController_C_9] Found
+[2018.05.06-14.47.30:326][389]LogBlueprintUserMessages: [EnemyAIController_C_10] Found
+[2018.05.06-14.47.30:326][389]LogBlueprintUserMessages: [EnemyAIController_C_11] Found
+[2018.05.06-14.47.30:326][389]LogBlueprintUserMessages: [EnemyAIController_C_13] Found
+[2018.05.06-14.47.30:357][390]LogBlueprintUserMessages: [EnemyAIController_C_2] Found
+[2018.05.06-14.47.30:357][390]LogBlueprintUserMessages: [EnemyAIController_C_3] Found
+[2018.05.06-14.47.30:357][390]LogBlueprintUserMessages: [EnemyAIController_C_5] Found
+[2018.05.06-14.47.30:357][390]LogBlueprintUserMessages: [EnemyAIController_C_6] Found
+[2018.05.06-14.47.30:357][390]LogBlueprintUserMessages: [EnemyAIController_C_7] Found
+[2018.05.06-14.47.30:357][390]LogBlueprintUserMessages: [EnemyAIController_C_8] Found
+[2018.05.06-14.47.30:357][390]LogBlueprintUserMessages: [EnemyAIController_C_9] Found
+[2018.05.06-14.47.30:357][390]LogBlueprintUserMessages: [EnemyAIController_C_10] Found
+[2018.05.06-14.47.30:357][390]LogBlueprintUserMessages: [EnemyAIController_C_11] Found
+[2018.05.06-14.47.30:357][390]LogBlueprintUserMessages: [EnemyAIController_C_13] Found
+[2018.05.06-14.47.30:387][391]LogBlueprintUserMessages: [EnemyAIController_C_2] Found
+[2018.05.06-14.47.30:387][391]LogBlueprintUserMessages: [EnemyAIController_C_3] Found
+[2018.05.06-14.47.30:387][391]LogBlueprintUserMessages: [EnemyAIController_C_6] Found
+[2018.05.06-14.47.30:387][391]LogBlueprintUserMessages: [EnemyAIController_C_7] Found
+[2018.05.06-14.47.30:387][391]LogBlueprintUserMessages: [EnemyAIController_C_8] Found
+[2018.05.06-14.47.30:387][391]LogBlueprintUserMessages: [EnemyAIController_C_9] Found
+[2018.05.06-14.47.30:387][391]LogBlueprintUserMessages: [EnemyAIController_C_10] Found
+[2018.05.06-14.47.30:387][391]LogBlueprintUserMessages: [EnemyAIController_C_13] Found
+[2018.05.06-14.47.30:418][392]LogBlueprintUserMessages: [EnemyAIController_C_2] Found
+[2018.05.06-14.47.30:418][392]LogBlueprintUserMessages: [EnemyAIController_C_3] Found
+[2018.05.06-14.47.30:419][392]LogBlueprintUserMessages: [EnemyAIController_C_5] Found
+[2018.05.06-14.47.30:419][392]LogBlueprintUserMessages: [EnemyAIController_C_6] Found
+[2018.05.06-14.47.30:419][392]LogBlueprintUserMessages: [EnemyAIController_C_7] Found
+[2018.05.06-14.47.30:419][392]LogBlueprintUserMessages: [EnemyAIController_C_8] Found
+[2018.05.06-14.47.30:419][392]LogBlueprintUserMessages: [EnemyAIController_C_9] Found
+[2018.05.06-14.47.30:419][392]LogBlueprintUserMessages: [EnemyAIController_C_10] Found
+[2018.05.06-14.47.30:419][392]LogBlueprintUserMessages: [EnemyAIController_C_11] Found
+[2018.05.06-14.47.30:419][392]LogBlueprintUserMessages: [EnemyAIController_C_13] Found
+[2018.05.06-14.47.30:451][393]LogBlueprintUserMessages: [EnemyAIController_C_2] Found
+[2018.05.06-14.47.30:451][393]LogBlueprintUserMessages: [EnemyAIController_C_3] Found
+[2018.05.06-14.47.30:451][393]LogBlueprintUserMessages: [EnemyAIController_C_6] Found
+[2018.05.06-14.47.30:451][393]LogBlueprintUserMessages: [EnemyAIController_C_7] Found
+[2018.05.06-14.47.30:451][393]LogBlueprintUserMessages: [EnemyAIController_C_8] Found
+[2018.05.06-14.47.30:451][393]LogBlueprintUserMessages: [EnemyAIController_C_9] Found
+[2018.05.06-14.47.30:451][393]LogBlueprintUserMessages: [EnemyAIController_C_10] Found
+[2018.05.06-14.47.30:451][393]LogBlueprintUserMessages: [EnemyAIController_C_11] Found
+[2018.05.06-14.47.30:451][393]LogBlueprintUserMessages: [EnemyAIController_C_13] Found
+[2018.05.06-14.47.30:486][394]LogBlueprintUserMessages: [EnemyAIController_C_2] Found
+[2018.05.06-14.47.30:486][394]LogBlueprintUserMessages: [EnemyAIController_C_3] Found
+[2018.05.06-14.47.30:486][394]LogBlueprintUserMessages: [EnemyAIController_C_6] Found
+[2018.05.06-14.47.30:486][394]LogBlueprintUserMessages: [EnemyAIController_C_7] Found
+[2018.05.06-14.47.30:486][394]LogBlueprintUserMessages: [EnemyAIController_C_8] Found
+[2018.05.06-14.47.30:486][394]LogBlueprintUserMessages: [EnemyAIController_C_9] Found
+[2018.05.06-14.47.30:486][394]LogBlueprintUserMessages: [EnemyAIController_C_10] Found
+[2018.05.06-14.47.30:486][394]LogBlueprintUserMessages: [EnemyAIController_C_11] Found
+[2018.05.06-14.47.30:486][394]LogBlueprintUserMessages: [EnemyAIController_C_13] Found
+[2018.05.06-14.47.30:517][395]LogBlueprintUserMessages: [EnemyAIController_C_2] Found
+[2018.05.06-14.47.30:517][395]LogBlueprintUserMessages: [EnemyAIController_C_3] Found
+[2018.05.06-14.47.30:517][395]LogBlueprintUserMessages: [EnemyAIController_C_6] Found
+[2018.05.06-14.47.30:517][395]LogBlueprintUserMessages: [EnemyAIController_C_7] Found
+[2018.05.06-14.47.30:517][395]LogBlueprintUserMessages: [EnemyAIController_C_8] Found
+[2018.05.06-14.47.30:517][395]LogBlueprintUserMessages: [EnemyAIController_C_9] Found
+[2018.05.06-14.47.30:517][395]LogBlueprintUserMessages: [EnemyAIController_C_10] Found
+[2018.05.06-14.47.30:517][395]LogBlueprintUserMessages: [EnemyAIController_C_11] Found
+[2018.05.06-14.47.30:517][395]LogBlueprintUserMessages: [EnemyAIController_C_13] Found
+[2018.05.06-14.47.30:550][396]LogBlueprintUserMessages: [EnemyAIController_C_2] Found
+[2018.05.06-14.47.30:550][396]LogBlueprintUserMessages: [EnemyAIController_C_3] Found
+[2018.05.06-14.47.30:550][396]LogBlueprintUserMessages: [EnemyAIController_C_5] Found
+[2018.05.06-14.47.30:550][396]LogBlueprintUserMessages: [EnemyAIController_C_6] Found
+[2018.05.06-14.47.30:550][396]LogBlueprintUserMessages: [EnemyAIController_C_7] Found
+[2018.05.06-14.47.30:550][396]LogBlueprintUserMessages: [EnemyAIController_C_8] Found
+[2018.05.06-14.47.30:550][396]LogBlueprintUserMessages: [EnemyAIController_C_9] Found
+[2018.05.06-14.47.30:550][396]LogBlueprintUserMessages: [EnemyAIController_C_10] Found
+[2018.05.06-14.47.30:550][396]LogBlueprintUserMessages: [EnemyAIController_C_11] Found
+[2018.05.06-14.47.30:550][396]LogBlueprintUserMessages: [EnemyAIController_C_13] Found
+[2018.05.06-14.47.30:583][397]LogBlueprintUserMessages: [EnemyAIController_C_2] Found
+[2018.05.06-14.47.30:583][397]LogBlueprintUserMessages: [EnemyAIController_C_3] Found
+[2018.05.06-14.47.30:583][397]LogBlueprintUserMessages: [EnemyAIController_C_6] Found
+[2018.05.06-14.47.30:583][397]LogBlueprintUserMessages: [EnemyAIController_C_7] Found
+[2018.05.06-14.47.30:583][397]LogBlueprintUserMessages: [EnemyAIController_C_8] Found
+[2018.05.06-14.47.30:583][397]LogBlueprintUserMessages: [EnemyAIController_C_9] Found
+[2018.05.06-14.47.30:583][397]LogBlueprintUserMessages: [EnemyAIController_C_10] Found
+[2018.05.06-14.47.30:583][397]LogBlueprintUserMessages: [EnemyAIController_C_11] Found
+[2018.05.06-14.47.30:583][397]LogBlueprintUserMessages: [EnemyAIController_C_13] Found
+[2018.05.06-14.47.30:624][398]LogBlueprintUserMessages: [EnemyAIController_C_2] Found
+[2018.05.06-14.47.30:625][398]LogBlueprintUserMessages: [EnemyAIController_C_3] Found
+[2018.05.06-14.47.30:625][398]LogBlueprintUserMessages: [EnemyAIController_C_5] Found
+[2018.05.06-14.47.30:625][398]LogBlueprintUserMessages: [EnemyAIController_C_6] Found
+[2018.05.06-14.47.30:625][398]LogBlueprintUserMessages: [EnemyAIController_C_7] Found
+[2018.05.06-14.47.30:625][398]LogBlueprintUserMessages: [EnemyAIController_C_8] Found
+[2018.05.06-14.47.30:625][398]LogBlueprintUserMessages: [EnemyAIController_C_9] Found
+[2018.05.06-14.47.30:625][398]LogBlueprintUserMessages: [EnemyAIController_C_10] Found
+[2018.05.06-14.47.30:625][398]LogBlueprintUserMessages: [EnemyAIController_C_11] Found
+[2018.05.06-14.47.30:625][398]LogBlueprintUserMessages: [EnemyAIController_C_13] Found
+[2018.05.06-14.47.30:657][399]LogBlueprintUserMessages: [EnemyAIController_C_2] Found
+[2018.05.06-14.47.30:657][399]LogBlueprintUserMessages: [EnemyAIController_C_3] Found
+[2018.05.06-14.47.30:657][399]LogBlueprintUserMessages: [EnemyAIController_C_6] Found
+[2018.05.06-14.47.30:657][399]LogBlueprintUserMessages: [EnemyAIController_C_7] Found
+[2018.05.06-14.47.30:657][399]LogBlueprintUserMessages: [EnemyAIController_C_8] Found
+[2018.05.06-14.47.30:657][399]LogBlueprintUserMessages: [EnemyAIController_C_9] Found
+[2018.05.06-14.47.30:657][399]LogBlueprintUserMessages: [EnemyAIController_C_10] Found
+[2018.05.06-14.47.30:658][399]LogBlueprintUserMessages: [EnemyAIController_C_11] Found
+[2018.05.06-14.47.30:658][399]LogBlueprintUserMessages: [EnemyAIController_C_13] Found
+[2018.05.06-14.47.30:688][400]LogBlueprintUserMessages: [EnemyAIController_C_2] Found
+[2018.05.06-14.47.30:688][400]LogBlueprintUserMessages: [EnemyAIController_C_3] Found
+[2018.05.06-14.47.30:688][400]LogBlueprintUserMessages: [EnemyAIController_C_5] Found
+[2018.05.06-14.47.30:689][400]LogBlueprintUserMessages: [EnemyAIController_C_6] Found
+[2018.05.06-14.47.30:689][400]LogBlueprintUserMessages: [EnemyAIController_C_7] Found
+[2018.05.06-14.47.30:689][400]LogBlueprintUserMessages: [EnemyAIController_C_8] Found
+[2018.05.06-14.47.30:689][400]LogBlueprintUserMessages: [EnemyAIController_C_9] Found
+[2018.05.06-14.47.30:689][400]LogBlueprintUserMessages: [EnemyAIController_C_10] Found
+[2018.05.06-14.47.30:689][400]LogBlueprintUserMessages: [EnemyAIController_C_11] Found
+[2018.05.06-14.47.30:689][400]LogBlueprintUserMessages: [EnemyAIController_C_13] Found
+[2018.05.06-14.47.30:726][401]LogBlueprintUserMessages: [EnemyAIController_C_2] Found
+[2018.05.06-14.47.30:726][401]LogBlueprintUserMessages: [EnemyAIController_C_3] Found
+[2018.05.06-14.47.30:726][401]LogBlueprintUserMessages: [EnemyAIController_C_6] Found
+[2018.05.06-14.47.30:726][401]LogBlueprintUserMessages: [EnemyAIController_C_7] Found
+[2018.05.06-14.47.30:726][401]LogBlueprintUserMessages: [EnemyAIController_C_8] Found
+[2018.05.06-14.47.30:726][401]LogBlueprintUserMessages: [EnemyAIController_C_9] Found
+[2018.05.06-14.47.30:726][401]LogBlueprintUserMessages: [EnemyAIController_C_13] Found
+[2018.05.06-14.47.30:756][402]LogBlueprintUserMessages: [EnemyAIController_C_0] Found
+[2018.05.06-14.47.30:756][402]LogBlueprintUserMessages: [EnemyAIController_C_2] Found
+[2018.05.06-14.47.30:756][402]LogBlueprintUserMessages: [EnemyAIController_C_3] Found
+[2018.05.06-14.47.30:756][402]LogBlueprintUserMessages: [EnemyAIController_C_4] Found
+[2018.05.06-14.47.30:756][402]LogBlueprintUserMessages: [EnemyAIController_C_6] Found
+[2018.05.06-14.47.30:757][402]LogBlueprintUserMessages: [EnemyAIController_C_7] Found
+[2018.05.06-14.47.30:757][402]LogBlueprintUserMessages: [EnemyAIController_C_8] Found
+[2018.05.06-14.47.30:757][402]LogBlueprintUserMessages: [EnemyAIController_C_9] Found
+[2018.05.06-14.47.30:757][402]LogBlueprintUserMessages: [EnemyAIController_C_10] Found
+[2018.05.06-14.47.30:757][402]LogBlueprintUserMessages: [EnemyAIController_C_11] Found
+[2018.05.06-14.47.30:757][402]LogBlueprintUserMessages: [EnemyAIController_C_13] Found
+[2018.05.06-14.47.30:789][403]LogBlueprintUserMessages: [EnemyAIController_C_2] Found
+[2018.05.06-14.47.30:789][403]LogBlueprintUserMessages: [EnemyAIController_C_3] Found
+[2018.05.06-14.47.30:789][403]LogBlueprintUserMessages: [EnemyAIController_C_6] Found
+[2018.05.06-14.47.30:789][403]LogBlueprintUserMessages: [EnemyAIController_C_7] Found
+[2018.05.06-14.47.30:789][403]LogBlueprintUserMessages: [EnemyAIController_C_8] Found
+[2018.05.06-14.47.30:789][403]LogBlueprintUserMessages: [EnemyAIController_C_9] Found
+[2018.05.06-14.47.30:789][403]LogBlueprintUserMessages: [EnemyAIController_C_11] Found
+[2018.05.06-14.47.30:789][403]LogBlueprintUserMessages: [EnemyAIController_C_13] Found
+[2018.05.06-14.47.30:825][404]LogBlueprintUserMessages: [EnemyAIController_C_2] Found
+[2018.05.06-14.47.30:825][404]LogBlueprintUserMessages: [EnemyAIController_C_3] Found
+[2018.05.06-14.47.30:825][404]LogBlueprintUserMessages: [EnemyAIController_C_5] Found
+[2018.05.06-14.47.30:825][404]LogBlueprintUserMessages: [EnemyAIController_C_6] Found
+[2018.05.06-14.47.30:825][404]LogBlueprintUserMessages: [EnemyAIController_C_7] Found
+[2018.05.06-14.47.30:825][404]LogBlueprintUserMessages: [EnemyAIController_C_8] Found
+[2018.05.06-14.47.30:825][404]LogBlueprintUserMessages: [EnemyAIController_C_9] Found
+[2018.05.06-14.47.30:825][404]LogBlueprintUserMessages: [EnemyAIController_C_10] Found
+[2018.05.06-14.47.30:825][404]LogBlueprintUserMessages: [EnemyAIController_C_11] Found
+[2018.05.06-14.47.30:825][404]LogBlueprintUserMessages: [EnemyAIController_C_13] Found
+[2018.05.06-14.47.30:859][405]LogBlueprintUserMessages: [EnemyAIController_C_2] Found
+[2018.05.06-14.47.30:859][405]LogBlueprintUserMessages: [EnemyAIController_C_3] Found
+[2018.05.06-14.47.30:859][405]LogBlueprintUserMessages: [EnemyAIController_C_6] Found
+[2018.05.06-14.47.30:859][405]LogBlueprintUserMessages: [EnemyAIController_C_7] Found
+[2018.05.06-14.47.30:859][405]LogBlueprintUserMessages: [EnemyAIController_C_8] Found
+[2018.05.06-14.47.30:859][405]LogBlueprintUserMessages: [EnemyAIController_C_9] Found
+[2018.05.06-14.47.30:859][405]LogBlueprintUserMessages: [EnemyAIController_C_10] Found
+[2018.05.06-14.47.30:859][405]LogBlueprintUserMessages: [EnemyAIController_C_11] Found
+[2018.05.06-14.47.30:859][405]LogBlueprintUserMessages: [EnemyAIController_C_13] Found
+[2018.05.06-14.47.30:897][406]LogBlueprintUserMessages: [EnemyAIController_C_2] Found
+[2018.05.06-14.47.30:897][406]LogBlueprintUserMessages: [EnemyAIController_C_3] Found
+[2018.05.06-14.47.30:897][406]LogBlueprintUserMessages: [EnemyAIController_C_5] Found
+[2018.05.06-14.47.30:897][406]LogBlueprintUserMessages: [EnemyAIController_C_6] Found
+[2018.05.06-14.47.30:897][406]LogBlueprintUserMessages: [EnemyAIController_C_7] Found
+[2018.05.06-14.47.30:897][406]LogBlueprintUserMessages: [EnemyAIController_C_8] Found
+[2018.05.06-14.47.30:897][406]LogBlueprintUserMessages: [EnemyAIController_C_9] Found
+[2018.05.06-14.47.30:897][406]LogBlueprintUserMessages: [EnemyAIController_C_10] Found
+[2018.05.06-14.47.30:897][406]LogBlueprintUserMessages: [EnemyAIController_C_11] Found
+[2018.05.06-14.47.30:897][406]LogBlueprintUserMessages: [EnemyAIController_C_13] Found
+[2018.05.06-14.47.30:926][407]LogBlueprintUserMessages: [EnemyAIController_C_2] Found
+[2018.05.06-14.47.30:926][407]LogBlueprintUserMessages: [EnemyAIController_C_3] Found
+[2018.05.06-14.47.30:926][407]LogBlueprintUserMessages: [EnemyAIController_C_6] Found
+[2018.05.06-14.47.30:926][407]LogBlueprintUserMessages: [EnemyAIController_C_8] Found
+[2018.05.06-14.47.30:926][407]LogBlueprintUserMessages: [EnemyAIController_C_9] Found
+[2018.05.06-14.47.30:926][407]LogBlueprintUserMessages: [EnemyAIController_C_10] Found
+[2018.05.06-14.47.30:926][407]LogBlueprintUserMessages: [EnemyAIController_C_11] Found
+[2018.05.06-14.47.30:926][407]LogBlueprintUserMessages: [EnemyAIController_C_13] Found
+[2018.05.06-14.47.30:957][408]LogBlueprintUserMessages: [EnemyAIController_C_2] Found
+[2018.05.06-14.47.30:958][408]LogBlueprintUserMessages: [EnemyAIController_C_3] Found
+[2018.05.06-14.47.30:958][408]LogBlueprintUserMessages: [EnemyAIController_C_5] Found
+[2018.05.06-14.47.30:958][408]LogBlueprintUserMessages: [EnemyAIController_C_6] Found
+[2018.05.06-14.47.30:958][408]LogBlueprintUserMessages: [EnemyAIController_C_7] Found
+[2018.05.06-14.47.30:958][408]LogBlueprintUserMessages: [EnemyAIController_C_8] Found
+[2018.05.06-14.47.30:958][408]LogBlueprintUserMessages: [EnemyAIController_C_9] Found
+[2018.05.06-14.47.30:958][408]LogBlueprintUserMessages: [EnemyAIController_C_10] Found
+[2018.05.06-14.47.30:958][408]LogBlueprintUserMessages: [EnemyAIController_C_11] Found
+[2018.05.06-14.47.30:958][408]LogBlueprintUserMessages: [EnemyAIController_C_13] Found
+[2018.05.06-14.47.30:989][409]LogBlueprintUserMessages: [EnemyAIController_C_2] Found
+[2018.05.06-14.47.30:989][409]LogBlueprintUserMessages: [EnemyAIController_C_3] Found
+[2018.05.06-14.47.30:989][409]LogBlueprintUserMessages: [EnemyAIController_C_6] Found
+[2018.05.06-14.47.30:989][409]LogBlueprintUserMessages: [EnemyAIController_C_7] Found
+[2018.05.06-14.47.30:989][409]LogBlueprintUserMessages: [EnemyAIController_C_8] Found
+[2018.05.06-14.47.30:989][409]LogBlueprintUserMessages: [EnemyAIController_C_9] Found
+[2018.05.06-14.47.30:989][409]LogBlueprintUserMessages: [EnemyAIController_C_10] Found
+[2018.05.06-14.47.30:989][409]LogBlueprintUserMessages: [EnemyAIController_C_11] Found
+[2018.05.06-14.47.30:989][409]LogBlueprintUserMessages: [EnemyAIController_C_13] Found
+[2018.05.06-14.47.31:021][410]LogBlueprintUserMessages: [EnemyAIController_C_2] Found
+[2018.05.06-14.47.31:021][410]LogBlueprintUserMessages: [EnemyAIController_C_3] Found
+[2018.05.06-14.47.31:021][410]LogBlueprintUserMessages: [EnemyAIController_C_5] Found
+[2018.05.06-14.47.31:021][410]LogBlueprintUserMessages: [EnemyAIController_C_6] Found
+[2018.05.06-14.47.31:021][410]LogBlueprintUserMessages: [EnemyAIController_C_7] Found
+[2018.05.06-14.47.31:021][410]LogBlueprintUserMessages: [EnemyAIController_C_8] Found
+[2018.05.06-14.47.31:021][410]LogBlueprintUserMessages: [EnemyAIController_C_9] Found
+[2018.05.06-14.47.31:021][410]LogBlueprintUserMessages: [EnemyAIController_C_10] Found
+[2018.05.06-14.47.31:021][410]LogBlueprintUserMessages: [EnemyAIController_C_11] Found
+[2018.05.06-14.47.31:021][410]LogBlueprintUserMessages: [EnemyAIController_C_13] Found
+[2018.05.06-14.47.31:053][411]LogBlueprintUserMessages: [EnemyAIController_C_2] Found
+[2018.05.06-14.47.31:053][411]LogBlueprintUserMessages: [EnemyAIController_C_3] Found
+[2018.05.06-14.47.31:053][411]LogBlueprintUserMessages: [EnemyAIController_C_6] Found
+[2018.05.06-14.47.31:053][411]LogBlueprintUserMessages: [EnemyAIController_C_7] Found
+[2018.05.06-14.47.31:053][411]LogBlueprintUserMessages: [EnemyAIController_C_8] Found
+[2018.05.06-14.47.31:053][411]LogBlueprintUserMessages: [EnemyAIController_C_9] Found
+[2018.05.06-14.47.31:053][411]LogBlueprintUserMessages: [EnemyAIController_C_10] Found
+[2018.05.06-14.47.31:053][411]LogBlueprintUserMessages: [EnemyAIController_C_11] Found
+[2018.05.06-14.47.31:053][411]LogBlueprintUserMessages: [EnemyAIController_C_13] Found
+[2018.05.06-14.47.31:083][412]LogBlueprintUserMessages: [EnemyAIController_C_2] Found
+[2018.05.06-14.47.31:084][412]LogBlueprintUserMessages: [EnemyAIController_C_3] Found
+[2018.05.06-14.47.31:084][412]LogBlueprintUserMessages: [EnemyAIController_C_5] Found
+[2018.05.06-14.47.31:084][412]LogBlueprintUserMessages: [EnemyAIController_C_6] Found
+[2018.05.06-14.47.31:084][412]LogBlueprintUserMessages: [EnemyAIController_C_7] Found
+[2018.05.06-14.47.31:084][412]LogBlueprintUserMessages: [EnemyAIController_C_8] Found
+[2018.05.06-14.47.31:084][412]LogBlueprintUserMessages: [EnemyAIController_C_9] Found
+[2018.05.06-14.47.31:084][412]LogBlueprintUserMessages: [EnemyAIController_C_10] Found
+[2018.05.06-14.47.31:084][412]LogBlueprintUserMessages: [EnemyAIController_C_11] Found
+[2018.05.06-14.47.31:084][412]LogBlueprintUserMessages: [EnemyAIController_C_13] Found
+[2018.05.06-14.47.31:114][413]LogBlueprintUserMessages: [EnemyAIController_C_2] Found
+[2018.05.06-14.47.31:114][413]LogBlueprintUserMessages: [EnemyAIController_C_3] Found
+[2018.05.06-14.47.31:114][413]LogBlueprintUserMessages: [EnemyAIController_C_6] Found
+[2018.05.06-14.47.31:115][413]LogBlueprintUserMessages: [EnemyAIController_C_7] Found
+[2018.05.06-14.47.31:115][413]LogBlueprintUserMessages: [EnemyAIController_C_8] Found
+[2018.05.06-14.47.31:115][413]LogBlueprintUserMessages: [EnemyAIController_C_9] Found
+[2018.05.06-14.47.31:115][413]LogBlueprintUserMessages: [EnemyAIController_C_10] Found
+[2018.05.06-14.47.31:115][413]LogBlueprintUserMessages: [EnemyAIController_C_13] Found
+[2018.05.06-14.47.31:145][414]LogBlueprintUserMessages: [EnemyAIController_C_2] Found
+[2018.05.06-14.47.31:145][414]LogBlueprintUserMessages: [EnemyAIController_C_3] Found
+[2018.05.06-14.47.31:145][414]LogBlueprintUserMessages: [EnemyAIController_C_6] Found
+[2018.05.06-14.47.31:145][414]LogBlueprintUserMessages: [EnemyAIController_C_7] Found
+[2018.05.06-14.47.31:145][414]LogBlueprintUserMessages: [EnemyAIController_C_8] Found
+[2018.05.06-14.47.31:145][414]LogBlueprintUserMessages: [EnemyAIController_C_9] Found
+[2018.05.06-14.47.31:145][414]LogBlueprintUserMessages: [EnemyAIController_C_10] Found
+[2018.05.06-14.47.31:145][414]LogBlueprintUserMessages: [EnemyAIController_C_11] Found
+[2018.05.06-14.47.31:146][414]LogBlueprintUserMessages: [EnemyAIController_C_13] Found
+[2018.05.06-14.47.31:176][415]LogBlueprintUserMessages: [ThirdPersonCharacter_853] 4.0
+[2018.05.06-14.47.31:180][415]LogBlueprintUserMessages: [EnemyAIController_C_2] Found
+[2018.05.06-14.47.31:180][415]LogBlueprintUserMessages: [EnemyAIController_C_3] Found
+[2018.05.06-14.47.31:180][415]LogBlueprintUserMessages: [EnemyAIController_C_6] Found
+[2018.05.06-14.47.31:180][415]LogBlueprintUserMessages: [EnemyAIController_C_7] Found
+[2018.05.06-14.47.31:180][415]LogBlueprintUserMessages: [EnemyAIController_C_8] Found
+[2018.05.06-14.47.31:180][415]LogBlueprintUserMessages: [EnemyAIController_C_9] Found
+[2018.05.06-14.47.31:181][415]LogBlueprintUserMessages: [EnemyAIController_C_10] Found
+[2018.05.06-14.47.31:181][415]LogBlueprintUserMessages: [EnemyAIController_C_13] Found
+[2018.05.06-14.47.31:210][416]LogBlueprintUserMessages: [EnemyAIController_C_2] Found
+[2018.05.06-14.47.31:210][416]LogBlueprintUserMessages: [EnemyAIController_C_3] Found
+[2018.05.06-14.47.31:210][416]LogBlueprintUserMessages: [EnemyAIController_C_6] Found
+[2018.05.06-14.47.31:210][416]LogBlueprintUserMessages: [EnemyAIController_C_7] Found
+[2018.05.06-14.47.31:210][416]LogBlueprintUserMessages: [EnemyAIController_C_8] Found
+[2018.05.06-14.47.31:210][416]LogBlueprintUserMessages: [EnemyAIController_C_9] Found
+[2018.05.06-14.47.31:210][416]LogBlueprintUserMessages: [EnemyAIController_C_10] Found
+[2018.05.06-14.47.31:210][416]LogBlueprintUserMessages: [EnemyAIController_C_11] Found
+[2018.05.06-14.47.31:210][416]LogBlueprintUserMessages: [EnemyAIController_C_13] Found
+[2018.05.06-14.47.31:241][417]LogBlueprintUserMessages: [EnemyAIController_C_2] Found
+[2018.05.06-14.47.31:241][417]LogBlueprintUserMessages: [EnemyAIController_C_3] Found
+[2018.05.06-14.47.31:241][417]LogBlueprintUserMessages: [EnemyAIController_C_6] Found
+[2018.05.06-14.47.31:241][417]LogBlueprintUserMessages: [EnemyAIController_C_7] Found
+[2018.05.06-14.47.31:241][417]LogBlueprintUserMessages: [EnemyAIController_C_8] Found
+[2018.05.06-14.47.31:241][417]LogBlueprintUserMessages: [EnemyAIController_C_9] Found
+[2018.05.06-14.47.31:241][417]LogBlueprintUserMessages: [EnemyAIController_C_10] Found
+[2018.05.06-14.47.31:241][417]LogBlueprintUserMessages: [EnemyAIController_C_13] Found
+[2018.05.06-14.47.31:272][418]LogBlueprintUserMessages: [EnemyAIController_C_2] Found
+[2018.05.06-14.47.31:272][418]LogBlueprintUserMessages: [EnemyAIController_C_3] Found
+[2018.05.06-14.47.31:272][418]LogBlueprintUserMessages: [EnemyAIController_C_5] Found
+[2018.05.06-14.47.31:272][418]LogBlueprintUserMessages: [EnemyAIController_C_6] Found
+[2018.05.06-14.47.31:272][418]LogBlueprintUserMessages: [EnemyAIController_C_7] Found
+[2018.05.06-14.47.31:272][418]LogBlueprintUserMessages: [EnemyAIController_C_8] Found
+[2018.05.06-14.47.31:272][418]LogBlueprintUserMessages: [EnemyAIController_C_9] Found
+[2018.05.06-14.47.31:272][418]LogBlueprintUserMessages: [EnemyAIController_C_10] Found
+[2018.05.06-14.47.31:272][418]LogBlueprintUserMessages: [EnemyAIController_C_11] Found
+[2018.05.06-14.47.31:272][418]LogBlueprintUserMessages: [EnemyAIController_C_13] Found
+[2018.05.06-14.47.31:303][419]LogBlueprintUserMessages: [EnemyAIController_C_2] Found
+[2018.05.06-14.47.31:303][419]LogBlueprintUserMessages: [EnemyAIController_C_3] Found
+[2018.05.06-14.47.31:303][419]LogBlueprintUserMessages: [EnemyAIController_C_6] Found
+[2018.05.06-14.47.31:303][419]LogBlueprintUserMessages: [EnemyAIController_C_7] Found
+[2018.05.06-14.47.31:303][419]LogBlueprintUserMessages: [EnemyAIController_C_8] Found
+[2018.05.06-14.47.31:304][419]LogBlueprintUserMessages: [EnemyAIController_C_9] Found
+[2018.05.06-14.47.31:304][419]LogBlueprintUserMessages: [EnemyAIController_C_11] Found
+[2018.05.06-14.47.31:304][419]LogBlueprintUserMessages: [EnemyAIController_C_13] Found
+[2018.05.06-14.47.31:337][420]LogBlueprintUserMessages: [EnemyAIController_C_2] Found
+[2018.05.06-14.47.31:337][420]LogBlueprintUserMessages: [EnemyAIController_C_3] Found
+[2018.05.06-14.47.31:337][420]LogBlueprintUserMessages: [EnemyAIController_C_5] Found
+[2018.05.06-14.47.31:337][420]LogBlueprintUserMessages: [EnemyAIController_C_6] Found
+[2018.05.06-14.47.31:337][420]LogBlueprintUserMessages: [EnemyAIController_C_7] Found
+[2018.05.06-14.47.31:337][420]LogBlueprintUserMessages: [EnemyAIController_C_8] Found
+[2018.05.06-14.47.31:337][420]LogBlueprintUserMessages: [EnemyAIController_C_9] Found
+[2018.05.06-14.47.31:337][420]LogBlueprintUserMessages: [EnemyAIController_C_10] Found
+[2018.05.06-14.47.31:337][420]LogBlueprintUserMessages: [EnemyAIController_C_11] Found
+[2018.05.06-14.47.31:337][420]LogBlueprintUserMessages: [EnemyAIController_C_13] Found
+[2018.05.06-14.47.31:367][421]LogBlueprintUserMessages: [EnemyAIController_C_2] Found
+[2018.05.06-14.47.31:368][421]LogBlueprintUserMessages: [EnemyAIController_C_3] Found
+[2018.05.06-14.47.31:368][421]LogBlueprintUserMessages: [EnemyAIController_C_6] Found
+[2018.05.06-14.47.31:368][421]LogBlueprintUserMessages: [EnemyAIController_C_7] Found
+[2018.05.06-14.47.31:368][421]LogBlueprintUserMessages: [EnemyAIController_C_8] Found
+[2018.05.06-14.47.31:368][421]LogBlueprintUserMessages: [EnemyAIController_C_9] Found
+[2018.05.06-14.47.31:368][421]LogBlueprintUserMessages: [EnemyAIController_C_10] Found
+[2018.05.06-14.47.31:368][421]LogBlueprintUserMessages: [EnemyAIController_C_11] Found
+[2018.05.06-14.47.31:400][422]LogBlueprintUserMessages: [EnemyAIController_C_2] Found
+[2018.05.06-14.47.31:400][422]LogBlueprintUserMessages: [EnemyAIController_C_3] Found
+[2018.05.06-14.47.31:400][422]LogBlueprintUserMessages: [EnemyAIController_C_5] Found
+[2018.05.06-14.47.31:400][422]LogBlueprintUserMessages: [EnemyAIController_C_6] Found
+[2018.05.06-14.47.31:400][422]LogBlueprintUserMessages: [EnemyAIController_C_7] Found
+[2018.05.06-14.47.31:400][422]LogBlueprintUserMessages: [EnemyAIController_C_8] Found
+[2018.05.06-14.47.31:400][422]LogBlueprintUserMessages: [EnemyAIController_C_9] Found
+[2018.05.06-14.47.31:400][422]LogBlueprintUserMessages: [EnemyAIController_C_10] Found
+[2018.05.06-14.47.31:400][422]LogBlueprintUserMessages: [EnemyAIController_C_11] Found
+[2018.05.06-14.47.31:400][422]LogBlueprintUserMessages: [EnemyAIController_C_13] Found
+[2018.05.06-14.47.31:432][423]LogBlueprintUserMessages: [EnemyAIController_C_2] Found
+[2018.05.06-14.47.31:433][423]LogBlueprintUserMessages: [EnemyAIController_C_3] Found
+[2018.05.06-14.47.31:433][423]LogBlueprintUserMessages: [EnemyAIController_C_6] Found
+[2018.05.06-14.47.31:433][423]LogBlueprintUserMessages: [EnemyAIController_C_7] Found
+[2018.05.06-14.47.31:433][423]LogBlueprintUserMessages: [EnemyAIController_C_8] Found
+[2018.05.06-14.47.31:433][423]LogBlueprintUserMessages: [EnemyAIController_C_9] Found
+[2018.05.06-14.47.31:433][423]LogBlueprintUserMessages: [EnemyAIController_C_10] Found
+[2018.05.06-14.47.31:433][423]LogBlueprintUserMessages: [EnemyAIController_C_11] Found
+[2018.05.06-14.47.31:433][423]LogBlueprintUserMessages: [EnemyAIController_C_13] Found
+[2018.05.06-14.47.31:461][424]LogBlueprintUserMessages: [EnemyAIController_C_2] Found
+[2018.05.06-14.47.31:461][424]LogBlueprintUserMessages: [EnemyAIController_C_3] Found
+[2018.05.06-14.47.31:461][424]LogBlueprintUserMessages: [EnemyAIController_C_5] Found
+[2018.05.06-14.47.31:461][424]LogBlueprintUserMessages: [EnemyAIController_C_6] Found
+[2018.05.06-14.47.31:461][424]LogBlueprintUserMessages: [EnemyAIController_C_7] Found
+[2018.05.06-14.47.31:461][424]LogBlueprintUserMessages: [EnemyAIController_C_8] Found
+[2018.05.06-14.47.31:461][424]LogBlueprintUserMessages: [EnemyAIController_C_9] Found
+[2018.05.06-14.47.31:461][424]LogBlueprintUserMessages: [EnemyAIController_C_10] Found
+[2018.05.06-14.47.31:461][424]LogBlueprintUserMessages: [EnemyAIController_C_11] Found
+[2018.05.06-14.47.31:461][424]LogBlueprintUserMessages: [EnemyAIController_C_13] Found
+[2018.05.06-14.47.31:490][425]LogBlueprintUserMessages: [EnemyAIController_C_2] Found
+[2018.05.06-14.47.31:491][425]LogBlueprintUserMessages: [EnemyAIController_C_3] Found
+[2018.05.06-14.47.31:491][425]LogBlueprintUserMessages: [EnemyAIController_C_6] Found
+[2018.05.06-14.47.31:491][425]LogBlueprintUserMessages: [EnemyAIController_C_7] Found
+[2018.05.06-14.47.31:491][425]LogBlueprintUserMessages: [EnemyAIController_C_8] Found
+[2018.05.06-14.47.31:491][425]LogBlueprintUserMessages: [EnemyAIController_C_9] Found
+[2018.05.06-14.47.31:491][425]LogBlueprintUserMessages: [EnemyAIController_C_10] Found
+[2018.05.06-14.47.31:491][425]LogBlueprintUserMessages: [EnemyAIController_C_13] Found
+[2018.05.06-14.47.31:522][426]LogBlueprintUserMessages: [EnemyAIController_C_2] Found
+[2018.05.06-14.47.31:522][426]LogBlueprintUserMessages: [EnemyAIController_C_3] Found
+[2018.05.06-14.47.31:522][426]LogBlueprintUserMessages: [EnemyAIController_C_6] Found
+[2018.05.06-14.47.31:522][426]LogBlueprintUserMessages: [EnemyAIController_C_7] Found
+[2018.05.06-14.47.31:522][426]LogBlueprintUserMessages: [EnemyAIController_C_8] Found
+[2018.05.06-14.47.31:522][426]LogBlueprintUserMessages: [EnemyAIController_C_9] Found
+[2018.05.06-14.47.31:522][426]LogBlueprintUserMessages: [EnemyAIController_C_10] Found
+[2018.05.06-14.47.31:522][426]LogBlueprintUserMessages: [EnemyAIController_C_11] Found
+[2018.05.06-14.47.31:522][426]LogBlueprintUserMessages: [EnemyAIController_C_13] Found
+[2018.05.06-14.47.31:555][427]LogBlueprintUserMessages: [EnemyAIController_C_3] Found
+[2018.05.06-14.47.31:555][427]LogBlueprintUserMessages: [EnemyAIController_C_6] Found
+[2018.05.06-14.47.31:555][427]LogBlueprintUserMessages: [EnemyAIController_C_7] Found
+[2018.05.06-14.47.31:555][427]LogBlueprintUserMessages: [EnemyAIController_C_8] Found
+[2018.05.06-14.47.31:555][427]LogBlueprintUserMessages: [EnemyAIController_C_9] Found
+[2018.05.06-14.47.31:555][427]LogBlueprintUserMessages: [EnemyAIController_C_10] Found
+[2018.05.06-14.47.31:556][427]LogBlueprintUserMessages: [EnemyAIController_C_11] Found
+[2018.05.06-14.47.31:556][427]LogBlueprintUserMessages: [EnemyAIController_C_13] Found
+[2018.05.06-14.47.31:587][428]LogBlueprintUserMessages: [EnemyAIController_C_2] Found
+[2018.05.06-14.47.31:588][428]LogBlueprintUserMessages: [EnemyAIController_C_3] Found
+[2018.05.06-14.47.31:588][428]LogBlueprintUserMessages: [EnemyAIController_C_5] Found
+[2018.05.06-14.47.31:588][428]LogBlueprintUserMessages: [EnemyAIController_C_6] Found
+[2018.05.06-14.47.31:588][428]LogBlueprintUserMessages: [EnemyAIController_C_7] Found
+[2018.05.06-14.47.31:588][428]LogBlueprintUserMessages: [EnemyAIController_C_8] Found
+[2018.05.06-14.47.31:588][428]LogBlueprintUserMessages: [EnemyAIController_C_9] Found
+[2018.05.06-14.47.31:588][428]LogBlueprintUserMessages: [EnemyAIController_C_10] Found
+[2018.05.06-14.47.31:588][428]LogBlueprintUserMessages: [EnemyAIController_C_11] Found
+[2018.05.06-14.47.31:588][428]LogBlueprintUserMessages: [EnemyAIController_C_13] Found
+[2018.05.06-14.47.31:621][429]LogBlueprintUserMessages: [EnemyAIController_C_2] Found
+[2018.05.06-14.47.31:621][429]LogBlueprintUserMessages: [EnemyAIController_C_3] Found
+[2018.05.06-14.47.31:621][429]LogBlueprintUserMessages: [EnemyAIController_C_6] Found
+[2018.05.06-14.47.31:621][429]LogBlueprintUserMessages: [EnemyAIController_C_7] Found
+[2018.05.06-14.47.31:621][429]LogBlueprintUserMessages: [EnemyAIController_C_8] Found
+[2018.05.06-14.47.31:621][429]LogBlueprintUserMessages: [EnemyAIController_C_9] Found
+[2018.05.06-14.47.31:622][429]LogBlueprintUserMessages: [EnemyAIController_C_10] Found
+[2018.05.06-14.47.31:622][429]LogBlueprintUserMessages: [EnemyAIController_C_13] Found
+[2018.05.06-14.47.31:655][430]LogBlueprintUserMessages: [EnemyAIController_C_2] Found
+[2018.05.06-14.47.31:655][430]LogBlueprintUserMessages: [EnemyAIController_C_3] Found
+[2018.05.06-14.47.31:656][430]LogBlueprintUserMessages: [EnemyAIController_C_5] Found
+[2018.05.06-14.47.31:656][430]LogBlueprintUserMessages: [EnemyAIController_C_6] Found
+[2018.05.06-14.47.31:656][430]LogBlueprintUserMessages: [EnemyAIController_C_7] Found
+[2018.05.06-14.47.31:656][430]LogBlueprintUserMessages: [EnemyAIController_C_8] Found
+[2018.05.06-14.47.31:656][430]LogBlueprintUserMessages: [EnemyAIController_C_9] Found
+[2018.05.06-14.47.31:656][430]LogBlueprintUserMessages: [EnemyAIController_C_10] Found
+[2018.05.06-14.47.31:656][430]LogBlueprintUserMessages: [EnemyAIController_C_11] Found
+[2018.05.06-14.47.31:656][430]LogBlueprintUserMessages: [EnemyAIController_C_13] Found
+[2018.05.06-14.47.31:688][431]LogBlueprintUserMessages: [EnemyAIController_C_2] Found
+[2018.05.06-14.47.31:688][431]LogBlueprintUserMessages: [EnemyAIController_C_3] Found
+[2018.05.06-14.47.31:688][431]LogBlueprintUserMessages: [EnemyAIController_C_6] Found
+[2018.05.06-14.47.31:689][431]LogBlueprintUserMessages: [EnemyAIController_C_7] Found
+[2018.05.06-14.47.31:689][431]LogBlueprintUserMessages: [EnemyAIController_C_8] Found
+[2018.05.06-14.47.31:689][431]LogBlueprintUserMessages: [EnemyAIController_C_9] Found
+[2018.05.06-14.47.31:689][431]LogBlueprintUserMessages: [EnemyAIController_C_10] Found
+[2018.05.06-14.47.31:689][431]LogBlueprintUserMessages: [EnemyAIController_C_11] Found
+[2018.05.06-14.47.31:689][431]LogBlueprintUserMessages: [EnemyAIController_C_13] Found
+[2018.05.06-14.47.31:721][432]LogBlueprintUserMessages: [EnemyAIController_C_2] Found
+[2018.05.06-14.47.31:722][432]LogBlueprintUserMessages: [EnemyAIController_C_3] Found
+[2018.05.06-14.47.31:722][432]LogBlueprintUserMessages: [EnemyAIController_C_5] Found
+[2018.05.06-14.47.31:722][432]LogBlueprintUserMessages: [EnemyAIController_C_6] Found
+[2018.05.06-14.47.31:722][432]LogBlueprintUserMessages: [EnemyAIController_C_7] Found
+[2018.05.06-14.47.31:722][432]LogBlueprintUserMessages: [EnemyAIController_C_8] Found
+[2018.05.06-14.47.31:722][432]LogBlueprintUserMessages: [EnemyAIController_C_9] Found
+[2018.05.06-14.47.31:722][432]LogBlueprintUserMessages: [EnemyAIController_C_10] Found
+[2018.05.06-14.47.31:722][432]LogBlueprintUserMessages: [EnemyAIController_C_11] Found
+[2018.05.06-14.47.31:722][432]LogBlueprintUserMessages: [EnemyAIController_C_13] Found
+[2018.05.06-14.47.31:753][433]LogBlueprintUserMessages: [EnemyAIController_C_2] Found
+[2018.05.06-14.47.31:753][433]LogBlueprintUserMessages: [EnemyAIController_C_3] Found
+[2018.05.06-14.47.31:753][433]LogBlueprintUserMessages: [EnemyAIController_C_6] Found
+[2018.05.06-14.47.31:753][433]LogBlueprintUserMessages: [EnemyAIController_C_7] Found
+[2018.05.06-14.47.31:753][433]LogBlueprintUserMessages: [EnemyAIController_C_8] Found
+[2018.05.06-14.47.31:753][433]LogBlueprintUserMessages: [EnemyAIController_C_9] Found
+[2018.05.06-14.47.31:753][433]LogBlueprintUserMessages: [EnemyAIController_C_10] Found
+[2018.05.06-14.47.31:753][433]LogBlueprintUserMessages: [EnemyAIController_C_11] Found
+[2018.05.06-14.47.31:753][433]LogBlueprintUserMessages: [EnemyAIController_C_13] Found
+[2018.05.06-14.47.31:785][434]LogBlueprintUserMessages: [EnemyAIController_C_2] Found
+[2018.05.06-14.47.31:785][434]LogBlueprintUserMessages: [EnemyAIController_C_3] Found
+[2018.05.06-14.47.31:785][434]LogBlueprintUserMessages: [EnemyAIController_C_5] Found
+[2018.05.06-14.47.31:785][434]LogBlueprintUserMessages: [EnemyAIController_C_6] Found
+[2018.05.06-14.47.31:785][434]LogBlueprintUserMessages: [EnemyAIController_C_7] Found
+[2018.05.06-14.47.31:785][434]LogBlueprintUserMessages: [EnemyAIController_C_8] Found
+[2018.05.06-14.47.31:785][434]LogBlueprintUserMessages: [EnemyAIController_C_9] Found
+[2018.05.06-14.47.31:785][434]LogBlueprintUserMessages: [EnemyAIController_C_10] Found
+[2018.05.06-14.47.31:785][434]LogBlueprintUserMessages: [EnemyAIController_C_11] Found
+[2018.05.06-14.47.31:785][434]LogBlueprintUserMessages: [EnemyAIController_C_13] Found
+[2018.05.06-14.47.31:817][435]LogBlueprintUserMessages: [EnemyAIController_C_2] Found
+[2018.05.06-14.47.31:817][435]LogBlueprintUserMessages: [EnemyAIController_C_3] Found
+[2018.05.06-14.47.31:817][435]LogBlueprintUserMessages: [EnemyAIController_C_6] Found
+[2018.05.06-14.47.31:817][435]LogBlueprintUserMessages: [EnemyAIController_C_7] Found
+[2018.05.06-14.47.31:817][435]LogBlueprintUserMessages: [EnemyAIController_C_8] Found
+[2018.05.06-14.47.31:817][435]LogBlueprintUserMessages: [EnemyAIController_C_9] Found
+[2018.05.06-14.47.31:817][435]LogBlueprintUserMessages: [EnemyAIController_C_10] Found
+[2018.05.06-14.47.31:817][435]LogBlueprintUserMessages: [EnemyAIController_C_11] Found
+[2018.05.06-14.47.31:817][435]LogBlueprintUserMessages: [EnemyAIController_C_13] Found
+[2018.05.06-14.47.31:844][436]LogBlueprintUserMessages: [EnemyAIController_C_2] Found
+[2018.05.06-14.47.31:845][436]LogBlueprintUserMessages: [EnemyAIController_C_3] Found
+[2018.05.06-14.47.31:845][436]LogBlueprintUserMessages: [EnemyAIController_C_5] Found
+[2018.05.06-14.47.31:845][436]LogBlueprintUserMessages: [EnemyAIController_C_6] Found
+[2018.05.06-14.47.31:845][436]LogBlueprintUserMessages: [EnemyAIController_C_7] Found
+[2018.05.06-14.47.31:845][436]LogBlueprintUserMessages: [EnemyAIController_C_8] Found
+[2018.05.06-14.47.31:845][436]LogBlueprintUserMessages: [EnemyAIController_C_9] Found
+[2018.05.06-14.47.31:845][436]LogBlueprintUserMessages: [EnemyAIController_C_10] Found
+[2018.05.06-14.47.31:845][436]LogBlueprintUserMessages: [EnemyAIController_C_11] Found
+[2018.05.06-14.47.31:845][436]LogBlueprintUserMessages: [EnemyAIController_C_13] Found
+[2018.05.06-14.47.31:875][437]LogBlueprintUserMessages: [EnemyAIController_C_2] Found
+[2018.05.06-14.47.31:875][437]LogBlueprintUserMessages: [EnemyAIController_C_3] Found
+[2018.05.06-14.47.31:875][437]LogBlueprintUserMessages: [EnemyAIController_C_6] Found
+[2018.05.06-14.47.31:875][437]LogBlueprintUserMessages: [EnemyAIController_C_7] Found
+[2018.05.06-14.47.31:875][437]LogBlueprintUserMessages: [EnemyAIController_C_8] Found
+[2018.05.06-14.47.31:875][437]LogBlueprintUserMessages: [EnemyAIController_C_9] Found
+[2018.05.06-14.47.31:875][437]LogBlueprintUserMessages: [EnemyAIController_C_10] Found
+[2018.05.06-14.47.31:875][437]LogBlueprintUserMessages: [EnemyAIController_C_11] Found
+[2018.05.06-14.47.31:908][438]LogBlueprintUserMessages: [EnemyAIController_C_2] Found
+[2018.05.06-14.47.31:908][438]LogBlueprintUserMessages: [EnemyAIController_C_3] Found
+[2018.05.06-14.47.31:908][438]LogBlueprintUserMessages: [EnemyAIController_C_6] Found
+[2018.05.06-14.47.31:908][438]LogBlueprintUserMessages: [EnemyAIController_C_7] Found
+[2018.05.06-14.47.31:908][438]LogBlueprintUserMessages: [EnemyAIController_C_8] Found
+[2018.05.06-14.47.31:908][438]LogBlueprintUserMessages: [EnemyAIController_C_9] Found
+[2018.05.06-14.47.31:908][438]LogBlueprintUserMessages: [EnemyAIController_C_10] Found
+[2018.05.06-14.47.31:908][438]LogBlueprintUserMessages: [EnemyAIController_C_11] Found
+[2018.05.06-14.47.31:909][438]LogBlueprintUserMessages: [EnemyAIController_C_13] Found
+[2018.05.06-14.47.31:941][439]LogBlueprintUserMessages: [EnemyAIController_C_6] Found
+[2018.05.06-14.47.31:941][439]LogBlueprintUserMessages: [EnemyAIController_C_7] Found
+[2018.05.06-14.47.31:941][439]LogBlueprintUserMessages: [EnemyAIController_C_9] Found
+[2018.05.06-14.47.31:941][439]LogBlueprintUserMessages: [EnemyAIController_C_10] Found
+[2018.05.06-14.47.31:941][439]LogBlueprintUserMessages: [EnemyAIController_C_11] Found
+[2018.05.06-14.47.31:941][439]LogBlueprintUserMessages: [EnemyAIController_C_13] Found
+[2018.05.06-14.47.31:973][440]LogBlueprintUserMessages: [EnemyAIController_C_2] Found
+[2018.05.06-14.47.31:973][440]LogBlueprintUserMessages: [EnemyAIController_C_3] Found
+[2018.05.06-14.47.31:973][440]LogBlueprintUserMessages: [EnemyAIController_C_5] Found
+[2018.05.06-14.47.31:973][440]LogBlueprintUserMessages: [EnemyAIController_C_6] Found
+[2018.05.06-14.47.31:973][440]LogBlueprintUserMessages: [EnemyAIController_C_7] Found
+[2018.05.06-14.47.31:973][440]LogBlueprintUserMessages: [EnemyAIController_C_8] Found
+[2018.05.06-14.47.31:973][440]LogBlueprintUserMessages: [EnemyAIController_C_9] Found
+[2018.05.06-14.47.31:973][440]LogBlueprintUserMessages: [EnemyAIController_C_10] Found
+[2018.05.06-14.47.31:973][440]LogBlueprintUserMessages: [EnemyAIController_C_11] Found
+[2018.05.06-14.47.31:973][440]LogBlueprintUserMessages: [EnemyAIController_C_13] Found
+[2018.05.06-14.47.32:003][441]LogBlueprintUserMessages: [EnemyAIController_C_2] Found
+[2018.05.06-14.47.32:004][441]LogBlueprintUserMessages: [EnemyAIController_C_3] Found
+[2018.05.06-14.47.32:004][441]LogBlueprintUserMessages: [EnemyAIController_C_6] Found
+[2018.05.06-14.47.32:004][441]LogBlueprintUserMessages: [EnemyAIController_C_7] Found
+[2018.05.06-14.47.32:004][441]LogBlueprintUserMessages: [EnemyAIController_C_8] Found
+[2018.05.06-14.47.32:004][441]LogBlueprintUserMessages: [EnemyAIController_C_9] Found
+[2018.05.06-14.47.32:004][441]LogBlueprintUserMessages: [EnemyAIController_C_11] Found
+[2018.05.06-14.47.32:036][442]LogBlueprintUserMessages: [EnemyAIController_C_2] Found
+[2018.05.06-14.47.32:036][442]LogBlueprintUserMessages: [EnemyAIController_C_3] Found
+[2018.05.06-14.47.32:036][442]LogBlueprintUserMessages: [EnemyAIController_C_5] Found
+[2018.05.06-14.47.32:036][442]LogBlueprintUserMessages: [EnemyAIController_C_6] Found
+[2018.05.06-14.47.32:036][442]LogBlueprintUserMessages: [EnemyAIController_C_7] Found
+[2018.05.06-14.47.32:036][442]LogBlueprintUserMessages: [EnemyAIController_C_8] Found
+[2018.05.06-14.47.32:036][442]LogBlueprintUserMessages: [EnemyAIController_C_9] Found
+[2018.05.06-14.47.32:036][442]LogBlueprintUserMessages: [EnemyAIController_C_10] Found
+[2018.05.06-14.47.32:036][442]LogBlueprintUserMessages: [EnemyAIController_C_11] Found
+[2018.05.06-14.47.32:036][442]LogBlueprintUserMessages: [EnemyAIController_C_13] Found
+[2018.05.06-14.47.32:067][443]LogBlueprintUserMessages: [EnemyAIController_C_2] Found
+[2018.05.06-14.47.32:067][443]LogBlueprintUserMessages: [EnemyAIController_C_3] Found
+[2018.05.06-14.47.32:067][443]LogBlueprintUserMessages: [EnemyAIController_C_6] Found
+[2018.05.06-14.47.32:067][443]LogBlueprintUserMessages: [EnemyAIController_C_7] Found
+[2018.05.06-14.47.32:067][443]LogBlueprintUserMessages: [EnemyAIController_C_8] Found
+[2018.05.06-14.47.32:067][443]LogBlueprintUserMessages: [EnemyAIController_C_9] Found
+[2018.05.06-14.47.32:067][443]LogBlueprintUserMessages: [EnemyAIController_C_10] Found
+[2018.05.06-14.47.32:067][443]LogBlueprintUserMessages: [EnemyAIController_C_11] Found
+[2018.05.06-14.47.32:067][443]LogBlueprintUserMessages: [EnemyAIController_C_13] Found
+[2018.05.06-14.47.32:099][444]LogBlueprintUserMessages: [EnemyAIController_C_2] Found
+[2018.05.06-14.47.32:099][444]LogBlueprintUserMessages: [EnemyAIController_C_3] Found
+[2018.05.06-14.47.32:099][444]LogBlueprintUserMessages: [EnemyAIController_C_5] Found
+[2018.05.06-14.47.32:099][444]LogBlueprintUserMessages: [EnemyAIController_C_6] Found
+[2018.05.06-14.47.32:099][444]LogBlueprintUserMessages: [EnemyAIController_C_7] Found
+[2018.05.06-14.47.32:100][444]LogBlueprintUserMessages: [EnemyAIController_C_8] Found
+[2018.05.06-14.47.32:100][444]LogBlueprintUserMessages: [EnemyAIController_C_9] Found
+[2018.05.06-14.47.32:100][444]LogBlueprintUserMessages: [EnemyAIController_C_10] Found
+[2018.05.06-14.47.32:100][444]LogBlueprintUserMessages: [EnemyAIController_C_11] Found
+[2018.05.06-14.47.32:100][444]LogBlueprintUserMessages: [EnemyAIController_C_13] Found
+[2018.05.06-14.47.32:129][445]LogBlueprintUserMessages: [EnemyAIController_C_2] Found
+[2018.05.06-14.47.32:129][445]LogBlueprintUserMessages: [EnemyAIController_C_3] Found
+[2018.05.06-14.47.32:129][445]LogBlueprintUserMessages: [EnemyAIController_C_6] Found
+[2018.05.06-14.47.32:129][445]LogBlueprintUserMessages: [EnemyAIController_C_7] Found
+[2018.05.06-14.47.32:129][445]LogBlueprintUserMessages: [EnemyAIController_C_8] Found
+[2018.05.06-14.47.32:129][445]LogBlueprintUserMessages: [EnemyAIController_C_9] Found
+[2018.05.06-14.47.32:129][445]LogBlueprintUserMessages: [EnemyAIController_C_10] Found
+[2018.05.06-14.47.32:130][445]LogBlueprintUserMessages: [EnemyAIController_C_11] Found
+[2018.05.06-14.47.32:130][445]LogBlueprintUserMessages: [EnemyAIController_C_13] Found
+[2018.05.06-14.47.32:159][446]LogBlueprintUserMessages: [EnemyAIController_C_2] Found
+[2018.05.06-14.47.32:159][446]LogBlueprintUserMessages: [EnemyAIController_C_3] Found
+[2018.05.06-14.47.32:159][446]LogBlueprintUserMessages: [EnemyAIController_C_6] Found
+[2018.05.06-14.47.32:159][446]LogBlueprintUserMessages: [EnemyAIController_C_7] Found
+[2018.05.06-14.47.32:159][446]LogBlueprintUserMessages: [EnemyAIController_C_8] Found
+[2018.05.06-14.47.32:159][446]LogBlueprintUserMessages: [EnemyAIController_C_9] Found
+[2018.05.06-14.47.32:159][446]LogBlueprintUserMessages: [EnemyAIController_C_10] Found
+[2018.05.06-14.47.32:159][446]LogBlueprintUserMessages: [EnemyAIController_C_11] Found
+[2018.05.06-14.47.32:159][446]LogBlueprintUserMessages: [EnemyAIController_C_13] Found
+[2018.05.06-14.47.32:189][447]LogBlueprintUserMessages: [EnemyAIController_C_2] Found
+[2018.05.06-14.47.32:189][447]LogBlueprintUserMessages: [EnemyAIController_C_3] Found
+[2018.05.06-14.47.32:189][447]LogBlueprintUserMessages: [EnemyAIController_C_6] Found
+[2018.05.06-14.47.32:189][447]LogBlueprintUserMessages: [EnemyAIController_C_7] Found
+[2018.05.06-14.47.32:189][447]LogBlueprintUserMessages: [EnemyAIController_C_8] Found
+[2018.05.06-14.47.32:189][447]LogBlueprintUserMessages: [EnemyAIController_C_9] Found
+[2018.05.06-14.47.32:189][447]LogBlueprintUserMessages: [EnemyAIController_C_11] Found
+[2018.05.06-14.47.32:189][447]LogBlueprintUserMessages: [EnemyAIController_C_13] Found
+[2018.05.06-14.47.32:223][448]LogBlueprintUserMessages: [EnemyAIController_C_2] Found
+[2018.05.06-14.47.32:223][448]LogBlueprintUserMessages: [EnemyAIController_C_3] Found
+[2018.05.06-14.47.32:223][448]LogBlueprintUserMessages: [EnemyAIController_C_6] Found
+[2018.05.06-14.47.32:223][448]LogBlueprintUserMessages: [EnemyAIController_C_7] Found
+[2018.05.06-14.47.32:223][448]LogBlueprintUserMessages: [EnemyAIController_C_8] Found
+[2018.05.06-14.47.32:223][448]LogBlueprintUserMessages: [EnemyAIController_C_9] Found
+[2018.05.06-14.47.32:223][448]LogBlueprintUserMessages: [EnemyAIController_C_10] Found
+[2018.05.06-14.47.32:223][448]LogBlueprintUserMessages: [EnemyAIController_C_11] Found
+[2018.05.06-14.47.32:223][448]LogBlueprintUserMessages: [EnemyAIController_C_13] Found
+[2018.05.06-14.47.32:253][449]LogBlueprintUserMessages: [EnemyAIController_C_2] Found
+[2018.05.06-14.47.32:253][449]LogBlueprintUserMessages: [EnemyAIController_C_3] Found
+[2018.05.06-14.47.32:253][449]LogBlueprintUserMessages: [EnemyAIController_C_7] Found
+[2018.05.06-14.47.32:253][449]LogBlueprintUserMessages: [EnemyAIController_C_8] Found
+[2018.05.06-14.47.32:253][449]LogBlueprintUserMessages: [EnemyAIController_C_9] Found
+[2018.05.06-14.47.32:253][449]LogBlueprintUserMessages: [EnemyAIController_C_10] Found
+[2018.05.06-14.47.32:253][449]LogBlueprintUserMessages: [EnemyAIController_C_11] Found
+[2018.05.06-14.47.32:253][449]LogBlueprintUserMessages: [EnemyAIController_C_13] Found
+[2018.05.06-14.47.32:284][450]LogBlueprintUserMessages: [EnemyAIController_C_2] Found
+[2018.05.06-14.47.32:285][450]LogBlueprintUserMessages: [EnemyAIController_C_3] Found
+[2018.05.06-14.47.32:285][450]LogBlueprintUserMessages: [EnemyAIController_C_6] Found
+[2018.05.06-14.47.32:285][450]LogBlueprintUserMessages: [EnemyAIController_C_7] Found
+[2018.05.06-14.47.32:285][450]LogBlueprintUserMessages: [EnemyAIController_C_8] Found
+[2018.05.06-14.47.32:285][450]LogBlueprintUserMessages: [EnemyAIController_C_9] Found
+[2018.05.06-14.47.32:285][450]LogBlueprintUserMessages: [EnemyAIController_C_10] Found
+[2018.05.06-14.47.32:285][450]LogBlueprintUserMessages: [EnemyAIController_C_11] Found
+[2018.05.06-14.47.32:285][450]LogBlueprintUserMessages: [EnemyAIController_C_13] Found
+[2018.05.06-14.47.32:317][451]LogBlueprintUserMessages: [EnemyAIController_C_2] Found
+[2018.05.06-14.47.32:317][451]LogBlueprintUserMessages: [EnemyAIController_C_6] Found
+[2018.05.06-14.47.32:317][451]LogBlueprintUserMessages: [EnemyAIController_C_7] Found
+[2018.05.06-14.47.32:317][451]LogBlueprintUserMessages: [EnemyAIController_C_8] Found
+[2018.05.06-14.47.32:317][451]LogBlueprintUserMessages: [EnemyAIController_C_9] Found
+[2018.05.06-14.47.32:317][451]LogBlueprintUserMessages: [EnemyAIController_C_10] Found
+[2018.05.06-14.47.32:317][451]LogBlueprintUserMessages: [EnemyAIController_C_11] Found
+[2018.05.06-14.47.32:317][451]LogBlueprintUserMessages: [EnemyAIController_C_13] Found
+[2018.05.06-14.47.32:349][452]LogBlueprintUserMessages: [EnemyAIController_C_2] Found
+[2018.05.06-14.47.32:350][452]LogBlueprintUserMessages: [EnemyAIController_C_3] Found
+[2018.05.06-14.47.32:350][452]LogBlueprintUserMessages: [EnemyAIController_C_5] Found
+[2018.05.06-14.47.32:350][452]LogBlueprintUserMessages: [EnemyAIController_C_6] Found
+[2018.05.06-14.47.32:350][452]LogBlueprintUserMessages: [EnemyAIController_C_7] Found
+[2018.05.06-14.47.32:350][452]LogBlueprintUserMessages: [EnemyAIController_C_8] Found
+[2018.05.06-14.47.32:350][452]LogBlueprintUserMessages: [EnemyAIController_C_9] Found
+[2018.05.06-14.47.32:350][452]LogBlueprintUserMessages: [EnemyAIController_C_10] Found
+[2018.05.06-14.47.32:350][452]LogBlueprintUserMessages: [EnemyAIController_C_11] Found
+[2018.05.06-14.47.32:350][452]LogBlueprintUserMessages: [EnemyAIController_C_13] Found
+[2018.05.06-14.47.32:378][453]LogBlueprintUserMessages: [EnemyAIController_C_2] Found
+[2018.05.06-14.47.32:378][453]LogBlueprintUserMessages: [EnemyAIController_C_3] Found
+[2018.05.06-14.47.32:378][453]LogBlueprintUserMessages: [EnemyAIController_C_6] Found
+[2018.05.06-14.47.32:378][453]LogBlueprintUserMessages: [EnemyAIController_C_7] Found
+[2018.05.06-14.47.32:378][453]LogBlueprintUserMessages: [EnemyAIController_C_8] Found
+[2018.05.06-14.47.32:378][453]LogBlueprintUserMessages: [EnemyAIController_C_9] Found
+[2018.05.06-14.47.32:378][453]LogBlueprintUserMessages: [EnemyAIController_C_10] Found
+[2018.05.06-14.47.32:378][453]LogBlueprintUserMessages: [EnemyAIController_C_11] Found
+[2018.05.06-14.47.32:378][453]LogBlueprintUserMessages: [EnemyAIController_C_13] Found
+[2018.05.06-14.47.32:409][454]LogBlueprintUserMessages: [EnemyAIController_C_2] Found
+[2018.05.06-14.47.32:409][454]LogBlueprintUserMessages: [EnemyAIController_C_3] Found
+[2018.05.06-14.47.32:409][454]LogBlueprintUserMessages: [EnemyAIController_C_5] Found
+[2018.05.06-14.47.32:409][454]LogBlueprintUserMessages: [EnemyAIController_C_6] Found
+[2018.05.06-14.47.32:409][454]LogBlueprintUserMessages: [EnemyAIController_C_7] Found
+[2018.05.06-14.47.32:409][454]LogBlueprintUserMessages: [EnemyAIController_C_8] Found
+[2018.05.06-14.47.32:409][454]LogBlueprintUserMessages: [EnemyAIController_C_9] Found
+[2018.05.06-14.47.32:409][454]LogBlueprintUserMessages: [EnemyAIController_C_10] Found
+[2018.05.06-14.47.32:409][454]LogBlueprintUserMessages: [EnemyAIController_C_11] Found
+[2018.05.06-14.47.32:409][454]LogBlueprintUserMessages: [EnemyAIController_C_13] Found
+[2018.05.06-14.47.32:440][455]LogBlueprintUserMessages: [EnemyAIController_C_2] Found
+[2018.05.06-14.47.32:440][455]LogBlueprintUserMessages: [EnemyAIController_C_6] Found
+[2018.05.06-14.47.32:440][455]LogBlueprintUserMessages: [EnemyAIController_C_7] Found
+[2018.05.06-14.47.32:440][455]LogBlueprintUserMessages: [EnemyAIController_C_8] Found
+[2018.05.06-14.47.32:440][455]LogBlueprintUserMessages: [EnemyAIController_C_9] Found
+[2018.05.06-14.47.32:440][455]LogBlueprintUserMessages: [EnemyAIController_C_10] Found
+[2018.05.06-14.47.32:440][455]LogBlueprintUserMessages: [EnemyAIController_C_11] Found
+[2018.05.06-14.47.32:440][455]LogBlueprintUserMessages: [EnemyAIController_C_13] Found
+[2018.05.06-14.47.32:471][456]LogBlueprintUserMessages: [EnemyAIController_C_2] Found
+[2018.05.06-14.47.32:471][456]LogBlueprintUserMessages: [EnemyAIController_C_3] Found
+[2018.05.06-14.47.32:472][456]LogBlueprintUserMessages: [EnemyAIController_C_5] Found
+[2018.05.06-14.47.32:472][456]LogBlueprintUserMessages: [EnemyAIController_C_6] Found
+[2018.05.06-14.47.32:472][456]LogBlueprintUserMessages: [EnemyAIController_C_7] Found
+[2018.05.06-14.47.32:472][456]LogBlueprintUserMessages: [EnemyAIController_C_8] Found
+[2018.05.06-14.47.32:472][456]LogBlueprintUserMessages: [EnemyAIController_C_9] Found
+[2018.05.06-14.47.32:472][456]LogBlueprintUserMessages: [EnemyAIController_C_10] Found
+[2018.05.06-14.47.32:472][456]LogBlueprintUserMessages: [EnemyAIController_C_11] Found
+[2018.05.06-14.47.32:472][456]LogBlueprintUserMessages: [EnemyAIController_C_13] Found
+[2018.05.06-14.47.32:507][457]LogBlueprintUserMessages: [EnemyAIController_C_2] Found
+[2018.05.06-14.47.32:507][457]LogBlueprintUserMessages: [EnemyAIController_C_6] Found
+[2018.05.06-14.47.32:507][457]LogBlueprintUserMessages: [EnemyAIController_C_7] Found
+[2018.05.06-14.47.32:507][457]LogBlueprintUserMessages: [EnemyAIController_C_8] Found
+[2018.05.06-14.47.32:507][457]LogBlueprintUserMessages: [EnemyAIController_C_9] Found
+[2018.05.06-14.47.32:507][457]LogBlueprintUserMessages: [EnemyAIController_C_10] Found
+[2018.05.06-14.47.32:507][457]LogBlueprintUserMessages: [EnemyAIController_C_11] Found
+[2018.05.06-14.47.32:507][457]LogBlueprintUserMessages: [EnemyAIController_C_13] Found
+[2018.05.06-14.47.32:539][458]LogBlueprintUserMessages: [EnemyAIController_C_2] Found
+[2018.05.06-14.47.32:539][458]LogBlueprintUserMessages: [EnemyAIController_C_3] Found
+[2018.05.06-14.47.32:539][458]LogBlueprintUserMessages: [EnemyAIController_C_5] Found
+[2018.05.06-14.47.32:539][458]LogBlueprintUserMessages: [EnemyAIController_C_6] Found
+[2018.05.06-14.47.32:539][458]LogBlueprintUserMessages: [EnemyAIController_C_7] Found
+[2018.05.06-14.47.32:539][458]LogBlueprintUserMessages: [EnemyAIController_C_8] Found
+[2018.05.06-14.47.32:539][458]LogBlueprintUserMessages: [EnemyAIController_C_9] Found
+[2018.05.06-14.47.32:539][458]LogBlueprintUserMessages: [EnemyAIController_C_10] Found
+[2018.05.06-14.47.32:539][458]LogBlueprintUserMessages: [EnemyAIController_C_11] Found
+[2018.05.06-14.47.32:539][458]LogBlueprintUserMessages: [EnemyAIController_C_13] Found
+[2018.05.06-14.47.32:570][459]LogBlueprintUserMessages: [EnemyAIController_C_2] Found
+[2018.05.06-14.47.32:570][459]LogBlueprintUserMessages: [EnemyAIController_C_3] Found
+[2018.05.06-14.47.32:570][459]LogBlueprintUserMessages: [EnemyAIController_C_6] Found
+[2018.05.06-14.47.32:570][459]LogBlueprintUserMessages: [EnemyAIController_C_7] Found
+[2018.05.06-14.47.32:570][459]LogBlueprintUserMessages: [EnemyAIController_C_8] Found
+[2018.05.06-14.47.32:570][459]LogBlueprintUserMessages: [EnemyAIController_C_9] Found
+[2018.05.06-14.47.32:570][459]LogBlueprintUserMessages: [EnemyAIController_C_10] Found
+[2018.05.06-14.47.32:570][459]LogBlueprintUserMessages: [EnemyAIController_C_11] Found
+[2018.05.06-14.47.32:570][459]LogBlueprintUserMessages: [EnemyAIController_C_13] Found
+[2018.05.06-14.47.32:601][460]LogBlueprintUserMessages: [EnemyAIController_C_2] Found
+[2018.05.06-14.47.32:601][460]LogBlueprintUserMessages: [EnemyAIController_C_3] Found
+[2018.05.06-14.47.32:601][460]LogBlueprintUserMessages: [EnemyAIController_C_6] Found
+[2018.05.06-14.47.32:601][460]LogBlueprintUserMessages: [EnemyAIController_C_7] Found
+[2018.05.06-14.47.32:601][460]LogBlueprintUserMessages: [EnemyAIController_C_8] Found
+[2018.05.06-14.47.32:601][460]LogBlueprintUserMessages: [EnemyAIController_C_9] Found
+[2018.05.06-14.47.32:601][460]LogBlueprintUserMessages: [EnemyAIController_C_10] Found
+[2018.05.06-14.47.32:601][460]LogBlueprintUserMessages: [EnemyAIController_C_11] Found
+[2018.05.06-14.47.32:601][460]LogBlueprintUserMessages: [EnemyAIController_C_13] Found
+[2018.05.06-14.47.32:632][461]LogBlueprintUserMessages: [EnemyAIController_C_2] Found
+[2018.05.06-14.47.32:633][461]LogBlueprintUserMessages: [EnemyAIController_C_3] Found
+[2018.05.06-14.47.32:633][461]LogBlueprintUserMessages: [EnemyAIController_C_6] Found
+[2018.05.06-14.47.32:633][461]LogBlueprintUserMessages: [EnemyAIController_C_7] Found
+[2018.05.06-14.47.32:633][461]LogBlueprintUserMessages: [EnemyAIController_C_8] Found
+[2018.05.06-14.47.32:633][461]LogBlueprintUserMessages: [EnemyAIController_C_9] Found
+[2018.05.06-14.47.32:633][461]LogBlueprintUserMessages: [EnemyAIController_C_10] Found
+[2018.05.06-14.47.32:633][461]LogBlueprintUserMessages: [EnemyAIController_C_11] Found
+[2018.05.06-14.47.32:633][461]LogBlueprintUserMessages: [EnemyAIController_C_13] Found
+[2018.05.06-14.47.32:665][462]LogBlueprintUserMessages: [EnemyAIController_C_2] Found
+[2018.05.06-14.47.32:666][462]LogBlueprintUserMessages: [EnemyAIController_C_3] Found
+[2018.05.06-14.47.32:666][462]LogBlueprintUserMessages: [EnemyAIController_C_6] Found
+[2018.05.06-14.47.32:666][462]LogBlueprintUserMessages: [EnemyAIController_C_7] Found
+[2018.05.06-14.47.32:666][462]LogBlueprintUserMessages: [EnemyAIController_C_8] Found
+[2018.05.06-14.47.32:666][462]LogBlueprintUserMessages: [EnemyAIController_C_9] Found
+[2018.05.06-14.47.32:666][462]LogBlueprintUserMessages: [EnemyAIController_C_10] Found
+[2018.05.06-14.47.32:666][462]LogBlueprintUserMessages: [EnemyAIController_C_11] Found
+[2018.05.06-14.47.32:666][462]LogBlueprintUserMessages: [EnemyAIController_C_13] Found
+[2018.05.06-14.47.32:693][463]LogBlueprintUserMessages: [EnemyAIController_C_2] Found
+[2018.05.06-14.47.32:694][463]LogBlueprintUserMessages: [EnemyAIController_C_3] Found
+[2018.05.06-14.47.32:694][463]LogBlueprintUserMessages: [EnemyAIController_C_6] Found
+[2018.05.06-14.47.32:694][463]LogBlueprintUserMessages: [EnemyAIController_C_7] Found
+[2018.05.06-14.47.32:694][463]LogBlueprintUserMessages: [EnemyAIController_C_8] Found
+[2018.05.06-14.47.32:694][463]LogBlueprintUserMessages: [EnemyAIController_C_9] Found
+[2018.05.06-14.47.32:694][463]LogBlueprintUserMessages: [EnemyAIController_C_10] Found
+[2018.05.06-14.47.32:695][463]LogBlueprintUserMessages: [EnemyAIController_C_11] Found
+[2018.05.06-14.47.32:695][463]LogBlueprintUserMessages: [EnemyAIController_C_13] Found
+[2018.05.06-14.47.32:724][464]LogBlueprintUserMessages: [EnemyAIController_C_2] Found
+[2018.05.06-14.47.32:724][464]LogBlueprintUserMessages: [EnemyAIController_C_3] Found
+[2018.05.06-14.47.32:724][464]LogBlueprintUserMessages: [EnemyAIController_C_6] Found
+[2018.05.06-14.47.32:724][464]LogBlueprintUserMessages: [EnemyAIController_C_7] Found
+[2018.05.06-14.47.32:724][464]LogBlueprintUserMessages: [EnemyAIController_C_8] Found
+[2018.05.06-14.47.32:724][464]LogBlueprintUserMessages: [EnemyAIController_C_9] Found
+[2018.05.06-14.47.32:724][464]LogBlueprintUserMessages: [EnemyAIController_C_10] Found
+[2018.05.06-14.47.32:725][464]LogBlueprintUserMessages: [EnemyAIController_C_11] Found
+[2018.05.06-14.47.32:725][464]LogBlueprintUserMessages: [EnemyAIController_C_13] Found
+[2018.05.06-14.47.32:754][465]LogBlueprintUserMessages: [EnemyAIController_C_2] Found
+[2018.05.06-14.47.32:755][465]LogBlueprintUserMessages: [EnemyAIController_C_3] Found
+[2018.05.06-14.47.32:755][465]LogBlueprintUserMessages: [EnemyAIController_C_6] Found
+[2018.05.06-14.47.32:755][465]LogBlueprintUserMessages: [EnemyAIController_C_7] Found
+[2018.05.06-14.47.32:755][465]LogBlueprintUserMessages: [EnemyAIController_C_8] Found
+[2018.05.06-14.47.32:755][465]LogBlueprintUserMessages: [EnemyAIController_C_9] Found
+[2018.05.06-14.47.32:755][465]LogBlueprintUserMessages: [EnemyAIController_C_10] Found
+[2018.05.06-14.47.32:755][465]LogBlueprintUserMessages: [EnemyAIController_C_11] Found
+[2018.05.06-14.47.32:755][465]LogBlueprintUserMessages: [EnemyAIController_C_13] Found
+[2018.05.06-14.47.32:786][466]LogBlueprintUserMessages: [EnemyAIController_C_2] Found
+[2018.05.06-14.47.32:786][466]LogBlueprintUserMessages: [EnemyAIController_C_3] Found
+[2018.05.06-14.47.32:786][466]LogBlueprintUserMessages: [EnemyAIController_C_6] Found
+[2018.05.06-14.47.32:786][466]LogBlueprintUserMessages: [EnemyAIController_C_7] Found
+[2018.05.06-14.47.32:786][466]LogBlueprintUserMessages: [EnemyAIController_C_8] Found
+[2018.05.06-14.47.32:786][466]LogBlueprintUserMessages: [EnemyAIController_C_9] Found
+[2018.05.06-14.47.32:786][466]LogBlueprintUserMessages: [EnemyAIController_C_10] Found
+[2018.05.06-14.47.32:786][466]LogBlueprintUserMessages: [EnemyAIController_C_11] Found
+[2018.05.06-14.47.32:786][466]LogBlueprintUserMessages: [EnemyAIController_C_13] Found
+[2018.05.06-14.47.32:817][467]LogBlueprintUserMessages: [EnemyAIController_C_2] Found
+[2018.05.06-14.47.32:817][467]LogBlueprintUserMessages: [EnemyAIController_C_6] Found
+[2018.05.06-14.47.32:817][467]LogBlueprintUserMessages: [EnemyAIController_C_7] Found
+[2018.05.06-14.47.32:817][467]LogBlueprintUserMessages: [EnemyAIController_C_8] Found
+[2018.05.06-14.47.32:817][467]LogBlueprintUserMessages: [EnemyAIController_C_9] Found
+[2018.05.06-14.47.32:817][467]LogBlueprintUserMessages: [EnemyAIController_C_10] Found
+[2018.05.06-14.47.32:817][467]LogBlueprintUserMessages: [EnemyAIController_C_11] Found
+[2018.05.06-14.47.32:817][467]LogBlueprintUserMessages: [EnemyAIController_C_13] Found
+[2018.05.06-14.47.32:849][468]LogBlueprintUserMessages: [EnemyAIController_C_2] Found
+[2018.05.06-14.47.32:850][468]LogBlueprintUserMessages: [EnemyAIController_C_3] Found
+[2018.05.06-14.47.32:850][468]LogBlueprintUserMessages: [EnemyAIController_C_5] Found
+[2018.05.06-14.47.32:850][468]LogBlueprintUserMessages: [EnemyAIController_C_6] Found
+[2018.05.06-14.47.32:850][468]LogBlueprintUserMessages: [EnemyAIController_C_7] Found
+[2018.05.06-14.47.32:850][468]LogBlueprintUserMessages: [EnemyAIController_C_8] Found
+[2018.05.06-14.47.32:850][468]LogBlueprintUserMessages: [EnemyAIController_C_9] Found
+[2018.05.06-14.47.32:850][468]LogBlueprintUserMessages: [EnemyAIController_C_10] Found
+[2018.05.06-14.47.32:850][468]LogBlueprintUserMessages: [EnemyAIController_C_11] Found
+[2018.05.06-14.47.32:850][468]LogBlueprintUserMessages: [EnemyAIController_C_13] Found
+[2018.05.06-14.47.32:881][469]LogBlueprintUserMessages: [EnemyAIController_C_2] Found
+[2018.05.06-14.47.32:881][469]LogBlueprintUserMessages: [EnemyAIController_C_6] Found
+[2018.05.06-14.47.32:881][469]LogBlueprintUserMessages: [EnemyAIController_C_7] Found
+[2018.05.06-14.47.32:881][469]LogBlueprintUserMessages: [EnemyAIController_C_8] Found
+[2018.05.06-14.47.32:881][469]LogBlueprintUserMessages: [EnemyAIController_C_9] Found
+[2018.05.06-14.47.32:881][469]LogBlueprintUserMessages: [EnemyAIController_C_10] Found
+[2018.05.06-14.47.32:881][469]LogBlueprintUserMessages: [EnemyAIController_C_11] Found
+[2018.05.06-14.47.32:881][469]LogBlueprintUserMessages: [EnemyAIController_C_13] Found
+[2018.05.06-14.47.35:194][512]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.06-14.47.44:539][694]LogSavePackage: Save=33.47ms
+[2018.05.06-14.47.44:539][694]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/EnemyAIControllerFF9E986B4B0F44B745826CBBDED52507.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/ThirdPersonBP/Blueprints/EnemyAIController.uasset'
+[2018.05.06-14.47.44:543][694]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/ThirdPersonBP/Blueprints/EnemyAIController.uasset
+[2018.05.06-14.47.45:499][714]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.06-14.47.45:545][715]BlueprintLog: New page: Compile EnemyAIController
+[2018.05.06-14.47.48:443][764]LogSavePackage: Save=33.15ms
+[2018.05.06-14.47.48:443][764]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/EnemyAIController1F51014F414FC3B4625C35BF2C0DE9EB.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/ThirdPersonBP/Blueprints/EnemyAIController.uasset'
+[2018.05.06-14.47.48:446][764]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/ThirdPersonBP/Blueprints/EnemyAIController.uasset
+[2018.05.06-14.47.51:922][835]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.06-14.48.22:803][446]LogSavePackage: Save=33.48ms
+[2018.05.06-14.48.22:803][446]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/EnemyAIController270DCDA7417BAD3E823BEDB720DF2B0F.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/ThirdPersonBP/Blueprints/EnemyAIController.uasset'
+[2018.05.06-14.48.22:807][446]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/ThirdPersonBP/Blueprints/EnemyAIController.uasset
+[2018.05.06-14.48.23:438][460]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.06-14.48.23:539][462]BlueprintLog: New page: Compile EnemyAIController
+[2018.05.06-14.48.27:973][543]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.06-14.48.28:042][543]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.06-14.48.28:043][543]PIE: New page: PIE session: NewMap (6 May 2018 16:48:28)
+[2018.05.06-14.48.28:044][543]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2018.05.06-14.48.28:093][543]LogPlayLevel: PIE: StaticDuplicateObject took: (0.048835s)
+[2018.05.06-14.48.28:094][543]LogAIModule: Creating AISystem for world NewMap
+[2018.05.06-14.48.28:094][543]LogPlayLevel: PIE: World Init took: (0.001072s)
+[2018.05.06-14.48.28:094][543]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.050595s)
+[2018.05.06-14.48.28:127][543]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.06-14.48.28:139][543]LogInit: FAudioDevice initialized.
+[2018.05.06-14.48.28:180][543]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.06-14.48.28:206][543]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2018.05.06-15.48.28
+[2018.05.06-14.48.28:211][543]LogWorld: Bringing up level for play took: 0.029268
+[2018.05.06-14.48.28:214][543]PIE: Play in editor start time for /Game/UEDPIE_0_NewMap 1.135
+[2018.05.06-14.48.31:531][640]LogBlueprintUserMessages: [EnemyAIController_C_0] FPS Sensed
+[2018.05.06-14.48.31:531][640]LogBlueprintUserMessages: [EnemyAIController_C_4] FPS Sensed
+[2018.05.06-14.48.34:217][720]LogBlueprintUserMessages: [EnemyAIController_C_0] FPS Sensed
+[2018.05.06-14.48.38:314][840]LogBlueprintUserMessages: [EnemyAIController_C_0] FPS Sensed
+[2018.05.06-14.48.38:397][842]LogBlueprintUserMessages: [EnemyAIController_C_0] FPS Sensed
+[2018.05.06-14.48.38:941][858]LogBlueprintUserMessages: [EnemyAIController_C_0] FPS Sensed
+[2018.05.06-14.48.39:009][860]LogBlueprintUserMessages: [EnemyAIController_C_0] FPS Sensed
+[2018.05.06-14.48.39:543][874]LogBlueprintUserMessages: [EnemyAIController_C_0] FPS Sensed
+[2018.05.06-14.48.39:614][876]LogBlueprintUserMessages: [EnemyAIController_C_0] FPS Sensed
+[2018.05.06-14.48.40:090][888]LogBlueprintUserMessages: [EnemyAIController_C_0] FPS Sensed
+[2018.05.06-14.48.40:171][890]LogBlueprintUserMessages: [EnemyAIController_C_0] FPS Sensed
+[2018.05.06-14.48.40:707][904]LogBlueprintUserMessages: [EnemyAIController_C_0] FPS Sensed
+[2018.05.06-14.48.40:786][906]LogBlueprintUserMessages: [EnemyAIController_C_0] FPS Sensed
+[2018.05.06-14.48.41:459][924]LogBlueprintUserMessages: [EnemyAIController_C_0] FPS Sensed
+[2018.05.06-14.48.41:533][926]LogBlueprintUserMessages: [EnemyAIController_C_0] FPS Sensed
+[2018.05.06-14.48.42:119][942]LogBlueprintUserMessages: [EnemyAIController_C_0] FPS Sensed
+[2018.05.06-14.48.42:184][944]LogBlueprintUserMessages: [EnemyAIController_C_0] FPS Sensed
+[2018.05.06-14.48.42:697][958]LogBlueprintUserMessages: [EnemyAIController_C_0] FPS Sensed
+[2018.05.06-14.48.42:763][960]LogBlueprintUserMessages: [EnemyAIController_C_0] FPS Sensed
+[2018.05.06-14.48.43:250][974]LogBlueprintUserMessages: [EnemyAIController_C_0] FPS Sensed
+[2018.05.06-14.48.43:316][976]LogBlueprintUserMessages: [EnemyAIController_C_0] FPS Sensed
+[2018.05.06-14.48.43:610][984]LogBlueprintUserMessages: [EnemyAIController_C_0] FPS Sensed
+[2018.05.06-14.48.43:693][986]LogBlueprintUserMessages: [EnemyAIController_C_0] FPS Sensed
+[2018.05.06-14.48.44:116][998]LogBlueprintUserMessages: [EnemyAIController_C_0] FPS Sensed
+[2018.05.06-14.48.44:186][  0]LogBlueprintUserMessages: [EnemyAIController_C_0] FPS Sensed
+[2018.05.06-14.48.45:724][ 30]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.06-14.49.00:306][315]LogSavePackage: Save=34.67ms
+[2018.05.06-14.49.00:306][315]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/EnemyAIController2E1B327B4ABFBE0F4AFCE2B4D405FC12.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/ThirdPersonBP/Blueprints/EnemyAIController.uasset'
+[2018.05.06-14.49.00:310][315]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/ThirdPersonBP/Blueprints/EnemyAIController.uasset
+[2018.05.06-14.49.01:096][331]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.06-14.49.01:169][333]BlueprintLog: New page: Compile EnemyAIController
+[2018.05.06-14.50.20:898][895]LogSavePackage: Save=35.16ms
+[2018.05.06-14.50.20:898][895]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/EnemyAIController5901542E41DC20580C9C2FA67AA9B0BB.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/ThirdPersonBP/Blueprints/EnemyAIController.uasset'
+[2018.05.06-14.50.20:901][895]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/ThirdPersonBP/Blueprints/EnemyAIController.uasset
+[2018.05.06-14.50.21:743][913]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.06-14.50.21:789][914]BlueprintLog: New page: Compile EnemyAIController
+[2018.05.06-14.50.23:968][952]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.06-14.50.24:041][952]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.06-14.50.24:042][952]PIE: New page: PIE session: NewMap (6 May 2018 16:50:24)
+[2018.05.06-14.50.24:045][952]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2018.05.06-14.50.24:089][952]LogPlayLevel: PIE: StaticDuplicateObject took: (0.043580s)
+[2018.05.06-14.50.24:090][952]LogAIModule: Creating AISystem for world NewMap
+[2018.05.06-14.50.24:090][952]LogPlayLevel: PIE: World Init took: (0.000842s)
+[2018.05.06-14.50.24:090][952]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.045355s)
+[2018.05.06-14.50.24:124][952]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.06-14.50.24:138][952]LogInit: FAudioDevice initialized.
+[2018.05.06-14.50.24:174][952]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.06-14.50.24:209][952]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2018.05.06-15.50.24
+[2018.05.06-14.50.24:215][952]LogWorld: Bringing up level for play took: 0.038627
+[2018.05.06-14.50.24:219][952]PIE: Play in editor start time for /Game/UEDPIE_0_NewMap 1.139
+[2018.05.06-14.50.27:260][ 40]LogBlueprintUserMessages: [EnemyAIController_C_0] 2
+[2018.05.06-14.50.30:948][150]LogBlueprintUserMessages: [EnemyAIController_C_0] 2
+[2018.05.06-14.50.35:017][251]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.06-14.50.45:589][450]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.06-14.50.45:676][450]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.06-14.50.45:676][450]PIE: New page: PIE session: NewMap (6 May 2018 16:50:45)
+[2018.05.06-14.50.45:677][450]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2018.05.06-14.50.45:711][450]LogPlayLevel: PIE: StaticDuplicateObject took: (0.033893s)
+[2018.05.06-14.50.45:712][450]LogAIModule: Creating AISystem for world NewMap
+[2018.05.06-14.50.45:712][450]LogPlayLevel: PIE: World Init took: (0.000849s)
+[2018.05.06-14.50.45:712][450]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.035326s)
+[2018.05.06-14.50.45:742][450]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.06-14.50.45:753][450]LogInit: FAudioDevice initialized.
+[2018.05.06-14.50.45:795][450]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.06-14.50.45:817][450]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2018.05.06-15.50.45
+[2018.05.06-14.50.45:822][450]LogWorld: Bringing up level for play took: 0.025034
+[2018.05.06-14.50.45:825][450]PIE: Play in editor start time for /Game/UEDPIE_0_NewMap 0.746
+[2018.05.06-14.50.50:589][600]LogBlueprintUserMessages: [EnemyAIController_C_0] 2
+[2018.05.06-14.50.51:226][620]LogBlueprintUserMessages: [EnemyAIController_C_0] 2
+[2018.05.06-14.50.51:420][626]LogBlueprintUserMessages: [EnemyAIController_C_0] 2
+[2018.05.06-14.50.51:574][631]LogBlueprintUserMessages: [EnemyAIController_C_0] 2
+[2018.05.06-14.50.51:730][636]LogBlueprintUserMessages: [EnemyAIController_C_0] 2
+[2018.05.06-14.50.52:417][658]LogBlueprintUserMessages: [EnemyAIController_C_0] 2
+[2018.05.06-14.50.52:689][667]LogBlueprintUserMessages: [EnemyAIController_C_0] 2
+[2018.05.06-14.50.52:878][673]LogBlueprintUserMessages: [EnemyAIController_C_0] 2
+[2018.05.06-14.50.55:390][731]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.06-14.51.14:470][109]LogSavePackage: Save=35.81ms
+[2018.05.06-14.51.14:470][109]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/EnemyAIController420306834E4F926D6225B6952A966CC3.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/ThirdPersonBP/Blueprints/EnemyAIController.uasset'
+[2018.05.06-14.51.14:473][109]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/ThirdPersonBP/Blueprints/EnemyAIController.uasset
+[2018.05.06-14.51.15:201][125]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.06-14.51.15:250][126]BlueprintLog: New page: Compile EnemyAIController
+[2018.05.06-14.51.48:996][803]LogSavePackage: Save=34.72ms
+[2018.05.06-14.51.48:997][803]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/EnemyAIController6BD1A41A4FE21DDDDC4C16894DD47DDE.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/ThirdPersonBP/Blueprints/EnemyAIController.uasset'
+[2018.05.06-14.51.49:001][803]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/ThirdPersonBP/Blueprints/EnemyAIController.uasset
+[2018.05.06-14.51.49:423][813]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.06-14.52.33:934][707]LogSavePackage: Save=33.67ms
+[2018.05.06-14.52.33:934][707]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/EnemyAIController58EA8ADB4FBD98C8D7A6B7A2F6615A2C.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/ThirdPersonBP/Blueprints/EnemyAIController.uasset'
+[2018.05.06-14.52.33:938][707]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/ThirdPersonBP/Blueprints/EnemyAIController.uasset
+[2018.05.06-14.52.35:064][731]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.06-14.52.35:658][743]BlueprintLog: New page: Compile EnemyAIController
+[2018.05.06-14.52.37:814][781]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.06-14.52.37:902][781]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.06-14.52.37:903][781]PIE: New page: PIE session: NewMap (6 May 2018 16:52:37)
+[2018.05.06-14.52.37:904][781]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2018.05.06-14.52.37:938][781]LogPlayLevel: PIE: StaticDuplicateObject took: (0.034093s)
+[2018.05.06-14.52.37:939][781]LogAIModule: Creating AISystem for world NewMap
+[2018.05.06-14.52.37:939][781]LogPlayLevel: PIE: World Init took: (0.001035s)
+[2018.05.06-14.52.37:939][781]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.035427s)
+[2018.05.06-14.52.37:973][781]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.06-14.52.37:985][781]LogInit: FAudioDevice initialized.
+[2018.05.06-14.52.38:022][781]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.06-14.52.38:058][781]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2018.05.06-15.52.38
+[2018.05.06-14.52.38:064][781]LogWorld: Bringing up level for play took: 0.040831
+[2018.05.06-14.52.38:068][781]PIE: Play in editor start time for /Game/UEDPIE_0_NewMap 0.989
+[2018.05.06-14.52.50:004][122]LogBlueprintUserMessages: [ThirdPersonCharacter_853] 4.0
+[2018.05.06-14.52.50:185][127]LogBlueprintUserMessages: [ThirdPersonCharacter_853] 3.0
+[2018.05.06-14.52.50:682][141]LogBlueprintUserMessages: [ThirdPersonCharacter_853] 2.0
+[2018.05.06-14.52.50:821][145]LogBlueprintUserMessages: [ThirdPersonCharacter_853] 1.0
+[2018.05.06-14.52.54:416][250]LogBlueprintUserMessages: [SlideDoor2] Key Card Declined
+[2018.05.06-14.52.57:421][333]LogBlueprintUserMessages: [SlideDoor_566] Key Card Declined
+[2018.05.06-14.53.02:378][476]LogBlueprintUserMessages: [ThirdPersonEnemy_642] 4.0
+[2018.05.06-14.53.02:756][487]LogBlueprintUserMessages: [ThirdPersonEnemy_642] 3.0
+[2018.05.06-14.53.02:937][492]LogBlueprintUserMessages: [ThirdPersonEnemy_642] 2.0
+[2018.05.06-14.53.03:138][498]LogBlueprintUserMessages: [ThirdPersonEnemy_642] 1.0
+[2018.05.06-14.53.04:884][547]LogBlueprintUserMessages: [ThirdPersonEnemy2_1109] 4.0
+[2018.05.06-14.53.05:027][551]LogBlueprintUserMessages: [ThirdPersonEnemy2_1109] 3.0
+[2018.05.06-14.53.05:136][554]LogBlueprintUserMessages: [ThirdPersonEnemy2_1109] 2.0
+[2018.05.06-14.53.05:291][558]LogBlueprintUserMessages: [ThirdPersonEnemy2_1109] 1.0
+[2018.05.06-14.53.11:185][732]LogBlueprintUserMessages: [ThirdPersonEnemy3_1676] 4.0
+[2018.05.06-14.53.11:187][732]LogBlueprintUserMessages: [ThirdPersonEnemy4] 4.0
+[2018.05.06-14.53.15:074][842]LogBlueprintUserMessages: [PlayerInventory] Item added to inventory
+[2018.05.06-14.53.19:930][982]LogBlueprintUserMessages: [ThirdPersonEnemy4] 3.0
+[2018.05.06-14.53.20:136][988]LogBlueprintUserMessages: [ThirdPersonEnemy4] 2.0
+[2018.05.06-14.53.20:341][994]LogBlueprintUserMessages: [ThirdPersonEnemy4] 1.0
+[2018.05.06-14.53.28:998][249]LogBlueprintUserMessages: [ThirdPersonEnemy3_1676] 3.0
+[2018.05.06-14.53.29:204][255]LogBlueprintUserMessages: [ThirdPersonEnemy3_1676] 2.0
+[2018.05.06-14.53.29:461][262]LogBlueprintUserMessages: [ThirdPersonEnemy3_1676] 1.0
+[2018.05.06-14.53.55:824][845]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.06-14.53.58:907][904]LogSavePackage: Save=34.46ms
+[2018.05.06-14.53.58:907][904]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/EnemyAIControllerD8C5ED6A4585B25E8EA0E7BA2B2C4E88.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/ThirdPersonBP/Blueprints/EnemyAIController.uasset'
+[2018.05.06-14.53.58:910][904]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/ThirdPersonBP/Blueprints/EnemyAIController.uasset
+[2018.05.06-14.54.01:013][945]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.06-14.54.01:060][945]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap" FILE="../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.05.06-14.54.01:422][945]LogSavePackage: Save=318.74ms
+[2018.05.06-14.54.01:422][945]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/NewMap6487561D42A1580B5011D389E35CE973.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap.umap'
+[2018.05.06-14.54.01:423][945]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap.umap
+[2018.05.06-14.54.01:471][945]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap_BuiltData" FILE="../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap_BuiltData.uasset" SILENT=true
+[2018.05.06-14.54.02:124][945]LogSavePackage: Save=632.85ms
+[2018.05.06-14.54.02:124][945]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/NewMap_BuiltDataEC61A5C8445EE385F275EC94376C78CE.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap_BuiltData.uasset'
+[2018.05.06-14.54.02:127][945]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap_BuiltData.uasset
+[2018.05.06-14.54.03:196][968]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.06-14.54.03:342][971]BlueprintLog: New page: Compile EnemyAIController
+[2018.05.06-14.54.06:810][ 33]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.06-14.54.06:897][ 33]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.06-14.54.06:897][ 33]PIE: New page: PIE session: NewMap (6 May 2018 16:54:06)
+[2018.05.06-14.54.06:898][ 33]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2018.05.06-14.54.06:924][ 33]LogPlayLevel: PIE: StaticDuplicateObject took: (0.025223s)
+[2018.05.06-14.54.06:924][ 33]LogAIModule: Creating AISystem for world NewMap
+[2018.05.06-14.54.06:924][ 33]LogPlayLevel: PIE: World Init took: (0.000803s)
+[2018.05.06-14.54.06:925][ 33]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.026637s)
+[2018.05.06-14.54.06:954][ 33]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.06-14.54.06:964][ 33]LogInit: FAudioDevice initialized.
+[2018.05.06-14.54.07:005][ 33]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.06-14.54.07:043][ 33]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2018.05.06-15.54.07
+[2018.05.06-14.54.07:049][ 33]LogWorld: Bringing up level for play took: 0.042900
+[2018.05.06-14.54.07:053][ 33]PIE: Play in editor start time for /Game/UEDPIE_0_NewMap -0.025
+[2018.05.06-14.54.07:976][ 58]LogBlueprintUserMessages: [ThirdPersonCharacter_853] 4.0
+[2018.05.06-14.54.09:806][111]LogBlueprintUserMessages: [ThirdPersonCharacter_853] 3.0
+[2018.05.06-14.54.09:980][116]LogBlueprintUserMessages: [ThirdPersonCharacter_853] 2.0
+[2018.05.06-14.54.10:087][119]LogBlueprintUserMessages: [ThirdPersonCharacter_853] 1.0
+[2018.05.06-14.54.17:823][342]LogBlueprintUserMessages: [ThirdPersonEnemy2_1109] 4.0
+[2018.05.06-14.54.17:940][345]LogBlueprintUserMessages: [ThirdPersonEnemy2_1109] 3.0
+[2018.05.06-14.54.18:043][348]LogBlueprintUserMessages: [ThirdPersonEnemy2_1109] 2.0
+[2018.05.06-14.54.18:150][351]LogBlueprintUserMessages: [ThirdPersonEnemy2_1109] 1.0
+[2018.05.06-14.54.21:731][452]LogBlueprintUserMessages: [ThirdPersonEnemy_642] 4.0
+[2018.05.06-14.54.21:879][456]LogBlueprintUserMessages: [ThirdPersonEnemy_642] 3.0
+[2018.05.06-14.54.22:039][460]LogBlueprintUserMessages: [ThirdPersonEnemy_642] 2.0
+[2018.05.06-14.54.22:191][464]LogBlueprintUserMessages: [ThirdPersonEnemy_642] 1.0
+[2018.05.06-14.54.24:140][517]LogBlueprintUserMessages: [ThirdPersonEnemy4] 4.0
+[2018.05.06-14.54.24:249][520]LogBlueprintUserMessages: [ThirdPersonEnemy3_1676] 4.0
+[2018.05.06-14.54.24:550][528]LogBlueprintUserMessages: [ThirdPersonEnemy3_1676] 3.0
+[2018.05.06-14.54.24:698][532]LogBlueprintUserMessages: [ThirdPersonEnemy4] 3.0
+[2018.05.06-14.54.24:878][537]LogBlueprintUserMessages: [ThirdPersonEnemy4] 2.0
+[2018.05.06-14.54.25:353][550]LogBlueprintUserMessages: [ThirdPersonEnemy4] 1.0
+[2018.05.06-14.54.26:077][570]LogBlueprintUserMessages: [ThirdPersonEnemy3_1676] 2.0
+[2018.05.06-14.54.26:231][574]LogBlueprintUserMessages: [ThirdPersonEnemy3_1676] 1.0
+[2018.05.06-14.54.39:514][962]LogBlueprintUserMessages: [SlideDoor_566] Key Card Declined
+[2018.05.06-14.54.54:230][407]LogBlueprintUserMessages: [PlayerInventory] Item added to inventory
+[2018.05.06-14.55.03:110][671]LogBlueprintUserMessages: [ThirdPersonEnemy12] 4.0
+[2018.05.06-14.55.03:111][671]LogBlueprintUserMessages: [ThirdPersonEnemy7] 4.0
+[2018.05.06-14.55.03:178][673]LogBlueprintUserMessages: [ThirdPersonEnemy5_446] 4.0
+[2018.05.06-14.55.03:341][677]LogBlueprintUserMessages: [ThirdPersonEnemy12] 3.0
+[2018.05.06-14.55.03:344][677]LogBlueprintUserMessages: [ThirdPersonEnemy7] 3.0
+[2018.05.06-14.55.03:408][679]LogBlueprintUserMessages: [ThirdPersonEnemy5_446] 3.0
+[2018.05.06-14.55.03:549][683]LogBlueprintUserMessages: [ThirdPersonEnemy12] 2.0
+[2018.05.06-14.55.03:552][683]LogBlueprintUserMessages: [ThirdPersonEnemy6] 4.0
+[2018.05.06-14.55.03:552][683]LogBlueprintUserMessages: [ThirdPersonEnemy7] 2.0
+[2018.05.06-14.55.03:644][686]LogBlueprintUserMessages: [ThirdPersonEnemy5_446] 2.0
+[2018.05.06-14.55.03:750][689]LogBlueprintUserMessages: [ThirdPersonEnemy12] 1.0
+[2018.05.06-14.55.03:753][689]LogBlueprintUserMessages: [ThirdPersonEnemy6] 3.0
+[2018.05.06-14.55.03:754][689]LogBlueprintUserMessages: [ThirdPersonEnemy7] 1.0
+[2018.05.06-14.55.03:816][691]LogBlueprintUserMessages: [ThirdPersonEnemy5_446] 1.0
+[2018.05.06-14.55.03:967][695]LogBlueprintUserMessages: [ThirdPersonEnemy6] 2.0
+[2018.05.06-14.55.04:203][702]LogBlueprintUserMessages: [ThirdPersonEnemy6] 1.0
+[2018.05.06-14.55.09:155][843]LogBlueprintUserMessages: [SlideDoor_566] Key Card Accepted
+[2018.05.06-14.55.15:539][ 20]LogBlueprintUserMessages: [SlideDoor_566] Key Card Accepted
+[2018.05.06-14.55.19:024][116]LogBlueprintUserMessages: [SlideDoor2] Key Card Accepted
+[2018.05.06-14.55.26:317][330]LogBlueprintUserMessages: [ThirdPersonEnemy11] 4.0
+[2018.05.06-14.55.26:467][334]LogBlueprintUserMessages: [ThirdPersonEnemy9] 4.0
+[2018.05.06-14.55.26:672][340]LogBlueprintUserMessages: [ThirdPersonEnemy9] 3.0
+[2018.05.06-14.55.26:809][344]LogBlueprintUserMessages: [ThirdPersonEnemy11] 3.0
+[2018.05.06-14.55.26:889][346]LogBlueprintUserMessages: [ThirdPersonEnemy9] 2.0
+[2018.05.06-14.55.26:923][347]LogBlueprintUserMessages: [ThirdPersonEnemy11] 2.0
+[2018.05.06-14.55.27:091][352]LogBlueprintUserMessages: [ThirdPersonEnemy11] 1.0
+[2018.05.06-14.55.27:098][352]LogBlueprintUserMessages: [ThirdPersonEnemy9] 1.0
+[2018.05.06-14.55.27:310][358]LogBlueprintUserMessages: [ThirdPersonEnemy8] 4.0
+[2018.05.06-14.55.27:453][362]LogBlueprintUserMessages: [ThirdPersonEnemy10] 4.0
+[2018.05.06-14.55.27:522][364]LogBlueprintUserMessages: [ThirdPersonEnemy8] 3.0
+[2018.05.06-14.55.27:957][376]LogBlueprintUserMessages: [ThirdPersonEnemy8] 2.0
+[2018.05.06-14.55.28:170][382]LogBlueprintUserMessages: [ThirdPersonEnemy8] 1.0
+[2018.05.06-14.55.29:159][407]LogBlueprintUserMessages: [ThirdPersonEnemy13] 4.0
+[2018.05.06-14.55.29:255][410]LogBlueprintUserMessages: [ThirdPersonEnemy13] 3.0
+[2018.05.06-14.55.29:399][414]LogBlueprintUserMessages: [ThirdPersonEnemy13] 2.0
+[2018.05.06-14.55.29:718][423]LogBlueprintUserMessages: [ThirdPersonEnemy13] 1.0
+[2018.05.06-14.55.37:349][617]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.06-14.56.09:255][268]LogSavePackage: Save=36.65ms
+[2018.05.06-14.56.09:255][268]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/EnemyAIControllerC75B52FA4F1BF06B3C15FC80F64FBE2A.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/ThirdPersonBP/Blueprints/EnemyAIController.uasset'
+[2018.05.06-14.56.09:259][268]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/ThirdPersonBP/Blueprints/EnemyAIController.uasset
+[2018.05.06-14.56.14:133][368]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.06-14.56.22:391][533]LogSavePackage: Save=32.70ms
+[2018.05.06-14.56.22:391][533]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/EnemyAIController3D1FE4F842BAD9E76F4DBAB1E5AC4F67.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/ThirdPersonBP/Blueprints/EnemyAIController.uasset'
+[2018.05.06-14.56.22:393][533]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/ThirdPersonBP/Blueprints/EnemyAIController.uasset
+[2018.05.06-14.56.24:390][573]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.06-14.57.09:727][485]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.05.06-14.58.51:070][530]LogSavePackage: Save=57.56ms
+[2018.05.06-14.58.51:070][530]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/EnemyAIController7C6D1BA04B242999B48E4380E915889E.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/ThirdPersonBP/Blueprints/EnemyAIController.uasset'
+[2018.05.06-14.58.51:084][530]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/ThirdPersonBP/Blueprints/EnemyAIController.uasset
+[2018.05.06-14.58.51:921][548]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.06-14.58.51:968][549]BlueprintLog: New page: Compile EnemyAIController
+[2018.05.06-14.58.53:136][567]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.06-14.58.53:236][567]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.06-14.58.53:236][567]PIE: New page: PIE session: NewMap (6 May 2018 16:58:53)
+[2018.05.06-14.58.53:237][567]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2018.05.06-14.58.53:264][567]LogPlayLevel: PIE: StaticDuplicateObject took: (0.027508s)
+[2018.05.06-14.58.53:265][567]LogAIModule: Creating AISystem for world NewMap
+[2018.05.06-14.58.53:266][567]LogPlayLevel: PIE: World Init took: (0.001180s)
+[2018.05.06-14.58.53:266][567]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.029002s)
+[2018.05.06-14.58.53:299][567]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.06-14.58.53:311][567]LogInit: FAudioDevice initialized.
+[2018.05.06-14.58.53:361][567]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.06-14.58.53:402][567]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2018.05.06-15.58.53
+[2018.05.06-14.58.53:407][567]LogWorld: Bringing up level for play took: 0.044296
+[2018.05.06-14.58.53:411][567]PIE: Play in editor start time for /Game/UEDPIE_0_NewMap 0.333
+[2018.05.06-14.59.07:597][944]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.06-14.59.37:609][523]LogSavePackage: Save=36.53ms
+[2018.05.06-14.59.37:609][523]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/EnemyAIControllerE7E4076748FCB0EC0D6C3C94A03B03FA.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/ThirdPersonBP/Blueprints/EnemyAIController.uasset'
+[2018.05.06-14.59.37:614][523]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/ThirdPersonBP/Blueprints/EnemyAIController.uasset
+[2018.05.06-14.59.38:473][541]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.06-14.59.38:524][542]BlueprintLog: New page: Compile EnemyAIController
+[2018.05.06-14.59.40:183][567]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.06-14.59.40:269][567]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.06-14.59.40:269][567]PIE: New page: PIE session: NewMap (6 May 2018 16:59:40)
+[2018.05.06-14.59.40:270][567]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2018.05.06-14.59.40:306][567]LogPlayLevel: PIE: StaticDuplicateObject took: (0.036015s)
+[2018.05.06-14.59.40:307][567]LogAIModule: Creating AISystem for world NewMap
+[2018.05.06-14.59.40:307][567]LogPlayLevel: PIE: World Init took: (0.001027s)
+[2018.05.06-14.59.40:307][567]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.037338s)
+[2018.05.06-14.59.40:338][567]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.06-14.59.40:349][567]LogInit: FAudioDevice initialized.
+[2018.05.06-14.59.40:388][567]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.06-14.59.40:417][567]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2018.05.06-15.59.40
+[2018.05.06-14.59.40:422][567]LogWorld: Bringing up level for play took: 0.033314
+[2018.05.06-14.59.40:426][567]PIE: Play in editor start time for /Game/UEDPIE_0_NewMap -0.653
+[2018.05.06-14.59.42:344][622]LogBlueprintUserMessages: [EnemyAIController_C_0] 1.0
+[2018.05.06-14.59.42:344][622]LogBlueprintUserMessages: [EnemyAIController_C_4] 1.0
+[2018.05.06-14.59.43:021][642]LogBlueprintUserMessages: [EnemyAIController_C_0] 1.0
+[2018.05.06-14.59.45:030][701]LogBlueprintUserMessages: [EnemyAIController_C_0] 1.0
+[2018.05.06-14.59.45:390][712]LogBlueprintUserMessages: [EnemyAIController_C_0] 1.0
+[2018.05.06-14.59.48:301][799]LogBlueprintUserMessages: [EnemyAIController_C_0] 1.0
+[2018.05.06-14.59.48:301][799]LogBlueprintUserMessages: [EnemyAIController_C_4] 1.0
+[2018.05.06-14.59.48:903][817]LogBlueprintUserMessages: [EnemyAIController_C_0] 1.0
+[2018.05.06-14.59.48:903][817]LogBlueprintUserMessages: [EnemyAIController_C_4] 1.0
+[2018.05.06-14.59.49:239][827]LogBlueprintUserMessages: [EnemyAIController_C_0] 1.0
+[2018.05.06-14.59.49:239][827]LogBlueprintUserMessages: [EnemyAIController_C_4] 1.0
+[2018.05.06-14.59.49:337][830]LogBlueprintUserMessages: [EnemyAIController_C_0] 1.0
+[2018.05.06-14.59.49:399][832]LogBlueprintUserMessages: [EnemyAIController_C_0] 1.0
+[2018.05.06-14.59.49:998][850]LogBlueprintUserMessages: [EnemyAIController_C_0] 1.0
+[2018.05.06-14.59.50:062][852]LogBlueprintUserMessages: [EnemyAIController_C_0] 1.0
+[2018.05.06-14.59.50:461][864]LogBlueprintUserMessages: [EnemyAIController_C_0] 1.0
+[2018.05.06-14.59.50:526][866]LogBlueprintUserMessages: [EnemyAIController_C_0] 1.0
+[2018.05.06-14.59.50:989][880]LogBlueprintUserMessages: [EnemyAIController_C_0] 1.0
+[2018.05.06-14.59.51:056][882]LogBlueprintUserMessages: [EnemyAIController_C_0] 1.0
+[2018.05.06-14.59.51:444][894]LogBlueprintUserMessages: [EnemyAIController_C_0] 1.0
+[2018.05.06-14.59.51:512][896]LogBlueprintUserMessages: [EnemyAIController_C_0] 1.0
+[2018.05.06-14.59.51:546][897]LogBlueprintUserMessages: [EnemyAIController_C_0] 1.0
+[2018.05.06-14.59.51:578][898]LogBlueprintUserMessages: [EnemyAIController_C_0] 1.0
+[2018.05.06-14.59.51:644][900]LogBlueprintUserMessages: [EnemyAIController_C_0] 1.0
+[2018.05.06-14.59.51:678][901]LogBlueprintUserMessages: [EnemyAIController_C_0] 1.0
+[2018.05.06-14.59.51:710][902]LogBlueprintUserMessages: [EnemyAIController_C_0] 1.0
+[2018.05.06-14.59.51:748][903]LogBlueprintUserMessages: [EnemyAIController_C_0] 1.0
+[2018.05.06-14.59.51:822][905]LogBlueprintUserMessages: [EnemyAIController_C_0] 1.0
+[2018.05.06-14.59.51:858][906]LogBlueprintUserMessages: [EnemyAIController_C_0] 1.0
+[2018.05.06-14.59.52:883][936]LogBlueprintUserMessages: [EnemyAIController_C_0] 1.0
+[2018.05.06-14.59.52:883][936]LogBlueprintUserMessages: [EnemyAIController_C_1] 1.0
+[2018.05.06-14.59.52:883][936]LogBlueprintUserMessages: [EnemyAIController_C_4] 1.0
+[2018.05.06-14.59.53:555][956]LogBlueprintUserMessages: [EnemyAIController_C_0] 1.0
+[2018.05.06-14.59.53:555][956]LogBlueprintUserMessages: [EnemyAIController_C_1] 1.0
+[2018.05.06-14.59.53:555][956]LogBlueprintUserMessages: [EnemyAIController_C_4] 1.0
+[2018.05.06-14.59.54:034][970]LogBlueprintUserMessages: [EnemyAIController_C_0] 1.0
+[2018.05.06-14.59.54:034][970]LogBlueprintUserMessages: [EnemyAIController_C_1] 1.0
+[2018.05.06-14.59.54:034][970]LogBlueprintUserMessages: [EnemyAIController_C_4] 1.0
+[2018.05.06-14.59.54:571][986]LogBlueprintUserMessages: [EnemyAIController_C_0] 1.0
+[2018.05.06-14.59.54:571][986]LogBlueprintUserMessages: [EnemyAIController_C_1] 1.0
+[2018.05.06-14.59.54:571][986]LogBlueprintUserMessages: [EnemyAIController_C_4] 1.0
+[2018.05.06-14.59.54:980][998]LogBlueprintUserMessages: [EnemyAIController_C_0] 1.0
+[2018.05.06-14.59.54:980][998]LogBlueprintUserMessages: [EnemyAIController_C_1] 1.0
+[2018.05.06-14.59.54:981][998]LogBlueprintUserMessages: [EnemyAIController_C_4] 1.0
+[2018.05.06-14.59.55:371][  9]LogBlueprintUserMessages: [EnemyAIController_C_0] 1.0
+[2018.05.06-14.59.55:371][  9]LogBlueprintUserMessages: [EnemyAIController_C_1] 1.0
+[2018.05.06-14.59.55:371][  9]LogBlueprintUserMessages: [EnemyAIController_C_4] 1.0
+[2018.05.06-14.59.55:768][ 21]LogBlueprintUserMessages: [EnemyAIController_C_0] 1.0
+[2018.05.06-14.59.55:769][ 21]LogBlueprintUserMessages: [EnemyAIController_C_1] 1.0
+[2018.05.06-14.59.55:769][ 21]LogBlueprintUserMessages: [EnemyAIController_C_4] 1.0
+[2018.05.06-14.59.56:208][ 34]LogBlueprintUserMessages: [EnemyAIController_C_0] 1.0
+[2018.05.06-14.59.56:208][ 34]LogBlueprintUserMessages: [EnemyAIController_C_1] 1.0
+[2018.05.06-14.59.56:208][ 34]LogBlueprintUserMessages: [EnemyAIController_C_4] 1.0
+[2018.05.06-14.59.56:898][ 55]LogBlueprintUserMessages: [EnemyAIController_C_0] 1.0
+[2018.05.06-14.59.56:898][ 55]LogBlueprintUserMessages: [EnemyAIController_C_1] 1.0
+[2018.05.06-14.59.56:898][ 55]LogBlueprintUserMessages: [EnemyAIController_C_4] 1.0
+[2018.05.06-14.59.57:807][ 82]LogBlueprintUserMessages: [EnemyAIController_C_0] 1.0
+[2018.05.06-14.59.57:807][ 82]LogBlueprintUserMessages: [EnemyAIController_C_1] 1.0
+[2018.05.06-14.59.57:807][ 82]LogBlueprintUserMessages: [EnemyAIController_C_4] 1.0
+[2018.05.06-14.59.58:324][ 97]LogBlueprintUserMessages: [EnemyAIController_C_0] 1.0
+[2018.05.06-14.59.58:324][ 97]LogBlueprintUserMessages: [EnemyAIController_C_1] 1.0
+[2018.05.06-14.59.58:324][ 97]LogBlueprintUserMessages: [EnemyAIController_C_4] 1.0
+[2018.05.06-14.59.58:736][109]LogBlueprintUserMessages: [EnemyAIController_C_1] 1.0
+[2018.05.06-14.59.58:736][109]LogBlueprintUserMessages: [EnemyAIController_C_4] 1.0
+[2018.05.06-14.59.59:082][119]LogBlueprintUserMessages: [EnemyAIController_C_1] 1.0
+[2018.05.06-14.59.59:082][119]LogBlueprintUserMessages: [EnemyAIController_C_4] 1.0
+[2018.05.06-15.00.00:406][156]LogBlueprintUserMessages: [EnemyAIController_C_1] 1.0
+[2018.05.06-15.00.00:472][158]LogBlueprintUserMessages: [EnemyAIController_C_1] 1.0
+[2018.05.06-15.00.01:019][171]LogBlueprintUserMessages: [EnemyAIController_C_1] 1.0
+[2018.05.06-15.00.01:019][171]LogBlueprintUserMessages: [EnemyAIController_C_4] 1.0
+[2018.05.06-15.00.01:122][174]LogBlueprintUserMessages: [EnemyAIController_C_1] 1.0
+[2018.05.06-15.00.01:193][176]LogBlueprintUserMessages: [EnemyAIController_C_1] 1.0
+[2018.05.06-15.00.01:720][191]LogBlueprintUserMessages: [EnemyAIController_C_1] 1.0
+[2018.05.06-15.00.01:720][191]LogBlueprintUserMessages: [EnemyAIController_C_4] 1.0
+[2018.05.06-15.00.02:141][203]LogBlueprintUserMessages: [EnemyAIController_C_1] 1.0
+[2018.05.06-15.00.02:141][203]LogBlueprintUserMessages: [EnemyAIController_C_2] 1.0
+[2018.05.06-15.00.02:141][203]LogBlueprintUserMessages: [EnemyAIController_C_3] 1.0
+[2018.05.06-15.00.02:141][203]LogBlueprintUserMessages: [EnemyAIController_C_4] 1.0
+[2018.05.06-15.00.02:544][215]LogBlueprintUserMessages: [EnemyAIController_C_1] 1.0
+[2018.05.06-15.00.02:545][215]LogBlueprintUserMessages: [EnemyAIController_C_2] 1.0
+[2018.05.06-15.00.02:545][215]LogBlueprintUserMessages: [EnemyAIController_C_3] 1.0
+[2018.05.06-15.00.02:545][215]LogBlueprintUserMessages: [EnemyAIController_C_4] 1.0
+[2018.05.06-15.00.02:916][226]LogBlueprintUserMessages: [EnemyAIController_C_1] 1.0
+[2018.05.06-15.00.02:916][226]LogBlueprintUserMessages: [EnemyAIController_C_2] 1.0
+[2018.05.06-15.00.02:916][226]LogBlueprintUserMessages: [EnemyAIController_C_3] 1.0
+[2018.05.06-15.00.02:916][226]LogBlueprintUserMessages: [EnemyAIController_C_4] 1.0
+[2018.05.06-15.00.10:468][451]LogBlueprintUserMessages: [EnemyAIController_C_1] 1.0
+[2018.05.06-15.00.10:468][451]LogBlueprintUserMessages: [EnemyAIController_C_2] 1.0
+[2018.05.06-15.00.10:468][451]LogBlueprintUserMessages: [EnemyAIController_C_3] 1.0
+[2018.05.06-15.00.10:698][458]LogBlueprintUserMessages: [EnemyAIController_C_3] 1.0
+[2018.05.06-15.00.10:765][460]LogBlueprintUserMessages: [EnemyAIController_C_3] 1.0
+[2018.05.06-15.00.12:727][516]LogBlueprintUserMessages: [EnemyAIController_C_3] 1.0
+[2018.05.06-15.00.12:792][518]LogBlueprintUserMessages: [EnemyAIController_C_3] 1.0
+[2018.05.06-15.00.13:797][548]LogBlueprintUserMessages: [EnemyAIController_C_2] 1.0
+[2018.05.06-15.00.13:864][550]LogBlueprintUserMessages: [EnemyAIController_C_2] 1.0
+[2018.05.06-15.00.14:322][564]LogBlueprintUserMessages: [EnemyAIController_C_2] 1.0
+[2018.05.06-15.00.14:390][566]LogBlueprintUserMessages: [EnemyAIController_C_2] 1.0
+[2018.05.06-15.00.15:929][612]LogBlueprintUserMessages: [EnemyAIController_C_2] 1.0
+[2018.05.06-15.00.15:929][612]LogBlueprintUserMessages: [EnemyAIController_C_3] 1.0
+[2018.05.06-15.00.15:929][612]LogBlueprintUserMessages: [EnemyAIController_C_5] 1.0
+[2018.05.06-15.00.15:929][612]LogBlueprintUserMessages: [EnemyAIController_C_6] 1.0
+[2018.05.06-15.00.15:929][612]LogBlueprintUserMessages: [EnemyAIController_C_10] 1.0
+[2018.05.06-15.00.15:929][612]LogBlueprintUserMessages: [EnemyAIController_C_11] 1.0
+[2018.05.06-15.00.15:929][612]LogBlueprintUserMessages: [EnemyAIController_C_12] 1.0
+[2018.05.06-15.00.15:929][612]LogBlueprintUserMessages: [EnemyAIController_C_13] 1.0
+[2018.05.06-15.00.16:330][624]LogBlueprintUserMessages: [EnemyAIController_C_2] 1.0
+[2018.05.06-15.00.16:330][624]LogBlueprintUserMessages: [EnemyAIController_C_3] 1.0
+[2018.05.06-15.00.16:330][624]LogBlueprintUserMessages: [EnemyAIController_C_5] 1.0
+[2018.05.06-15.00.16:330][624]LogBlueprintUserMessages: [EnemyAIController_C_6] 1.0
+[2018.05.06-15.00.16:330][624]LogBlueprintUserMessages: [EnemyAIController_C_10] 1.0
+[2018.05.06-15.00.16:330][624]LogBlueprintUserMessages: [EnemyAIController_C_11] 1.0
+[2018.05.06-15.00.16:330][624]LogBlueprintUserMessages: [EnemyAIController_C_12] 1.0
+[2018.05.06-15.00.16:330][624]LogBlueprintUserMessages: [EnemyAIController_C_13] 1.0
+[2018.05.06-15.00.16:725][636]LogBlueprintUserMessages: [EnemyAIController_C_2] 1.0
+[2018.05.06-15.00.16:725][636]LogBlueprintUserMessages: [EnemyAIController_C_3] 1.0
+[2018.05.06-15.00.16:725][636]LogBlueprintUserMessages: [EnemyAIController_C_4] 1.0
+[2018.05.06-15.00.16:725][636]LogBlueprintUserMessages: [EnemyAIController_C_5] 1.0
+[2018.05.06-15.00.16:725][636]LogBlueprintUserMessages: [EnemyAIController_C_6] 1.0
+[2018.05.06-15.00.16:725][636]LogBlueprintUserMessages: [EnemyAIController_C_10] 1.0
+[2018.05.06-15.00.16:725][636]LogBlueprintUserMessages: [EnemyAIController_C_11] 1.0
+[2018.05.06-15.00.16:725][636]LogBlueprintUserMessages: [EnemyAIController_C_12] 1.0
+[2018.05.06-15.00.20:738][728]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.06-15.00.21:514][741]LogSavePackage: Save=38.74ms
+[2018.05.06-15.00.21:514][741]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/EnemyAIController0B83977045245A420D753B86650C2409.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/ThirdPersonBP/Blueprints/EnemyAIController.uasset'
+[2018.05.06-15.00.21:516][741]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/ThirdPersonBP/Blueprints/EnemyAIController.uasset
+[2018.05.06-15.00.25:690][827]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.06-15.00.42:584][166]LogSavePackage: Save=88.57ms
+[2018.05.06-15.00.42:584][166]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/FirstPersonCharacter4DAAF3C94B93606C1FAB1B93AFB0FAED.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2018.05.06-15.00.42:588][166]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset
+[2018.05.06-15.00.43:480][186]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.06-15.00.43:528][187]BlueprintLog: New page: Compile FirstPersonCharacter
+[2018.05.06-15.00.44:691][200]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.06-15.00.44:773][200]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.06-15.00.44:773][200]PIE: New page: PIE session: NewMap (6 May 2018 17:00:44)
+[2018.05.06-15.00.44:774][200]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2018.05.06-15.00.44:809][200]LogPlayLevel: PIE: StaticDuplicateObject took: (0.034949s)
+[2018.05.06-15.00.44:809][200]LogAIModule: Creating AISystem for world NewMap
+[2018.05.06-15.00.44:809][200]LogPlayLevel: PIE: World Init took: (0.000745s)
+[2018.05.06-15.00.44:809][200]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.035984s)
+[2018.05.06-15.00.44:839][200]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.06-15.00.44:849][200]LogInit: FAudioDevice initialized.
+[2018.05.06-15.00.44:887][200]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.06-15.00.44:904][200]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2018.05.06-16.00.44
+[2018.05.06-15.00.44:909][200]LogWorld: Bringing up level for play took: 0.021129
+[2018.05.06-15.00.44:913][200]PIE: Play in editor start time for /Game/UEDPIE_0_NewMap -0.166
+[2018.05.06-15.00.47:043][260]LogBlueprintUserMessages: [EnemyAIController_C_0] 1.0
+[2018.05.06-15.00.48:838][311]LogBlueprintUserMessages: [EnemyAIController_C_0] 1.0
+[2018.05.06-15.00.49:502][330]LogBlueprintUserMessages: [EnemyAIController_C_0] 1.0
+[2018.05.06-15.00.49:912][342]LogBlueprintUserMessages: [EnemyAIController_C_0] 1.0
+[2018.05.06-15.00.50:183][349]LogBlueprintUserMessages: [EnemyAIController_C_0] 1.0
+[2018.05.06-15.00.50:415][356]LogBlueprintUserMessages: [EnemyAIController_C_0] 1.0
+[2018.05.06-15.00.50:627][362]LogBlueprintUserMessages: [EnemyAIController_C_0] 1.0
+[2018.05.06-15.00.50:785][366]LogBlueprintUserMessages: [EnemyAIController_C_0] 1.0
+[2018.05.06-15.00.50:952][371]LogBlueprintUserMessages: [EnemyAIController_C_0] 1.0
+[2018.05.06-15.00.51:125][376]LogBlueprintUserMessages: [EnemyAIController_C_0] 1.0
+[2018.05.06-15.00.51:299][381]LogBlueprintUserMessages: [EnemyAIController_C_0] 1.0
+[2018.05.06-15.00.52:301][410]LogBlueprintUserMessages: [EnemyAIController_C_9] 1.0
+[2018.05.06-15.00.52:476][415]LogBlueprintUserMessages: [EnemyAIController_C_9] 1.0
+[2018.05.06-15.00.52:623][419]LogBlueprintUserMessages: [EnemyAIController_C_9] 1.0
+[2018.05.06-15.00.52:793][424]LogBlueprintUserMessages: [EnemyAIController_C_9] 1.0
+[2018.05.06-15.00.52:965][429]LogBlueprintUserMessages: [EnemyAIController_C_9] 1.0
+[2018.05.06-15.00.59:500][619]LogBlueprintUserMessages: [EnemyAIController_C_0] 1.0
+[2018.05.06-15.00.59:501][619]LogBlueprintUserMessages: [EnemyAIController_C_4] 1.0
+[2018.05.06-15.00.59:765][627]LogBlueprintUserMessages: [ThirdPersonCharacter_853] 4.0
+[2018.05.06-15.00.59:837][629]LogBlueprintUserMessages: [EnemyAIController_C_0] 1.0
+[2018.05.06-15.00.59:905][631]LogBlueprintUserMessages: [EnemyAIController_C_0] 1.0
+[2018.05.06-15.01.00:406][645]LogBlueprintUserMessages: [EnemyAIController_C_0] 1.0
+[2018.05.06-15.01.00:480][647]LogBlueprintUserMessages: [EnemyAIController_C_0] 1.0
+[2018.05.06-15.01.00:977][661]LogBlueprintUserMessages: [EnemyAIController_C_0] 1.0
+[2018.05.06-15.01.01:047][663]LogBlueprintUserMessages: [EnemyAIController_C_0] 1.0
+[2018.05.06-15.01.01:398][673]LogBlueprintUserMessages: [EnemyAIController_C_0] 1.0
+[2018.05.06-15.01.01:470][675]LogBlueprintUserMessages: [EnemyAIController_C_0] 1.0
+[2018.05.06-15.01.02:507][704]LogBlueprintUserMessages: [EnemyAIController_C_0] 1.0
+[2018.05.06-15.01.02:508][704]LogBlueprintUserMessages: [EnemyAIController_C_1] 1.0
+[2018.05.06-15.01.02:508][704]LogBlueprintUserMessages: [EnemyAIController_C_4] 1.0
+[2018.05.06-15.01.03:055][720]LogBlueprintUserMessages: [EnemyAIController_C_0] 1.0
+[2018.05.06-15.01.03:055][720]LogBlueprintUserMessages: [EnemyAIController_C_1] 1.0
+[2018.05.06-15.01.03:055][720]LogBlueprintUserMessages: [EnemyAIController_C_4] 1.0
+[2018.05.06-15.01.03:424][731]LogBlueprintUserMessages: [EnemyAIController_C_0] 1.0
+[2018.05.06-15.01.03:424][731]LogBlueprintUserMessages: [EnemyAIController_C_1] 1.0
+[2018.05.06-15.01.03:425][731]LogBlueprintUserMessages: [EnemyAIController_C_4] 1.0
+[2018.05.06-15.01.03:768][741]LogBlueprintUserMessages: [EnemyAIController_C_0] 1.0
+[2018.05.06-15.01.03:768][741]LogBlueprintUserMessages: [EnemyAIController_C_1] 1.0
+[2018.05.06-15.01.03:768][741]LogBlueprintUserMessages: [EnemyAIController_C_4] 1.0
+[2018.05.06-15.01.04:079][750]LogBlueprintUserMessages: [EnemyAIController_C_0] 1.0
+[2018.05.06-15.01.04:079][750]LogBlueprintUserMessages: [EnemyAIController_C_1] 1.0
+[2018.05.06-15.01.04:079][750]LogBlueprintUserMessages: [EnemyAIController_C_4] 1.0
+[2018.05.06-15.01.04:357][758]LogBlueprintUserMessages: [EnemyAIController_C_0] 1.0
+[2018.05.06-15.01.04:357][758]LogBlueprintUserMessages: [EnemyAIController_C_1] 1.0
+[2018.05.06-15.01.04:357][758]LogBlueprintUserMessages: [EnemyAIController_C_4] 1.0
+[2018.05.06-15.01.04:691][767]LogBlueprintUserMessages: [EnemyAIController_C_0] 1.0
+[2018.05.06-15.01.04:691][767]LogBlueprintUserMessages: [EnemyAIController_C_1] 1.0
+[2018.05.06-15.01.04:692][767]LogBlueprintUserMessages: [EnemyAIController_C_4] 1.0
+[2018.05.06-15.01.05:101][779]LogBlueprintUserMessages: [EnemyAIController_C_0] 1.0
+[2018.05.06-15.01.05:101][779]LogBlueprintUserMessages: [EnemyAIController_C_1] 1.0
+[2018.05.06-15.01.05:102][779]LogBlueprintUserMessages: [EnemyAIController_C_4] 1.0
+[2018.05.06-15.01.06:025][805]LogBlueprintUserMessages: [EnemyAIController_C_0] 1.0
+[2018.05.06-15.01.06:025][805]LogBlueprintUserMessages: [EnemyAIController_C_1] 1.0
+[2018.05.06-15.01.06:025][805]LogBlueprintUserMessages: [EnemyAIController_C_4] 1.0
+[2018.05.06-15.01.06:369][815]LogBlueprintUserMessages: [EnemyAIController_C_0] 1.0
+[2018.05.06-15.01.06:370][815]LogBlueprintUserMessages: [EnemyAIController_C_1] 1.0
+[2018.05.06-15.01.06:370][815]LogBlueprintUserMessages: [EnemyAIController_C_4] 1.0
+[2018.05.06-15.01.06:762][826]LogBlueprintUserMessages: [EnemyAIController_C_0] 1.0
+[2018.05.06-15.01.06:763][826]LogBlueprintUserMessages: [EnemyAIController_C_1] 1.0
+[2018.05.06-15.01.06:763][826]LogBlueprintUserMessages: [EnemyAIController_C_4] 1.0
+[2018.05.06-15.01.12:210][938]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.06-15.01.15:689][  3]LogSavePackage: Save=88.99ms
+[2018.05.06-15.01.15:689][  3]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/FirstPersonCharacter1E8194EE4540E163E81E32A5CBCFCB7C.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2018.05.06-15.01.15:692][  3]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset
+[2018.05.06-15.01.16:711][ 24]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.06-15.01.18:593][ 57]LogSavePackage: Save=83.81ms
+[2018.05.06-15.01.18:593][ 57]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/FirstPersonCharacterA7E986BC4BE6874FF6757D8A3BE10E58.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2018.05.06-15.01.18:598][ 57]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset
+[2018.05.06-15.01.19:568][ 78]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.06-15.01.19:619][ 79]BlueprintLog: New page: Compile FirstPersonCharacter
+[2018.05.06-15.01.21:082][ 98]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.06-15.01.21:166][ 98]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.06-15.01.21:166][ 98]PIE: New page: PIE session: NewMap (6 May 2018 17:01:21)
+[2018.05.06-15.01.21:167][ 98]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2018.05.06-15.01.21:203][ 98]LogPlayLevel: PIE: StaticDuplicateObject took: (0.036425s)
+[2018.05.06-15.01.21:204][ 98]LogAIModule: Creating AISystem for world NewMap
+[2018.05.06-15.01.21:204][ 98]LogPlayLevel: PIE: World Init took: (0.000815s)
+[2018.05.06-15.01.21:204][ 98]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.037580s)
+[2018.05.06-15.01.21:236][ 98]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.06-15.01.21:246][ 98]LogInit: FAudioDevice initialized.
+[2018.05.06-15.01.21:293][ 98]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.06-15.01.21:315][ 98]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2018.05.06-16.01.21
+[2018.05.06-15.01.21:319][ 98]LogWorld: Bringing up level for play took: 0.024666
+[2018.05.06-15.01.21:322][ 98]PIE: Play in editor start time for /Game/UEDPIE_0_NewMap 0.243
+[2018.05.06-15.01.25:455][215]LogBlueprintUserMessages: [EnemyAIController_C_0] 0.5
+[2018.05.06-15.01.26:130][235]LogBlueprintUserMessages: [EnemyAIController_C_0] 0.5
+[2018.05.06-15.01.26:542][247]LogBlueprintUserMessages: [EnemyAIController_C_0] 0.5
+[2018.05.06-15.01.26:613][249]LogBlueprintUserMessages: [EnemyAIController_C_0] 0.5
+[2018.05.06-15.01.26:826][255]LogBlueprintUserMessages: [EnemyAIController_C_0] 0.5
+[2018.05.06-15.01.27:031][261]LogBlueprintUserMessages: [EnemyAIController_C_0] 0.5
+[2018.05.06-15.01.27:099][263]LogBlueprintUserMessages: [EnemyAIController_C_0] 0.5
+[2018.05.06-15.01.27:173][265]LogBlueprintUserMessages: [EnemyAIController_C_0] 0.5
+[2018.05.06-15.01.27:717][281]LogBlueprintUserMessages: [EnemyAIController_C_0] 0.5
+[2018.05.06-15.01.27:784][283]LogBlueprintUserMessages: [EnemyAIController_C_0] 0.5
+[2018.05.06-15.01.28:325][299]LogBlueprintUserMessages: [EnemyAIController_C_0] 0.5
+[2018.05.06-15.01.28:391][301]LogBlueprintUserMessages: [EnemyAIController_C_0] 0.5
+[2018.05.06-15.01.28:865][315]LogBlueprintUserMessages: [EnemyAIController_C_0] 0.5
+[2018.05.06-15.01.28:931][317]LogBlueprintUserMessages: [EnemyAIController_C_0] 0.5
+[2018.05.06-15.01.29:490][333]LogBlueprintUserMessages: [EnemyAIController_C_0] 0.5
+[2018.05.06-15.01.29:555][335]LogBlueprintUserMessages: [EnemyAIController_C_0] 0.5
+[2018.05.06-15.01.30:098][351]LogBlueprintUserMessages: [EnemyAIController_C_0] 0.5
+[2018.05.06-15.01.30:164][353]LogBlueprintUserMessages: [EnemyAIController_C_0] 0.5
+[2018.05.06-15.01.30:709][369]LogBlueprintUserMessages: [EnemyAIController_C_0] 0.5
+[2018.05.06-15.01.30:782][371]LogBlueprintUserMessages: [EnemyAIController_C_0] 0.5
+[2018.05.06-15.01.30:814][372]LogBlueprintUserMessages: [EnemyAIController_C_0] 0.5
+[2018.05.06-15.01.31:260][385]LogBlueprintUserMessages: [EnemyAIController_C_0] 0.5
+[2018.05.06-15.01.31:324][387]LogBlueprintUserMessages: [EnemyAIController_C_0] 0.5
+[2018.05.06-15.01.31:597][395]LogBlueprintUserMessages: [EnemyAIController_C_0] 0.5
+[2018.05.06-15.01.31:839][402]LogBlueprintUserMessages: [EnemyAIController_C_0] 0.5
+[2018.05.06-15.01.32:105][410]LogBlueprintUserMessages: [EnemyAIController_C_0] 0.5
+[2018.05.06-15.01.32:378][418]LogBlueprintUserMessages: [EnemyAIController_C_0] 0.5
+[2018.05.06-15.02.12:307][223]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.06-15.02.14:982][272]LogSavePackage: Save=86.98ms
+[2018.05.06-15.02.14:982][272]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/FirstPersonCharacterA0F75AA44832DEF182D88D9943E19EBC.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2018.05.06-15.02.14:986][272]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset
+[2018.05.06-15.02.15:644][287]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.06-15.02.15:748][289]BlueprintLog: New page: Compile FirstPersonCharacter
+[2018.05.06-15.02.16:904][302]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.06-15.02.16:980][302]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.06-15.02.16:982][302]PIE: New page: PIE session: NewMap (6 May 2018 17:02:16)
+[2018.05.06-15.02.16:983][302]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2018.05.06-15.02.17:021][302]LogPlayLevel: PIE: StaticDuplicateObject took: (0.036791s)
+[2018.05.06-15.02.17:021][302]LogAIModule: Creating AISystem for world NewMap
+[2018.05.06-15.02.17:021][302]LogPlayLevel: PIE: World Init took: (0.000737s)
+[2018.05.06-15.02.17:021][302]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.038150s)
+[2018.05.06-15.02.17:052][302]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.06-15.02.17:062][302]LogInit: FAudioDevice initialized.
+[2018.05.06-15.02.17:109][302]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.06-15.02.17:137][302]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2018.05.06-16.02.17
+[2018.05.06-15.02.17:142][302]LogWorld: Bringing up level for play took: 0.030155
+[2018.05.06-15.02.17:145][302]PIE: Play in editor start time for /Game/UEDPIE_0_NewMap 0.066
+[2018.05.06-15.02.18:582][342]LogBlueprintUserMessages: [EnemyAIController_C_0] 1.0
+[2018.05.06-15.02.18:883][351]LogBlueprintUserMessages: [SlideDoor2] Key Card Declined
+[2018.05.06-15.02.19:832][378]LogBlueprintUserMessages: [EnemyAIController_C_0] 1.0
+[2018.05.06-15.02.20:237][390]LogBlueprintUserMessages: [EnemyAIController_C_0] 1.0
+[2018.05.06-15.02.20:633][401]LogBlueprintUserMessages: [EnemyAIController_C_0] 1.0
+[2018.05.06-15.02.21:043][413]LogBlueprintUserMessages: [EnemyAIController_C_0] 1.0
+[2018.05.06-15.02.25:760][536]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.06-15.02.26:532][547]LogSavePackage: Save=83.74ms
+[2018.05.06-15.02.26:532][547]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/FirstPersonCharacterA9B8790D401BF1AEB56BE4AFB6FF7A9E.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2018.05.06-15.02.26:534][547]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset
+[2018.05.06-15.02.28:574][589]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.06-15.03.25:376][704]LogSavePackage: Save=35.81ms
+[2018.05.06-15.03.25:376][704]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/EnemyAIController548E9D614116220E6D1474941A31CD4E.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/ThirdPersonBP/Blueprints/EnemyAIController.uasset'
+[2018.05.06-15.03.25:380][704]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/ThirdPersonBP/Blueprints/EnemyAIController.uasset
+[2018.05.06-15.03.29:361][785]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.06-15.03.39:344][980]LogSavePackage: Save=35.35ms
+[2018.05.06-15.03.39:344][980]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/EnemyAIController847A7AEC44978681A4369F8C0B396377.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/ThirdPersonBP/Blueprints/EnemyAIController.uasset'
+[2018.05.06-15.03.39:348][980]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/ThirdPersonBP/Blueprints/EnemyAIController.uasset
+[2018.05.06-15.03.40:129][997]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.06-15.03.40:225][999]BlueprintLog: New page: Compile EnemyAIController
+[2018.05.06-15.04.36:150][102]BlueprintLog: New page: Compile EnemyAIController
+[2018.05.06-15.04.52:656][421]LogSavePackage: Save=34.14ms
+[2018.05.06-15.04.52:656][421]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/EnemyAIControllerB341E0F3406BEA2FEB96EDAD501E6DBE.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/ThirdPersonBP/Blueprints/EnemyAIController.uasset'
+[2018.05.06-15.04.52:660][421]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/ThirdPersonBP/Blueprints/EnemyAIController.uasset
+[2018.05.06-15.04.53:861][446]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.06-15.04.53:912][447]BlueprintLog: New page: Compile EnemyAIController
+[2018.05.06-15.04.53:978][447]LogBlueprint: Error: [Compiler EnemyAIController] The current value (0, 0, 0) of the ' Path Start ' pin is invalid: 'Path Start' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2018.05.06-15.04.53:979][447]LogBlueprint: Error: [Compiler EnemyAIController] The current value (0, 0, 0) of the ' Path End ' pin is invalid: 'Path End' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2018.05.06-15.04.54:226][447]LogBlueprint: Warning: [Compiler EnemyAIController] [4973.87] Compile of EnemyAIController failed. 2 Fatal Issue(s) 0 Warning(s) [in 313 ms] (/Game/ThirdPersonBP/Blueprints/EnemyAIController.EnemyAIController)
+[2018.05.06-15.06.00:511][770]LogSavePackage: Save=33.08ms
+[2018.05.06-15.06.00:511][770]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/EnemyAIControllerCB4610AC49C574BBF5EF04B287A58683.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/ThirdPersonBP/Blueprints/EnemyAIController.uasset'
+[2018.05.06-15.06.00:515][770]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/ThirdPersonBP/Blueprints/EnemyAIController.uasset
+[2018.05.06-15.06.06:107][883]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.06-15.06.27:520][304]BlueprintLog: New page: Compile EnemyAIController
+[2018.05.06-15.06.37:285][491]LogSavePackage: Save=36.35ms
+[2018.05.06-15.06.37:285][491]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/EnemyAIController842B0DCC441230D3F1FAC7B167F6771D.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/ThirdPersonBP/Blueprints/EnemyAIController.uasset'
+[2018.05.06-15.06.37:289][491]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/ThirdPersonBP/Blueprints/EnemyAIController.uasset
+[2018.05.06-15.06.37:954][505]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.06-15.06.38:066][508]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.06-15.06.38:155][508]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.06-15.06.38:155][508]PIE: New page: PIE session: NewMap (6 May 2018 17:06:38)
+[2018.05.06-15.06.38:155][508]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2018.05.06-15.06.38:189][508]LogPlayLevel: PIE: StaticDuplicateObject took: (0.034070s)
+[2018.05.06-15.06.38:190][508]LogAIModule: Creating AISystem for world NewMap
+[2018.05.06-15.06.38:191][508]LogPlayLevel: PIE: World Init took: (0.001196s)
+[2018.05.06-15.06.38:191][508]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.035584s)
+[2018.05.06-15.06.38:225][508]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.06-15.06.38:237][508]LogInit: FAudioDevice initialized.
+[2018.05.06-15.06.38:289][508]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.06-15.06.38:327][508]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2018.05.06-16.06.38
+[2018.05.06-15.06.38:333][508]LogWorld: Bringing up level for play took: 0.042098
+[2018.05.06-15.06.38:337][508]PIE: Play in editor start time for /Game/UEDPIE_0_NewMap -0.742
+[2018.05.06-15.06.43:645][652]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.06-15.07.40:104][755]LogSavePackage: Save=37.24ms
+[2018.05.06-15.07.40:104][755]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/EnemyAIControllerCD5AAF6D4E2FC003AB43478500EB5548.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/ThirdPersonBP/Blueprints/EnemyAIController.uasset'
+[2018.05.06-15.07.40:108][755]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/ThirdPersonBP/Blueprints/EnemyAIController.uasset
+[2018.05.06-15.07.42:696][808]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.06-15.07.42:795][810]BlueprintLog: New page: Compile EnemyAIController
+[2018.05.06-15.07.43:959][828]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.06-15.07.44:047][828]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.06-15.07.44:049][828]PIE: New page: PIE session: NewMap (6 May 2018 17:07:44)
+[2018.05.06-15.07.44:050][828]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2018.05.06-15.07.44:085][828]LogPlayLevel: PIE: StaticDuplicateObject took: (0.034247s)
+[2018.05.06-15.07.44:085][828]LogAIModule: Creating AISystem for world NewMap
+[2018.05.06-15.07.44:086][828]LogPlayLevel: PIE: World Init took: (0.000837s)
+[2018.05.06-15.07.44:086][828]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.035453s)
+[2018.05.06-15.07.44:122][828]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.06-15.07.44:133][828]LogInit: FAudioDevice initialized.
+[2018.05.06-15.07.44:186][828]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.06-15.07.44:225][828]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2018.05.06-16.07.44
+[2018.05.06-15.07.44:231][828]LogWorld: Bringing up level for play took: 0.042636
+[2018.05.06-15.07.44:234][828]PIE: Play in editor start time for /Game/UEDPIE_0_NewMap 1.155
+[2018.05.06-15.07.57:127][174]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.06-15.08.00:064][230]LogSavePackage: Save=36.54ms
+[2018.05.06-15.08.00:064][230]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/EnemyAIControllerEA8236F644CCCDD4AFB16EA8F529178E.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/ThirdPersonBP/Blueprints/EnemyAIController.uasset'
+[2018.05.06-15.08.00:068][230]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/ThirdPersonBP/Blueprints/EnemyAIController.uasset
+[2018.05.06-15.08.00:812][246]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.06-15.08.00:859][247]BlueprintLog: New page: Compile EnemyAIController
+[2018.05.06-15.08.02:030][265]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.06-15.08.02:117][265]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.06-15.08.02:118][265]PIE: New page: PIE session: NewMap (6 May 2018 17:08:02)
+[2018.05.06-15.08.02:118][265]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2018.05.06-15.08.02:155][265]LogPlayLevel: PIE: StaticDuplicateObject took: (0.036389s)
+[2018.05.06-15.08.02:155][265]LogAIModule: Creating AISystem for world NewMap
+[2018.05.06-15.08.02:156][265]LogPlayLevel: PIE: World Init took: (0.000761s)
+[2018.05.06-15.08.02:156][265]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.037485s)
+[2018.05.06-15.08.02:187][265]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.06-15.08.02:197][265]LogInit: FAudioDevice initialized.
+[2018.05.06-15.08.02:243][265]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.06-15.08.02:269][265]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2018.05.06-16.08.02
+[2018.05.06-15.08.02:273][265]LogWorld: Bringing up level for play took: 0.028518
+[2018.05.06-15.08.02:277][265]PIE: Play in editor start time for /Game/UEDPIE_0_NewMap -0.802
+[2018.05.06-15.08.03:994][311]LogBlueprintUserMessages: [SlideDoor2] Key Card Declined
+[2018.05.06-15.08.08:107][430]LogBlueprintUserMessages: [SlideDoor5] Key Card Declined
+[2018.05.06-15.08.13:191][571]LogBlueprintUserMessages: [ThirdPersonCharacter_853] 4.0
+[2018.05.06-15.08.13:373][576]LogBlueprintUserMessages: [ThirdPersonCharacter_853] 3.0
+[2018.05.06-15.08.13:520][580]LogBlueprintUserMessages: [ThirdPersonCharacter_853] 2.0
+[2018.05.06-15.08.13:628][583]LogBlueprintUserMessages: [ThirdPersonCharacter_853] 1.0
+[2018.05.06-15.08.26:859][962]LogBlueprintUserMessages: [ThirdPersonEnemy2_1109] 4.0
+[2018.05.06-15.08.26:998][966]LogBlueprintUserMessages: [ThirdPersonEnemy2_1109] 3.0
+[2018.05.06-15.08.27:264][973]LogBlueprintUserMessages: [ThirdPersonEnemy2_1109] 2.0
+[2018.05.06-15.08.27:408][977]LogBlueprintUserMessages: [ThirdPersonEnemy2_1109] 1.0
+[2018.05.06-15.08.32:359][118]LogBlueprintUserMessages: [ThirdPersonEnemy4] 4.0
+[2018.05.06-15.08.32:434][120]LogBlueprintUserMessages: [ThirdPersonEnemy4] 3.0
+[2018.05.06-15.08.32:540][123]LogBlueprintUserMessages: [ThirdPersonEnemy4] 2.0
+[2018.05.06-15.08.32:579][124]LogBlueprintUserMessages: [ThirdPersonEnemy3_1676] 4.0
+[2018.05.06-15.08.32:651][126]LogBlueprintUserMessages: [ThirdPersonEnemy4] 1.0
+[2018.05.06-15.08.32:937][134]LogBlueprintUserMessages: [ThirdPersonEnemy3_1676] 3.0
+[2018.05.06-15.08.33:119][139]LogBlueprintUserMessages: [ThirdPersonEnemy3_1676] 2.0
+[2018.05.06-15.08.33:521][150]LogBlueprintUserMessages: [ThirdPersonEnemy3_1676] 1.0
+[2018.05.06-15.08.39:844][331]LogBlueprintUserMessages: [ThirdPersonEnemy11] 4.0
+[2018.05.06-15.08.39:850][331]LogBlueprintUserMessages: [ThirdPersonEnemy6] 4.0
+[2018.05.06-15.08.39:851][331]LogBlueprintUserMessages: [ThirdPersonEnemy12] 4.0
+[2018.05.06-15.08.39:853][331]LogBlueprintUserMessages: [ThirdPersonEnemy7] 4.0
+[2018.05.06-15.08.39:920][333]LogBlueprintUserMessages: [ThirdPersonEnemy5_446] 4.0
+[2018.05.06-15.08.39:954][334]LogBlueprintUserMessages: [ThirdPersonEnemy_642] 4.0
+[2018.05.06-15.08.40:067][337]LogBlueprintUserMessages: [ThirdPersonEnemy11] 3.0
+[2018.05.06-15.08.40:075][337]LogBlueprintUserMessages: [ThirdPersonEnemy6] 3.0
+[2018.05.06-15.08.40:075][337]LogBlueprintUserMessages: [ThirdPersonEnemy12] 3.0
+[2018.05.06-15.08.40:076][337]LogBlueprintUserMessages: [ThirdPersonEnemy7] 3.0
+[2018.05.06-15.08.40:142][339]LogBlueprintUserMessages: [ThirdPersonEnemy5_446] 3.0
+[2018.05.06-15.08.40:145][339]LogBlueprintUserMessages: [ThirdPersonEnemy_642] 3.0
+[2018.05.06-15.08.40:283][343]LogBlueprintUserMessages: [ThirdPersonEnemy11] 2.0
+[2018.05.06-15.08.40:286][343]LogBlueprintUserMessages: [ThirdPersonEnemy12] 2.0
+[2018.05.06-15.08.40:289][343]LogBlueprintUserMessages: [ThirdPersonEnemy6] 2.0
+[2018.05.06-15.08.40:290][343]LogBlueprintUserMessages: [ThirdPersonEnemy7] 2.0
+[2018.05.06-15.08.40:363][345]LogBlueprintUserMessages: [ThirdPersonEnemy5_446] 2.0
+[2018.05.06-15.08.40:524][349]LogBlueprintUserMessages: [ThirdPersonEnemy11] 1.0
+[2018.05.06-15.08.40:525][349]LogBlueprintUserMessages: [ThirdPersonEnemy12] 1.0
+[2018.05.06-15.08.40:527][349]LogBlueprintUserMessages: [ThirdPersonEnemy6] 1.0
+[2018.05.06-15.08.40:527][349]LogBlueprintUserMessages: [ThirdPersonEnemy7] 1.0
+[2018.05.06-15.08.40:593][351]LogBlueprintUserMessages: [ThirdPersonEnemy5_446] 1.0
+[2018.05.06-15.08.40:741][355]LogBlueprintUserMessages: [ThirdPersonEnemy_642] 2.0
+[2018.05.06-15.08.41:463][375]LogBlueprintUserMessages: [ThirdPersonEnemy_642] 1.0
+[2018.05.06-15.08.51:978][632]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.06-15.09.15:639][ 99]LogSavePackage: Save=34.62ms
+[2018.05.06-15.09.15:639][ 99]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/EnemyAIControllerA782D98F46A5D01DBA3B1490818F7834.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/ThirdPersonBP/Blueprints/EnemyAIController.uasset'
+[2018.05.06-15.09.15:643][ 99]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/ThirdPersonBP/Blueprints/EnemyAIController.uasset
+[2018.05.06-15.09.16:454][117]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.06-15.09.16:499][118]BlueprintLog: New page: Compile EnemyAIController
+[2018.05.06-15.09.17:610][135]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.06-15.09.17:706][135]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.06-15.09.17:707][135]PIE: New page: PIE session: NewMap (6 May 2018 17:09:17)
+[2018.05.06-15.09.17:707][135]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2018.05.06-15.09.17:736][135]LogPlayLevel: PIE: StaticDuplicateObject took: (0.029129s)
+[2018.05.06-15.09.17:737][135]LogAIModule: Creating AISystem for world NewMap
+[2018.05.06-15.09.17:737][135]LogPlayLevel: PIE: World Init took: (0.001119s)
+[2018.05.06-15.09.17:737][135]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.030526s)
+[2018.05.06-15.09.17:768][135]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.06-15.09.17:779][135]LogInit: FAudioDevice initialized.
+[2018.05.06-15.09.17:827][135]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.06-15.09.17:849][135]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2018.05.06-16.09.17
+[2018.05.06-15.09.17:853][135]LogWorld: Bringing up level for play took: 0.024566
+[2018.05.06-15.09.17:857][135]PIE: Play in editor start time for /Game/UEDPIE_0_NewMap 0.778
+[2018.05.06-15.09.20:832][220]LogBlueprintUserMessages: [ThirdPersonCharacter_853] 4.0
+[2018.05.06-15.09.20:973][224]LogBlueprintUserMessages: [ThirdPersonCharacter_853] 3.0
+[2018.05.06-15.09.21:110][228]LogBlueprintUserMessages: [ThirdPersonCharacter_853] 2.0
+[2018.05.06-15.09.21:246][232]LogBlueprintUserMessages: [ThirdPersonCharacter_853] 1.0
+[2018.05.06-15.09.27:593][419]LogBlueprintUserMessages: [ThirdPersonEnemy_642] 4.0
+[2018.05.06-15.09.27:770][424]LogBlueprintUserMessages: [ThirdPersonEnemy_642] 3.0
+[2018.05.06-15.09.27:940][429]LogBlueprintUserMessages: [ThirdPersonEnemy_642] 2.0
+[2018.05.06-15.09.28:073][433]LogBlueprintUserMessages: [ThirdPersonEnemy_642] 1.0
+[2018.05.06-15.09.29:605][477]LogBlueprintUserMessages: [ThirdPersonEnemy2_1109] 4.0
+[2018.05.06-15.09.29:674][479]LogBlueprintUserMessages: [ThirdPersonEnemy2_1109] 3.0
+[2018.05.06-15.09.29:816][483]LogBlueprintUserMessages: [ThirdPersonEnemy2_1109] 2.0
+[2018.05.06-15.09.30:202][494]LogBlueprintUserMessages: [ThirdPersonEnemy2_1109] 1.0
+[2018.05.06-15.09.40:247][794]LogBlueprintUserMessages: [ThirdPersonEnemy3_1676] 4.0
+[2018.05.06-15.09.40:249][794]LogBlueprintUserMessages: [ThirdPersonEnemy4] 4.0
+[2018.05.06-15.09.41:668][835]LogBlueprintUserMessages: [ThirdPersonEnemy4] 3.0
+[2018.05.06-15.09.41:804][839]LogBlueprintUserMessages: [ThirdPersonEnemy3_1676] 3.0
+[2018.05.06-15.09.42:016][845]LogBlueprintUserMessages: [ThirdPersonEnemy3_1676] 2.0
+[2018.05.06-15.09.42:636][861]LogBlueprintUserMessages: [ThirdPersonEnemy4] 2.0
+[2018.05.06-15.09.42:924][869]LogBlueprintUserMessages: [ThirdPersonEnemy3_1676] 1.0
+[2018.05.06-15.09.43:129][875]LogBlueprintUserMessages: [ThirdPersonEnemy4] 1.0
+[2018.05.06-15.09.56:861][274]LogBlueprintUserMessages: [SlideDoor_566] Key Card Declined
+[2018.05.06-15.09.59:789][360]LogBlueprintUserMessages: [SlideDoor_566] Key Card Declined
+[2018.05.06-15.10.11:297][627]LogEditorViewport: Clicking on Actor (LMB): KeyCard_Blue_C (KeyCard_Blue)
+[2018.05.06-15.10.24:172][863]Cmd: SELECT NONE
+[2018.05.06-15.10.29:225][960]LogEditorViewport: Clicking on Actor (LMB): KeyCard_Blue_C (KeyCard_Blue)
+[2018.05.06-15.10.47:235][290]Cmd: SELECT NONE
+[2018.05.06-15.10.48:002][305]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.06-15.10.48:037][305]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap" FILE="../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.05.06-15.10.48:413][305]LogSavePackage: Save=321.96ms
+[2018.05.06-15.10.48:413][305]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/NewMap14E9906F47A9AA0096554BB467CCB4CA.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap.umap'
+[2018.05.06-15.10.48:417][305]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap.umap
+[2018.05.06-15.10.48:461][305]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap_BuiltData" FILE="../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap_BuiltData.uasset" SILENT=true
+[2018.05.06-15.10.49:134][305]LogSavePackage: Save=652.10ms
+[2018.05.06-15.10.49:134][305]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/NewMap_BuiltData70122F3E4DD03FCBCEBEC2805AFBD1FA.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap_BuiltData.uasset'
+[2018.05.06-15.10.49:137][305]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap_BuiltData.uasset
+[2018.05.06-15.10.49:772][319]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.06-15.10.49:979][321]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap" FILE="../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.05.06-15.10.50:319][321]LogSavePackage: Save=306.32ms
+[2018.05.06-15.10.50:319][321]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/NewMap986FAC1C4601C3F86E8093A7AB11F824.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap.umap'
+[2018.05.06-15.10.50:321][321]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap.umap
+[2018.05.06-15.10.50:360][321]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap_BuiltData" FILE="../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap_BuiltData.uasset" SILENT=true
+[2018.05.06-15.10.51:010][321]LogSavePackage: Save=643.54ms
+[2018.05.06-15.10.51:010][321]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/NewMap_BuiltData2FD647AD4CF12BB06E8228B6617FE415.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap_BuiltData.uasset'
+[2018.05.06-15.10.51:012][321]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap_BuiltData.uasset
+[2018.05.06-15.10.51:620][335]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.06-15.10.51:670][336]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.06-15.10.51:764][336]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.06-15.10.51:764][336]PIE: New page: PIE session: NewMap (6 May 2018 17:10:51)
+[2018.05.06-15.10.51:764][336]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2018.05.06-15.10.51:792][336]LogPlayLevel: PIE: StaticDuplicateObject took: (0.027626s)
+[2018.05.06-15.10.51:793][336]LogAIModule: Creating AISystem for world NewMap
+[2018.05.06-15.10.51:793][336]LogPlayLevel: PIE: World Init took: (0.000821s)
+[2018.05.06-15.10.51:793][336]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.028706s)
+[2018.05.06-15.10.51:821][336]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.06-15.10.51:831][336]LogInit: FAudioDevice initialized.
+[2018.05.06-15.10.51:873][336]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.06-15.10.51:900][336]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2018.05.06-16.10.51
+[2018.05.06-15.10.51:905][336]LogWorld: Bringing up level for play took: 0.030753
+[2018.05.06-15.10.51:908][336]PIE: Play in editor start time for /Game/UEDPIE_0_NewMap 0.829
+[2018.05.06-15.10.53:169][372]LogBlueprintUserMessages: [ThirdPersonCharacter_853] 4.0
+[2018.05.06-15.10.53:401][379]LogBlueprintUserMessages: [ThirdPersonCharacter_853] 3.0
+[2018.05.06-15.10.53:568][384]LogBlueprintUserMessages: [ThirdPersonCharacter_853] 2.0
+[2018.05.06-15.10.53:673][387]LogBlueprintUserMessages: [ThirdPersonCharacter_853] 1.0
+[2018.05.06-15.10.53:972][396]LogBlueprintUserMessages: [SlideDoor_566] Key Card Declined
+[2018.05.06-15.11.02:931][659]LogBlueprintUserMessages: [ThirdPersonEnemy_642] 4.0
+[2018.05.06-15.11.03:072][663]LogBlueprintUserMessages: [ThirdPersonEnemy_642] 3.0
+[2018.05.06-15.11.03:734][682]LogBlueprintUserMessages: [ThirdPersonEnemy_642] 2.0
+[2018.05.06-15.11.03:883][686]LogBlueprintUserMessages: [ThirdPersonEnemy_642] 1.0
+[2018.05.06-15.11.05:691][737]LogBlueprintUserMessages: [ThirdPersonEnemy2_1109] 4.0
+[2018.05.06-15.11.05:798][740]LogBlueprintUserMessages: [ThirdPersonEnemy2_1109] 3.0
+[2018.05.06-15.11.05:946][744]LogBlueprintUserMessages: [ThirdPersonEnemy2_1109] 2.0
+[2018.05.06-15.11.06:058][747]LogBlueprintUserMessages: [ThirdPersonEnemy2_1109] 1.0
+[2018.05.06-15.11.20:953][180]LogBlueprintUserMessages: [PlayerInventory] Item added to inventory
+[2018.05.06-15.11.24:332][277]LogBlueprintUserMessages: [ThirdPersonEnemy3_1676] 4.0
+[2018.05.06-15.11.24:473][281]LogBlueprintUserMessages: [ThirdPersonEnemy3_1676] 3.0
+[2018.05.06-15.11.24:615][285]LogBlueprintUserMessages: [ThirdPersonEnemy3_1676] 2.0
+[2018.05.06-15.11.24:752][289]LogBlueprintUserMessages: [ThirdPersonEnemy3_1676] 1.0
+[2018.05.06-15.11.29:558][428]LogBlueprintUserMessages: [SlideDoor_566] Key Card Accepted
+[2018.05.06-15.11.32:453][510]LogBlueprintUserMessages: [SlideDoor2] Key Card Accepted
+[2018.05.06-15.11.46:311][910]LogBlueprintUserMessages: [ThirdPersonEnemy6] 4.0
+[2018.05.06-15.11.46:529][916]LogBlueprintUserMessages: [ThirdPersonEnemy6] 3.0
+[2018.05.06-15.11.46:762][922]LogBlueprintUserMessages: [ThirdPersonEnemy6] 2.0
+[2018.05.06-15.11.46:989][928]LogBlueprintUserMessages: [ThirdPersonEnemy6] 1.0
+[2018.05.06-15.11.47:455][941]LogBlueprintUserMessages: [ThirdPersonEnemy5_446] 4.0
+[2018.05.06-15.11.49:132][988]LogBlueprintUserMessages: [ThirdPersonEnemy5_446] 3.0
+[2018.05.06-15.11.49:346][994]LogBlueprintUserMessages: [ThirdPersonEnemy5_446] 2.0
+[2018.05.06-15.11.49:566][  0]LogBlueprintUserMessages: [ThirdPersonEnemy5_446] 1.0
+[2018.05.06-15.11.50:238][ 17]LogBlueprintUserMessages: [ThirdPersonEnemy7] 4.0
+[2018.05.06-15.11.50:477][ 23]LogBlueprintUserMessages: [ThirdPersonEnemy7] 3.0
+[2018.05.06-15.11.50:682][ 28]LogBlueprintUserMessages: [ThirdPersonEnemy7] 2.0
+[2018.05.06-15.11.50:913][ 34]LogBlueprintUserMessages: [ThirdPersonEnemy7] 1.0
+[2018.05.06-15.11.51:415][ 47]LogBlueprintUserMessages: [ThirdPersonEnemy12] 4.0
+[2018.05.06-15.11.51:418][ 47]LogBlueprintUserMessages: [ThirdPersonEnemy12] 3.0
+[2018.05.06-15.11.51:630][ 53]LogBlueprintUserMessages: [ThirdPersonEnemy12] 2.0
+[2018.05.06-15.11.51:636][ 53]LogBlueprintUserMessages: [ThirdPersonEnemy12] 1.0
+[2018.05.06-15.11.52:516][ 76]LogBlueprintUserMessages: [ThirdPersonEnemy11] 4.0
+[2018.05.06-15.11.52:734][ 82]LogBlueprintUserMessages: [ThirdPersonEnemy11] 3.0
+[2018.05.06-15.11.52:937][ 87]LogBlueprintUserMessages: [ThirdPersonEnemy11] 2.0
+[2018.05.06-15.11.53:155][ 93]LogBlueprintUserMessages: [ThirdPersonEnemy11] 1.0
+[2018.05.06-15.12.27:980][ 26]Cmd: SELECT NONE
+[2018.05.06-15.12.29:455][ 52]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.06-15.12.29:492][ 52]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap" FILE="../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.05.06-15.12.29:837][ 52]LogSavePackage: Save=309.34ms
+[2018.05.06-15.12.29:837][ 52]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/NewMapD408EFA048108C1C559745858241CD97.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap.umap'
+[2018.05.06-15.12.29:839][ 52]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap.umap
+[2018.05.06-15.12.29:876][ 52]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap_BuiltData" FILE="../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap_BuiltData.uasset" SILENT=true
+[2018.05.06-15.12.30:516][ 52]LogSavePackage: Save=631.94ms
+[2018.05.06-15.12.30:516][ 52]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/NewMap_BuiltDataA562085B4AC7D39357E52FA46AA6DA7D.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap_BuiltData.uasset'
+[2018.05.06-15.12.30:518][ 52]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap_BuiltData.uasset
+[2018.05.06-15.12.42:520][277]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.06-15.12.46:494][347]LogSavePackage: Save=35.88ms
+[2018.05.06-15.12.46:494][347]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/EnemyAIControllerDCF1E542411DAA170C6C389C2E3C41D0.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/ThirdPersonBP/Blueprints/EnemyAIController.uasset'
+[2018.05.06-15.12.46:498][347]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/ThirdPersonBP/Blueprints/EnemyAIController.uasset
+[2018.05.06-15.12.47:290][363]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.06-15.12.47:345][364]BlueprintLog: New page: Compile EnemyAIController
+[2018.05.06-15.12.59:191][573]LogSlate: Window 'EnemyBehaviourTree' being destroyed
+[2018.05.06-15.12.59:242][573]LogSlate: Window 'EnemyBehaviourTree' being destroyed
+[2018.05.06-15.12.59:434][573]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.05.06-15.12.59:556][573]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.05.06-15.13.00:669][596]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.06-15.13.16:735][880]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Bullet" FILE="../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/Bullet.uasset" SILENT=true
+[2018.05.06-15.13.16:773][880]LogSavePackage: Save=24.45ms
+[2018.05.06-15.13.16:773][880]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/Bullet8DC4D486478E889706A266B65D0F62A9.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/Bullet.uasset'
+[2018.05.06-15.13.16:775][880]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/Bullet.uasset
+[2018.05.06-15.13.18:584][912]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.06-15.13.21:709][968]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.06-15.13.21:816][970]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.06-15.13.21:893][970]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.06-15.13.21:893][970]PIE: New page: PIE session: NewMap (6 May 2018 17:13:21)
+[2018.05.06-15.13.21:893][970]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2018.05.06-15.13.21:946][970]LogPlayLevel: PIE: StaticDuplicateObject took: (0.052186s)
+[2018.05.06-15.13.21:947][970]LogAIModule: Creating AISystem for world NewMap
+[2018.05.06-15.13.21:947][970]LogPlayLevel: PIE: World Init took: (0.001519s)
+[2018.05.06-15.13.21:948][970]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.054181s)
+[2018.05.06-15.13.21:985][970]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.06-15.13.21:997][970]LogInit: FAudioDevice initialized.
+[2018.05.06-15.13.22:036][970]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.06-15.13.22:076][970]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2018.05.06-16.13.22
+[2018.05.06-15.13.22:082][970]LogWorld: Bringing up level for play took: 0.044205
+[2018.05.06-15.13.22:086][970]PIE: Play in editor start time for /Game/UEDPIE_0_NewMap 1.007
+[2018.05.06-15.13.32:546][199]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.06-15.13.51:686][553]LogSavePackage: Save=32.85ms
+[2018.05.06-15.13.51:686][553]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/EnemyAIController8EF05EA64B9B0754D21EE4B7096C19F1.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/ThirdPersonBP/Blueprints/EnemyAIController.uasset'
+[2018.05.06-15.13.51:690][553]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/ThirdPersonBP/Blueprints/EnemyAIController.uasset
+[2018.05.06-15.13.52:830][576]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.06-15.13.52:911][578]BlueprintLog: New page: Compile EnemyAIController
+[2018.05.06-15.13.54:132][597]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.06-15.13.54:200][597]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.06-15.13.54:200][597]PIE: New page: PIE session: NewMap (6 May 2018 17:13:54)
+[2018.05.06-15.13.54:200][597]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2018.05.06-15.13.54:252][597]LogPlayLevel: PIE: StaticDuplicateObject took: (0.051896s)
+[2018.05.06-15.13.54:253][597]LogAIModule: Creating AISystem for world NewMap
+[2018.05.06-15.13.54:253][597]LogPlayLevel: PIE: World Init took: (0.000772s)
+[2018.05.06-15.13.54:253][597]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.052941s)
+[2018.05.06-15.13.54:281][597]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.06-15.13.54:291][597]LogInit: FAudioDevice initialized.
+[2018.05.06-15.13.54:341][597]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.06-15.13.54:362][597]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2018.05.06-16.13.54
+[2018.05.06-15.13.54:366][597]LogWorld: Bringing up level for play took: 0.023657
+[2018.05.06-15.13.54:370][597]PIE: Play in editor start time for /Game/UEDPIE_0_NewMap -0.709
+[2018.05.06-15.13.56:517][657]LogBlueprintUserMessages: [ThirdPersonCharacter_853] 4.0
+[2018.05.06-15.13.56:685][662]LogBlueprintUserMessages: [ThirdPersonCharacter_853] 3.0
+[2018.05.06-15.13.56:826][666]LogBlueprintUserMessages: [ThirdPersonCharacter_853] 2.0
+[2018.05.06-15.13.56:935][669]LogBlueprintUserMessages: [ThirdPersonCharacter_853] 1.0
+[2018.05.06-15.14.13:252][156]LogBlueprintUserMessages: [ThirdPersonEnemy2_1109] 4.0
+[2018.05.06-15.14.13:387][160]LogBlueprintUserMessages: [ThirdPersonEnemy2_1109] 3.0
+[2018.05.06-15.14.13:522][164]LogBlueprintUserMessages: [ThirdPersonEnemy2_1109] 2.0
+[2018.05.06-15.14.13:624][167]LogBlueprintUserMessages: [ThirdPersonEnemy2_1109] 1.0
+[2018.05.06-15.14.14:295][187]LogBlueprintUserMessages: [ThirdPersonEnemy_642] 4.0
+[2018.05.06-15.14.14:422][191]LogBlueprintUserMessages: [ThirdPersonEnemy_642] 3.0
+[2018.05.06-15.14.16:099][241]LogBlueprintUserMessages: [ThirdPersonEnemy_642] 2.0
+[2018.05.06-15.14.16:234][245]LogBlueprintUserMessages: [ThirdPersonEnemy_642] 1.0
+[2018.05.06-15.14.23:403][455]LogBlueprintUserMessages: [ThirdPersonEnemy3_1676] 4.0
+[2018.05.06-15.14.23:606][461]LogBlueprintUserMessages: [ThirdPersonEnemy3_1676] 3.0
+[2018.05.06-15.14.23:813][467]LogBlueprintUserMessages: [ThirdPersonEnemy3_1676] 2.0
+[2018.05.06-15.14.24:030][473]LogBlueprintUserMessages: [ThirdPersonEnemy3_1676] 1.0
+[2018.05.06-15.14.33:978][681]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.06-15.14.40:558][809]LogSavePackage: Save=34.49ms
+[2018.05.06-15.14.40:558][809]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/EnemyAIController4CC26D944B859A4E4C0C0FADA4A6E540.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/ThirdPersonBP/Blueprints/EnemyAIController.uasset'
+[2018.05.06-15.14.40:562][809]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/ThirdPersonBP/Blueprints/EnemyAIController.uasset
+[2018.05.06-15.14.41:547][830]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.06-15.14.41:601][831]BlueprintLog: New page: Compile EnemyAIController
+[2018.05.06-15.14.43:180][857]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.06-15.14.43:248][857]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.06-15.14.43:248][857]PIE: New page: PIE session: NewMap (6 May 2018 17:14:43)
+[2018.05.06-15.14.43:248][857]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2018.05.06-15.14.43:300][857]LogPlayLevel: PIE: StaticDuplicateObject took: (0.051762s)
+[2018.05.06-15.14.43:300][857]LogAIModule: Creating AISystem for world NewMap
+[2018.05.06-15.14.43:301][857]LogPlayLevel: PIE: World Init took: (0.000773s)
+[2018.05.06-15.14.43:301][857]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.052780s)
+[2018.05.06-15.14.43:330][857]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.06-15.14.43:342][857]LogInit: FAudioDevice initialized.
+[2018.05.06-15.14.43:380][857]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.06-15.14.43:410][857]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2018.05.06-16.14.43
+[2018.05.06-15.14.43:415][857]LogWorld: Bringing up level for play took: 0.032747
+[2018.05.06-15.14.43:419][857]PIE: Play in editor start time for /Game/UEDPIE_0_NewMap 0.34
+[2018.05.06-15.14.44:446][884]LogBlueprintUserMessages: [ThirdPersonCharacter_853] 4.0
+[2018.05.06-15.14.44:636][890]LogBlueprintUserMessages: [ThirdPersonCharacter_853] 3.0
+[2018.05.06-15.14.44:774][894]LogBlueprintUserMessages: [ThirdPersonCharacter_853] 2.0
+[2018.05.06-15.14.45:462][914]LogBlueprintUserMessages: [ThirdPersonCharacter_853] 1.0
+[2018.05.06-15.14.45:903][927]LogBlueprintUserMessages: [SlideDoor2] Key Card Declined
+[2018.05.06-15.14.51:084][ 84]LogBlueprintUserMessages: [ThirdPersonEnemy_642] 4.0
+[2018.05.06-15.14.51:225][ 88]LogBlueprintUserMessages: [ThirdPersonEnemy_642] 3.0
+[2018.05.06-15.14.52:179][115]LogBlueprintUserMessages: [ThirdPersonEnemy_642] 2.0
+[2018.05.06-15.14.52:352][120]LogBlueprintUserMessages: [ThirdPersonEnemy_642] 1.0
+[2018.05.06-15.14.53:813][162]LogBlueprintUserMessages: [ThirdPersonEnemy2_1109] 4.0
+[2018.05.06-15.14.53:995][167]LogBlueprintUserMessages: [ThirdPersonEnemy2_1109] 3.0
+[2018.05.06-15.14.54:131][171]LogBlueprintUserMessages: [ThirdPersonEnemy2_1109] 2.0
+[2018.05.06-15.14.54:273][175]LogBlueprintUserMessages: [ThirdPersonEnemy2_1109] 1.0
+[2018.05.06-15.14.59:982][344]LogBlueprintUserMessages: [ThirdPersonEnemy4] 4.0
+[2018.05.06-15.15.00:128][348]LogBlueprintUserMessages: [ThirdPersonEnemy3_1676] 4.0
+[2018.05.06-15.15.00:232][351]LogBlueprintUserMessages: [ThirdPersonEnemy4] 3.0
+[2018.05.06-15.15.00:339][354]LogBlueprintUserMessages: [ThirdPersonEnemy4] 2.0
+[2018.05.06-15.15.00:478][358]LogBlueprintUserMessages: [ThirdPersonEnemy3_1676] 3.0
+[2018.05.06-15.15.00:708][364]LogBlueprintUserMessages: [ThirdPersonEnemy4] 1.0
+[2018.05.06-15.15.01:029][373]LogBlueprintUserMessages: [ThirdPersonEnemy3_1676] 2.0
+[2018.05.06-15.15.01:295][381]LogBlueprintUserMessages: [ThirdPersonEnemy3_1676] 1.0
+[2018.05.06-15.15.08:989][601]LogBlueprintUserMessages: [PlayerInventory] Item added to inventory
+[2018.05.06-15.15.13:821][746]LogBlueprintUserMessages: [SlideDoor_566] Key Card Accepted
+[2018.05.06-15.15.16:822][836]LogBlueprintUserMessages: [SlideDoor2] Key Card Accepted
+[2018.05.06-15.15.29:227][195]LogBlueprintUserMessages: [ThirdPersonEnemy11] 4.0
+[2018.05.06-15.15.29:441][201]LogBlueprintUserMessages: [ThirdPersonEnemy11] 3.0
+[2018.05.06-15.15.29:661][207]LogBlueprintUserMessages: [ThirdPersonEnemy11] 2.0
+[2018.05.06-15.15.29:888][213]LogBlueprintUserMessages: [ThirdPersonEnemy11] 1.0
+[2018.05.06-15.15.30:557][231]LogBlueprintUserMessages: [ThirdPersonEnemy6] 4.0
+[2018.05.06-15.15.30:784][237]LogBlueprintUserMessages: [ThirdPersonEnemy6] 3.0
+[2018.05.06-15.15.30:998][243]LogBlueprintUserMessages: [ThirdPersonEnemy6] 2.0
+[2018.05.06-15.15.31:222][249]LogBlueprintUserMessages: [ThirdPersonEnemy6] 1.0
+[2018.05.06-15.15.33:358][309]LogBlueprintUserMessages: [ThirdPersonEnemy12] 4.0
+[2018.05.06-15.15.33:358][309]LogBlueprintUserMessages: [ThirdPersonEnemy7] 4.0
+[2018.05.06-15.15.33:575][315]LogBlueprintUserMessages: [ThirdPersonEnemy12] 3.0
+[2018.05.06-15.15.33:576][315]LogBlueprintUserMessages: [ThirdPersonEnemy7] 3.0
+[2018.05.06-15.15.33:787][321]LogBlueprintUserMessages: [ThirdPersonEnemy12] 2.0
+[2018.05.06-15.15.33:792][321]LogBlueprintUserMessages: [ThirdPersonEnemy7] 2.0
+[2018.05.06-15.15.34:016][327]LogBlueprintUserMessages: [ThirdPersonEnemy12] 1.0
+[2018.05.06-15.15.34:017][327]LogBlueprintUserMessages: [ThirdPersonEnemy7] 1.0
+[2018.05.06-15.15.34:162][331]LogBlueprintUserMessages: [ThirdPersonEnemy13] 4.0
+[2018.05.06-15.15.34:344][336]LogBlueprintUserMessages: [ThirdPersonEnemy13] 3.0
+[2018.05.06-15.15.34:670][345]LogBlueprintUserMessages: [ThirdPersonEnemy13] 2.0
+[2018.05.06-15.15.34:868][350]LogBlueprintUserMessages: [ThirdPersonEnemy13] 1.0
+[2018.05.06-15.15.35:751][374]LogBlueprintUserMessages: [ThirdPersonEnemy5_446] 4.0
+[2018.05.06-15.15.36:081][383]LogBlueprintUserMessages: [ThirdPersonEnemy5_446] 3.0
+[2018.05.06-15.15.36:310][389]LogBlueprintUserMessages: [ThirdPersonEnemy5_446] 2.0
+[2018.05.06-15.15.36:446][393]LogBlueprintUserMessages: [ThirdPersonEnemy5_446] 1.0
+[2018.05.06-15.15.42:498][552]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.06-15.15.43:056][560]LogSavePackage: Save=33.61ms
+[2018.05.06-15.15.43:056][560]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/EnemyAIControllerDA6FB05F49B6F7B829D9D7B72BB673EB.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/ThirdPersonBP/Blueprints/EnemyAIController.uasset'
+[2018.05.06-15.15.43:058][560]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/ThirdPersonBP/Blueprints/EnemyAIController.uasset
