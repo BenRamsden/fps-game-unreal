@@ -4472,3 +4472,56 @@ Using Interface SKEL_InventoryIconInterface_C in graph: Draw Inventory in object
 [2018.05.07-22.56.12:664][698]LogOutputDevice: Error: [Callstack] 0x0000000036480D51 ntdll.dll!UnknownFunction []
 [2018.05.07-22.56.12:664][698]LogOutputDevice: Error: 
 [2018.05.07-22.56.12:669][698]LogStats:                SubmitErrorReport -  0.000 s
+[2018.05.07-22.56.13:324][698]LogStats:                    SendNewReport -  0.656 s
+[2018.05.07-22.56.13:324][698]LogStats:             FDebug::EnsureFailed -  1.075 s
+[2018.05.07-22.56.21:168][812]BlueprintLog: New page: Compile KeyCard_Blue
+[2018.05.07-22.56.43:836][239]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Collectables/KeyCard_Blue" FILE="../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/Collectables/KeyCard_Blue.uasset" SILENT=true
+[2018.05.07-22.56.43:892][239]LogSavePackage: Save=34.10ms
+[2018.05.07-22.56.43:892][239]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/KeyCard_Blue4C64992E4389FEB03159F081BE6F49D8.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/Collectables/KeyCard_Blue.uasset'
+[2018.05.07-22.56.43:898][239]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/Collectables/KeyCard_Blue.uasset
+[2018.05.07-22.56.45:038][262]LogSlate: Window 'KeyCard_Blue' being destroyed
+[2018.05.07-22.56.45:091][262]LogSlate: Window 'KeyCard_Blue' being destroyed
+[2018.05.07-22.56.48:890][321]BlueprintLog: New page: Compile KeyCard_Green
+[2018.05.07-22.56.50:812][351]LogSlate: Window 'KeyCard_Green*' being destroyed
+[2018.05.07-22.56.50:906][351]LogSlate: Window 'KeyCard_Green*' being destroyed
+[2018.05.07-22.56.54:238][404]BlueprintLog: New page: Compile KeyCard_Red
+[2018.05.07-22.56.55:866][429]LogSlate: Window 'KeyCard_Red*' being destroyed
+[2018.05.07-22.56.55:922][429]LogSlate: Window 'KeyCard_Red*' being destroyed
+[2018.05.07-22.56.57:310][455]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap" FILE="../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.05.07-22.56.57:683][455]LogSavePackage: Save=329.82ms
+[2018.05.07-22.56.57:683][455]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/NewMap00F903C840C813CD5BC363BCF5BCB140.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap.umap'
+[2018.05.07-22.56.57:687][455]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap.umap
+[2018.05.07-22.56.57:728][455]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap_BuiltData" FILE="../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap_BuiltData.uasset" SILENT=true
+[2018.05.07-22.56.58:425][455]LogSavePackage: Save=675.94ms
+[2018.05.07-22.56.58:425][455]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/NewMap_BuiltData783F369C437FA3A211DD0987B39EB788.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap_BuiltData.uasset'
+[2018.05.07-22.56.58:426][455]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap_BuiltData.uasset
+[2018.05.07-22.56.59:292][478]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.07-22.56.59:364][478]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.07-22.56.59:364][478]PIE: New page: PIE session: NewMap (8 May 2018 00:56:59)
+[2018.05.07-22.56.59:365][478]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2018.05.07-22.56.59:396][478]LogPlayLevel: PIE: StaticDuplicateObject took: (0.030858s)
+[2018.05.07-22.56.59:397][478]LogAIModule: Creating AISystem for world NewMap
+[2018.05.07-22.56.59:397][478]LogPlayLevel: PIE: World Init took: (0.000935s)
+[2018.05.07-22.56.59:397][478]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.032284s)
+[2018.05.07-22.56.59:433][478]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.07-22.56.59:444][478]LogInit: FAudioDevice initialized.
+[2018.05.07-22.56.59:483][478]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.07-22.56.59:524][478]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2018.05.07-23.56.59
+[2018.05.07-22.56.59:530][478]LogWorld: Bringing up level for play took: 0.045351
+[2018.05.07-22.56.59:534][478]PIE: Play in editor start time for /Game/UEDPIE_0_NewMap -0.545
+[2018.05.07-22.57.00:545][510]LogBlueprintUserMessages: [ThirdPersonCharacter_853] 4.0
+[2018.05.07-22.57.01:707][560]LogBlueprintUserMessages: [ThirdPersonCharacter_853] 3.0
+[2018.05.07-22.57.01:855][566]LogBlueprintUserMessages: [ThirdPersonCharacter_853] 2.0
+[2018.05.07-22.57.01:996][571]LogBlueprintUserMessages: [ThirdPersonCharacter_853] 1.0
+[2018.05.07-22.57.04:171][640]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.07-22.57.04:647][648]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap" FILE="../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.05.07-22.57.05:048][648]LogSavePackage: Save=365.26ms
+[2018.05.07-22.57.05:048][648]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/NewMap4598A078481306A4AAD3818B3524BBC6.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap.umap'
+[2018.05.07-22.57.05:050][648]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap.umap
+[2018.05.07-22.57.05:094][648]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap_BuiltData" FILE="../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap_BuiltData.uasset" SILENT=true
+[2018.05.07-22.57.05:788][648]LogSavePackage: Save=684.83ms
+[2018.05.07-22.57.05:788][648]LogSavePackage: Moving '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Saved/NewMap_BuiltDataF38FE5C2414DF2169F3983B3343A2B6E.tmp' to '../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap_BuiltData.uasset'
+[2018.05.07-22.57.05:792][648]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/MyProject2/Content/NewMap_BuiltData.uasset
+[2018.05.07-22.58.49:146][648]LogSlate: Window 'Pick Parent Class' being destroyed
+[2018.05.07-23.03.43:192][767]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/benra/Documents/GitHub/g54gam-car-game/assets/health_pack.png)
+[2018.05.07-23.03.43:219][767]LogTexture: Display: Building textures: health_pack (AutoDXT, 512X512)
